@@ -1,0 +1,225 @@
+Mot,Commune,Voisin_1,Commune_1,Insertions_1,Suppressions_1,Substitutions_1,Voisin_2,Commune_2,Insertions_2,Suppressions_2,Substitutions_2,Voisin_3,Commune_3,Insertions_3,Suppressions_3,Substitutions_3
+rédé,Andernos-les-Bains,rédé,Bazas-bis,{},{},{},rédé,Auros-bis,{},{},{},rédé,Audenge-bis,{},{},{}
+réde,Arès,rédé,Savignac,{},{},"{('e', 'é'): 1}",réddé,Ailas,{'d': 1},{},"{('e', 'é'): 1}",rédé,Coimères,{},{},"{('e', 'é'): 1}"
+rédé,Audenge-bis,rédé,Andernos-les-Bains,{},{},{},rédé,Le Porge,{},{},{},rédé,Saint-Étienne-de-Lisse,{},{},{}
+rédé,Audenge,rédé,Lignan-de-Bazas,{},{},{},rédé,Belin-Béliet,{},{},{},,,,,
+réde,Biganos,rédé,Blanquefort-bis,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+rédé,Lacanau-de-Mios,rédé,Eysines,{},{},{},rédé,Carbon-Blanc-bis,{},{},{},,,,,
+rédde,Lanton,rédé,Macau,{},{'e': 1},"{('d', 'é'): 1}",rédé,Castelnau-de-Médoc,{},{'e': 1},"{('d', 'é'): 1}",rédé,Saint-Loubès,{},{'e': 1},"{('d', 'é'): 1}"
+rédde,Lège,rédé,Saint-Sulpice-et-Cameyrac,{},{'e': 1},"{('d', 'é'): 1}",,,,,,,,,,
+rédé,Mios,réddé,Ailas,{'d': 1},{},{},,,,,,,,,,
+réddé,Ailas,réde,Arès,{},{'é': 1},"{('d', 'e'): 1}",rédé,Mios,{},{'d': 1},{},rédé,Auros-bis,{},{'d': 1},{}
+rédé,Auros-bis,rédé,Andernos-les-Bains,{},{},{},réddé,Ailas,{'d': 1},{},{},,,,,
+rédé,Auros,rédé,Bordeaux,{},{},{},rédé,Brannens,{},{},{},,,,,
+rédé,Barie,rédé,Yvrac,{},{},{},,,,,,,,,,
+rédé,Brannens,rédé,Auros,{},{},{},rédé,Castillon-de-Castets,{},{},{},,,,,
+rédé,Castillon-de-Castets,rédé,Saint-Médard-en-Jalles,{},{},{},rédé,Brannens,{},{},{},,,,,
+rédé,Coimères,réde,Arès,{},{},"{('é', 'e'): 1}",rédé,Cudos,{},{},{},rédé,Lados,{},{},{}
+rédé,Lados,rédé,Gans,{},{},{},rédé,Puybarban,{},{},{},rédé,Coimères,{},{},{}
+réde,Pondaurat,rédé,Blaignan,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+rédé,Puybarban,rédé,Lados,{},{},{},rédé,Le Bouscat,{},{},{},rédé,Savignac,{},{},{}
+rédé,Savignac,rédé,Sigalens,{},{},{},réde,Arès,{},{},"{('é', 'e'): 1}",rédé,Puybarban,{},{},{}
+rédé,Sigalens,rédé,Caudéran,{},{},{},rédé,Savignac,{},{},{},rédé,Bayon-sur-Gironde,{},{},{}
+rédé,Bazas-bis,rédé,Bazas,{},{},{},rédé,Andernos-les-Bains,{},{},{},,,,,
+rédé,Bazas,rédé,Cazats,{},{},{},rédé,Bazas-bis,{},{},{},,,,,
+rédé,Bernos-Beaulac,rédé,Birac,{},{},{},rédé,Saumos,{},{},{},rédé,Gajac,{},{},{}
+rédé,Birac,rédé,Saint-Magne-de-Castillon,{},{},{},rédé,Bernos-Beaulac,{},{},{},rédé,Cazats,{},{},{}
+rédé,Cazats,rédé,Cudos,{},{},{},rédé,Bazas,{},{},{},rédé,Birac,{},{},{}
+rédé,Cudos,rédé,Coimères,{},{},{},rédé,Cazats,{},{},{},rédé,Gans,{},{},{}
+rédé,Gajac,rédé,Belvès-de-Castillon,{},{},{},rédé,Gans,{},{},{},rédé,Bernos-Beaulac,{},{},{}
+rédé,Gans,rédé,Gajac,{},{},{},rédé,Lados,{},{},{},rédé,Cudos,{},{},{}
+rédé,Le Nizan,rédé,Prignac-et-Marcamps,{},{},{},rédé,Gauriac,{},{},{},rédé,Saint-Antoine-sur-l'Isle,{},{},{}
+rédé,Lignan-de-Bazas,rédé,Audenge,{},{},{},rédé,Lansac,{},{},{},rédé,Béliet,{},{},{}
+rédé,Saint-Côme,rédé,Bonnetan,{},{},{},rédé,Saint-Trojan,{},{},{},rédé,Béliet,{},{},{}
+rédé,Béliet,rédé,Belin-Béliet,{},{},{},rédé,Lignan-de-Bazas,{},{},{},rédé,Saint-Côme,{},{},{}
+rédé,Belin-Béliet,redé,Cadillac-en-Fronsadais,{},{},"{('é', 'e'): 1}",rédé,Audenge,{},{},{},rédé,Béliet,{},{},{}
+rédé,Joué,rédé,Le Barp,{},{},{},rédé,Tabanac,{},{},{},,,,,
+rédé,Le Barp,rédé,Cabara,{},{},{},rédé,Joué,{},{},{},,,,,
+rédé,Lugos,rédé,Saint-Magne,{},{},{},rédé,Salles-bis,{},{},{},,,,,
+rédé,Saint-Magne,rédé,Salles,{},{},{},rédé,Lugos,{},{},{},rédé,Saint-Romain-la-Virvée,{},{},{}
+rédé,Salles-bis,rédé,Lugos,{},{},{},rédé,Génissac,{},{},{},,,,,
+rédé,Salles,rédé,Saint-Magne,{},{},{},rédé,Saint-Quentin-de-Baron,{},{},{},,,,,
+rédé,Blanquefort-bis,rédé,Langoiran,{},{},{},réde,Biganos,{},{},"{('é', 'e'): 1}",rédé,Blanquefort,{},{},{}
+rédé,Blanquefort,rédé,Blanquefort-bis,{},{},{},,,,,,,,,,
+réde,Caychac,rédé,Omet,{},{},"{('e', 'é'): 1}",rédé,Eysines,{},{},"{('e', 'é'): 1}",rédé,Giscos,{},{},"{('e', 'é'): 1}"
+rédé,Eysines,réde,Caychac,{},{},"{('é', 'e'): 1}",rédé,Lacanau-de-Mios,{},{},{},rédé,Le Haillan,{},{},{}
+rédé,Le Haillan,rédé,Le Pian-Médoc,{},{},{},rédé,Eysines,{},{},{},,,,,
+rédé,Le Pian-Médoc,rédé,Le Haillan,{},{},{},,,,,,,,,,
+rédé,Le Taillan-Médoc,rédé,Sainte-Croix-du-Mont,{},{},{},rédé,Bassens,{},{},{},,,,,
+ré̱dé,Ludon-Médoc,rédé,Macau,{},{'̱': 1},{},,,,,,,,,,
+rédé,Macau,ré̱dé,Ludon-Médoc,{'̱': 1},{},{},rédde,Lanton,{'d': 1},{},"{('é', 'e'): 1}",,,,,
+rédé,Parempuyre,rédé,Arcins,{},{},{},rédé,Arsac,{},{},{},,,,,
+rédé,Saint-Aubin-de-Médoc,rédé,Labarde,{},{},{},,,,,,,,,,
+rédé,Saint-Médard-en-Jalles,rédé,Margaux,{},{},{},rédé,Castillon-de-Castets,{},{},{},rédé,Moulis-en-Médoc-bis,{},{},{}
+rédé,Bègles,rédé,Lugon-et-l'Île-du-Carnay,{},{},{},rédé,Moulis-en-Médoc,{},{},{},,,,,
+rédé,Bordeaux,rédé,Auros,{},{},{},,,,,,,,,,
+rédé,Bruges,rédé,Bégadan,{},{},{},rédé,Caudéran,{},{},{},,,,,
+rédé,Caudéran,rédé,Bruges,{},{},{},rédé,Sigalens,{},{},{},rédé,Bayon-sur-Gironde,{},{},{}
+rédé,Chartrons,rédé,Sainte-Colombe,{},{},{},rédé,Salaunes,{},{},{},,,,,
+rédé,Le Bouscat,rédé,Puybarban,{},{},{},rédé,Castillon-la-Bataille-bis,{},{},{},rédé,Bayon-sur-Gironde,{},{},{}
+rédé,Bayon-sur-Gironde,rédé,Caudéran,{},{},{},rédé,Sigalens,{},{},{},rédé,Le Bouscat,{},{},{}
+rédé,Bourg-bis,rédé,Castres-Gironde,{},{},{},rédé,Castillon-la-Bataille,{},{},{},,,,,
+rédế,Bourg,réde,Comps,{},{},"{('ế', 'e'): 1}",rédé,Baron,{},{},"{('ế', 'é'): 1}",,,,,
+réde,Comps,rédé,Gauriac,{},{},"{('e', 'é'): 1}",rédế,Bourg,{},{},"{('e', 'ế'): 1}",,,,,
+rédé,Gauriac,rédé,Le Nizan,{},{},{},réde,Comps,{},{},"{('é', 'e'): 1}",rédé,Baurech,{},{},{}
+rédé,Lansac,rédé,Lignan-de-Bazas,{},{},{},rédé,Marcamps,{},{},{},,,,,
+rédé,Marcamps,rédé,Prignac-et-Marcamps,{},{},{},rédé,Lansac,{},{},{},,,,,
+rédé,Prignac-et-Marcamps,rédé,Marcamps,{},{},{},rédé,Le Nizan,{},{},{},,,,,
+rédé,Saint-Seurin-de-Bourg,rédé,Samonac,{},{},{},rédé,Baron,{},{},{},,,,,
+rédé,Saint-Trojan,rédé,Saint-Côme,{},{},{},rédé,Tauriac,{},{},{},rédé,Samonac,{},{},{}
+rédé,Samonac,rédé,Saint-Seurin-de-Bourg,{},{},{},rédé,Fronsac,{},{},{},rédé,Saint-Trojan,{},{},{}
+rédé,Tauriac,rédé,Saint-Trojan,{},{},{},rédé,Camarsac,{},{},{},rédé,Baron,{},{},{}
+rédé,Baron,rédế,Bourg,{},{},"{('é', 'ế'): 1}",rédé,Saint-Seurin-de-Bourg,{},{},{},rédé,Tauriac,{},{},{}
+rédé,Branne-bis,rédé,Camblanes-et-Meynac,{},{},{},,,,,,,,,,
+rédé,Branne,rédé,Carignan-de-Bordeaux,{},{},{},,,,,,,,,,
+rédé,Cabara-bis,rédé,Le Tourne,{},{},{},,,,,,,,,,
+rédé,Cabara,rédé,Saillans,{},{},{},rédé,Le Barp,{},{},{},,,,,
+rédé,Daignac,rédé,Génissac,{},{},{},,,,,,,,,,
+rédé,Génissac,rédé,Salles-bis,{},{},{},rédé,Daignac,{},{},{},,,,,
+rédé,Grézillac,rédé,Jugazan,{},{},{},,,,,,,,,,
+rédé,Jugazan,rédé,Grézillac,{},{},{},rédé,Civrac,{},{},{},rédé,Gaillan-en-Médoc,{},{},{}
+rédé,Moulon,rédé,Naujan-et-Postiac,{},{},{},,,,,,,,,,
+rédé,Naujan-et-Postiac,rédé,Grignols-bis,{},{},{},rédé,Moulon,{},{},{},,,,,
+rédé,Nérigean,rédé,Saint-Germain-du-Puch,{},{},{},,,,,,,,,,
+rédé,Saint-Germain-du-Puch,rédé,Nérigean,{},{},{},,,,,,,,,,
+rédé,Saint-Quentin-de-Baron,rédé,Salles,{},{},{},,,,,,,,,,
+rédé,Tizac-de-Curton,,,,,,,,,,,,,,,
+rédé,Béguey,rédé,Sendets,{},{},{},rédé,Gabarnac,{},{},{},,,,,
+rédé,Cadillac,rédé,Cardan,{},{},{},rédé,Capian,{},{},{},,,,,
+rédé,Capian,rédé,Saint-Michel-de-Fronsac,{},{},{},rédé,Cadillac,{},{},{},,,,,
+rédé,Cardan,rédé,Lerm-et-Musset,{},{},{},rédé,Cadillac,{},{},{},rédé,Donzac,{},{},{}
+rédé,Donzac,ré̱dé,Saint-Médard-d'Eyrans,{'̱': 1},{},{},rédé,Gabarnac,{},{},{},rédé,Cardan,{},{},{}
+rédé,Gabarnac,rédé,Donzac,{},{},{},rédé,Béguey,{},{},{},rédé,Marions,{},{},{}
+rédé,Langoiran-bis,,,,,,,,,,,,,,,
+rédé,Langoiran,rédé,Blanquefort-bis,{},{},{},,,,,,,,,,
+rédé,Lestiac-sur-Garonne,,,,,,,,,,,,,,,
+rédé,Loupiac,rédé,Monprimblanc,{},{},{},,,,,,,,,,
+rédé,Monprimblanc,rédé,Loupiac,{},{},{},,,,,,,,,,
+rédé,Omet,rédé,Paillet,{},{},{},réde,Caychac,{},{},"{('é', 'e'): 1}",,,,,
+rédé,Paillet,rédé,Rions,{},{},{},rédé,Omet,{},{},{},,,,,
+rédé,Rions,rédé,Paillet,{},{},{},,,,,,,,,,
+rédé,Sainte-Croix-du-Mont,rédè,Captieux-bis,{},{},"{('é', 'è'): 1}",rédé,Le Taillan-Médoc,{},{},{},,,,,
+rédé,Villenave-de-Rions,rédé,Beychac-et-Caillau,{},{},{},rédè,Captieux-bis,{},{},"{('é', 'è'): 1}",,,,,
+rédè,Captieux-bis,rédé,Villenave-de-Rions,{},{},"{('è', 'é'): 1}",rédé,Sainte-Croix-du-Mont,{},{},"{('è', 'é'): 1}",rédé,Captieux,{},{},"{('è', 'é'): 1}"
+rédé,Captieux,rédè,Captieux-bis,{},{},"{('é', 'è'): 1}",,,,,,,,,,
+rédé,Escaudes,rédé,Bouliac,{},{},{},,,,,,,,,,
+rédé,Giscos,réde,Caychac,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+rede,Saint-Michel-de-Castelnau,rédé,Cenon,{},{},"{('e', 'é'): 2}",,,,,,,,,,
+rédé,Ambarès-et-Lagrave,,,,,,,,,,,,,,,
+rédé,Ambès,rédé,Beychac-et-Caillau,{},{},{},,,,,,,,,,
+rédé,Bassens,rédé,Le Taillan-Médoc,{},{},{},rédé,Beychac-et-Caillau,{},{},{},,,,,
+rédé,Beychac-et-Caillau,rédé,Bassens,{},{},{},rédé,Villenave-de-Rions,{},{},{},rédé,Ambès,{},{},{}
+rédé,Bouliac,rédé,Escaudes,{},{},{},rédé,Carbon-Blanc-bis,{},{},{},,,,,
+rédé,Carbon-Blanc-bis,rédé,Bouliac,{},{},{},rédé,Lacanau-de-Mios,{},{},{},,,,,
+rede,Carbon-Blanc,rédé,Lormont,{},{},"{('e', 'é'): 2}",,,,,,,,,,
+rédé,Cenon,rédé,Floirac,{},{},{},rede,Saint-Michel-de-Castelnau,{},{},"{('é', 'e'): 2}",,,,,
+rédé,Floirac,rédé,Cenon,{},{},{},rédé,Lormont,{},{},{},,,,,
+rédé,Lormont,rede,Carbon-Blanc,{},{},"{('é', 'e'): 2}",rédé,Floirac,{},{},{},,,,,
+rédé,Montussan,rédé,Saint-Loubès,{},{},{},rédé,Cussac-Fort-Médoc,{},{},{},,,,,
+rédé,Saint-Loubès,rédde,Lanton,{'d': 1},{},"{('é', 'e'): 1}",rédé,Montussan,{},{},{},,,,,
+rédé,Saint-Louis-de-Montferrand,rédé,Saint-Sulpice-et-Cameyrac,{},{},{},,,,,,,,,,
+rédé,Saint-Sulpice-et-Cameyrac,rédé,Saint-Vincent-de-Paul,{},{},{},rédde,Lège,{'d': 1},{},"{('é', 'e'): 1}",rédé,Saint-Louis-de-Montferrand,{},{},{}
+rédé,Saint-Vincent-de-Paul,rédé,Saint-Sulpice-et-Cameyrac,{},{},{},,,,,,,,,,
+rédé,Sainte-Eulalie,,,,,,,,,,,,,,,
+rédé,Tresses-bis,,,,,,,,,,,,,,,
+rédé,Tresses,,,,,,,,,,,,,,,
+rédé,Yvrac,rédé,Arcins,{},{},{},rédé,Barie,{},{},{},,,,,
+rédé,Arcins,rédé,Parempuyre,{},{},{},rédé,Yvrac,{},{},{},,,,,
+rédé,Arsac-bis,rédé,Cantenac,{},{},{},rédé,Lamarque,{},{},{},,,,,
+rédé,Arsac,rédé,Castelnau-de-Médoc,{},{},{},rédé,Parempuyre,{},{},{},rédé,Cantenac,{},{},{}
+rédé,Cantenac,rédé,Arsac-bis,{},{},{},rédé,Arsac,{},{},{},,,,,
+rédé,Castelnau-de-Médoc,rédde,Lanton,{'d': 1},{},"{('é', 'e'): 1}",rédé,Arsac,{},{},{},rédé,Cussac-Fort-Médoc,{},{},{}
+rédé,Cussac-Fort-Médoc,rédé,Montussan,{},{},{},rédé,Castelnau-de-Médoc,{},{},{},rédé,Lacanau,{},{},{}
+rédé,Labarde,rédé,Saint-Aubin-de-Médoc,{},{},{},rédé,Lacanau,{},{},{},,,,,
+rédé,Lacanau,rédé,Labarde,{},{},{},rédé,Cussac-Fort-Médoc,{},{},{},rédé,Lamarque,{},{},{}
+rédé,Lamarque,rédé,Arsac-bis,{},{},{},rédé,Lacanau,{},{},{},,,,,
+rédé,Le Porge,rédé,Audenge-bis,{},{},{},rédé,Le Temple,{},{},{},,,,,
+rédé,Le Temple,rédé,Le Porge,{},{},{},,,,,,,,,,
+rédé,Listrac-Médoc,,,,,,,,,,,,,,,
+rédé,Margaux,rédé,Saint-Médard-en-Jalles,{},{},{},,,,,,,,,,
+rédé,Moulis-en-Médoc-bis,rédé,Saint-Médard-en-Jalles,{},{},{},,,,,,,,,,
+rédé,Moulis-en-Médoc,rédé,Bègles,{},{},{},,,,,,,,,,
+rédé,Sainte-Hélène,,,,,,,,,,,,,,,
+rédé,Salaunes,rédé,Soussans,{},{},{},rédé,Chartrons,{},{},{},rédé,Castillon-la-Bataille-bis,{},{},{}
+rédé,Saumos,rédé,Bernos-Beaulac,{},{},{},rédé,Soussans,{},{},{},rédé,Belvès-de-Castillon,{},{},{}
+rédé,Soussans,rédé,Saumos,{},{},{},rédé,Saint-Pey-d'Armens,{},{},{},rédé,Salaunes,{},{},{}
+rédé,Belvès-de-Castillon,rédé,Castillon-la-Bataille-bis,{},{},{},rédé,Gajac,{},{},{},rédé,Saumos,{},{},{}
+rédé,Castillon-la-Bataille-bis,rédé,Le Bouscat,{},{},{},rédé,Belvès-de-Castillon,{},{},{},rédé,Salaunes,{},{},{}
+rédé,Castillon-la-Bataille,rédé,Bourg-bis,{},{},{},,,,,,,,,,
+rédé,Gardegan,,,,,,,,,,,,,,,
+rédé,Saint-Étienne-de-Lisse,rédé,Audenge-bis,{},{},{},rédé,Saint-Genès-de-Castillon,{},{},{},,,,,
+rédé,Saint-Genès-de-Castillon,rédé,Saint-Étienne-de-Lisse,{},{},{},rédé,Saint-Laurent-des-Combes,{},{},{},,,,,
+rédé,Saint-Laurent-des-Combes,rédé,Saint-Genès-de-Castillon,{},{},{},,,,,,,,,,
+rédé,Saint-Magne-de-Castillon,rédé,Saint-Pey-d'Armens,{},{},{},rédé,Birac,{},{},{},,,,,
+rédé,Saint-Pey-d'Armens,rédé,Soussans,{},{},{},rédé,Saint-Magne-de-Castillon,{},{},{},rédé,Saint-Philippe-d'Aiguille,{},{},{}
+rédé,Saint-Philippe-d'Aiguille,rédé,Sainte-Terre,{},{},{},rédé,Saint-Pey-d'Armens,{},{},{},,,,,
+rédé,Sainte-Colombe,rédé,Chartrons,{},{},{},rédé,Sainte-Terre,{},{},{},,,,,
+rédé,Sainte-Terre,rédé,Sainte-Colombe,{},{},{},rédé,Saint-Philippe-d'Aiguille,{},{},{},rédé,Vignonet,{},{},{}
+rédé,Vignonet,rédé,Sainte-Terre,{},{},{},,,,,,,,,,
+rédé,Saint-Antoine-sur-l'Isle,rédé,Le Nizan,{},{},{},rédé,Baurech,{},{},{},,,,,
+rédé,Baurech,rédé,Saint-Antoine-sur-l'Isle,{},{},{},rédé,Gauriac,{},{},{},rédé,Camarsac,{},{},{}
+rédé,Bonnetan,rédé,Camarsac,{},{},{},rédé,Saint-Côme,{},{},{},,,,,
+rédé,Camarsac,rédé,Tauriac,{},{},{},rédé,Bonnetan,{},{},{},rédé,Baurech,{},{},{}
+rédé,Cambes,rédé,Cénac,{},{},{},rédé,Camblanes-et-Meynac,{},{},{},,,,,
+rédé,Camblanes-et-Meynac,rédé,Branne-bis,{},{},{},rédé,Cambes,{},{},{},rédé,Carignan-de-Bordeaux,{},{},{}
+rédé,Carignan-de-Bordeaux,rédé,Branne,{},{},{},rédé,Camblanes-et-Meynac,{},{},{},,,,,
+rédé,Cénac,rédé,Cambes,{},{},{},,,,,,,,,,
+rédé,Créon,,,,,,,,,,,,,,,
+rédé,Haux,,,,,,,,,,,,,,,
+rédé,Latresne,,,,,,,,,,,,,,,
+rédé,Le Tourne,rédé,Cabara-bis,{},{},{},rede,Sallebœuf,{},{},"{('é', 'e'): 2}",,,,,
+rédé,Lignan-de-Bordeaux,rédé,Pompignac,{},{},{},rédé,Madirac,{},{},{},,,,,
+rédé,Madirac,rédé,Quinsac,{},{},{},rédé,Lignan-de-Bordeaux,{},{},{},,,,,
+rédé,Pompignac,rédé,Lignan-de-Bordeaux,{},{},{},rédé,Quinsac,{},{},{},,,,,
+rédé,Quinsac,rédé,Madirac,{},{},{},rédé,Pompignac,{},{},{},,,,,
+rédé,Sadirac,rédé,Saint-Caprais-de-Bordeaux,{},{},{},,,,,,,,,,
+rédé,Saint-Caprais-de-Bordeaux,rede,Sallebœuf,{},{},"{('é', 'e'): 2}",rédé,Sadirac,{},{},{},,,,,
+rede,Sallebœuf,rédé,Le Tourne,{},{},"{('e', 'é'): 2}",rédé,Saint-Caprais-de-Bordeaux,{},{},"{('e', 'é'): 2}",,,,,
+rédé,Tabanac,rédé,Joué,{},{},{},,,,,,,,,,
+rédé,Asques,rédé,Fronsac-bis,{},{},{},rédé,La Lande-de-Fronsac,{},{},{},,,,,
+redé,Cadillac-en-Fronsadais,rédé,Fronsac-bis,{},{},"{('e', 'é'): 1}",rédé,Belin-Béliet,{},{},"{('e', 'é'): 1}",rédé,Fronsac,{},{},"{('e', 'é'): 1}"
+rédé,Fronsac-bis,redé,Cadillac-en-Fronsadais,{},{},"{('é', 'e'): 1}",rédé,Asques,{},{},{},,,,,
+rédé,Fronsac,rédé,Samonac,{},{},{},rédé,La Lande-de-Fronsac,{},{},{},redé,Cadillac-en-Fronsadais,{},{},"{('é', 'e'): 1}"
+rédé,La Lande-de-Fronsac,rédé,Fronsac,{},{},{},rédé,Asques,{},{},{},,,,,
+rédé,Lugon-et-l'Île-du-Carnay,rédé,Bègles,{},{},{},rédé,Saillans,{},{},{},,,,,
+rédé,Saillans,rédé,Lugon-et-l'Île-du-Carnay,{},{},{},rédé,Cabara,{},{},{},,,,,
+rédé,Saint-Germain-de-la-Rivière,rédé,Martillac,{},{},{},rédé,Saint-Michel-de-Fronsac,{},{},{},,,,,
+rédé,Saint-Michel-de-Fronsac,rédé,Saint-Germain-de-la-Rivière,{},{},{},rédé,Capian,{},{},{},,,,,
+rédé,Saint-Romain-la-Virvée,rédé,Saint-Magne,{},{},{},ré̱dé,Vérac,{'̱': 1},{},{},,,,,
+ré̱dé,Vérac,rédé,Saint-Romain-la-Virvée,{},{'̱': 1},{},rédé,Villegouge,{},{'̱': 1},{},,,,,
+rédé,Villegouge,redè,Campin,{},{},"{('é', 'e'): 1, ('é', 'è'): 1}",ré̱dé,Vérac,{'̱': 1},{},{},,,,,
+redè,Campin,rédé,Villegouge,{},{},"{('e', 'é'): 1, ('è', 'é'): 1}",rédé,Cours-les-Bains,{},{},"{('e', 'é'): 1, ('è', 'é'): 1}",,,,,
+rédé,Cours-les-Bains,redè,Campin,{},{},"{('é', 'e'): 1, ('é', 'è'): 1}",,,,,,,,,,
+rédé,Grignols-bis,rédé,Grignols,{},{},{},rédé,Naujan-et-Postiac,{},{},{},,,,,
+rédé,Grignols,rédé,Grignols-bis,{},{},{},,,,,,,,,,
+rédé,Lavazan,rédé,Saucats,{},{},{},,,,,,,,,,
+rédé,Lerm-et-Musset,rédé,Cardan,{},{},{},rédé,Marions,{},{},{},,,,,
+rédé,Marions,rédé,Gabarnac,{},{},{},rédé,Lerm-et-Musset,{},{},{},,,,,
+rédé,Sendets,rédé,Béguey,{},{},{},,,,,,,,,,
+rédé,Bégadan,rédé,Blaignan,{},{},{},rédé,Bruges,{},{},{},,,,,
+rédé,Blaignan,réde,Pondaurat,{},{},"{('é', 'e'): 1}",rédé,Bégadan,{},{},{},,,,,
+rédé,Civrac,rédé,Jugazan,{},{},{},,,,,,,,,,
+rédé,Gaillan-en-Médoc,rédé,Jugazan,{},{},{},,,,,,,,,,
+rédé,Lesparre-Médoc,rédé,Naujac-sur-Mer,{},{},{},,,,,,,,,,
+rédé,Naujac-sur-Mer,rédé,Lesparre-Médoc,{},{},{},,,,,,,,,,
+rédé,Ordonnac,rédé,Saint-Christoly-Médoc,{},{},{},,,,,,,,,,
+rédé,Queyrac,rédé,Saint-Christoly-Médoc,{},{},{},,,,,,,,,,
+rédé,Saint-Christoly-Médoc,rédé,Queyrac,{},{},{},rédé,Valeyrac,{},{},{},rédé,Ordonnac,{},{},{}
+rédé,Saint-Germain-d'Esteuil,,,,,,,,,,,,,,,
+rédé,Saint-Seurin-de-Cadourne,,,,,,,,,,,,,,,
+rédé,Saint-Yzans-de-Médoc,rédé,Isle-Saint-Georges,{},{},{},,,,,,,,,,
+rédé,Valeyrac,rédé,Saint-Christoly-Médoc,{},{},{},,,,,,,,,,
+rédé,Vendays-Montalivet,rédé,Beautiran,{},{},{},,,,,,,,,,
+rédé,Beautiran,rédé,Vendays-Montalivet,{},{},{},,,,,,,,,,
+rédé,Cabanac-et-Villagrains,rédé,Castres-Gironde,{},{},{},,,,,,,,,,
+rédé,Cadaujac,,,,,,,,,,,,,,,
+rédé,Castres-Gironde,rédé,Cabanac-et-Villagrains,{},{},{},rédé,Bourg-bis,{},{},{},,,,,
+rédé,Isle-Saint-Georges,rédé,Saint-Yzans-de-Médoc,{},{},{},,,,,,,,,,
+rédé,La Brède-bis,,,,,,,,,,,,,,,
+rédé,La Brède,rédé,Léognan,{},{},{},,,,,,,,,,
+rédé,Léognan,rédé,La Brède,{},{},{},,,,,,,,,,
+rédé,Martillac,rédé,Saint-Germain-de-la-Rivière,{},{},{},ré̱dé,Saint-Médard-d'Eyrans,{'̱': 1},{},{},,,,,
+ré̱dé,Saint-Médard-d'Eyrans,rèdé,Saint-Morillon,{},{'̱': 1},"{('é', 'è'): 1}",rédé,Donzac,{},{'̱': 1},{},rédé,Martillac,{},{'̱': 1},{}
+rèdé,Saint-Morillon,ré̱dé,Saint-Médard-d'Eyrans,{'é': 1},{},"{('è', '̱'): 1}",,,,,,,,,,
+rédé,Saint-Selve,rédé,Saucats,{},{},{},,,,,,,,,,
+rédé,Saucats,rédé,Lavazan,{},{},{},rédé,Saint-Selve,{},{},{},,,,,

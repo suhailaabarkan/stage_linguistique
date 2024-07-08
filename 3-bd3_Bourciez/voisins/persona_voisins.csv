@@ -1,0 +1,472 @@
+Mot,Commune,Voisin_1,Commune_1,Insertions_1,Suppressions_1,Substitutions_1,Voisin_2,Commune_2,Insertions_2,Suppressions_2,Substitutions_2,Voisin_3,Commune_3,Insertions_3,Suppressions_3,Substitutions_3
+presoune,Andernos-les-Bains,persoune,Bazas-bis,{'e': 1},{'e': 1},{},peursoune,Auros-bis,"{'e': 1, 'u': 1}",{'e': 1},{},persoune,Audenge-bis,{'e': 1},{'e': 1},{}
+persoune,Arès,persoune,Savignac,{},{},{},pressoune,Ailas,{'r': 1},{},"{('r', 's'): 1}",persoune,Coimères,{},{},{}
+persoune,Audenge-bis,presoune,Andernos-les-Bains,{'r': 1},{'r': 1},{},peursounne,Le Porge,"{'u': 1, 'n': 1}",{},{},peursoune,Saint-Étienne-de-Lisse,{'u': 1},{},{}
+presoune,Audenge,persoune,Lignan-de-Bazas,{'e': 1},{'e': 1},{},peursoune,Belin-Béliet,"{'e': 1, 'u': 1}",{'e': 1},{},,,,,
+presoune,Biganos,persounne,Blanquefort-bis,"{'e': 1, 'n': 1}",{'e': 1},{},,,,,,,,,,
+pressoune,Lacanau-de-Mios,peursoune,Eysines,{},{},"{('r', 'e'): 1, ('e', 'u'): 1, ('s', 'r'): 1}",pérsoune,Carbon-Blanc-bis,{'é': 1},"{'e': 1, 's': 1}",{},,,,,
+persoune,Lanton,persoune,Macau,{},{},{},peursoune,Castelnau-de-Médoc,{'u': 1},{},{},persoune,Saint-Loubès,{},{},{}
+persoune,Lège,peursoune,Saint-Sulpice-et-Cameyrac,{'u': 1},{},{},,,,,,,,,,
+pèrsoune,Mios,pressoune,Ailas,{'r': 1},{},"{('è', 'e'): 1, ('r', 's'): 1}",pérsouno,Saint-Maixant,{},{},"{('è', 'é'): 1, ('e', 'o'): 1}",,,,,
+pressoune,Ailas,persoune,Arès,{},{'r': 1},"{('s', 'r'): 1}",pèrsoune,Mios,{'è': 1},"{'e': 1, 's': 1}",{},peursoune,Auros-bis,{},{},"{('r', 'e'): 1, ('e', 'u'): 1, ('s', 'r'): 1}"
+peursoune,Auros-bis,presoune,Andernos-les-Bains,{'r': 1},"{'u': 1, 'r': 1}",{},pressoune,Ailas,{'r': 1},{'r': 1},"{('u', 's'): 1}",,,,,
+peursoune,Auros,presoune,Bordeaux,{'r': 1},"{'u': 1, 'r': 1}",{},pérsoune,Sainte-Foy-la-Grande-bis,{},{'u': 1},"{('e', 'é'): 1}",persoune,Brannens,{},{'u': 1},{}
+persoune,Barie,persouna,Yvrac,{},{},"{('e', 'a'): 1}",,,,,,,,,,
+persoune,Brannens,peursoune,Auros,{'u': 1},{},{},persoune,Castillon-de-Castets,{},{},{},,,,,
+persoune,Castillon-de-Castets,peursoune,Saint-Médard-en-Jalles,{'u': 1},{},{},persoune,Brannens,{},{},{},,,,,
+persoune,Coimères,persoune,Arès,{},{},{},peursoune,Cudos,{'u': 1},{},{},persoune,Lados,{},{},{}
+persoune,Lados,persoune,Gans,{},{},{},peursoune,Puybarban,{'u': 1},{},{},persoune,Coimères,{},{},{}
+persoune,Pondaurat,persouna,Blaignan,{},{},"{('e', 'a'): 1}",,,,,,,,,,
+peursoune,Puybarban,persoune,Lados,{},{'u': 1},{},persounne,Le Bouscat,{'n': 1},{'u': 1},{},persoune,Savignac,{},{'u': 1},{}
+persoune,Savignac,persoune,Sigalens,{},{},{},persoune,Arès,{},{},{},peursoune,Puybarban,{'u': 1},{},{}
+persoune,Sigalens,soune,Caudéran,{},"{'p': 1, 'e': 1, 'r': 1}",{},persoune,Savignac,{},{},{},peursounne,Bayon-sur-Gironde,"{'u': 1, 'n': 1}",{},{}
+persoune,Bazas-bis,persoune,Bazas,{},{},{},presoune,Andernos-les-Bains,{'r': 1},{'r': 1},{},,,,,
+persoune,Bazas,persounne,Cazats,{'n': 1},{},{},persoune,Bazas-bis,{},{},{},,,,,
+persoune,Bernos-Beaulac,persoune,Birac,{},{},{},peursounne,Saumos,"{'u': 1, 'n': 1}",{},{},persoune,Gajac,{},{},{}
+persoune,Birac,peursoune,Saint-Magne-de-Castillon,{'u': 1},{},{},persoune,Bernos-Beaulac,{},{},{},persounne,Cazats,{'n': 1},{},{}
+persounne,Cazats,peursoune,Cudos,{'u': 1},{'n': 1},{},persoune,Bazas,{},{'n': 1},{},persoune,Birac,{},{'n': 1},{}
+peursoune,Cudos,persoune,Coimères,{},{'u': 1},{},persounne,Cazats,{'n': 1},{'u': 1},{},persoune,Gans,{},{'u': 1},{}
+persoune,Gajac,peursoune,Belvès-de-Castillon,{'u': 1},{},{},persoune,Gans,{},{},{},persoune,Bernos-Beaulac,{},{},{}
+persoune,Gans,persoune,Gajac,{},{},{},persoune,Lados,{},{},{},peursoune,Cudos,{'u': 1},{},{}
+persoune,Le Nizan,persoune,Prignac-et-Marcamps,{},{},{},peursounne,Gauriac,"{'u': 1, 'n': 1}",{},{},persoune,Saint-Antoine-sur-l'Isle,{},{},{}
+persoune,Lignan-de-Bazas,presoune,Audenge,{'r': 1},{'r': 1},{},peursoune,Lansac,{'u': 1},{},{},persoune,Béliet,{},{},{}
+persoune,Saint-Côme,pressoune,Bonnetan,{'r': 1},{},"{('r', 's'): 1}",persoune,Saint-Trojan,{},{},{},persoune,Béliet,{},{},{}
+persoune,Béliet,peursoune,Belin-Béliet,{'u': 1},{},{},persoune,Lignan-de-Bazas,{},{},{},persoune,Saint-Côme,{},{},{}
+peursoune,Belin-Béliet,persounne,Cadillac-en-Fronsadais,{'n': 1},{'u': 1},{},presoune,Audenge,{'r': 1},"{'u': 1, 'r': 1}",{},persoune,Béliet,{},{'u': 1},{}
+peursoune,Joué,presoune,Le Barp,{'r': 1},"{'u': 1, 'r': 1}",{},persouno,Tabanac,{},{'u': 1},"{('e', 'o'): 1}",,,,,
+presoune,Le Barp,peursoune,Cabara,"{'e': 1, 'u': 1}",{'e': 1},{},peursoune,Joué,"{'e': 1, 'u': 1}",{'e': 1},{},,,,,
+pérsoune,Lugos,presoune,Saint-Magne,{},{},"{('é', 'r'): 1, ('r', 'e'): 1}",pérsounne,Salles-bis,{'n': 1},{},{},,,,,
+presoune,Saint-Magne,persoune,Salles,{'e': 1},{'e': 1},{},pérsoune,Lugos,{'é': 1},{'e': 1},{},persoune,Saint-Romain-la-Virvée,{'e': 1},{'e': 1},{}
+pérsounne,Salles-bis,pérsoune,Lugos,{},{'n': 1},{},peursoune,Génissac,{'e': 1},{'n': 1},"{('é', 'u'): 1}",,,,,
+persoune,Salles,presoune,Saint-Magne,{'r': 1},{'r': 1},{},persoune,Saint-Quentin-de-Baron,{},{},{},,,,,
+persounne,Blanquefort-bis,pérsoune,Langoiran,{},{'n': 1},"{('e', 'é'): 1}",presoune,Biganos,{'r': 1},"{'r': 1, 'n': 1}",{},persounou,Blanquefort,{},{},"{('n', 'o'): 1, ('e', 'u'): 1}"
+persounou,Blanquefort,persounne,Blanquefort-bis,{},{},"{('o', 'n'): 1, ('u', 'e'): 1}",persouno,La Réole,{},{'u': 1},{},,,,,
+persoune,Caychac,persoune,Omet,{},{},{},peursoune,Eysines,{'u': 1},{},{},peursounne,Giscos,"{'u': 1, 'n': 1}",{},{}
+peursoune,Eysines,persoune,Caychac,{},{'u': 1},{},pressoune,Lacanau-de-Mios,{'r': 1},{'r': 1},"{('u', 's'): 1}",peursoune,Le Haillan,{},{},{}
+peursoune,Le Haillan,persoune,Le Pian-Médoc,{},{'u': 1},{},peursoune,Eysines,{},{},{},,,,,
+persoune,Le Pian-Médoc,peursoune,Le Haillan,{'u': 1},{},{},,,,,,,,,,
+persounou,Le Taillan-Médoc,persoune,Sainte-Croix-du-Mont,{},{'u': 1},"{('o', 'e'): 1}",peursoune,Bassens,{'u': 1},{'u': 1},"{('o', 'e'): 1}",pérsouno,Landerrouat,{},{'u': 1},"{('e', 'é'): 1}"
+persoune,Ludon-Médoc,persoune,Macau,{},{},{},,,,,,,,,,
+persoune,Macau,persoune,Ludon-Médoc,{},{},{},persoune,Lanton,{},{},{},,,,,
+persounne,Parempuyre,persoune,Arcins,{},{'n': 1},{},peursoune,Arsac,{'u': 1},{'n': 1},{},,,,,
+persoune,Saint-Aubin-de-Médoc,persoune,Labarde,{},{},{},,,,,,,,,,
+peursoune,Saint-Médard-en-Jalles,persoune,Margaux,{},{'u': 1},{},persoune,Castillon-de-Castets,{},{'u': 1},{},persoune,Moulis-en-Médoc-bis,{},{'u': 1},{}
+persounne,Bègles,pérsouno,Lugon-et-l'Île-du-Carnay,{},{'e': 1},"{('e', 'é'): 1, ('n', 'o'): 1}",peursoune,Moulis-en-Médoc,{'u': 1},{'n': 1},{},,,,,
+presoune,Bordeaux,peursoune,Auros,"{'e': 1, 'u': 1}",{'e': 1},{},,,,,,,,,,
+persoune,Bruges,persouna,Bégadan,{},{},"{('e', 'a'): 1}",soune,Caudéran,{},"{'p': 1, 'e': 1, 'r': 1}",{},,,,,
+soune,Caudéran,persoune,Bruges,"{'p': 1, 'e': 1, 'r': 1}",{},{},persoune,Sigalens,"{'p': 1, 'e': 1, 'r': 1}",{},{},peursounne,Bayon-sur-Gironde,"{'p': 1, 'e': 1, 'u': 1, 'r': 1, 'n': 1}",{},{}
+persoune,Chartrons,peursoune,Sainte-Colombe,{'u': 1},{},{},peursoune,Salaunes,{'u': 1},{},{},,,,,
+persounne,Le Bouscat,peursoune,Puybarban,{'u': 1},{'n': 1},{},persoune,Castillon-la-Bataille-bis,{},{'n': 1},{},peursounne,Bayon-sur-Gironde,{'u': 1},{},{}
+peursounne,Bayon-sur-Gironde,soune,Caudéran,{},"{'p': 1, 'e': 1, 'u': 1, 'r': 1, 'n': 1}",{},persoune,Sigalens,{},"{'u': 1, 'n': 1}",{},persounne,Le Bouscat,{},{'u': 1},{}
+persoune,Bourg-bis,persoune,Castres-Gironde,{},{},{},pérsoune,Castillon-la-Bataille,{},{},"{('e', 'é'): 1}",persouna,Bahus-Soubiran,{},{},"{('e', 'a'): 1}"
+peursoune,Bourg,persoune,Comps,{},{'u': 1},{},pérsouno,Rivière-Saas-et-Gourby,{},{'u': 1},"{('e', 'é'): 1, ('e', 'o'): 1}",persoune,Baron,{},{'u': 1},{}
+persoune,Comps,peursounne,Gauriac,"{'u': 1, 'n': 1}",{},{},peursoune,Bourg,{'u': 1},{},{},,,,,
+peursounne,Gauriac,persoune,Le Nizan,{},"{'u': 1, 'n': 1}",{},persoune,Comps,{},"{'u': 1, 'n': 1}",{},persoune,Baurech,{},"{'u': 1, 'n': 1}",{}
+peursoune,Lansac,persoune,Lignan-de-Bazas,{},{'u': 1},{},persounne,Marcamps,{'n': 1},{'u': 1},{},persoune,Saint-Loubouer,{},{'u': 1},{}
+persounne,Marcamps,persoune,Prignac-et-Marcamps,{},{'n': 1},{},peursoune,Lansac,{'u': 1},{'n': 1},{},,,,,
+persoune,Prignac-et-Marcamps,persounne,Marcamps,{'n': 1},{},{},persoune,Le Nizan,{},{},{},pérsouno,Renung,{},{},"{('e', 'é'): 1, ('e', 'o'): 1}"
+peursoune,Saint-Seurin-de-Bourg,persounna,Saint-Pandelon,{'n': 1},{'u': 1},"{('e', 'a'): 1}",persoune,Samonac,{},{'u': 1},{},persoune,Baron,{},{'u': 1},{}
+persoune,Saint-Trojan,persoune,Saint-Côme,{},{},{},persoune,Tauriac,{},{},{},persoune,Samonac,{},{},{}
+persoune,Samonac,peursoune,Saint-Seurin-de-Bourg,{'u': 1},{},{},persouno,Fronsac,{},{},"{('e', 'o'): 1}",persoune,Saint-Trojan,{},{},{}
+persoune,Tauriac,persoune,Saint-Trojan,{},{},{},persouno,Camarsac,{},{},"{('e', 'o'): 1}",persoune,Baron,{},{},{}
+persoune,Baron,peursoune,Bourg,{'u': 1},{},{},peursoune,Saint-Seurin-de-Bourg,{'u': 1},{},{},persoune,Tauriac,{},{},{}
+peursoune,Branne-bis,persounna,Bonnegarde,{'n': 1},{'u': 1},"{('e', 'a'): 1}",persoune,Camblanes-et-Meynac,{},{'u': 1},{},,,,,
+peursoune,Branne,perchouno,Hure,{},{},"{('u', 'r'): 1, ('r', 'c'): 1, ('s', 'h'): 1, ('e', 'o'): 1}",persouno,Gironde-sur-Dropt-bis,{},{'u': 1},"{('e', 'o'): 1}",persoune,Carignan-de-Bordeaux,{},{'u': 1},{}
+persoune,Cabara-bis,peursoune,Le Tourne,{'u': 1},{},{},pérsouno,Linxe,{},{},"{('e', 'é'): 1, ('e', 'o'): 1}",pérsouno,Dax-Saint-Vincent,{},{},"{('e', 'é'): 1, ('e', 'o'): 1}"
+peursoune,Cabara,persoune,Saillans,{},{'u': 1},{},presoune,Le Barp,{'r': 1},"{'u': 1, 'r': 1}",{},,,,,
+peursoune,Daignac,peursoune,Génissac,{},{},{},,,,,,,,,,
+peursoune,Génissac,pérsounne,Salles-bis,{'n': 1},{'u': 1},"{('e', 'é'): 1}",peursoune,Daignac,{},{},{},,,,,
+peursoune,Grézillac,peursoune,Jugazan,{},{},{},,,,,,,,,,
+peursoune,Jugazan,peursoune,Grézillac,{},{},{},persoune,Civrac,{},{'u': 1},{},persoune,Gaillan-en-Médoc,{},{'u': 1},{}
+peursoune,Moulon,persoune,Naujan-et-Postiac,{},{'u': 1},{},,,,,,,,,,
+persoune,Naujan-et-Postiac,persouna,Grignols-bis,{},{},"{('e', 'a'): 1}",peursoune,Moulon,{'u': 1},{},{},,,,,
+peusoune,Nérigean,persoune,Saint-Germain-du-Puch,{},{},"{('u', 'r'): 1}",,,,,,,,,,
+persoune,Saint-Germain-du-Puch,pérsouno,Uzeste,{},{},"{('e', 'é'): 1, ('e', 'o'): 1}",peusoune,Nérigean,{},{},"{('r', 'u'): 1}",,,,,
+persoune,Saint-Quentin-de-Baron,persoune,Salles,{},{},{},,,,,,,,,,
+persoune,Tizac-de-Curton,,,,,,,,,,,,,,,
+pérsoune,Béguey,pérsoune,Sendets,{},{},{},persoune,Gabarnac,{},{},"{('é', 'e'): 1}",,,,,
+pérsoune,Cadillac,peursoune,Cardan,{'e': 1},{},"{('é', 'u'): 1}",persoune,Camiran,{},{},"{('é', 'e'): 1}",persoune,Capian,{},{},"{('é', 'e'): 1}"
+persoune,Capian,pérsouna,Saint-Michel-de-Fronsac,{},{},"{('e', 'é'): 1, ('e', 'a'): 1}",pérsoune,Cadillac,{},{},"{('e', 'é'): 1}",,,,,
+peursoune,Cardan,pérsoune,Lerm-et-Musset,{},{'u': 1},"{('e', 'é'): 1}",pérsoune,Cadillac,{},{'u': 1},"{('e', 'é'): 1}",persoune,Donzac,{},{'u': 1},{}
+persoune,Donzac,pérsouno,Saint-Médard-d'Eyrans,{},{},"{('e', 'é'): 1, ('e', 'o'): 1}",persoune,Gabarnac,{},{},{},peursoune,Cardan,{'u': 1},{},{}
+persoune,Gabarnac,persoune,Donzac,{},{},{},pérsoune,Béguey,{},{},"{('e', 'é'): 1}",persouna,Marions,{},{},"{('e', 'a'): 1}"
+pérsoune,Langoiran-bis,persouno,Gironde-sur-Dropt,{},{},"{('é', 'e'): 1, ('e', 'o'): 1}",,,,,,,,,,
+pérsoune,Langoiran,persounne,Blanquefort-bis,{'n': 1},{},"{('é', 'e'): 1}",,,,,,,,,,
+pérsoune,Lestiac-sur-Garonne,persouno,Morizès,{},{},"{('é', 'e'): 1, ('e', 'o'): 1}",,,,,,,,,,
+peursounne,Loupiac,parsounno,Gujan,{},{'u': 1},"{('e', 'a'): 1, ('e', 'o'): 1}",peursoune,Monprimblanc,{},{'n': 1},{},,,,,
+peursoune,Monprimblanc,porsouno,Saint-Hilaire-de-la-Noaille,{},{'u': 1},"{('e', 'o'): 2}",peursounne,Loupiac,{'n': 1},{},{},,,,,
+persoune,Omet,peursoune,Paillet,{'u': 1},{},{},persoune,Caychac,{},{},{},persouno,La Teste-de-Buch,{},{},"{('e', 'o'): 1}"
+peursoune,Paillet,persoune,Rions,{},{'u': 1},{},persoune,Omet,{},{'u': 1},{},persouno,Le Teich,{},{'u': 1},"{('e', 'o'): 1}"
+persoune,Rions,peursoune,Paillet,{'u': 1},{},{},,,,,,,,,,
+persoune,Sainte-Croix-du-Mont,persoune,Captieux-bis,{},{},{},persounou,Le Taillan-Médoc,{'o': 1},{},"{('e', 'u'): 1}",pérsouno,Mazères,{},{},"{('e', 'é'): 1, ('e', 'o'): 1}"
+persounne,Villenave-de-Rions,pérsoune,Beychac-et-Caillau,{},{'n': 1},"{('e', 'é'): 1}",persoune,Captieux-bis,{},{'n': 1},{},pérsouno,Arbanats,{},{'e': 1},"{('e', 'é'): 1, ('n', 'o'): 1}"
+persoune,Captieux-bis,persounne,Villenave-de-Rions,{'n': 1},{},{},persoune,Sainte-Croix-du-Mont,{},{},{},persoune,Captieux,{},{},{}
+persoune,Captieux,pérsouno,Léogeats,{},{},"{('e', 'é'): 1, ('e', 'o'): 1}",pérsouno,Langon,{},{},"{('e', 'é'): 1, ('e', 'o'): 1}",persoune,Captieux-bis,{},{},{}
+pérsoune,Escaudes,pérsoune,Bouliac,{},{},{},pérsouna,Cérons,{},{},"{('e', 'a'): 1}",,,,,
+peursounne,Giscos,pérsouno,Bieujac,{},"{'u': 1, 'e': 1}","{('e', 'é'): 1, ('n', 'o'): 1}",persoune,Caychac,{},"{'u': 1, 'n': 1}",{},pérsouno,Saint-Pardon-de-Conques,{},"{'u': 1, 'e': 1}","{('e', 'é'): 1, ('n', 'o'): 1}"
+peursoune,Saint-Michel-de-Castelnau,persoune,Cenon,{},{'u': 1},{},persouno,Saint-Émilion,{},{'u': 1},"{('e', 'o'): 1}",persouna,Toulenne,{},{'u': 1},"{('e', 'a'): 1}"
+persoune,Ambarès-et-Lagrave,persouno,Taller,{},{},"{('e', 'o'): 1}",,,,,,,,,,
+persoune,Ambès,pérdouno,Martignas-sur-Jalle,{},{},"{('e', 'é'): 1, ('s', 'd'): 1, ('e', 'o'): 1}",pérsoune,Beychac-et-Caillau,{},{},"{('e', 'é'): 1}",,,,,
+peursoune,Bassens,persounou,Le Taillan-Médoc,{'o': 1},{'u': 1},"{('e', 'u'): 1}",pérsoune,Beychac-et-Caillau,{},{'u': 1},"{('e', 'é'): 1}",,,,,
+pérsoune,Beychac-et-Caillau,peursoune,Bassens,{'e': 1},{},"{('é', 'u'): 1}",persounne,Villenave-de-Rions,{'n': 1},{},"{('é', 'e'): 1}",persoune,Ambès,{},{},"{('é', 'e'): 1}"
+pérsoune,Bouliac,persouno,Podensac,{},{},"{('é', 'e'): 1, ('e', 'o'): 1}",pérsoune,Escaudes,{},{},{},pérsoune,Carbon-Blanc-bis,{},{},{}
+pérsoune,Carbon-Blanc-bis,pérsoune,Bouliac,{},{},{},pressoune,Lacanau-de-Mios,{'r': 1},{},"{('é', 'e'): 1, ('r', 's'): 1}",,,,,
+peursoune,Carbon-Blanc,pérsouno,Pessac,{},{'u': 1},"{('e', 'é'): 1, ('e', 'o'): 1}",persouno,Libourne,{},{'u': 1},"{('e', 'o'): 1}",persoune,Lormont,{},{'u': 1},{}
+persoune,Cenon,peursounne,Floirac,"{'u': 1, 'n': 1}",{},{},peursoune,Saint-Michel-de-Castelnau,{'u': 1},{},{},,,,,
+peursounne,Floirac,persouno,Saint-Sulpice-de-Faleyrens,{},"{'u': 1, 'e': 1}","{('n', 'o'): 1}",persoune,Cenon,{},"{'u': 1, 'n': 1}",{},persoune,Lormont,{},"{'u': 1, 'n': 1}",{}
+persoune,Lormont,peursoune,Carbon-Blanc,{'u': 1},{},{},peursounne,Floirac,"{'u': 1, 'n': 1}",{},{},,,,,
+peursoune,Montussan,persoune,Saint-Loubès,{},{'u': 1},{},peursoune,Cussac-Fort-Médoc,{},{},{},,,,,
+persoune,Saint-Loubès,persoune,Lanton,{},{},{},peursoune,Montussan,{'u': 1},{},{},,,,,
+peursoune,Saint-Louis-de-Montferrand,pérshouno,Virelade,{'h': 1},{'u': 1},"{('e', 'é'): 1, ('e', 'o'): 1}",peursoune,Saint-Sulpice-et-Cameyrac,{},{},{},,,,,
+peursoune,Saint-Sulpice-et-Cameyrac,persoune,Saint-Vincent-de-Paul,{},{'u': 1},{},persoune,Lège,{},{'u': 1},{},peursoune,Saint-Louis-de-Montferrand,{},{},{}
+persoune,Saint-Vincent-de-Paul,persouna,Flaujagues,{},{},"{('e', 'a'): 1}",peursoune,Saint-Sulpice-et-Cameyrac,{'u': 1},{},{},,,,,
+peursoune,Sainte-Eulalie,persouno,Saint-Martin-de-Sescas,{},{'u': 1},"{('e', 'o'): 1}",pérsounæ,Juillac,{},{'u': 1},"{('e', 'é'): 1, ('e', 'æ'): 1}",,,,,
+peursoune,Tresses-bis,persouno,Peujard,{},{'u': 1},"{('e', 'o'): 1}",pérsouno,Pessac-sur-Dordogne,{},{'u': 1},"{('e', 'é'): 1, ('e', 'o'): 1}",,,,,
+peursoune,Tresses,persouno,Rauzan,{},{'u': 1},"{('e', 'o'): 1}",persouno,Saint-Pey-de-Castets,{},{'u': 1},"{('e', 'o'): 1}",persouno,Cubzac-les-Ponts,{},{'u': 1},"{('e', 'o'): 1}"
+persouna,Yvrac,persoune,Arcins,{},{},"{('a', 'e'): 1}",persoune,Barie,{},{},"{('a', 'e'): 1}",,,,,
+persoune,Arcins,persounne,Parempuyre,{'n': 1},{},{},persouna,Yvrac,{},{},"{('e', 'a'): 1}",persouna,Virsac,{},{},"{('e', 'a'): 1}"
+peursoune,Arsac-bis,persoune,Cantenac,{},{'u': 1},{},pérsouna,Saint-Gervais,{},{'u': 1},"{('e', 'é'): 1, ('e', 'a'): 1}",persoune,Lamarque,{},{'u': 1},{}
+peursoune,Arsac,peursoune,Castelnau-de-Médoc,{},{},{},persounne,Parempuyre,{'n': 1},{'u': 1},{},persoune,Cantenac,{},{'u': 1},{}
+persoune,Cantenac,pérsouno,Salignac,{},{},"{('e', 'é'): 1, ('e', 'o'): 1}",peursoune,Arsac-bis,{'u': 1},{},{},peursoune,Arsac,{'u': 1},{},{}
+peursoune,Castelnau-de-Médoc,persoune,Lanton,{},{'u': 1},{},peursoune,Arsac,{},{},{},peursoune,Cussac-Fort-Médoc,{},{},{}
+peursoune,Cussac-Fort-Médoc,peursoune,Montussan,{},{},{},peursoune,Castelnau-de-Médoc,{},{},{},peursoune,Lacanau,{},{},{}
+persoune,Labarde,persoune,Saint-Aubin-de-Médoc,{},{},{},peursoune,Lacanau,{'u': 1},{},{},persounno,Caudrot,{'n': 1},{},"{('e', 'o'): 1}"
+peursoune,Lacanau,persoune,Labarde,{},{'u': 1},{},peursoune,Cussac-Fort-Médoc,{},{},{},persoune,Lamarque,{},{'u': 1},{}
+persoune,Lamarque,peursoune,Arsac-bis,{'u': 1},{},{},pérsouna,Saint-André-du-Bois,{},{},"{('e', 'é'): 1, ('e', 'a'): 1}",peursoune,Lacanau,{'u': 1},{},{}
+peursounne,Le Porge,persoune,Audenge-bis,{},"{'u': 1, 'n': 1}",{},persouno,Saint-Germain-de-Grave,{},"{'u': 1, 'e': 1}","{('n', 'o'): 1}",peursoune,Le Temple,{},{'n': 1},{}
+peursoune,Le Temple,pérsoune,Verdelais,{},{'u': 1},"{('e', 'é'): 1}",peursounne,Le Porge,{'n': 1},{},{},,,,,
+persoune,Listrac-Médoc,pèrsouno,Pujols-bis,{},{},"{('e', 'è'): 1, ('e', 'o'): 1}",,,,,,,,,,
+persoune,Margaux,peursoune,Saint-Médard-en-Jalles,{'u': 1},{},{},,,,,,,,,,
+persoune,Moulis-en-Médoc-bis,peursoune,Saint-Médard-en-Jalles,{'u': 1},{},{},pérsouno,Sainte-Foy-la-Grande-ter,{},{},"{('e', 'é'): 1, ('e', 'o'): 1}",,,,,
+peursoune,Moulis-en-Médoc,persounne,Bègles,{'n': 1},{'u': 1},{},persouno,Gornac,{},{'u': 1},"{('e', 'o'): 1}",,,,,
+persoune,Sainte-Hélène,pérsouna,Cazalis,{},{},"{('e', 'é'): 1, ('e', 'a'): 1}",,,,,,,,,,
+peursoune,Salaunes,peursoune,Soussans,{},{},{},persoune,Chartrons,{},{'u': 1},{},persoune,Castillon-la-Bataille-bis,{},{'u': 1},{}
+peursounne,Saumos,persoune,Bernos-Beaulac,{},"{'u': 1, 'n': 1}",{},peursoune,Soussans,{},{'n': 1},{},peursoune,Belvès-de-Castillon,{},{'n': 1},{}
+peursoune,Soussans,peursounne,Saumos,{'n': 1},{},{},persoune,Saint-Pey-d'Armens,{},{'u': 1},{},peursoune,Salaunes,{},{},{}
+peursoune,Belvès-de-Castillon,persoune,Castillon-la-Bataille-bis,{},{'u': 1},{},persoune,Gajac,{},{'u': 1},{},peursounne,Saumos,{'n': 1},{},{}
+persoune,Castillon-la-Bataille-bis,persounne,Le Bouscat,{'n': 1},{},{},peursoune,Belvès-de-Castillon,{'u': 1},{},{},peursoune,Salaunes,{'u': 1},{},{}
+pérsoune,Castillon-la-Bataille,persoune,Bourg-bis,{},{},"{('é', 'e'): 1}",pérsouna,Puisseguin,{},{},"{('e', 'a'): 1}",persona,Classun,{},{'u': 1},"{('é', 'e'): 1, ('e', 'a'): 1}"
+pérsoune,Gardegan,pérsouno,Lucmau,{},{},"{('e', 'o'): 1}",persoûne,Villandraut-bis,{},{},"{('é', 'e'): 1, ('u', 'û'): 1}",,,,,
+peursoune,Saint-Étienne-de-Lisse,persoune,Audenge-bis,{},{'u': 1},{},persoune,Saint-Genès-de-Castillon,{},{'u': 1},{},,,,,
+persoune,Saint-Genès-de-Castillon,peursoune,Saint-Étienne-de-Lisse,{'u': 1},{},{},pérsouno,Balizac,{},{},"{('e', 'é'): 1, ('e', 'o'): 1}",persoune,Saint-Laurent-des-Combes,{},{},{}
+persoune,Saint-Laurent-des-Combes,persouno,Saint-Symphorien-bis,{},{},"{('e', 'o'): 1}",persouna,Aire-sur-l'Adour,{},{},"{('e', 'a'): 1}",persoune,Saint-Genès-de-Castillon,{},{},{}
+peursoune,Saint-Magne-de-Castillon,persoune,Saint-Pey-d'Armens,{},{'u': 1},{},persoune,Birac,{},{'u': 1},{},,,,,
+persoune,Saint-Pey-d'Armens,peursoune,Soussans,{'u': 1},{},{},peursoune,Saint-Magne-de-Castillon,{'u': 1},{},{},peursoune,Saint-Philippe-d'Aiguille,{'u': 1},{},{}
+peursoune,Saint-Philippe-d'Aiguille,peursoune,Sainte-Terre,{},{},{},persoune,Saint-Pey-d'Armens,{},{'u': 1},{},persouno,Eugénie-les-Bains,{},{'u': 1},"{('e', 'o'): 1}"
+peursoune,Sainte-Colombe,persoune,Chartrons,{},{'u': 1},{},peursoune,Sainte-Terre,{},{},{},,,,,
+peursoune,Sainte-Terre,peursoune,Sainte-Colombe,{},{},{},peursoune,Saint-Philippe-d'Aiguille,{},{},{},personne,Vignonet,{},{'u': 1},"{('u', 'n'): 1}"
+personne,Vignonet,peursoune,Sainte-Terre,{'u': 1},{},"{('n', 'u'): 1}",,,,,,,,,,
+persoune,Saint-Antoine-sur-l'Isle,persounne,Saint-Agnet,{'n': 1},{},{},persoune,Le Nizan,{},{},{},persoune,Baurech,{},{},{}
+persoune,Baurech,persoune,Saint-Antoine-sur-l'Isle,{},{},{},peursounne,Gauriac,"{'u': 1, 'n': 1}",{},{},persouno,Camarsac,{},{},"{('e', 'o'): 1}"
+pressoune,Bonnetan,persouno,Camarsac,{},{'r': 1},"{('s', 'r'): 1, ('e', 'o'): 1}",persoune,Saint-Côme,{},{'r': 1},"{('s', 'r'): 1}",persouna,Sarron,{},{'r': 1},"{('s', 'r'): 1, ('e', 'a'): 1}"
+persouno,Camarsac,persoune,Tauriac,{},{},"{('o', 'e'): 1}",pressoune,Bonnetan,{'r': 1},{},"{('r', 's'): 1, ('o', 'e'): 1}",persoune,Baurech,{},{},"{('o', 'e'): 1}"
+pérsouno,Cambes,persouno,Cénac,{},{},"{('é', 'e'): 1}",persouna,Vielle-Tursan,{},{},"{('é', 'e'): 1, ('o', 'a'): 1}",persoune,Camblanes-et-Meynac,{},{},"{('é', 'e'): 1, ('o', 'e'): 1}"
+persoune,Camblanes-et-Meynac,peursoune,Branne-bis,{'u': 1},{},{},pérsouno,Cambes,{},{},"{('e', 'é'): 1, ('e', 'o'): 1}",persoune,Carignan-de-Bordeaux,{},{},{}
+persoune,Carignan-de-Bordeaux,persouno,Amou,{},{},"{('e', 'o'): 1}",peursoune,Branne,{'u': 1},{},{},persoune,Camblanes-et-Meynac,{},{},{}
+persouno,Cénac,pérsouno,Cambes,{},{},"{('e', 'é'): 1}",pérsoune,Bassercles,{},{},"{('e', 'é'): 1, ('o', 'e'): 1}",,,,,
+pérsouno,Créon,pérsouno,Brassempouy,{},{},{},,,,,,,,,,
+peursoune,Haux,persouné,Castelnau-Chalosse,{},{'u': 1},"{('e', 'é'): 1}",,,,,,,,,,
+peursoune,Latresne,pérsouno,Castel-Sarrazin,{},{'u': 1},"{('e', 'é'): 1, ('e', 'o'): 1}",pérsounoᵃ,Donzacq,{'o': 1},{'u': 1},"{('e', 'é'): 1, ('e', 'ᵃ'): 1}",,,,,
+peursoune,Le Tourne,persoune,Cabara-bis,{},{'u': 1},{},persouno,Sallebœuf,{},{'u': 1},"{('e', 'o'): 1}",,,,,
+persoune,Lignan-de-Bordeaux,pérsoune,Bommes,{},{},"{('e', 'é'): 1}",persoune,Pompignac,{},{},{},persoune,Madirac,{},{},{}
+persoune,Madirac,persoune,Quinsac,{},{},{},persoune,Lignan-de-Bordeaux,{},{},{},,,,,
+persoune,Pompignac,persoune,Lignan-de-Bordeaux,{},{},{},persoune,Quinsac,{},{},{},,,,,
+persoune,Quinsac,pérsoune,Uza,{},{},"{('e', 'é'): 1}",persoune,Madirac,{},{},{},persoune,Pompignac,{},{},{}
+persoune,Sadirac,persouna,Saint-Caprais-de-Bordeaux,{},{},"{('e', 'a'): 1}",,,,,,,,,,
+persouna,Saint-Caprais-de-Bordeaux,persouno,Sallebœuf,{},{},"{('a', 'o'): 1}",pérsouna,Bénesse-lès-Dax,{},{},"{('e', 'é'): 1}",persoune,Sadirac,{},{},"{('a', 'e'): 1}"
+persouno,Sallebœuf,peursoune,Le Tourne,{'u': 1},{},"{('o', 'e'): 1}",persouna,Saint-Caprais-de-Bordeaux,{},{},"{('o', 'a'): 1}",,,,,
+persouno,Tabanac,peursoune,Joué,{'u': 1},{},"{('o', 'e'): 1}",persauno,Narrosse,{},{},"{('o', 'a'): 1}",,,,,
+pérsouno,Asques,persoune,Fronsac-bis,{},{},"{('é', 'e'): 1, ('o', 'e'): 1}",persoune,La Lande-de-Fronsac,{},{},"{('é', 'e'): 1, ('o', 'e'): 1}",,,,,
+persounne,Cadillac-en-Fronsadais,persoune,Fronsac-bis,{},{'n': 1},{},peursoune,Belin-Béliet,{'u': 1},{'n': 1},{},persouno,Fronsac,{},{'e': 1},"{('n', 'o'): 1}"
+persoune,Fronsac-bis,persouna,Mées,{},{},"{('e', 'a'): 1}",persounne,Cadillac-en-Fronsadais,{'n': 1},{},{},pérsouno,Asques,{},{},"{('e', 'é'): 1, ('e', 'o'): 1}"
+persouno,Fronsac,persoune,Samonac,{},{},"{('o', 'e'): 1}",persoune,La Lande-de-Fronsac,{},{},"{('o', 'e'): 1}",persounne,Cadillac-en-Fronsadais,{'n': 1},{},"{('o', 'e'): 1}"
+persoune,La Lande-de-Fronsac,persouno,Fronsac,{},{},"{('e', 'o'): 1}",pérsouno,Asques,{},{},"{('e', 'é'): 1, ('e', 'o'): 1}",,,,,
+pérsouno,Lugon-et-l'Île-du-Carnay,persounne,Bègles,{'n': 1},{},"{('é', 'e'): 1, ('o', 'e'): 1}",persoune,Saillans,{},{},"{('é', 'e'): 1, ('o', 'e'): 1}",,,,,
+persoune,Saillans,pérsouno,Lugon-et-l'Île-du-Carnay,{},{},"{('e', 'é'): 1, ('e', 'o'): 1}",peursoune,Cabara,{'u': 1},{},{},pérsouna,Saint-Paul-lès-Dax,{},{},"{('e', 'é'): 1, ('e', 'a'): 1}"
+personne,Saint-Germain-de-la-Rivière,pérsoûna,Saint-Vincent-de-Paul,{},{},"{('e', 'é'): 1, ('n', 'û'): 1, ('e', 'a'): 1}",persoune,Martillac,{},{},"{('n', 'u'): 1}",pérsouna,Saint-Michel-de-Fronsac,{},{},"{('e', 'é'): 1, ('n', 'u'): 1, ('e', 'a'): 1}"
+pérsouna,Saint-Michel-de-Fronsac,personne,Saint-Germain-de-la-Rivière,{},{},"{('é', 'e'): 1, ('u', 'n'): 1, ('a', 'e'): 1}",persoune,Capian,{},{},"{('é', 'e'): 1, ('a', 'e'): 1}",,,,,
+persoune,Saint-Romain-la-Virvée,presoune,Saint-Magne,{'r': 1},{'r': 1},{},pérsouno,Vérac,{},{},"{('e', 'é'): 1, ('e', 'o'): 1}",,,,,
+pérsouno,Vérac,persoune,Saint-Romain-la-Virvée,{},{},"{('é', 'e'): 1, ('o', 'e'): 1}",persouno,Villegouge,{},{},"{('é', 'e'): 1}",,,,,
+persouno,Villegouge,persouno,Campin,{},{},{},pérsouno,Vérac,{},{},"{('e', 'é'): 1}",,,,,
+persouno,Campin,persouno,Villegouge,{},{},{},persouno,Cours-les-Bains,{},{},{},,,,,
+persouno,Cours-les-Bains,persouno,Campin,{},{},{},,,,,,,,,,
+persouna,Grignols-bis,pérsouna,Grignols,{},{},"{('e', 'é'): 1}",persoune,Naujan-et-Postiac,{},{},"{('a', 'e'): 1}",persouna,Tercis-les-Bains,{},{},{}
+pérsouna,Grignols,persouna,Grignols-bis,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+persoune,Lavazan,persouno,Saucats,{},{},"{('e', 'o'): 1}",,,,,,,,,,
+pérsoune,Lerm-et-Musset,peursoune,Cardan,{'e': 1},{},"{('é', 'u'): 1}",persouna,Marions,{},{},"{('é', 'e'): 1, ('e', 'a'): 1}",,,,,
+persouna,Marions,persoune,Gabarnac,{},{},"{('a', 'e'): 1}",pérsoune,Lerm-et-Musset,{},{},"{('e', 'é'): 1, ('a', 'e'): 1}",,,,,
+pérsoune,Sendets,pérsoune,Béguey,{},{},{},,,,,,,,,,
+persouna,Bégadan,persouna,Blaignan,{},{},{},persoune,Bruges,{},{},"{('a', 'e'): 1}",,,,,
+persouna,Blaignan,persoune,Pondaurat,{},{},"{('a', 'e'): 1}",persouna,Bégadan,{},{},{},,,,,
+persoune,Civrac,peursoune,Jugazan,{'u': 1},{},{},,,,,,,,,,
+persoune,Gaillan-en-Médoc,peursoune,Jugazan,{'u': 1},{},{},,,,,,,,,,
+persoune,Lesparre-Médoc,pérsoûno,Naujac-sur-Mer,{},{},"{('e', 'é'): 1, ('u', 'û'): 1, ('e', 'o'): 1}",,,,,,,,,,
+pérsoûno,Naujac-sur-Mer,persoune,Lesparre-Médoc,{},{},"{('é', 'e'): 1, ('û', 'u'): 1, ('o', 'e'): 1}",,,,,,,,,,
+pérsoùno,Ordonnac,persouna,Saint-Christoly-Médoc,{},{},"{('é', 'e'): 1, ('ù', 'u'): 1, ('o', 'a'): 1}",,,,,,,,,,
+persouno,Queyrac,persouna,Saint-Christoly-Médoc,{},{},"{('o', 'a'): 1}",,,,,,,,,,
+persouna,Saint-Christoly-Médoc,persouno,Queyrac,{},{},"{('a', 'o'): 1}",pérsoune,Valeyrac,{},{},"{('e', 'é'): 1, ('a', 'e'): 1}",pérsoùno,Ordonnac,{},{},"{('e', 'é'): 1, ('u', 'ù'): 1, ('a', 'o'): 1}"
+persouno,Saint-Germain-d'Esteuil,,,,,,,,,,,,,,,
+pérsouno,Saint-Seurin-de-Cadourne,,,,,,,,,,,,,,,
+persoune,Saint-Yzans-de-Médoc,pérsoune,Isle-Saint-Georges,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+pérsoune,Valeyrac,persouna,Saint-Christoly-Médoc,{},{},"{('é', 'e'): 1, ('e', 'a'): 1}",,,,,,,,,,
+pérsoune,Vendays-Montalivet,persoune,Beautiran,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+persoune,Beautiran,pérsoune,Vendays-Montalivet,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+persoune,Cabanac-et-Villagrains,pérsoune,Préchac,{},{},"{('e', 'é'): 1}",persoune,Castres-Gironde,{},{},{},,,,,
+pérsoune,Cadaujac,,,,,,,,,,,,,,,
+persoune,Castres-Gironde,persoune,Cabanac-et-Villagrains,{},{},{},persoune,Bourg-bis,{},{},{},,,,,
+pérsoune,Isle-Saint-Georges,persoune,Saint-Yzans-de-Médoc,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+persoune,La Brède-bis,persouno,Louchats,{},{},"{('e', 'o'): 1}",,,,,,,,,,
+pérsoune,La Brède,pérsoune,Léognan,{},{},{},,,,,,,,,,
+pérsoune,Léognan,pérsoune,La Brède,{},{},{},,,,,,,,,,
+persoune,Martillac,personne,Saint-Germain-de-la-Rivière,{},{},"{('u', 'n'): 1}",personne,Saugnac-et-Cambran,{},{},"{('u', 'n'): 1}",pérsouno,Saint-Médard-d'Eyrans,{},{},"{('e', 'é'): 1, ('e', 'o'): 1}"
+pérsouno,Saint-Médard-d'Eyrans,persoune,Saint-Morillon,{},{},"{('é', 'e'): 1, ('o', 'e'): 1}",persoune,Donzac,{},{},"{('é', 'e'): 1, ('o', 'e'): 1}",persoune,Martillac,{},{},"{('é', 'e'): 1, ('o', 'e'): 1}"
+persoune,Saint-Morillon,pérsouno,Saint-Médard-d'Eyrans,{},{},"{('e', 'é'): 1, ('e', 'o'): 1}",persounne,Blaignac,{'n': 1},{},{},,,,,
+pérsouno,Saint-Selve,persouno,Saucats,{},{},"{('é', 'e'): 1}",persounne,Blaignac,{'n': 1},{},"{('é', 'e'): 1, ('o', 'e'): 1}",,,,,
+persouno,Saucats,persoune,Lavazan,{},{},"{('o', 'e'): 1}",pérsouno,Saint-Selve,{},{},"{('e', 'é'): 1}",persounne,Bagas,{'n': 1},{},"{('o', 'e'): 1}"
+persounne,Bagas,pérsouno,Saubusse,{},{'e': 1},"{('e', 'é'): 1, ('n', 'o'): 1}",persouno,Saucats,{},{'e': 1},"{('n', 'o'): 1}",,,,,
+persounne,Blaignac,pérsouno,Saint-Selve,{},{'e': 1},"{('e', 'é'): 1, ('n', 'o'): 1}",persoune,Saint-Morillon,{},{'n': 1},{},pérsouno,Siest,{},{'e': 1},"{('e', 'é'): 1, ('n', 'o'): 1}"
+pérdoune,Camiran-bis,,,,,,,,,,,,,,,
+persoune,Camiran,pérsoune,Cadillac,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+persoune,Casseuil,perchouno,Fontet,{'c': 1},{},"{('s', 'h'): 1, ('e', 'o'): 1}",,,,,,,,,,
+perchouno,Fontet,persoune,Casseuil,{},{'h': 1},"{('c', 's'): 1, ('o', 'e'): 1}",,,,,,,,,,
+persouno,Gironde-sur-Dropt-bis,peursoune,Branne,{'u': 1},{},"{('o', 'e'): 1}",,,,,,,,,,
+persouno,Gironde-sur-Dropt,pérsoune,Langoiran-bis,{},{},"{('e', 'é'): 1, ('o', 'e'): 1}",,,,,,,,,,
+perchouno,Hure,peursoune,Branne,{'u': 1},{'h': 1},"{('c', 's'): 1, ('o', 'e'): 1}",,,,,,,,,,
+perchouno,La Réole-bis,,,,,,,,,,,,,,,
+persouno,La Réole,persounou,Blanquefort,{'u': 1},{},{},,,,,,,,,,
+persouno,Lamothe-Landerron,persouno,Loupiac-de-la-Réole,{},{},{},,,,,,,,,,
+persouno,Loupiac-de-la-Réole,persouno,Lamothe-Landerron,{},{},{},,,,,,,,,,
+persouno,Mongauzy,,,,,,,,,,,,,,,
+persouno,Morizès,pérsoune,Lestiac-sur-Garonne,{},{},"{('e', 'é'): 1, ('o', 'e'): 1}",,,,,,,,,,
+persouno,Noaillac,persouno,Arveyres,{},{},{},,,,,,,,,,
+persouno,Pompéjac,persoun,Arcachon-bis,{},{'o': 1},{},,,,,,,,,,
+persouno,Saint-Hilaire-de-la-Noaille-bis,porsouno,Saint-Hilaire-de-la-Noaille,{},{},"{('e', 'o'): 1}",persouno,Civrac-sur-Dordogne,{},{},{},,,,,
+porsouno,Saint-Hilaire-de-la-Noaille,peursoune,Monprimblanc,{'e': 1},{},"{('o', 'u'): 1, ('o', 'e'): 1}",persouno,Saint-Hilaire-de-la-Noaille-bis,{},{},"{('o', 'e'): 1}",,,,,
+persoun,Arcachon-bis,persouno,Pompéjac,{'o': 1},{},{},persounno,Arcachon,"{'n': 1, 'o': 1}",{},{},,,,,
+persounno,Arcachon,persoun,Arcachon-bis,{},"{'n': 1, 'o': 1}",{},persouno,La Teste-de-Buch-bis,{},{'n': 1},{},,,,,
+persouno,Cazaux,parsounno,Gujan,{'n': 1},{},"{('e', 'a'): 1}",,,,,,,,,,
+parsounno,Gujan,peursounne,Loupiac,{'e': 1},{},"{('a', 'u'): 1, ('o', 'e'): 1}",persouno,Cazaux,{},{'n': 1},"{('a', 'e'): 1}",persouno,La Teste-de-Buch-bis,{},{'n': 1},"{('a', 'e'): 1}"
+persouno,La Teste-de-Buch-bis,persounno,Arcachon,{'n': 1},{},{},parsounno,Gujan,{'n': 1},{},"{('e', 'a'): 1}",,,,,
+persouno,La Teste-de-Buch-ter,,,,,,,,,,,,,,,
+persouno,La Teste-de-Buch,persoune,Omet,{},{},"{('o', 'e'): 1}",pérsouno,Bieujac,{},{},"{('e', 'é'): 1}",persouno,Le Teich,{},{},{}
+persouno,Le Teich,persoune,Mestras,{},{},"{('o', 'e'): 1}",peursoune,Paillet,{'u': 1},{},"{('o', 'e'): 1}",persouno,La Teste-de-Buch,{},{},{}
+persoune,Mestras,persouno,Le Teich,{},{},"{('e', 'o'): 1}",pérsoune,Bommes,{},{},"{('e', 'é'): 1}",,,,,
+pérsouno,Bieujac,persouno,La Teste-de-Buch,{},{},"{('é', 'e'): 1}",peursounne,Giscos,"{'e': 1, 'n': 1}",{},"{('é', 'u'): 1, ('o', 'e'): 1}",pérso̱u̱na,Castets-en-Dorthe,{'̱': 2},{},"{('o', 'a'): 1}"
+pérsoune,Bommes,pérso̱u̱na,Castets-en-Dorthe,{'̱': 2},{},"{('e', 'a'): 1}",persoune,Lignan-de-Bordeaux,{},{},"{('é', 'e'): 1}",persoune,Mestras,{},{},"{('é', 'e'): 1}"
+pérso̱u̱na,Castets-en-Dorthe,pérsoune,Bommes,{},{'̱': 2},"{('a', 'e'): 1}",pérsouno,Bieujac,{},{'̱': 2},"{('a', 'o'): 1}",,,,,
+persouno,Fargues,pérsouno,Langon-bis,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+pérsouno,Langon-bis,persouno,Fargues,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+pérsouno,Langon,persoune,Captieux,{},{},"{('é', 'e'): 1, ('o', 'e'): 1}",pérsoune,Budos,{},{},"{('o', 'e'): 1}",,,,,
+pérsouno,Léogeats,personno,Saint-Pierre-de-Mons,{},{},"{('é', 'e'): 1, ('u', 'n'): 1}",persoune,Captieux,{},{},"{('é', 'e'): 1, ('o', 'e'): 1}",pérsouno,Mazères,{},{},{}
+pérsouno,Mazères,persoune,Sainte-Croix-du-Mont,{},{},"{('é', 'e'): 1, ('o', 'e'): 1}",pérsouno,Roaillan,{},{},{},pérsouno,Léogeats,{},{},{}
+pérsouno,Roaillan,pérsouno,Mazères,{},{},{},,,,,,,,,,
+pérsouno,Saint-Pardon-de-Conques,peursounne,Giscos,"{'e': 1, 'n': 1}",{},"{('é', 'u'): 1, ('o', 'e'): 1}",pérsouno,Sauternes,{},{},{},,,,,
+personno,Saint-Pierre-de-Mons,pérsouno,Léogeats,{},{},"{('e', 'é'): 1, ('n', 'u'): 1}",pérsouno,Sauternes,{},{},"{('e', 'é'): 1, ('n', 'u'): 1}",,,,,
+pérsouno,Sauternes,pérsouno,Saint-Pardon-de-Conques,{},{},{},personno,Saint-Pierre-de-Mons,{},{},"{('é', 'e'): 1, ('u', 'n'): 1}",,,,,
+persouna,Toulenne,peursoune,Saint-Michel-de-Castelnau,{'u': 1},{},"{('a', 'e'): 1}",,,,,,,,,,
+persouno,Arveyres,persouno,Noaillac,{},{},{},,,,,,,,,,
+persouno,Civrac-sur-Dordogne,persouno,Saint-Hilaire-de-la-Noaille-bis,{},{},{},persouno,Saint-Estèphe,{},{},{},,,,,
+pérsouno,Izon,persouno,Cissac-Médoc,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+persouno,Libourne-bis,persouno,Libourne,{},{},{},persouno,Pomerol,{},{},{},,,,,
+persouno,Libourne,peursoune,Carbon-Blanc,{'u': 1},{},"{('o', 'e'): 1}",persouno,Libourne-bis,{},{},{},pérsouno,Vayres,{},{},"{('e', 'é'): 1}"
+persouno,Pomerol,persouno,Libourne-bis,{},{},{},persouno,Pauillac,{},{},{},pérsouno,Vayres,{},{},"{('e', 'é'): 1}"
+persouno,Saint-Émilion,peursoune,Saint-Michel-de-Castelnau,{'u': 1},{},"{('o', 'e'): 1}",persouno,Saint-Sulpice-de-Faleyrens,{},{},{},persouna,Roquebrune,{},{},"{('o', 'a'): 1}"
+persouno,Saint-Sulpice-de-Faleyrens,persouno,Saint-Émilion,{},{},{},peursounne,Floirac,"{'u': 1, 'n': 1}",{},"{('o', 'e'): 1}",pérsouno,Vayres,{},{},"{('e', 'é'): 1}"
+pérsouno,Vayres,persouno,Saint-Sulpice-de-Faleyrens,{},{},"{('é', 'e'): 1}",persouno,Libourne,{},{},"{('é', 'e'): 1}",persouno,Pomerol,{},{},"{('é', 'e'): 1}"
+persouno,Landerrouet-sur-Ségur,persouno,Monségur,{},{},{},,,,,,,,,,
+persouno,Monségur,persouno,Landerrouet-sur-Ségur,{},{},{},,,,,,,,,,
+persouna,Roquebrune,persouno,Saint-Émilion,{},{},"{('a', 'o'): 1}",persouno,Pauillac,{},{},"{('a', 'o'): 1}",,,,,
+persouno,Cissac-Médoc,pérsouno,Izon,{},{},"{('e', 'é'): 1}",persouno,Pauillac,{},{},{},,,,,
+persouno,Pauillac,persouno,Pomerol,{},{},{},persouno,Cissac-Médoc,{},{},{},persouna,Roquebrune,{},{},"{('o', 'a'): 1}"
+persouno,Saint-Estèphe,persouno,Civrac-sur-Dordogne,{},{},{},persouna,Saint-Julien-Beychevelle,{},{},"{('o', 'a'): 1}",,,,,
+persouna,Saint-Julien-Beychevelle,persouno,Saint-Estèphe,{},{},"{('a', 'o'): 1}",,,,,,,,,,
+personne,Saint-Sauveur,pérsouno,Vertheuil,{},{},"{('e', 'é'): 1, ('n', 'u'): 1, ('e', 'o'): 1}",,,,,,,,,,
+pérsouno,Vertheuil,personne,Saint-Sauveur,{},{},"{('é', 'e'): 1, ('u', 'n'): 1, ('o', 'e'): 1}",persouna,Cazaugitat,{},{},"{('é', 'e'): 1, ('o', 'a'): 1}",,,,,
+persouna,Cazaugitat,pérsouno,Vertheuil,{},{},"{('e', 'é'): 1, ('a', 'o'): 1}",,,,,,,,,,
+pérsouno,Landerrouat,pérsouno,Massugas,{},{},{},persounou,Le Taillan-Médoc,{'u': 1},{},"{('é', 'e'): 1}",pérsouna,Listrac-de-Durèze,{},{},"{('o', 'a'): 1}"
+pérsouna,Listrac-de-Durèze,pérsouno,Landerrouat,{},{},"{('a', 'o'): 1}",,,,,,,,,,
+pérsouno,Massugas,pérsouno,Landerrouat,{},{},{},persouno,Pellegrue,{},{},"{('é', 'e'): 1}",,,,,
+persouno,Pellegrue,pérsouno,Massugas,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+pérsouno,Canéjan,pérsouno,Cestas,{},{},{},persouno,Illats,{},{},"{('é', 'e'): 1}",,,,,
+pérsouno,Cestas,pérsouno,Villenave-d'Ornon,{},{},{},pérsouno,Canéjan,{},{},{},,,,,
+pérsouna,Gradignan,pérsouno,Landiras,{},{},"{('a', 'o'): 1}",pérsouno,Villenave-d'Ornon,{},{},"{('a', 'o'): 1}",persoune,Mérignac,{},{},"{('é', 'e'): 1, ('a', 'e'): 1}"
+pérdouno,Martignas-sur-Jalle,persouno,Saint-Jean-d'Illac,{},{},"{('é', 'e'): 1, ('d', 's'): 1}",persoune,Ambès,{},{},"{('é', 'e'): 1, ('d', 's'): 1, ('o', 'e'): 1}",persoune,Mérignac,{},{},"{('é', 'e'): 1, ('d', 's'): 1, ('o', 'e'): 1}"
+persoune,Mérignac,pérdouno,Martignas-sur-Jalle,{},{},"{('e', 'é'): 1, ('s', 'd'): 1, ('e', 'o'): 1}",persouno,Barsac,{},{},"{('e', 'o'): 1}",pérsouna,Gradignan,{},{},"{('e', 'é'): 1, ('e', 'a'): 1}"
+pérsouno,Pessac,pérsouno,Talence,{},{},{},peursoune,Carbon-Blanc,{'e': 1},{},"{('é', 'u'): 1, ('o', 'e'): 1}",persouno,Saint-Jean-d'Illac,{},{},"{('é', 'e'): 1}"
+persouno,Saint-Jean-d'Illac,pérsouno,Pujols-sur-Ciron,{},{},"{('e', 'é'): 1}",pérdouno,Martignas-sur-Jalle,{},{},"{('e', 'é'): 1, ('s', 'd'): 1}",pérsouno,Pessac,{},{},"{('e', 'é'): 1}"
+pérsouno,Talence,pérsouno,Pessac,{},{},{},pérsouno,Villenave-d'Ornon,{},{},{},,,,,
+pérsouno,Villenave-d'Ornon,pérsouna,Gradignan,{},{},"{('o', 'a'): 1}",pérsouno,Cestas,{},{},{},pérsouno,Talence,{},{},{}
+pérsouno,Arbanats,persouno,Barsac,{},{},"{('é', 'e'): 1}",persounne,Villenave-de-Rions,{'n': 1},{},"{('é', 'e'): 1, ('o', 'e'): 1}",pérsoune,Budos,{},{},"{('o', 'e'): 1}"
+persouno,Barsac,persoune,Mérignac,{},{},"{('o', 'e'): 1}",pérsouno,Arbanats,{},{},"{('e', 'é'): 1}",persounne,Budos-bis,{'n': 1},{},"{('o', 'e'): 1}"
+persounne,Budos-bis,pérsouna,Cérons,{},{'e': 1},"{('e', 'é'): 1, ('n', 'a'): 1}",pérsounne,Portets,{},{},"{('e', 'é'): 1}",persouno,Barsac,{},{'e': 1},"{('n', 'o'): 1}"
+pérsoune,Budos,pérsouno,Arbanats,{},{},"{('e', 'o'): 1}",pérsouno,Langon,{},{},"{('e', 'o'): 1}",persouna,Guillos,{},{},"{('é', 'e'): 1, ('e', 'a'): 1}"
+pérsouna,Cérons,pérsoune,Escaudes,{},{},"{('a', 'e'): 1}",persounne,Budos-bis,{'n': 1},{},"{('é', 'e'): 1, ('a', 'e'): 1}",persouna,Guillos,{},{},"{('é', 'e'): 1}"
+persouna,Guillos,pérsouna,Cérons,{},{},"{('e', 'é'): 1}",pérsoune,Budos,{},{},"{('e', 'é'): 1, ('a', 'e'): 1}",,,,,
+persouno,Illats,pérsouno,Canéjan,{},{},"{('e', 'é'): 1}",pérsouno,Landiras,{},{},"{('e', 'é'): 1}",persouno,Podensac,{},{},{}
+pérsouno,Landiras,persouno,Illats,{},{},"{('é', 'e'): 1}",pérsouna,Gradignan,{},{},"{('o', 'a'): 1}",pérsounne,Portets,{'n': 1},{},"{('o', 'e'): 1}"
+persouno,Podensac,pérsounne,Portets,{'n': 1},{},"{('e', 'é'): 1, ('o', 'e'): 1}",pérsoune,Bouliac,{},{},"{('e', 'é'): 1, ('o', 'e'): 1}",persouno,Illats,{},{},{}
+pérsounne,Portets,persounne,Budos-bis,{},{},"{('é', 'e'): 1}",persouno,Podensac,{},{'e': 1},"{('é', 'e'): 1, ('n', 'o'): 1}",pérsouno,Landiras,{},{'e': 1},"{('n', 'o'): 1}"
+pérsouna,Preignac,,,,,,,,,,,,,,,
+pérsouno,Pujols-sur-Ciron,persouno,Saint-Jean-d'Illac,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+persouna,Saint-Michel-de-Rieufret,pérsouno,Aubie-et-Espessas,{},{},"{('e', 'é'): 1, ('a', 'o'): 1}",pérsouno,Sainte-Radegonde,{},{},"{('e', 'é'): 1, ('a', 'o'): 1}",,,,,
+pérshouno,Virelade,pérsouno,Saint-Vincent-de-Pertignas,{},{'h': 1},{},peursoune,Saint-Louis-de-Montferrand,{'e': 1},{'h': 1},"{('é', 'u'): 1, ('o', 'e'): 1}",pérsouno,Doulezon,{},{'h': 1},{}
+pérsouno,Doulezon,pérshouno,Virelade,{'h': 1},{},{},,,,,,,,,,
+persouna,Flaujagues,persouna,Gensac,{},{},{},persoune,Saint-Vincent-de-Paul,{},{},"{('a', 'e'): 1}",,,,,
+persouna,Gensac,pérsounæ,Juillac,{},{},"{('e', 'é'): 1, ('a', 'æ'): 1}",persouna,Flaujagues,{},{},{},,,,,
+pérsounæ,Juillac,peursoune,Sainte-Eulalie,{'e': 1},{},"{('é', 'u'): 1, ('æ', 'e'): 1}",persouna,Gensac,{},{},"{('é', 'e'): 1, ('æ', 'a'): 1}",,,,,
+persouna,Mouliets,persouno,Saint-Macaire,{},{},"{('a', 'o'): 1}",pérsouno,Pessac-sur-Dordogne,{},{},"{('e', 'é'): 1, ('a', 'o'): 1}",,,,,
+pérsouno,Pessac-sur-Dordogne,persouna,Mouliets,{},{},"{('é', 'e'): 1, ('o', 'a'): 1}",peursoune,Tresses-bis,{'e': 1},{},"{('é', 'u'): 1, ('o', 'e'): 1}",,,,,
+pèrsouno,Pujols-bis,persoune,Listrac-Médoc,{},{},"{('è', 'e'): 1, ('o', 'e'): 1}",,,,,,,,,,
+pérsouno,Pujols,pérsouno,Saint-Jean-de-Blaignac,{},{},{},,,,,,,,,,
+persouno,Rauzan,peursoune,Tresses,{'u': 1},{},"{('o', 'e'): 1}",,,,,,,,,,
+pérsouno,Saint-Jean-de-Blaignac,pérsouno,Pujols,{},{},{},,,,,,,,,,
+persouno,Saint-Pey-de-Castets,peursoune,Tresses,{'u': 1},{},"{('o', 'e'): 1}",pérsouno,Sainte-Radegonde,{},{},"{('e', 'é'): 1}",,,,,
+pérsouno,Saint-Vincent-de-Pertignas,pérshouno,Virelade,{'h': 1},{},{},pérsouno,Sainte-Radegonde,{},{},{},,,,,
+pérsouno,Sainte-Radegonde,persouna,Saint-Michel-de-Rieufret,{},{},"{('é', 'e'): 1, ('o', 'a'): 1}",persouno,Saint-Pey-de-Castets,{},{},"{('é', 'e'): 1}",pérsouno,Saint-Vincent-de-Pertignas,{},{},{}
+pérsouno,Aubie-et-Espessas,persouna,Saint-Michel-de-Rieufret,{},{},"{('é', 'e'): 1, ('o', 'a'): 1}",persouno,Cubzac-les-Ponts,{},{},"{('é', 'e'): 1}",,,,,
+persouno,Cubzac-les-Ponts,peursoune,Tresses,{'u': 1},{},"{('o', 'e'): 1}",pérsouno,Aubie-et-Espessas,{},{},"{('e', 'é'): 1}",,,,,
+persouno,Peujard,peursoune,Tresses-bis,{'u': 1},{},"{('o', 'e'): 1}",persounno,Saint-André-de-Cubzac,{'n': 1},{},{},,,,,
+persounno,Saint-André-de-Cubzac,persouno,Peujard,{},{'n': 1},{},,,,,,,,,,
+personne,Saint-Antoine,,,,,,,,,,,,,,,
+pérsouna,Saint-Gervais,peursoune,Arsac-bis,{'e': 1},{},"{('é', 'u'): 1, ('a', 'e'): 1}",pérsouna,Benon,{},{},{},pérsounne,Saint-Laurent-d'Arce,{'n': 1},{},"{('a', 'e'): 1}"
+pérsounne,Saint-Laurent-d'Arce,persouna,Le Pian-sur-Garonne,{},{'e': 1},"{('é', 'e'): 1, ('n', 'a'): 1}",pérsouna,Saint-Gervais,{},{'e': 1},"{('n', 'a'): 1}",,,,,
+pérsouno,Salignac,pérsouna,Benon,{},{},"{('o', 'a'): 1}",persoune,Cantenac,{},{},"{('é', 'e'): 1, ('o', 'e'): 1}",persouna,Virsac,{},{},"{('é', 'e'): 1, ('o', 'a'): 1}"
+persouna,Virsac,pérsouno,Salignac,{},{},"{('e', 'é'): 1, ('a', 'o'): 1}",persoune,Arcins,{},{},"{('a', 'e'): 1}",,,,,
+pérsouna,Benon,pérsouna,Saint-Gervais,{},{},{},pérsouno,Salignac,{},{},"{('a', 'o'): 1}",pershouna,Carcans,{'h': 1},{},"{('é', 'e'): 1}"
+pershouna,Carcans,persouno,Hourtin,{},{'h': 1},"{('a', 'o'): 1}",pérsouna,Benon,{},{'h': 1},"{('e', 'é'): 1}",,,,,
+persouno,Hourtin,pershouna,Carcans,{'h': 1},{},"{('o', 'a'): 1}",persouno,Saint-Quentin-de-Caplong,{},{},{},,,,,
+pérsoûno,Saint-Laurent-Médoc,persouna,Le Pian-sur-Garonne,{},{},"{('é', 'e'): 1, ('û', 'u'): 1, ('o', 'a'): 1}",persounno,Caudrot,{'u': 1},{},"{('é', 'e'): 1, ('û', 'n'): 1}",,,,,
+persounno,Caudrot,pérsoûno,Saint-Laurent-Médoc,{},{'n': 1},"{('e', 'é'): 1, ('u', 'û'): 1}",persoune,Labarde,{},{'o': 1},"{('n', 'e'): 1}",pérsouna,Saint-André-du-Bois,{},{'o': 1},"{('e', 'é'): 1, ('n', 'a'): 1}"
+persouna,Le Pian-sur-Garonne,pérsounne,Saint-Laurent-d'Arce,{'n': 1},{},"{('e', 'é'): 1, ('a', 'e'): 1}",pérsoûno,Saint-Laurent-Médoc,{},{},"{('e', 'é'): 1, ('u', 'û'): 1, ('a', 'o'): 1}",pérsouna,Saint-André-du-Bois,{},{},"{('e', 'é'): 1}"
+pérsouna,Saint-André-du-Bois,persoune,Lamarque,{},{},"{('é', 'e'): 1, ('a', 'e'): 1}",persouna,Le Pian-sur-Garonne,{},{},"{('é', 'e'): 1}",persounno,Caudrot,{'n': 1},{},"{('é', 'e'): 1, ('a', 'o'): 1}"
+persouno,Saint-Germain-de-Grave,peursounne,Le Porge,"{'u': 1, 'n': 1}",{},"{('o', 'e'): 1}",persouna,Saint-Laurent-du-Bois,{},{},"{('o', 'a'): 1}",,,,,
+persouna,Saint-Laurent-du-Bois,persouno,Saint-Germain-de-Grave,{},{},"{('a', 'o'): 1}",,,,,,,,,,
+persouno,Saint-Macaire,persouna,Mouliets,{},{},"{('o', 'a'): 1}",persouno,Saint-Martin-de-Sescas,{},{},{},,,,,
+pérsouno,Saint-Maixant,pèrsoune,Mios,{},{},"{('é', 'è'): 1, ('o', 'e'): 1}",persouno,Saint-Martin-de-Sescas,{},{},"{('é', 'e'): 1}",,,,,
+persouno,Saint-Martin-de-Sescas,pérsouno,Saint-Maixant,{},{},"{('e', 'é'): 1}",peursoune,Sainte-Eulalie,{'u': 1},{},"{('o', 'e'): 1}",persouno,Saint-Macaire,{},{},{}
+persouno,Saint-Pierre-d'Aurillac,,,,,,,,,,,,,,,
+pérsoune,Verdelais,peursoune,Le Temple,{'e': 1},{},"{('é', 'u'): 1}",persouna,Grayan-bis,{},{},"{('é', 'e'): 1, ('e', 'a'): 1}",pérsouno,Balizac,{},{},"{('e', 'o'): 1}"
+pérsouno,Balizac,persoune,Saint-Genès-de-Castillon,{},{},"{('é', 'e'): 1, ('o', 'e'): 1}",pérsoune,Verdelais,{},{},"{('o', 'e'): 1}",pérsouna,Grayan,{},{},"{('o', 'a'): 1}"
+persouno,Hostens,persoune,Le Verdon-sur-Mer,{},{},"{('o', 'e'): 1}",pérsouno,Le Tuzan,{},{},"{('e', 'é'): 1}",,,,,
+pérsouno,Le Tuzan,persouno,Hostens,{},{},"{('é', 'e'): 1}",persouno,Louchats,{},{},"{('é', 'e'): 1}",,,,,
+persouno,Louchats,persoune,La Brède-bis,{},{},"{('o', 'e'): 1}",pérsouno,Origne,{},{},"{('e', 'é'): 1}",pérsouno,Le Tuzan,{},{},"{('e', 'é'): 1}"
+pérsouno,Origne,pérsounoa,Saint-Léger-de-Balson,{'a': 1},{},{},persouno,Louchats,{},{},"{('é', 'e'): 1}",,,,,
+pérsounoa,Saint-Léger-de-Balson,pérsouno,Origne,{},{'a': 1},{},persouno,Saint-Symphorien-bis,{},{'a': 1},"{('é', 'e'): 1}",,,,,
+persouno,Saint-Symphorien-bis,pérsounoa,Saint-Léger-de-Balson,{'a': 1},{},"{('e', 'é'): 1}",persoune,Saint-Laurent-des-Combes,{},{},"{('o', 'e'): 1}",,,,,
+persouno,Saint-Symphorien,,,,,,,,,,,,,,,
+persouna,Grayan-bis,pérsoune,Verdelais,{},{},"{('e', 'é'): 1, ('a', 'e'): 1}",pérsouna,Grayan,{},{},"{('e', 'é'): 1}",,,,,
+pérsouna,Grayan,pérsouno,Balizac,{},{},"{('a', 'o'): 1}",persouna,Grayan-bis,{},{},"{('é', 'e'): 1}",,,,,
+persouno,Jau-Dignac-et-Loirac,persoune,Le Verdon-sur-Mer,{},{},"{('o', 'e'): 1}",,,,,,,,,,
+persoune,Le Verdon-sur-Mer,persouno,Jau-Dignac-et-Loirac,{},{},"{('e', 'o'): 1}",persouno,Hostens,{},{},"{('e', 'o'): 1}",pershouno,Saint-Vivien-de-Médoc,{'h': 1},{},"{('e', 'o'): 1}"
+pershouno,Saint-Vivien-de-Médoc,persoune,Le Verdon-sur-Mer,{},{'h': 1},"{('o', 'e'): 1}",,,,,,,,,,
+persouno,Soulac-sur-Mer,,,,,,,,,,,,,,,
+pérsouna,Talais,,,,,,,,,,,,,,,
+pérsouna,Vensac,persoune,La Roquille,{},{},"{('é', 'e'): 1, ('a', 'e'): 1}",persouno,Appelles,{},{},"{('é', 'e'): 1, ('a', 'o'): 1}",,,,,
+persouno,Appelles,pérsouna,Vensac,{},{},"{('e', 'é'): 1, ('o', 'a'): 1}",pérsouno,Caplong,{},{},"{('e', 'é'): 1}",,,,,
+pérsouno,Caplong,persouno,Appelles,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+pérsouno,Eynesse,persoune,La Roquille,{},{},"{('é', 'e'): 1, ('o', 'e'): 1}",,,,,,,,,,
+persoune,La Roquille,pérsouna,Vensac,{},{},"{('e', 'é'): 1, ('e', 'a'): 1}",pérsouno,Eynesse,{},{},"{('e', 'é'): 1, ('e', 'o'): 1}",,,,,
+pérsouno,Les Lèves-et-Thoumeyragues,persouno,Riocaud,{},{},"{('é', 'e'): 1}",pérsouno,Ligueux,{},{},{},,,,,
+pérsouno,Ligueux,pérsouno,Les Lèves-et-Thoumeyragues,{},{},{},persouna,Pineuilh,{},{},"{('é', 'e'): 1, ('o', 'a'): 1}",,,,,
+persouna,Pineuilh,pérsouno,Ligueux,{},{},"{('e', 'é'): 1, ('a', 'o'): 1}",,,,,,,,,,
+persouno,Riocaud,pérsouno,Les Lèves-et-Thoumeyragues,{},{},"{('e', 'é'): 1}",pérsouno,Saint-Avit-de-Soulège,{},{},"{('e', 'é'): 1}",,,,,
+pérsouno,Saint-Avit-de-Soulège,persouno,Riocaud,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+persouno,Saint-Avit-Saint-Nazaire,,,,,,,,,,,,,,,
+persouno,Saint-Quentin-de-Caplong,persouno,Hourtin,{},{},{},,,,,,,,,,
+pérsoune,Sainte-Foy-la-Grande-bis,peursoune,Auros,{'e': 1},{},"{('é', 'u'): 1}",pérsouno,Sainte-Foy-la-Grande-ter,{},{},"{('e', 'o'): 1}",,,,,
+pérsouno,Sainte-Foy-la-Grande-ter,persoune,Moulis-en-Médoc-bis,{},{},"{('é', 'e'): 1, ('o', 'e'): 1}",pérsoune,Sainte-Foy-la-Grande-bis,{},{},"{('o', 'e'): 1}",,,,,
+pérsouno,Sainte-Foy-la-Grande,pérsouno,Blasimon,{},{},{},,,,,,,,,,
+pérsouno,Blasimon,pérsouno,Sainte-Foy-la-Grande,{},{},{},persouno,Castelviel,{},{},"{('é', 'e'): 1}",,,,,
+persouno,Castelviel,pérsouno,Blasimon,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+persouna,Cleyrac,,,,,,,,,,,,,,,
+persouno,Coirac,,,,,,,,,,,,,,,
+persouno,Gornac,peursoune,Moulis-en-Médoc,{'u': 1},{},"{('o', 'e'): 1}",,,,,,,,,,
+persouno,Mérignas,persouno,Saint-Sulpice-de-Pommiers,{},{},{},,,,,,,,,,
+persouno,Mourens,persouno,Ruch,{},{},{},,,,,,,,,,
+persouno,Ruch,persouno,Mourens,{},{},{},pérsouno,Saint-Brice,{},{},"{('e', 'é'): 1}",,,,,
+pérsouno,Saint-Brice,persouno,Ruch,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+persouno,Saint-Félix-de-Foncaude,,,,,,,,,,,,,,,
+pérsoúno,Saint-Léger-de-Vignague,persouno,Saint-Sulpice-de-Pommiers,{},{},"{('é', 'e'): 1, ('ú', 'u'): 1}",,,,,,,,,,
+persouno,Saint-Sulpice-de-Pommiers,pérsoúno,Saint-Léger-de-Vignague,{},{},"{('e', 'é'): 1, ('u', 'ú'): 1}",persouno,Mérignas,{},{},{},pérsouno,Sauveterre-de-Guyenne-bis,{},{},"{('e', 'é'): 1}"
+pérsouno,Sauveterre-de-Guyenne-bis,persouno,Saint-Sulpice-de-Pommiers,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+pérsouno,Sauveterre-de-Guyenne-ter,pérsonna,Arbis,{},{},"{('u', 'n'): 1, ('o', 'a'): 1}",,,,,,,,,,
+pérssouno,Sauveterre-de-Guyenne,pérsouno,Escoussans,{},{'s': 1},{},,,,,,,,,,
+pérsonna,Arbis,pérsouno,Sauveterre-de-Guyenne-ter,{},{},"{('n', 'u'): 1, ('a', 'o'): 1}",pérsoune,Baigneaux,{},{},"{('n', 'u'): 1, ('a', 'e'): 1}",,,,,
+pérsoune,Baigneaux,pérsonna,Arbis,{},{},"{('u', 'n'): 1, ('e', 'a'): 1}",,,,,,,,,,
+pérsouno,Escoussans,pérssouno,Sauveterre-de-Guyenne,{'s': 1},{},{},,,,,,,,,,
+persouno,Faleyras,persouno,Frontenac,{},{},{},,,,,,,,,,
+persouno,Frontenac,persouno,Romagne,{},{},{},persouno,Faleyras,{},{},{},,,,,
+pérsouno,Ladaux,persouno,Lugasson,{},{},"{('é', 'e'): 1}",pérsouno,Soulignac,{},{},{},,,,,
+persouno,Lugasson,pérsouno,Ladaux,{},{},"{('e', 'é'): 1}",persouno,Romagne,{},{},{},,,,,
+persouno,Romagne,persouno,Frontenac,{},{},{},persouno,Lugasson,{},{},{},,,,,
+persouno,Saint-Pierre-de-Bat,,,,,,,,,,,,,,,
+pérsouno,Soulignac,pérsouno,Ladaux,{},{},{},,,,,,,,,,
+pérsouno,Targon-bis,,,,,,,,,,,,,,,
+persouno,Targon,pérsouna,Cazalis,{},{},"{('e', 'é'): 1, ('o', 'a'): 1}",,,,,,,,,,
+pérsouna,Cazalis,persoune,Sainte-Hélène,{},{},"{('é', 'e'): 1, ('a', 'e'): 1}",persouno,Targon,{},{},"{('é', 'e'): 1, ('a', 'o'): 1}",,,,,
+pérsouno,Lucmau,pérsoune,Gardegan,{},{},"{('o', 'e'): 1}",pérsouno,Gours,{},{},{},,,,,
+persouno,Noaillan,persouno,Préchac-bis,{},{},{},,,,,,,,,,
+persouno,Préchac-bis,persouno,Noaillan,{},{},{},pérsouno,Francs,{},{},"{('e', 'é'): 1}",,,,,
+pérsoune,Préchac,persoune,Puynormand,{},{},"{('é', 'e'): 1}",persoune,Cabanac-et-Villagrains,{},{},"{('é', 'e'): 1}",pérsouno,Uzeste,{},{},"{('e', 'o'): 1}"
+pérsouno,Uzeste,pérsoune,Préchac,{},{},"{('o', 'e'): 1}",persoune,Saint-Germain-du-Puch,{},{},"{('é', 'e'): 1, ('o', 'e'): 1}",persoûne,Villandraut-bis,{},{},"{('é', 'e'): 1, ('u', 'û'): 1, ('o', 'e'): 1}"
+persoûne,Villandraut-bis,pérsouno,Uzeste,{},{},"{('e', 'é'): 1, ('û', 'u'): 1, ('e', 'o'): 1}",pérsoune,Gardegan,{},{},"{('e', 'é'): 1, ('û', 'u'): 1}",persouno,Saint-Christophe-des-Bardes,{},{},"{('û', 'u'): 1, ('e', 'o'): 1}"
+persouna,Villandraut,pérsouno,Francs,{},{},"{('e', 'é'): 1, ('a', 'o'): 1}",persouna,Duhort-Bachen,{},{},{},pérsouna,Puisseguin,{},{},"{('e', 'é'): 1}"
+pérsouno,Francs,persouno,Préchac-bis,{},{},"{('é', 'e'): 1}",persouna,Villandraut,{},{},"{('é', 'e'): 1, ('o', 'a'): 1}",pérsouno,Gours,{},{},{}
+pérsouno,Gours,persouno,Saint-Christophe-des-Bardes,{},{},"{('é', 'e'): 1}",pérsouno,Lucmau,{},{},{},pérsouno,Francs,{},{},{}
+pérsouna,Puisseguin,pérsoune,Castillon-la-Bataille,{},{},"{('a', 'e'): 1}",persoune,Puynormand,{},{},"{('é', 'e'): 1, ('a', 'e'): 1}",persouna,Villandraut,{},{},"{('é', 'e'): 1}"
+persoune,Puynormand,pérsouna,Puisseguin,{},{},"{('e', 'é'): 1, ('e', 'a'): 1}",pérsoune,Préchac,{},{},"{('e', 'é'): 1}",persouno,Saint-Christophe-des-Bardes,{},{},"{('e', 'o'): 1}"
+persouno,Saint-Christophe-des-Bardes,persoûne,Villandraut-bis,{},{},"{('u', 'û'): 1, ('o', 'e'): 1}",pérsouno,Gours,{},{},"{('e', 'é'): 1}",persoune,Puynormand,{},{},"{('o', 'e'): 1}"
+persouna,Aire-sur-l'Adour,persoune,Saint-Laurent-des-Combes,{},{},"{('a', 'e'): 1}",pérsouna,Buanes,{},{},"{('e', 'é'): 1}",,,,,
+persouna,Bahus-Soubiran,persoune,Bourg-bis,{},{},"{('a', 'e'): 1}",persona,Classun,{},{'u': 1},{},pérsouna,Buanes,{},{},"{('e', 'é'): 1}"
+pérsouna,Buanes,persouna,Aire-sur-l'Adour,{},{},"{('é', 'e'): 1}",persouna,Bahus-Soubiran,{},{},"{('é', 'e'): 1}",,,,,
+persona,Classun,persouna,Bahus-Soubiran,{'u': 1},{},{},pérsoune,Castillon-la-Bataille,{'u': 1},{},"{('e', 'é'): 1, ('a', 'e'): 1}",persouna,Duhort-Bachen,{'u': 1},{},{}
+persouna,Duhort-Bachen,persouna,Villandraut,{},{},{},persona,Classun,{},{'u': 1},{},,,,,
+persouno,Eugénie-les-Bains,peursoune,Saint-Philippe-d'Aiguille,{'u': 1},{},"{('o', 'e'): 1}",,,,,,,,,,
+pérsouna,Latrille,,,,,,,,,,,,,,,
+pérsouno,Renung,persoune,Prignac-et-Marcamps,{},{},"{('é', 'e'): 1, ('o', 'e'): 1}",persounne,Saint-Agnet,{'n': 1},{},"{('é', 'e'): 1, ('o', 'e'): 1}",persoune,Saint-Loubouer,{},{},"{('é', 'e'): 1, ('o', 'e'): 1}"
+persounne,Saint-Agnet,pérsouno,Renung,{},{'e': 1},"{('e', 'é'): 1, ('n', 'o'): 1}",persoune,Saint-Antoine-sur-l'Isle,{},{'n': 1},{},persouna,Sarron,{},{'e': 1},"{('n', 'a'): 1}"
+persoune,Saint-Loubouer,persouna,Sarron,{},{},"{('e', 'a'): 1}",peursoune,Lansac,{'u': 1},{},{},pérsouno,Renung,{},{},"{('e', 'é'): 1, ('e', 'o'): 1}"
+persouna,Sarron,pressoune,Bonnetan,{'r': 1},{},"{('r', 's'): 1, ('a', 'e'): 1}",persoune,Saint-Loubouer,{},{},"{('a', 'e'): 1}",persounne,Saint-Agnet,{'n': 1},{},"{('a', 'e'): 1}"
+persouna,Vielle-Tursan,pérsouno,Cambes,{},{},"{('e', 'é'): 1, ('a', 'o'): 1}",pérsouna,Amou-bis,{},{},"{('e', 'é'): 1}",persouno,Amou,{},{},"{('a', 'o'): 1}"
+pérsouna,Amou-bis,persouna,Vielle-Tursan,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+persouno,Amou,persoune,Carignan-de-Bordeaux,{},{},"{('o', 'e'): 1}",persouna,Vielle-Tursan,{},{},"{('o', 'a'): 1}",,,,,
+pérsoune,Bassercles,persouno,Cénac,{},{},"{('é', 'e'): 1, ('e', 'o'): 1}",persounna,Bonnegarde,{'n': 1},{},"{('é', 'e'): 1, ('e', 'a'): 1}",,,,,
+persounna,Bonnegarde,peursoune,Branne-bis,{'u': 1},{'a': 1},"{('n', 'e'): 1}",pérsouno,Brassempouy,{},{'a': 1},"{('e', 'é'): 1, ('n', 'o'): 1}",pérsoune,Bassercles,{},{'a': 1},"{('e', 'é'): 1, ('n', 'e'): 1}"
+pérsouno,Brassempouy,persounna,Bonnegarde,{'n': 1},{},"{('é', 'e'): 1, ('o', 'a'): 1}",pérsouno,Créon,{},{},{},,,,,
+persouno,Castaignos-Souslens,,,,,,,,,,,,,,,
+pérsouno,Castel-Sarrazin,peursoune,Latresne,{'e': 1},{},"{('é', 'u'): 1, ('o', 'e'): 1}",,,,,,,,,,
+persouné,Castelnau-Chalosse,peursoune,Haux,{'u': 1},{},"{('é', 'e'): 1}",,,,,,,,,,
+pérsounoᵃ,Donzacq,peursoune,Latresne,{'e': 1},{'ᵃ': 1},"{('é', 'u'): 1, ('o', 'e'): 1}",pérsouno,Marpaps,{},{'ᵃ': 1},{},persouno,Gaujacq,{},{'ᵃ': 1},"{('é', 'e'): 1}"
+persouno,Gaujacq,pérsounoᵃ,Donzacq,{'ᵃ': 1},{},"{('e', 'é'): 1}",,,,,,,,,,
+pérsouno,Marpaps,pérsounoᵃ,Donzacq,{'ᵃ': 1},{},{},,,,,,,,,,
+pérsouno,Nassiet,,,,,,,,,,,,,,,
+pérsoune,Pomarez,persouno,Castets,{},{},"{('é', 'e'): 1, ('e', 'o'): 1}",,,,,,,,,,
+persouno,Castets,pérsoune,Pomarez,{},{},"{('e', 'é'): 1, ('o', 'e'): 1}",,,,,,,,,,
+persouno,Léon,,,,,,,,,,,,,,,
+persouno,Lévignacq,,,,,,,,,,,,,,,
+pérsouno,Linxe,persoune,Cabara-bis,{},{},"{('é', 'e'): 1, ('o', 'e'): 1}",persouno,Lit-et-Mixe,{},{},"{('é', 'e'): 1}",,,,,
+persouno,Lit-et-Mixe,persouno,Saint-Michel-Escalus,{},{},{},pérsouno,Linxe,{},{},"{('e', 'é'): 1}",,,,,
+pérsouno,Saint-Julien-en-Born,persouno,Taller,{},{},"{('é', 'e'): 1}",persouno,Saint-Michel-Escalus,{},{},"{('é', 'e'): 1}",,,,,
+persouno,Saint-Michel-Escalus,pérsouno,Saint-Julien-en-Born,{},{},"{('e', 'é'): 1}",persouno,Lit-et-Mixe,{},{},{},pérsouna,Vielle-Saint-Girons,{},{},"{('e', 'é'): 1, ('o', 'a'): 1}"
+persouno,Taller,persoune,Ambarès-et-Lagrave,{},{},"{('o', 'e'): 1}",pérsouno,Saint-Julien-en-Born,{},{},"{('e', 'é'): 1}",pérsoune,Uza,{},{},"{('e', 'é'): 1, ('o', 'e'): 1}"
+pérsoune,Uza,pérsouna,Vielle-Saint-Girons,{},{},"{('e', 'a'): 1}",persoune,Quinsac,{},{},"{('é', 'e'): 1}",persouno,Taller,{},{},"{('é', 'e'): 1, ('e', 'o'): 1}"
+pérsouna,Vielle-Saint-Girons,pérsoune,Uza,{},{},"{('a', 'e'): 1}",persouno,Saint-Michel-Escalus,{},{},"{('é', 'e'): 1, ('a', 'o'): 1}",,,,,
+pérsouna,Bénesse-lès-Dax,persouna,Saint-Caprais-de-Bordeaux,{},{},"{('é', 'e'): 1}",pérsouno,Dax-Saint-Vincent,{},{},"{('a', 'o'): 1}",,,,,
+persoune,Candresse,pérsouno,Dax-Saint-Vincent,{},{},"{('e', 'é'): 1, ('e', 'o'): 1}",,,,,,,,,,
+pérsouno,Dax-Saint-Vincent,persoune,Cabara-bis,{},{},"{('é', 'e'): 1, ('o', 'e'): 1}",persoune,Candresse,{},{},"{('é', 'e'): 1, ('o', 'e'): 1}",pérsouna,Bénesse-lès-Dax,{},{},"{('o', 'a'): 1}"
+pérsouno,Dax,pérsouno,Herm,{},{},{},,,,,,,,,,
+pérsouno,Herm,pérsouno,Heugas,{},{},{},pérsouno,Dax,{},{},{},,,,,
+pérsouno,Heugas,pérsouno,Herm,{},{},{},,,,,,,,,,
+persouna,Mées,persauno,Narrosse,{},{},"{('o', 'a'): 1, ('a', 'o'): 1}",persoune,Fronsac-bis,{},{},"{('a', 'e'): 1}",pérsouna,Oeyreluy,{},{},"{('e', 'é'): 1}"
+persauno,Narrosse,persouno,Tabanac,{},{},"{('a', 'o'): 1}",persouna,Mées,{},{},"{('a', 'o'): 1, ('o', 'a'): 1}",pérsouna,Oeyreluy,{},{},"{('e', 'é'): 1, ('a', 'o'): 1, ('o', 'a'): 1}"
+pérsouna,Oeyreluy,persouna,Mées,{},{},"{('é', 'e'): 1}",persauno,Narrosse,{},{},"{('é', 'e'): 1, ('o', 'a'): 1, ('a', 'o'): 1}",,,,,
+pérsouno,Rivière-Saas-et-Gourby,peursoune,Bourg,{'e': 1},{},"{('é', 'u'): 1, ('o', 'e'): 1}",persouno,Sablar,{},{},"{('é', 'e'): 1}",persounna,Saint-Pandelon,{'n': 1},{},"{('é', 'e'): 1, ('o', 'a'): 1}"
+persouno,Sablar,pérsouno,Rivière-Saas-et-Gourby,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+persounna,Saint-Pandelon,peursoune,Saint-Seurin-de-Bourg,{'u': 1},{'a': 1},"{('n', 'e'): 1}",pérsouno,Rivière-Saas-et-Gourby,{},{'a': 1},"{('e', 'é'): 1, ('n', 'o'): 1}",,,,,
+pérsouna,Saint-Paul-lès-Dax,persoune,Saillans,{},{},"{('é', 'e'): 1, ('a', 'e'): 1}",,,,,,,,,,
+pérsoûna,Saint-Vincent-de-Paul,personne,Saugnac-et-Cambran,{},{},"{('é', 'e'): 1, ('û', 'n'): 1, ('a', 'e'): 1}",personne,Saint-Germain-de-la-Rivière,{},{},"{('é', 'e'): 1, ('û', 'n'): 1, ('a', 'e'): 1}",,,,,
+pérsouno,Saubusse,persounne,Bagas,{'n': 1},{},"{('é', 'e'): 1, ('o', 'e'): 1}",pérsouno,Siest,{},{},{},,,,,
+personne,Saugnac-et-Cambran,persoune,Martillac,{},{},"{('n', 'u'): 1}",pérsoûna,Saint-Vincent-de-Paul,{},{},"{('e', 'é'): 1, ('n', 'û'): 1, ('e', 'a'): 1}",pérsouno,Siest,{},{},"{('e', 'é'): 1, ('n', 'u'): 1, ('e', 'o'): 1}"
+pérsouno,Siest,persounne,Blaignac,{'n': 1},{},"{('é', 'e'): 1, ('o', 'e'): 1}",personne,Saugnac-et-Cambran,{},{},"{('é', 'e'): 1, ('u', 'n'): 1, ('o', 'e'): 1}",pérsouno,Saubusse,{},{},{}
+persouna,Tercis-les-Bains,persouna,Grignols-bis,{},{},{},,,,,,,,,,
+pérsouno,Téthieu,,,,,,,,,,,,,,,

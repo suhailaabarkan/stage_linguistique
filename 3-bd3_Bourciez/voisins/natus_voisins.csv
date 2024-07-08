@@ -1,0 +1,9 @@
+Mot,Commune,Voisin_1,Commune_1,Insertions_1,Suppressions_1,Substitutions_1,Voisin_2,Commune_2,Insertions_2,Suppressions_2,Substitutions_2,Voisin_3,Commune_3,Insertions_3,Suppressions_3,Substitutions_3
+nat,Andernos-les-Bains,nat,Audenge-bis,{},{},{},,,,,,,,,,
+nat,Arès,,,,,,,,,,,,,,,
+nat,Audenge-bis,nat,Andernos-les-Bains,{},{},{},,,,,,,,,,
+nats,Audenge,,,,,,,,,,,,,,,
+nad,Biganos,,,,,,,,,,,,,,,
+nat,Lacanau-de-Mios,,,,,,,,,,,,,,,
+nat,Lanton,,,,,,,,,,,,,,,
+nada,Lège,,,,,,,,,,,,,,,

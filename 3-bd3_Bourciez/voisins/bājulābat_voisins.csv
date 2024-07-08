@@ -1,0 +1,1088 @@
+Mot,Commune,Voisin_1,Commune_1,Insertions_1,Suppressions_1,Substitutions_1,Voisin_2,Commune_2,Insertions_2,Suppressions_2,Substitutions_2,Voisin_3,Commune_3,Insertions_3,Suppressions_3,Substitutions_3
+bailléou,Andernos-les-Bains,baïllèoue,Bazas-bis,{'e': 1},{},"{('i', 'ï'): 1, ('é', 'è'): 1}",baillèoueu,Auros-bis,"{'u': 1, 'e': 1}",{},"{('é', 'è'): 1}",bailléoue,Audenge-bis,{'e': 1},{},{}
+bailléoun,Arès,bailléou,Savignac,{},{'n': 1},{},baïlléoue,Ailas,{},{},"{('i', 'ï'): 1, ('n', 'e'): 1}",bailléoue,Coimères,{},{},"{('n', 'e'): 1}"
+bailléoue,Audenge-bis,bailléou,Andernos-les-Bains,{},{'e': 1},{},baillèbe,Le Porge,{},{'u': 1},"{('é', 'è'): 1, ('o', 'b'): 1}",baillèbe,Saint-Étienne-de-Lisse,{},{'u': 1},"{('é', 'è'): 1, ('o', 'b'): 1}"
+bailléoue,Audenge,bailléoue,Lignan-de-Bazas,{},{},{},bailléoueu,Belin-Béliet,{'u': 1},{},{},,,,,
+bailléoue,Biganos,bailléoue,Blanquefort-bis,{},{},{},,,,,,,,,,
+bailléoueu,Lacanau-de-Mios,baillébe,Eysines,{},{'u': 2},"{('o', 'b'): 1}",baillèoue,Carbon-Blanc-bis,{},{'u': 1},"{('é', 'è'): 1}",,,,,
+bailléoueun,Lanton,baillèoue,Macau,{},"{'u': 1, 'n': 1}","{('é', 'è'): 1}",baillèou,Castelnau-de-Médoc,{},"{'e': 1, 'u': 1, 'n': 1}","{('é', 'è'): 1}",baillèbe,Saint-Loubès,{},"{'u': 2, 'n': 1}","{('é', 'è'): 1, ('o', 'b'): 1}"
+baillèoue,Lège,baillaouo,Pompogne,{},{},"{('è', 'a'): 1, ('e', 'o'): 1}",baillèoue,Saint-Sulpice-et-Cameyrac,{},{},{},,,,,
+bailléoue,Mios,baïlléoue,Ailas,{},{},"{('i', 'ï'): 1}",bailémne,Saint-Maixant,{},{'l': 1},"{('o', 'm'): 1, ('u', 'n'): 1}",,,,,
+baïlléoue,Ailas,bailléoun,Arès,{},{},"{('ï', 'i'): 1, ('e', 'n'): 1}",bailléoue,Mios,{},{},"{('ï', 'i'): 1}",baillèoueu,Auros-bis,{'u': 1},{},"{('ï', 'i'): 1, ('é', 'è'): 1}"
+baillèoueu,Auros-bis,bailléou,Andernos-les-Bains,{},"{'u': 1, 'e': 1}","{('è', 'é'): 1}",baïlléoue,Ailas,{},{'u': 1},"{('i', 'ï'): 1, ('è', 'é'): 1}",baillaouo,Meylan,{},{'u': 1},"{('è', 'a'): 1, ('e', 'o'): 1}"
+baillèoue,Auros,bailléoue,Bordeaux,{},{},"{('è', 'é'): 1}",baillaoube,Sainte-Foy-la-Grande-bis,{'b': 1},{},"{('è', 'a'): 1}",bailléoue,Brannens,{},{},"{('è', 'é'): 1}"
+bailléou,Barie,bailléoueu,Yvrac,"{'e': 1, 'u': 1}",{},{},,,,,,,,,,
+bailléoue,Brannens,baillèoue,Auros,{},{},"{('é', 'è'): 1}",baillèou,Castillon-de-Castets,{},{'e': 1},"{('é', 'è'): 1}",,,,,
+baillèou,Castillon-de-Castets,baillaoue,Saint-Médard-en-Jalles,{'e': 1},{},"{('è', 'a'): 1}",baillaouo,Boé,{'o': 1},{},"{('è', 'a'): 1}",bailléoue,Brannens,{'e': 1},{},"{('è', 'é'): 1}"
+bailléoue,Coimères,bailléoun,Arès,{},{},"{('e', 'n'): 1}",baillèoue,Cudos,{},{},"{('é', 'è'): 1}",baillèoue,Lados,{},{},"{('é', 'è'): 1}"
+baillèoue,Lados,bailléhou,Gans,{'é': 1},{'e': 1},"{('è', 'h'): 1}",bâillèoue,Puybarban,{},{},"{('a', 'â'): 1}",bailléoue,Coimères,{},{},"{('è', 'é'): 1}"
+baillèoue,Pondaurat,baillaou,Blaignan,{},{'e': 1},"{('è', 'a'): 1}",,,,,,,,,,
+bâillèoue,Puybarban,baillèoue,Lados,{},{},"{('â', 'a'): 1}",baillabe,Le Bouscat,{},{'u': 1},"{('â', 'a'): 1, ('è', 'a'): 1, ('o', 'b'): 1}",bailléou,Savignac,{},{'e': 1},"{('â', 'a'): 1, ('è', 'é'): 1}"
+bailléou,Savignac,bailléoue,Sigalens,{'e': 1},{},{},bailléoun,Arès,{'n': 1},{},{},bâillèoue,Puybarban,{'e': 1},{},"{('a', 'â'): 1, ('é', 'è'): 1}"
+bailléoue,Sigalens,baillaoue,Caudéran,{},{},"{('é', 'a'): 1}",bailléou,Savignac,{},{'e': 1},{},bailleou,Bayon-sur-Gironde,{},{'e': 1},"{('é', 'e'): 1}"
+baïllèoue,Bazas-bis,baillèouë,Bazas,{},{},"{('ï', 'i'): 1, ('e', 'ë'): 1}",bailléou,Andernos-les-Bains,{},{'e': 1},"{('ï', 'i'): 1, ('è', 'é'): 1}",baillaouo,Saint-Aubin,{},{},"{('ï', 'i'): 1, ('è', 'a'): 1, ('e', 'o'): 1}"
+baillèouë,Bazas,bailléoue,Cazats,{},{},"{('è', 'é'): 1, ('ë', 'e'): 1}",baïllèoue,Bazas-bis,{},{},"{('i', 'ï'): 1, ('ë', 'e'): 1}",,,,,
+bailléoue,Bernos-Beaulac,baillèoue,Birac,{},{},"{('é', 'è'): 1}",bailléou,Saumos,{},{'e': 1},{},bailléoué,Gajac,{},{},"{('e', 'é'): 1}"
+baillèoue,Birac,baillèbe,Saint-Magne-de-Castillon,{},{'u': 1},"{('o', 'b'): 1}",bailléoue,Bernos-Beaulac,{},{},"{('è', 'é'): 1}",bailléoue,Cazats,{},{},"{('è', 'é'): 1}"
+bailléoue,Cazats,baillèoue,Cudos,{},{},"{('é', 'è'): 1}",baillèouë,Bazas,{},{},"{('é', 'è'): 1, ('e', 'ë'): 1}",baillèoue,Birac,{},{},"{('é', 'è'): 1}"
+baillèoue,Cudos,bailléoue,Coimères,{},{},"{('è', 'é'): 1}",bailléoue,Cazats,{},{},"{('è', 'é'): 1}",bailléhou,Gans,{'é': 1},{'e': 1},"{('è', 'h'): 1}"
+bailléoué,Gajac,baillèoue,Belvès-de-Castillon,{},{},"{('é', 'è'): 1, ('é', 'e'): 1}",bailléhou,Gans,{'h': 1},{'é': 1},{},bailléoue,Bernos-Beaulac,{},{},"{('é', 'e'): 1}"
+bailléhou,Gans,bailléoué,Gajac,{'é': 1},{'h': 1},{},baillèoue,Lados,{'e': 1},{'h': 1},"{('é', 'è'): 1}",baillèoue,Cudos,{'e': 1},{'h': 1},"{('é', 'è'): 1}"
+baillèoue,Le Nizan,baillaioue,Prignac-et-Marcamps,{'a': 1},{},"{('è', 'i'): 1}",baillèoue,Gauriac,{},{},{},baillèbe,Saint-Antoine-sur-l'Isle,{},{'u': 1},"{('o', 'b'): 1}"
+bailléoue,Lignan-de-Bazas,bailléoue,Audenge,{},{},{},baillèoueu,Lansac,{'u': 1},{},"{('é', 'è'): 1}",baillèoueu,Béliet,{'u': 1},{},"{('é', 'è'): 1}"
+baillaioueu,Saint-Côme,baillèbeunn,Bonnetan,{},{},"{('a', 'è'): 1, ('i', 'b'): 1, ('o', 'e'): 1, ('e', 'n'): 1, ('u', 'n'): 1}",bailläou,Saint-Trojan,{},"{'i': 1, 'u': 1, 'e': 1}","{('a', 'ä'): 1}",baillèoueu,Béliet,{},{'i': 1},"{('a', 'è'): 1}"
+baillèoueu,Béliet,bailléoueu,Belin-Béliet,{},{},"{('è', 'é'): 1}",bailléoue,Lignan-de-Bazas,{},{'u': 1},"{('è', 'é'): 1}",baillaioueu,Saint-Côme,{'a': 1},{},"{('è', 'i'): 1}"
+bailléoueu,Belin-Béliet,baillemben,Cadillac-en-Fronsadais,{},{},"{('é', 'e'): 1, ('o', 'm'): 1, ('u', 'b'): 1, ('u', 'n'): 1}",bailléoue,Audenge,{},{'u': 1},{},baillèoueu,Béliet,{},{},"{('é', 'è'): 1}"
+bailléou,Joué,bailléoue,Le Barp,{'e': 1},{},{},baïllèbeun,Tabanac,"{'è': 1, 'n': 1}",{},"{('i', 'ï'): 1, ('é', 'b'): 1, ('o', 'e'): 1}",,,,,
+bailléoue,Le Barp,baillèoue,Cabara,{},{},"{('é', 'è'): 1}",bailléou,Joué,{},{'e': 1},{},,,,,
+bailléou,Lugos,baïéou,Saint-Magne,{},{'l': 2},"{('i', 'ï'): 1}",bayéoun,Salles-bis,{'n': 1},{'l': 2},"{('i', 'y'): 1}",,,,,
+baïéou,Saint-Magne,bailléou,Salles,"{'i': 1, 'l': 1}",{},"{('ï', 'l'): 1}",bailléou,Lugos,"{'i': 1, 'l': 1}",{},"{('ï', 'l'): 1}",baillèbeu,Saint-Romain-la-Virvée,"{'i': 1, 'l': 2}",{},"{('ï', 'è'): 1, ('é', 'b'): 1, ('o', 'e'): 1}"
+bayéoun,Salles-bis,bailléou,Lugos,"{'i': 1, 'l': 1}",{'n': 1},"{('y', 'l'): 1}",bailléou,Génissac,"{'i': 1, 'l': 1}",{'n': 1},"{('y', 'l'): 1}",,,,,
+bailléou,Salles,baïéou,Saint-Magne,{},{'l': 2},"{('i', 'ï'): 1}",bailléouenn,Saint-Quentin-de-Baron,"{'e': 1, 'n': 2}",{},{},,,,,
+bailléoue,Blanquefort-bis,bailléou,Langoiran,{},{'e': 1},{},bailléoue,Biganos,{},{},{},baillabe,Blanquefort,{},{'u': 1},"{('é', 'a'): 1, ('o', 'b'): 1}"
+baillabe,Blanquefort,bailléoue,Blanquefort-bis,{'é': 1},{},"{('a', 'o'): 1, ('b', 'u'): 1}",baillaben,Ychoux,{'n': 1},{},{},baillèbe,La Réole,{},{},"{('a', 'è'): 1}"
+baillet,Caychac,bailléoue,Omet,"{'é': 1, 'o': 1, 'u': 1}",{'t': 1},{},baillébe,Eysines,"{'é': 1, 'b': 1}",{'t': 1},{},bailléoüe,Giscos,"{'é': 1, 'o': 1, 'ü': 1}",{'t': 1},{}
+baillébe,Eysines,baillet,Caychac,{},{'e': 1},"{('é', 'e'): 1, ('b', 't'): 1}",bailléoueu,Lacanau-de-Mios,"{'o': 1, 'u': 1}",{},"{('b', 'u'): 1}",baillèbe,Le Haillan,{},{},"{('é', 'è'): 1}"
+baillèbe,Le Haillan,baillèoue,Le Pian-Médoc,{'o': 1},{},"{('b', 'u'): 1}",baillaouo,Bénesse-Maremne,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",baillébe,Eysines,{},{},"{('è', 'é'): 1}"
+baillèoue,Le Pian-Médoc,baillaouo,Josse,{},{},"{('è', 'a'): 1, ('e', 'o'): 1}",baillèbe,Le Haillan,{},{'u': 1},"{('o', 'b'): 1}",baillao,Montgaillard,{},"{'u': 1, 'e': 1}","{('è', 'a'): 1}"
+baillèou,Le Taillan-Médoc,baillèou,Sainte-Croix-du-Mont,{},{},{},bailleoüe,Bassens,{'ü': 1},{},"{('è', 'e'): 1, ('u', 'e'): 1}",bailléoueu,Landerrouat,"{'u': 1, 'e': 1}",{},"{('è', 'é'): 1}"
+bailléou,Ludon-Médoc,baillaouo,Agnac,{'o': 1},{},"{('é', 'a'): 1}",baillèoue,Macau,{'e': 1},{},"{('é', 'è'): 1}",,,,,
+baillèoue,Macau,bailléou,Ludon-Médoc,{},{'e': 1},"{('è', 'é'): 1}",bailléoueun,Lanton,"{'u': 1, 'n': 1}",{},"{('è', 'é'): 1}",baillaouo,Lauzun,{},{},"{('è', 'a'): 1, ('e', 'o'): 1}"
+baillèoue,Parempuyre,bailléoueu,Arcins,{'u': 1},{},"{('è', 'é'): 1}",bailléoueu,Arsac,{'u': 1},{},"{('è', 'é'): 1}",,,,,
+baillaœu,Saint-Aubin-de-Médoc,baillèc,Feugarolles,{},{'u': 1},"{('a', 'è'): 1, ('œ', 'c'): 1}",baillaouo,Béquin,{'o': 1},{},"{('œ', 'o'): 1}",baïaou,Labarde,{},{'l': 2},"{('i', 'ï'): 1, ('œ', 'o'): 1}"
+baillaoue,Saint-Médard-en-Jalles,bäillèoue,Margaux,{},{},"{('a', 'ä'): 1, ('a', 'è'): 1}",baillèou,Castillon-de-Castets,{},{'e': 1},"{('a', 'è'): 1}",baillèoue,Moulis-en-Médoc-bis,{},{},"{('a', 'è'): 1}"
+baillait,Bègles,baillaouo,Castelnaud-de-Gratecambe,{'o': 1},{},"{('i', 'u'): 1, ('t', 'o'): 1}",baillèbe,Lugon-et-l'Île-du-Carnay,{},{},"{('a', 'è'): 1, ('i', 'b'): 1, ('t', 'e'): 1}",baillèoue,Moulis-en-Médoc,{'è': 1},{},"{('a', 'o'): 1, ('i', 'u'): 1, ('t', 'e'): 1}"
+bailléoue,Bordeaux,baillèoue,Auros,{},{},"{('é', 'è'): 1}",,,,,,,,,,
+bailláoue,Bruges,baïllaoue,Bégadan,{},{},"{('i', 'ï'): 1, ('á', 'a'): 1}",baillaoue,Caudéran,{},{},"{('á', 'a'): 1}",,,,,
+baillaoue,Caudéran,bailláoue,Bruges,{},{},"{('a', 'á'): 1}",bailléoue,Sigalens,{},{},"{('a', 'é'): 1}",bailleou,Bayon-sur-Gironde,{},{'e': 1},"{('a', 'e'): 1}"
+baillèbe,Chartrons,baillèbent,Sainte-Colombe,"{'n': 1, 't': 1}",{},{},bailléoue,Salaunes,{'é': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1}",,,,,
+baillabe,Le Bouscat,bâillèoue,Puybarban,{'è': 1},{},"{('a', 'â'): 1, ('a', 'o'): 1, ('b', 'u'): 1}",baillébe,Castillon-la-Bataille-bis,{},{},"{('a', 'é'): 1}",bailleou,Bayon-sur-Gironde,{},{},"{('a', 'e'): 1, ('b', 'o'): 1, ('e', 'u'): 1}"
+bailleou,Bayon-sur-Gironde,baillaoue,Caudéran,{'e': 1},{},"{('e', 'a'): 1}",bailléoue,Sigalens,{'e': 1},{},"{('e', 'é'): 1}",baillabe,Le Bouscat,{},{},"{('e', 'a'): 1, ('o', 'b'): 1, ('u', 'e'): 1}"
+baillèoue,Bourg-bis,baillèbe,Castres-Gironde,{},{'u': 1},"{('o', 'b'): 1}",baillèbe,Castillon-la-Bataille,{},{'u': 1},"{('o', 'b'): 1}",baillaoueun̈,Bahus-Soubiran,"{'u': 1, 'n': 1, '̈': 1}",{},"{('è', 'a'): 1}"
+baillèoue,Bourg,bailléoue,Comps,{},{},"{('è', 'é'): 1}",baillèoue,Rivière-Saas-et-Gourby,{},{},{},balléoue,Baron,{},{'i': 1},"{('è', 'é'): 1}"
+bailléoue,Comps,baillèoue,Gauriac,{},{},"{('é', 'è'): 1}",baillèoue,Bourg,{},{},"{('é', 'è'): 1}",,,,,
+baillèoue,Gauriac,baillèoue,Le Nizan,{},{},{},bailléoue,Comps,{},{},"{('è', 'é'): 1}",baillében,Baurech,{},{},"{('è', 'é'): 1, ('o', 'b'): 1, ('u', 'e'): 1, ('e', 'n'): 1}"
+baillèoueu,Lansac,bailléoue,Lignan-de-Bazas,{},{'u': 1},"{('è', 'é'): 1}",bäillèoue,Marcamps,{},{'u': 1},"{('a', 'ä'): 1}",baillèbe,Saint-Loubouer,{},{'u': 2},"{('o', 'b'): 1}"
+bäillèoue,Marcamps,baillaioue,Prignac-et-Marcamps,{'a': 1},{},"{('ä', 'a'): 1, ('è', 'i'): 1}",baillèoueu,Lansac,{'u': 1},{},"{('ä', 'a'): 1}",,,,,
+baillaioue,Prignac-et-Marcamps,bäillèoue,Marcamps,{},{'i': 1},"{('a', 'ä'): 1, ('a', 'è'): 1}",baillèoue,Le Nizan,{},{'i': 1},"{('a', 'è'): 1}",baillèbe,Renung,{},"{'o': 1, 'u': 1}","{('a', 'è'): 1, ('i', 'b'): 1}"
+baillaou,Saint-Seurin-de-Bourg,baillèoue,Saint-Pandelon,{'e': 1},{},"{('a', 'è'): 1}",bailléoue,Samonac,{'e': 1},{},"{('a', 'é'): 1}",balléoue,Baron,{'e': 1},{'i': 1},"{('a', 'é'): 1}"
+bailläou,Saint-Trojan,baillaioueu,Saint-Côme,"{'a': 1, 'u': 1, 'e': 1}",{},"{('ä', 'i'): 1}",baïllet,Tauriac,{},{'u': 1},"{('i', 'ï'): 1, ('ä', 'e'): 1, ('o', 't'): 1}",bailléoue,Samonac,{'e': 1},{},"{('ä', 'é'): 1}"
+bailléoue,Samonac,baillaou,Saint-Seurin-de-Bourg,{},{'e': 1},"{('é', 'a'): 1}",baillèben,Fronsac,{},{},"{('é', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1, ('e', 'n'): 1}",bailläou,Saint-Trojan,{},{'e': 1},"{('é', 'ä'): 1}"
+baïllet,Tauriac,bailläou,Saint-Trojan,{'ä': 1},{},"{('ï', 'i'): 1, ('e', 'o'): 1, ('t', 'u'): 1}",baillèbe,Camarsac,"{'è': 1, 'b': 1}",{'t': 1},"{('ï', 'i'): 1}",balléoue,Baron,"{'é': 1, 'o': 1}",{'t': 1},"{('ï', 'l'): 1, ('l', 'u'): 1}"
+balléoue,Baron,baillèoue,Bourg,{'i': 1},{},"{('é', 'è'): 1}",baillaou,Saint-Seurin-de-Bourg,{'i': 1},{'e': 1},"{('é', 'a'): 1}",baïllet,Tauriac,{'ï': 1},"{'u': 1, 'e': 1}","{('é', 'e'): 1, ('o', 't'): 1}"
+bailléoue,Branne-bis,baillabe,Saint-Lon-les-Mines,{},{'u': 1},"{('é', 'a'): 1, ('o', 'b'): 1}",baillèbe,Bonnegarde,{},{'u': 1},"{('é', 'è'): 1, ('o', 'b'): 1}",baillèben,Camblanes-et-Meynac,{},{},"{('é', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1, ('e', 'n'): 1}"
+baillèoue,Branne,baillèbe,Hure,{},{'u': 1},"{('o', 'b'): 1}",baillèbe,Gironde-sur-Dropt-bis,{},{'u': 1},"{('o', 'b'): 1}",baillèbe,Carignan-de-Bordeaux,{},{'u': 1},"{('o', 'b'): 1}"
+baillèbe,Cabara-bis,bailléoueu,Le Tourne,"{'é': 1, 'u': 1}",{},"{('è', 'o'): 1, ('b', 'u'): 1}",baillaoue,Linxe,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1}",baillèbe,Dax-Saint-Vincent,{},{},{}
+baillèoue,Cabara,baillèbe,Saillans,{},{'u': 1},"{('o', 'b'): 1}",bailléoue,Le Barp,{},{},"{('è', 'é'): 1}",,,,,
+baillèou,Daignac,bailléou,Génissac,{},{},"{('è', 'é'): 1}",,,,,,,,,,
+bailléou,Génissac,bayéoun,Salles-bis,{'n': 1},{'l': 2},"{('i', 'y'): 1}",baillèou,Daignac,{},{},"{('é', 'è'): 1}",báillait,Losse,{},{},"{('a', 'á'): 1, ('é', 'a'): 1, ('o', 'i'): 1, ('u', 't'): 1}"
+baillè,Grézillac,bailléoue,Jugazan,"{'é': 1, 'o': 1, 'u': 1}",{},"{('è', 'e'): 1}",,,,,,,,,,
+bailléoue,Jugazan,baillè,Grézillac,{},"{'o': 1, 'u': 1, 'e': 1}","{('é', 'è'): 1}",baillaé,Civrac,{'a': 1},"{'o': 1, 'u': 1, 'e': 1}",{},baillaoue,Gaillan-en-Médoc,{},{},"{('é', 'a'): 1}"
+baillèoue,Moulon,baillaouo,Horsarrieu,{},{},"{('è', 'a'): 1, ('e', 'o'): 1}",bailleou,Bascons,{},{'e': 1},"{('è', 'e'): 1}",bailléoun,Naujan-et-Postiac,{},{},"{('è', 'é'): 1, ('e', 'n'): 1}"
+bailléoun,Naujan-et-Postiac,baillèbe,Grignols-bis,{},{'n': 1},"{('é', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillèou,Cazères-sur-l'Adour,{},{'n': 1},"{('é', 'è'): 1}",baillèoue,Moulon,{},{},"{('é', 'è'): 1, ('n', 'e'): 1}"
+bailléount,Nérigean,baillao,Saint-Cricq-Chalosse,{},"{'u': 1, 'n': 1, 't': 1}","{('é', 'a'): 1}",baillaouo,Poudenx,{},{'t': 1},"{('é', 'a'): 1, ('n', 'o'): 1}",baillèouën,Saint-Germain-du-Puch,{'ë': 1},{'t': 1},"{('é', 'è'): 1}"
+baillèouën,Saint-Germain-du-Puch,bailléoue,Uzeste,{},{'n': 1},"{('è', 'é'): 1, ('ë', 'e'): 1}",baillabe,Laurède,{},"{'ë': 1, 'n': 1}","{('è', 'a'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",bailléount,Nérigean,{},{},"{('è', 'é'): 1, ('ë', 'n'): 1, ('n', 't'): 1}"
+bailléouenn,Saint-Quentin-de-Baron,bailléou,Salles,{},"{'e': 1, 'n': 2}",{},ballabé,Arengosse,{},"{'i': 1, 'e': 1, 'n': 2}","{('é', 'a'): 1, ('o', 'b'): 1, ('u', 'é'): 1}",,,,,
+bailléouent,Tizac-de-Curton,ballabe,Arjuzanx,{},"{'i': 1, 'u': 1, 'n': 1, 't': 1}","{('é', 'a'): 1, ('o', 'b'): 1}",,,,,,,,,,
+bailléoue,Béguey,baillèbe,Sendets,{},{'u': 1},"{('é', 'è'): 1, ('o', 'b'): 1}",bailléou,Gabarnac,{},{'e': 1},{},,,,,
+bailléoue,Cadillac,baillèoue,Cardan,{},{},"{('é', 'è'): 1}",baillébén,Camiran,{},{},"{('o', 'b'): 1, ('u', 'é'): 1, ('e', 'n'): 1}",bailleouen,Capian,{'n': 1},{},"{('é', 'e'): 1}"
+bailleouen,Capian,baillèbe,Saint-Michel-de-Fronsac,{},"{'u': 1, 'n': 1}","{('e', 'è'): 1, ('o', 'b'): 1}",bailléoue,Cadillac,{},{'n': 1},"{('e', 'é'): 1}",baïllabon,Sindères,{'a': 1},"{'u': 1, 'e': 1}","{('i', 'ï'): 1, ('e', 'b'): 1}"
+baillèoue,Cardan,baillèbe,Lerm-et-Musset,{},{'u': 1},"{('o', 'b'): 1}",bailléoue,Cadillac,{},{},"{('è', 'é'): 1}",baillét,Donzac,{},"{'u': 1, 'e': 1}","{('è', 'é'): 1, ('o', 't'): 1}"
+baillét,Donzac,baillèbe,Saint-Médard-d'Eyrans,{'è': 1},{},"{('é', 'b'): 1, ('t', 'e'): 1}",bailléou,Gabarnac,{'o': 1},{},"{('t', 'u'): 1}",baillèoue,Cardan,"{'è': 1, 'o': 1}",{},"{('é', 'u'): 1, ('t', 'e'): 1}"
+bailléou,Gabarnac,baillét,Donzac,{},{'u': 1},"{('o', 't'): 1}",bailléoue,Béguey,{'e': 1},{},{},baillaou,Marions,{},{},"{('é', 'a'): 1}"
+bailléoue,Langoiran-bis,bâillao,Villeneuve-de-Marsan,{},"{'u': 1, 'e': 1}","{('a', 'â'): 1, ('é', 'a'): 1}",baillèbe,Gironde-sur-Dropt,{},{'u': 1},"{('é', 'è'): 1, ('o', 'b'): 1}",,,,,
+bailléou,Langoiran,bailléoue,Blanquefort-bis,{'e': 1},{},{},,,,,,,,,,
+bailléou,Lestiac-sur-Garonne,baillaouo,Solférino,{'o': 1},{},"{('é', 'a'): 1}",baillébě,Morizès,{},{},"{('o', 'b'): 1, ('u', 'ě'): 1}",,,,,
+balléoueu,Loupiac,baillaouo,Biaudos,{'i': 1},{'u': 1},"{('é', 'a'): 1, ('e', 'o'): 1}",baillèbe,Gujan,{'i': 1},{'u': 2},"{('é', 'è'): 1, ('o', 'b'): 1}",bailléoue,Monprimblanc,{'i': 1},{'u': 1},{}
+bailléoue,Monprimblanc,bailléoue,Saint-Hilaire-de-la-Noaille,{},{},{},balléoueu,Loupiac,{'u': 1},{'i': 1},{},,,,,
+bailléoue,Omet,baillaioue,Paillet,{'a': 1},{},"{('é', 'i'): 1}",baillet,Caychac,{},"{'u': 1, 'e': 1}","{('é', 'e'): 1, ('o', 't'): 1}",baillèbe,La Teste-de-Buch,{},{'u': 1},"{('é', 'è'): 1, ('o', 'b'): 1}"
+baillaioue,Paillet,baillaioue,Rions,{},{},{},bailléoue,Omet,{},{'i': 1},"{('a', 'é'): 1}",baillèbe,Le Teich,{},"{'o': 1, 'u': 1}","{('a', 'è'): 1, ('i', 'b'): 1}"
+baillaioue,Rions,baillaioue,Paillet,{},{},{},,,,,,,,,,
+baillèou,Sainte-Croix-du-Mont,baillaou,Captieux-bis,{},{},"{('è', 'a'): 1}",baillèou,Le Taillan-Médoc,{},{},{},bâillèbe,Mazères,{},{},"{('a', 'â'): 1, ('o', 'b'): 1, ('u', 'e'): 1}"
+baillèoue,Villenave-de-Rions,baillèoue,Beychac-et-Caillau,{},{},{},baillaou,Captieux-bis,{},{'e': 1},"{('è', 'a'): 1}",baillèbe,Arbanats,{},{'u': 1},"{('o', 'b'): 1}"
+baillaou,Captieux-bis,baillèoue,Villenave-de-Rions,{'e': 1},{},"{('a', 'è'): 1}",baillèou,Sainte-Croix-du-Mont,{},{},"{('a', 'è'): 1}",bayaou,Captieux,{},{'l': 2},"{('i', 'y'): 1}"
+bayaou,Captieux,baillaibe,Léogeats,"{'i': 2, 'l': 1}",{},"{('y', 'l'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillèbe,Langon,"{'i': 1, 'l': 1}",{},"{('y', 'l'): 1, ('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillaou,Captieux-bis,"{'i': 1, 'l': 1}",{},"{('y', 'l'): 1}"
+bailléou,Escaudes,bailléoue,Bouliac,{'e': 1},{},{},baillèbe,Cérons,{},{},"{('é', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillaouo,Montsoué,{'o': 1},{},"{('é', 'a'): 1}"
+bailléoüe,Giscos,baillèbe,Bieujac,{},{'ü': 1},"{('é', 'è'): 1, ('o', 'b'): 1}",baillet,Caychac,{},"{'ü': 1, 'e': 1}","{('é', 'e'): 1, ('o', 't'): 1}",baillèbe,Saint-Pardon-de-Conques,{},{'ü': 1},"{('é', 'è'): 1, ('o', 'b'): 1}"
+bailléoüe,Saint-Michel-de-Castelnau,baïlléoüe,Cenon,{},{},"{('i', 'ï'): 1}",baillèbe,Saint-Émilion,{},{'ü': 1},"{('é', 'è'): 1, ('o', 'b'): 1}",baillèbe,Toulenne,{},{'ü': 1},"{('é', 'è'): 1, ('o', 'b'): 1}"
+baillèouë,Ambarès-et-Lagrave,baillaoue,La Sauvetat-du-Dropt,{},{},"{('è', 'a'): 1, ('ë', 'e'): 1}",baillaoue,Taller,{},{},"{('è', 'a'): 1, ('ë', 'e'): 1}",,,,,
+bailléoue,Ambès,bailléeu,Martignas-sur-Jalle,{},{'e': 1},"{('o', 'e'): 1}",baillaoua,Fieux,{},{},"{('é', 'a'): 1, ('e', 'a'): 1}",baillèoue,Beychac-et-Caillau,{},{},"{('é', 'è'): 1}"
+bailleoüe,Bassens,baillèou,Le Taillan-Médoc,{},{'e': 1},"{('e', 'è'): 1, ('ü', 'u'): 1}",baillèoue,Beychac-et-Caillau,{},{},"{('e', 'è'): 1, ('ü', 'u'): 1}",baillaoue,Villeneuve-de-Duras,{},{},"{('e', 'a'): 1, ('ü', 'u'): 1}"
+baillèoue,Beychac-et-Caillau,bailleoüe,Bassens,{},{},"{('è', 'e'): 1, ('u', 'ü'): 1}",baillèoue,Villenave-de-Rions,{},{},{},bailléoue,Ambès,{},{},"{('è', 'é'): 1}"
+bailléoue,Bouliac,baïllèou,Podensac,{},{'e': 1},"{('i', 'ï'): 1, ('é', 'è'): 1}",bailléou,Escaudes,{},{'e': 1},{},baillèoue,Carbon-Blanc-bis,{},{},"{('é', 'è'): 1}"
+baillèoue,Carbon-Blanc-bis,bailléoue,Bouliac,{},{},"{('è', 'é'): 1}",bailléoueu,Lacanau-de-Mios,{'u': 1},{},"{('è', 'é'): 1}",baillāouo,Boussès,{'a': 1},{},"{('è', '̄'): 1, ('e', 'o'): 1}"
+bailléoue,Carbon-Blanc,baillèbe,Pessac,{},{'u': 1},"{('é', 'è'): 1, ('o', 'b'): 1}",baillèben,Libourne,{},{},"{('é', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1, ('e', 'n'): 1}",bailléou,Lormont,{},{'e': 1},{}
+baïlléoüe,Cenon,bailléoue,Floirac,{},{},"{('ï', 'i'): 1, ('ü', 'u'): 1}",bailléoüe,Saint-Michel-de-Castelnau,{},{},"{('ï', 'i'): 1}",,,,,
+bailléoue,Floirac,baillèbe,Saint-Sulpice-de-Faleyrens,{},{'u': 1},"{('é', 'è'): 1, ('o', 'b'): 1}",baïlléoüe,Cenon,{},{},"{('i', 'ï'): 1, ('u', 'ü'): 1}",bailléou,Lormont,{},{'e': 1},{}
+bailléou,Lormont,baillaouo,Houeillès-bis,{'o': 1},{},"{('é', 'a'): 1}",bailléoue,Carbon-Blanc,{'e': 1},{},{},bailléoue,Floirac,{'e': 1},{},{}
+bailléoue,Montussan,baillèbe,Saint-Loubès,{},{'u': 1},"{('é', 'è'): 1, ('o', 'b'): 1}",bailléoue,Cussac-Fort-Médoc,{},{},{},baillaouo,Bruch-bis,{},{},"{('é', 'a'): 1, ('e', 'o'): 1}"
+baillèbe,Saint-Loubès,bailléoueun,Lanton,"{'é': 1, 'u': 1, 'n': 1}",{},"{('è', 'o'): 1, ('b', 'u'): 1}",bailléoue,Montussan,{'é': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1}",baillaouo,Lauzun-tet,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}"
+baillèbe,Saint-Louis-de-Montferrand,bailléoüe,Virelade,{'é': 1},{},"{('è', 'o'): 1, ('b', 'ü'): 1}",baillèoue,Saint-Sulpice-et-Cameyrac,{'o': 1},{},"{('b', 'u'): 1}",,,,,
+baillèoue,Saint-Sulpice-et-Cameyrac,baïlléoue,Saint-Vincent-de-Paul,{},{},"{('i', 'ï'): 1, ('è', 'é'): 1}",baillèoue,Lège,{},{},{},baillèbe,Saint-Louis-de-Montferrand,{},{'u': 1},"{('o', 'b'): 1}"
+baïlléoue,Saint-Vincent-de-Paul,baillèbe,Flaujagues,{},{'u': 1},"{('ï', 'i'): 1, ('é', 'è'): 1, ('o', 'b'): 1}",baillèoue,Saint-Sulpice-et-Cameyrac,{},{},"{('ï', 'i'): 1, ('é', 'è'): 1}",,,,,
+baillabe,Sainte-Eulalie,bailleben,Saint-Martin-de-Sescas,{'n': 1},{},"{('a', 'e'): 1}",baillèbe,Juillac,{},{},"{('a', 'è'): 1}",,,,,
+bayéoue,Tresses-bis,baillèoueu,Peujard,"{'i': 1, 'l': 1, 'u': 1}",{},"{('y', 'l'): 1, ('é', 'è'): 1}",baillèbe,Pessac-sur-Dordogne,{'i': 1},{},"{('y', 'l'): 1, ('é', 'l'): 1, ('o', 'è'): 1, ('u', 'b'): 1}",,,,,
+baillèoue,Tresses,ballèbe,Rauzan,{},"{'i': 1, 'u': 1}","{('o', 'b'): 1}",baillèbeun,Saint-Pey-de-Castets,{'b': 1},{},"{('o', 'e'): 1, ('e', 'n'): 1}",baillèbe,Cubzac-les-Ponts,{},{'u': 1},"{('o', 'b'): 1}"
+bailléoueu,Yvrac,bailléoueu,Arcins,{},{},{},bailléou,Barie,{},"{'e': 1, 'u': 1}",{},baillaouo,Bon-Encontre,{},{'u': 1},"{('é', 'a'): 1, ('e', 'o'): 1}"
+bailléoueu,Arcins,baillèoue,Parempuyre,{},{'u': 1},"{('é', 'è'): 1}",bailléoueu,Yvrac,{},{},{},bailleoueu,Virsac,{},{},"{('é', 'e'): 1}"
+bailléou,Arsac-bis,bailléoue,Cantenac,{'e': 1},{},{},bailléou,Saint-Gervais,{},{},{},bailléou,Lamarque,{},{},{}
+bailléoueu,Arsac,baillèou,Castelnau-de-Médoc,{},"{'u': 1, 'e': 1}","{('é', 'è'): 1}",baillèoue,Parempuyre,{},{'u': 1},"{('é', 'è'): 1}",bailléoue,Cantenac,{},{'u': 1},{}
+bailléoue,Cantenac,bailleou,Salignac,{},{'e': 1},"{('é', 'e'): 1}",bailléou,Arsac-bis,{},{'e': 1},{},bailléoueu,Arsac,{'u': 1},{},{}
+baillèou,Castelnau-de-Médoc,bailléoueun,Lanton,"{'e': 1, 'u': 1, 'n': 1}",{},"{('è', 'é'): 1}",bailléoueu,Arsac,"{'u': 1, 'e': 1}",{},"{('è', 'é'): 1}",bailléoue,Cussac-Fort-Médoc,{'e': 1},{},"{('è', 'é'): 1}"
+bailléoue,Cussac-Fort-Médoc,bailléoue,Montussan,{},{},{},baillèou,Castelnau-de-Médoc,{},{'e': 1},"{('é', 'è'): 1}",baïllabou,Lacanau,{'a': 1},{'e': 1},"{('i', 'ï'): 1, ('é', 'b'): 1}"
+baïaou,Labarde,baillaœu,Saint-Aubin-de-Médoc,"{'i': 1, 'l': 1}",{},"{('ï', 'l'): 1, ('o', 'œ'): 1}",baïllabou,Lacanau,"{'l': 2, 'b': 1}",{},{},baillèbe,Caudrot,"{'i': 1, 'l': 1}",{},"{('ï', 'l'): 1, ('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}"
+baïllabou,Lacanau,baïaou,Labarde,{},"{'l': 2, 'b': 1}",{},bailléoue,Cussac-Fort-Médoc,{'e': 1},{'b': 1},"{('ï', 'i'): 1, ('a', 'é'): 1}",bailléou,Lamarque,{},{'b': 1},"{('ï', 'i'): 1, ('a', 'é'): 1}"
+bailléou,Lamarque,bailléou,Arsac-bis,{},{},{},baillèbe,Saint-André-du-Bois,{},{},"{('é', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baïllabou,Lacanau,{'a': 1},{},"{('i', 'ï'): 1, ('é', 'b'): 1}"
+baillèbe,Le Porge,bailléoue,Audenge-bis,{'é': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1}",baillébe,Saint-Germain-de-Grave,{},{},"{('è', 'é'): 1}",baillébe,Le Temple,{},{},"{('è', 'é'): 1}"
+baillébe,Le Temple,baillèbe,Verdelais,{},{},"{('é', 'è'): 1}",baillèbe,Le Porge,{},{},"{('é', 'è'): 1}",,,,,
+baillabe,Listrac-Médoc,baillaö,Villeton,{},{'e': 1},"{('b', 'ö'): 1}",baillèbe,Pujols-bis,{},{},"{('a', 'è'): 1}",,,,,
+bäillèoue,Margaux,baïllaouo,Artigues,{},{},"{('ä', 'a'): 1, ('i', 'ï'): 1, ('è', 'a'): 1, ('e', 'o'): 1}",baillaoue,Saint-Médard-en-Jalles,{},{},"{('ä', 'a'): 1, ('è', 'a'): 1}",baillaoua,Saint-Front-sur-Lémance-Bonaguil,{},{},"{('ä', 'a'): 1, ('è', 'a'): 1, ('e', 'a'): 1}"
+baillèoue,Moulis-en-Médoc-bis,baillaoue,Saint-Médard-en-Jalles,{},{},"{('è', 'a'): 1}",baillaoube,Sainte-Foy-la-Grande-ter,{'b': 1},{},"{('è', 'a'): 1}",baillaouo,Estillac,{},{},"{('è', 'a'): 1, ('e', 'o'): 1}"
+baillèoue,Moulis-en-Médoc,baillait,Bègles,{},{'e': 1},"{('è', 'a'): 1, ('o', 'i'): 1, ('u', 't'): 1}",baillèbe,Gornac,{},{'u': 1},"{('o', 'b'): 1}",,,,,
+bailléoue,Sainte-Hélène,baillaoue,Cazalis,{},{},"{('é', 'a'): 1}",,,,,,,,,,
+bailléoue,Salaunes,baillèoue,Soussans,{},{},"{('é', 'è'): 1}",baillèbe,Chartrons,{},{'u': 1},"{('é', 'è'): 1, ('o', 'b'): 1}",baillébe,Castillon-la-Bataille-bis,{},{'u': 1},"{('o', 'b'): 1}"
+bailléou,Saumos,bailléoue,Bernos-Beaulac,{'e': 1},{},{},baillèoue,Soussans,{'e': 1},{},"{('é', 'è'): 1}",baillèoue,Belvès-de-Castillon,{'e': 1},{},"{('é', 'è'): 1}"
+baillèoue,Soussans,bailléou,Saumos,{},{'e': 1},"{('è', 'é'): 1}",baillèbe,Saint-Pey-d'Armens,{},{'u': 1},"{('o', 'b'): 1}",bailléoue,Salaunes,{},{},"{('è', 'é'): 1}"
+baillèoue,Belvès-de-Castillon,baillébe,Castillon-la-Bataille-bis,{},{'u': 1},"{('è', 'é'): 1, ('o', 'b'): 1}",bailléoué,Gajac,{},{},"{('è', 'é'): 1, ('e', 'é'): 1}",bailléou,Saumos,{},{'e': 1},"{('è', 'é'): 1}"
+baillébe,Castillon-la-Bataille-bis,baillabe,Le Bouscat,{},{},"{('é', 'a'): 1}",baillèoue,Belvès-de-Castillon,{'è': 1},{},"{('é', 'o'): 1, ('b', 'u'): 1}",bailléoue,Salaunes,{'o': 1},{},"{('b', 'u'): 1}"
+baillèbe,Castillon-la-Bataille,baillèoue,Bourg-bis,{'o': 1},{},"{('b', 'u'): 1}",bailleoueu,Puisseguin,"{'e': 1, 'u': 1}",{},"{('è', 'o'): 1, ('b', 'u'): 1}",baillèou,Classun,{},{},"{('b', 'o'): 1, ('e', 'u'): 1}"
+baillèbe,Gardegan,bailléoueun,Lucmau,"{'é': 1, 'u': 1, 'n': 1}",{},"{('è', 'o'): 1, ('b', 'u'): 1}",baillaoube,Villandraut-bis,"{'a': 1, 'o': 1}",{},"{('è', 'u'): 1}",,,,,
+baillèbe,Saint-Étienne-de-Lisse,bouillébe,Paulhiac,{'o': 1},{},"{('a', 'u'): 1, ('è', 'é'): 1}",bailléoue,Audenge-bis,{'é': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1}",baïllèbe,Saint-Genès-de-Castillon,{},{},"{('i', 'ï'): 1}"
+baïllèbe,Saint-Genès-de-Castillon,baillèbe,Saint-Étienne-de-Lisse,{},{},"{('ï', 'i'): 1}",baillèbe,Balizac,{},{},"{('ï', 'i'): 1}",baillèbe,Saint-Laurent-des-Combes,{},{},"{('ï', 'i'): 1}"
+baillèbe,Saint-Laurent-des-Combes,baillèbe,Saint-Symphorien-bis,{},{},{},bailléoue,Aire-sur-l'Adour,{'é': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1}",baïllèbe,Saint-Genès-de-Castillon,{},{},"{('i', 'ï'): 1}"
+baillèbe,Saint-Magne-de-Castillon,baillèbe,Saint-Pey-d'Armens,{},{},{},baillèoue,Birac,{'o': 1},{},"{('b', 'u'): 1}",,,,,
+baillèbe,Saint-Pey-d'Armens,baillèoue,Soussans,{'o': 1},{},"{('b', 'u'): 1}",baillèbe,Saint-Magne-de-Castillon,{},{},{},baillèbe,Saint-Philippe-d'Aiguille,{},{},{}
+baillèbe,Saint-Philippe-d'Aiguille,baillèbe,Sainte-Terre,{},{},{},baillèbe,Saint-Pey-d'Armens,{},{},{},baillèbe,Eugénie-les-Bains,{},{},{}
+baillèbent,Sainte-Colombe,baillèbe,Chartrons,{},"{'n': 1, 't': 1}",{},baillèbe,Sainte-Terre,{},"{'n': 1, 't': 1}",{},,,,,
+baillèbe,Sainte-Terre,baillèbent,Sainte-Colombe,"{'n': 1, 't': 1}",{},{},baillèbe,Saint-Philippe-d'Aiguille,{},{},{},baillèbe,Vignonet,{},{},{}
+baillèbe,Vignonet,baillèbe,Sainte-Terre,{},{},{},baillaoue,Savignac-sur-Leyze,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1}",,,,,
+baillèbe,Saint-Antoine-sur-l'Isle,baillèbe,Saint-Agnet,{},{},{},baillèoue,Le Nizan,{'o': 1},{},"{('b', 'u'): 1}",baillében,Baurech,{'n': 1},{},"{('è', 'é'): 1}"
+baillében,Baurech,baillèbe,Saint-Antoine-sur-l'Isle,{},{'n': 1},"{('é', 'è'): 1}",baillèoue,Gauriac,{'è': 1},{'n': 1},"{('é', 'o'): 1, ('b', 'u'): 1}",baillèbe,Camarsac,{},{'n': 1},"{('é', 'è'): 1}"
+baillèbeunn,Bonnetan,baillèbe,Camarsac,{},"{'u': 1, 'n': 2}",{},baillaioueu,Saint-Côme,{},{},"{('è', 'a'): 1, ('b', 'i'): 1, ('e', 'o'): 1, ('n', 'e'): 1, ('n', 'u'): 1}",baillèbe,Sarron,{},"{'u': 1, 'n': 2}",{}
+baillèbe,Camarsac,baïllet,Tauriac,{},{'e': 1},"{('i', 'ï'): 1, ('è', 'e'): 1, ('b', 't'): 1}",baillèbeunn,Bonnetan,"{'u': 1, 'n': 2}",{},{},baillében,Baurech,{'n': 1},{},"{('è', 'é'): 1}"
+baillèbe,Cambes,bailliou,Cénac,{},{},"{('è', 'i'): 1, ('b', 'o'): 1, ('e', 'u'): 1}",baillèbe,Vielle-Tursan,{},{},{},baillèben,Camblanes-et-Meynac,{'n': 1},{},{}
+baillèben,Camblanes-et-Meynac,bailléoue,Branne-bis,{'é': 1},{'n': 1},"{('è', 'o'): 1, ('b', 'u'): 1}",baillèbe,Cambes,{},{'n': 1},{},baillèbe,Carignan-de-Bordeaux,{},{'n': 1},{}
+baillèbe,Carignan-de-Bordeaux,baillèbe,Amou,{},{},{},baillèoue,Branne,{'o': 1},{},"{('b', 'u'): 1}",baillèben,Camblanes-et-Meynac,{'n': 1},{},{}
+bailliou,Cénac,baillèbe,Cambes,{},{},"{('i', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillèbe,Bassercles,{},{},"{('i', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",,,,,
+bailléou,Créon,baillèbe,Brassempouy,{},{},"{('é', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",,,,,,,,,,
+baillèbe,Haux,baillabe,Castelnau-Chalosse,{},{},"{('è', 'a'): 1}",baillaouo,Geloux,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",,,,,
+baillèbou,Latresne,bailléeu,Castel-Sarrazin,{},{'o': 1},"{('è', 'é'): 1, ('b', 'e'): 1}",bailla,Donzacq,{},"{'b': 1, 'o': 1, 'u': 1}","{('è', 'a'): 1}",baillabo,Campagne,{},{'u': 1},"{('è', 'a'): 1}"
+bailléoueu,Le Tourne,baillèbe,Cabara-bis,{},{'u': 2},"{('é', 'è'): 1, ('o', 'b'): 1}",baillèbe,Sallebœuf,{},{'u': 2},"{('é', 'è'): 1, ('o', 'b'): 1}",,,,,
+bailléoue,Lignan-de-Bordeaux,baïllèbe,Bommes,{},{'u': 1},"{('i', 'ï'): 1, ('é', 'è'): 1, ('o', 'b'): 1}",bailléoueun,Pompignac,"{'u': 1, 'n': 1}",{},{},baillèoue,Madirac,{},{},"{('é', 'è'): 1}"
+baillèoue,Madirac,bailléoue,Quinsac,{},{},"{('è', 'é'): 1}",bailléoue,Lignan-de-Bordeaux,{},{},"{('è', 'é'): 1}",,,,,
+bailléoueun,Pompignac,bailléoue,Lignan-de-Bordeaux,{},"{'u': 1, 'n': 1}",{},baillec,Sainte-Eulalie,{},"{'é': 1, 'o': 1, 'u': 1, 'n': 1}","{('u', 'c'): 1}",bailléoue,Quinsac,{},"{'u': 1, 'n': 1}",{}
+bailléoue,Quinsac,baillabe,Uza,{},{'u': 1},"{('é', 'a'): 1, ('o', 'b'): 1}",baillèoue,Madirac,{},{},"{('é', 'è'): 1}",bailléoueun,Pompignac,"{'u': 1, 'n': 1}",{},{}
+bãilléou,Sadirac,baïllèbe,Saint-Caprais-de-Bordeaux,{},{},"{('ã', 'a'): 1, ('i', 'ï'): 1, ('é', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",,,,,,,,,,
+baïllèbe,Saint-Caprais-de-Bordeaux,baillèbe,Sallebœuf,{},{},"{('ï', 'i'): 1}",baillèbe,Bénesse-lès-Dax,{},{},"{('ï', 'i'): 1}",bãilléou,Sadirac,{},{},"{('a', 'ã'): 1, ('ï', 'i'): 1, ('è', 'é'): 1, ('b', 'o'): 1, ('e', 'u'): 1}"
+baillèbe,Sallebœuf,bailléoueu,Le Tourne,"{'é': 1, 'u': 1}",{},"{('è', 'o'): 1, ('b', 'u'): 1}",baïllèbe,Saint-Caprais-de-Bordeaux,{},{},"{('i', 'ï'): 1}",,,,,
+baïllèbeun,Tabanac,bailléou,Joué,{},"{'e': 1, 'n': 1}","{('ï', 'i'): 1, ('è', 'é'): 1, ('b', 'o'): 1}",bailliou,Narrosse,{},"{'e': 1, 'n': 1}","{('ï', 'i'): 1, ('è', 'i'): 1, ('b', 'o'): 1}",,,,,
+baillèbe,Asques,baillèbe,Fronsac-bis,{},{},{},baillèbe,La Lande-de-Fronsac,{},{},{},,,,,
+baillemben,Cadillac-en-Fronsadais,baillèbe,Fronsac-bis,{},"{'m': 1, 'n': 1}","{('e', 'è'): 1}",bailléoueu,Belin-Béliet,{},{},"{('e', 'é'): 1, ('m', 'o'): 1, ('b', 'u'): 1, ('n', 'u'): 1}",baillèben,Fronsac,{},{'m': 1},"{('e', 'è'): 1}"
+baillèbe,Fronsac-bis,baillèt,Mées,{},{'e': 1},"{('b', 't'): 1}",baillemben,Cadillac-en-Fronsadais,"{'e': 1, 'n': 1}",{},"{('è', 'm'): 1}",baillèbe,Asques,{},{},{}
+baillèben,Fronsac,bailléoue,Samonac,{'é': 1},{'n': 1},"{('è', 'o'): 1, ('b', 'u'): 1}",baillèbe,La Lande-de-Fronsac,{},{'n': 1},{},baillemben,Cadillac-en-Fronsadais,{'e': 1},{},"{('è', 'm'): 1}"
+baillèbe,La Lande-de-Fronsac,baillèben,Fronsac,{'n': 1},{},{},baillèbe,Asques,{},{},{},,,,,
+baillèbe,Lugon-et-l'Île-du-Carnay,baillait,Bègles,{},{},"{('è', 'a'): 1, ('b', 'i'): 1, ('e', 't'): 1}",baillèbe,Saillans,{},{},{},,,,,
+baillèbe,Saillans,baillèbe,Lugon-et-l'Île-du-Carnay,{},{},{},baillèoue,Cabara,{'o': 1},{},"{('b', 'u'): 1}",baillèoue,Saint-Paul-lès-Dax,{'o': 1},{},"{('b', 'u'): 1}"
+bailleben,Saint-Germain-de-la-Rivière,baillèoue,Saint-Vincent-de-Paul,{'è': 1},{'n': 1},"{('e', 'o'): 1, ('b', 'u'): 1}",baillabe,Martillac,{},{'n': 1},"{('e', 'a'): 1}",baillèbe,Saint-Michel-de-Fronsac,{},{'n': 1},"{('e', 'è'): 1}"
+baillèbe,Saint-Michel-de-Fronsac,bailleben,Saint-Germain-de-la-Rivière,{'n': 1},{},"{('è', 'e'): 1}",bailleouen,Capian,"{'e': 1, 'n': 1}",{},"{('è', 'o'): 1, ('b', 'u'): 1}",,,,,
+baillèbeu,Saint-Romain-la-Virvée,baïéou,Saint-Magne,{},"{'è': 1, 'b': 1, 'e': 1}","{('i', 'ï'): 1, ('l', 'é'): 1, ('l', 'o'): 1}",baillaoube,Vérac,"{'a': 1, 'o': 1}",{'u': 1},"{('è', 'u'): 1}",,,,,
+baillaoube,Vérac,baillèbeu,Saint-Romain-la-Virvée,{'u': 1},"{'o': 1, 'u': 1}","{('a', 'è'): 1}",baillèbe,Villegouge,{},"{'o': 1, 'u': 1}","{('a', 'è'): 1}",,,,,
+baillèbe,Villegouge,baillèbe,Campin,{},{},{},baillaoube,Vérac,"{'a': 1, 'o': 1}",{},"{('è', 'u'): 1}",,,,,
+baillèbe,Campin,baillèbe,Villegouge,{},{},{},bailhébe,Cours-les-Bains,{},{},"{('l', 'h'): 1, ('è', 'é'): 1}",,,,,
+bailhébe,Cours-les-Bains,baillèoue,Castandet,{'l': 1},{},"{('h', 'è'): 1, ('é', 'o'): 1, ('b', 'u'): 1}",baillaouo,Lagrange,{'l': 1},{},"{('h', 'a'): 1, ('é', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",baillèbe,Campin,{},{},"{('h', 'l'): 1, ('é', 'è'): 1}"
+baillèbe,Grignols-bis,baillèben̈,Grignols,"{'n': 1, '̈': 1}",{},{},bailléoun,Naujan-et-Postiac,{'é': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'n'): 1}",baillaouo,Tercis-les-Bains,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}"
+baillèben̈,Grignols,baillèbe,Grignols-bis,{},"{'n': 1, '̈': 1}",{},bailléoue,Yzosse,{'é': 1},"{'n': 1, '̈': 1}","{('è', 'o'): 1, ('b', 'u'): 1}",,,,,
+baillaoue,Lavazan,bailléoue,Arx,{},{},"{('a', 'é'): 1}",baillèbe,Saucats,{},{'u': 1},"{('a', 'è'): 1, ('o', 'b'): 1}",,,,,
+baillèbe,Lerm-et-Musset,baillèoue,Cardan,{'o': 1},{},"{('b', 'u'): 1}",baillaou,Marions,{},{},"{('è', 'a'): 1, ('b', 'o'): 1, ('e', 'u'): 1}",,,,,
+baillaou,Marions,bailléou,Gabarnac,{},{},"{('a', 'é'): 1}",baillèbe,Lerm-et-Musset,{},{},"{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",,,,,
+baillèbe,Sendets,bailléoue,Béguey,{'é': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1}",,,,,,,,,,
+baïllaoue,Bégadan,baillaou,Blaignan,{},{'e': 1},"{('ï', 'i'): 1}",bailláoue,Bruges,{},{},"{('ï', 'i'): 1, ('a', 'á'): 1}",,,,,
+baillaou,Blaignan,baillèoue,Pondaurat,{'e': 1},{},"{('a', 'è'): 1}",baïllaoue,Bégadan,{'e': 1},{},"{('i', 'ï'): 1}",,,,,
+baillaé,Civrac,bailléoue,Jugazan,"{'é': 1, 'o': 1}",{},"{('a', 'u'): 1, ('é', 'e'): 1}",baillèoueu,Brocas,"{'è': 1, 'o': 1, 'u': 1}",{},"{('a', 'e'): 1, ('é', 'u'): 1}",baillaouo,Sorbets,"{'o': 1, 'u': 1}",{},"{('é', 'o'): 1}"
+baillaoue,Gaillan-en-Médoc,bailléoue,Jugazan,{},{},"{('a', 'é'): 1}",baillèbe,Samadet,{},{'u': 1},"{('a', 'è'): 1, ('o', 'b'): 1}",,,,,
+bailléoüe,Lesparre-Médoc,baillèouë,Labrit,{},{},"{('é', 'è'): 1, ('ü', 'u'): 1, ('e', 'ë'): 1}",baillèbe,Naujac-sur-Mer,{},{'ü': 1},"{('é', 'è'): 1, ('o', 'b'): 1}",,,,,
+baillèbe,Naujac-sur-Mer,bailléoüe,Lesparre-Médoc,{'é': 1},{},"{('è', 'o'): 1, ('b', 'ü'): 1}",,,,,,,,,,
+bailla,Ordonnac,baïllaouo,Urgons,"{'o': 2, 'u': 1}",{},"{('i', 'ï'): 1}",baillaouo,Serres-Gaston,"{'o': 2, 'u': 1}",{},{},bäillaoüe,Saint-Christoly-Médoc,"{'o': 1, 'ü': 1, 'e': 1}",{},"{('a', 'ä'): 1}"
+baillèoue,Queyrac,baillabe,Hinx,{},{'u': 1},"{('è', 'a'): 1, ('o', 'b'): 1}",bäillaoüe,Saint-Christoly-Médoc,{},{},"{('a', 'ä'): 1, ('è', 'a'): 1, ('u', 'ü'): 1}",baillayo,Sainte-Colombe,{'a': 1},"{'u': 1, 'e': 1}","{('è', 'y'): 1}"
+bäillaoüe,Saint-Christoly-Médoc,baillèoue,Queyrac,{},{},"{('ä', 'a'): 1, ('a', 'è'): 1, ('ü', 'u'): 1}",baillabe,Valeyrac,{},{'ü': 1},"{('ä', 'a'): 1, ('o', 'b'): 1}",bailla,Ordonnac,{},"{'o': 1, 'ü': 1, 'e': 1}","{('ä', 'a'): 1}"
+baillèbe,Saint-Germain-d'Esteuil,baillaouo,Serreslous-et-Arribans,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",bailléou,Artassenx,{},{},"{('è', 'é'): 1, ('b', 'o'): 1, ('e', 'u'): 1}",baillabou,Canenx-et-Réaut,{'o': 1},{},"{('è', 'a'): 1, ('e', 'u'): 1}"
+baillèbe,Saint-Seurin-de-Cadourne,baillhèbe,Cère,{'h': 1},{},{},,,,,,,,,,
+baillabo,Saint-Yzans-de-Médoc,baillèbe,Isle-Saint-Georges,{},{},"{('a', 'è'): 1, ('o', 'e'): 1}",baillabo,Mont-de-Marsan-bis,{},{},{},,,,,
+baillabe,Valeyrac,bäillaoüe,Saint-Christoly-Médoc,{'o': 1},{},"{('a', 'ä'): 1, ('b', 'ü'): 1}",balhabo,Saint-Avit,{},{'i': 1},"{('l', 'h'): 1, ('e', 'o'): 1}",,,,,
+baillèben,Vendays-Montalivet,baillabe,Beautiran,{},{'n': 1},"{('è', 'a'): 1}",,,,,,,,,,
+baillabe,Beautiran,baillabo,Saint-Martin-d'Oney,{},{},"{('e', 'o'): 1}",baillaou,Mimizan,{},{},"{('b', 'o'): 1, ('e', 'u'): 1}",baillèben,Vendays-Montalivet,{'n': 1},{},"{('a', 'è'): 1}"
+baillèbe,Cabanac-et-Villagrains,bäillèou,Préchac,{},{},"{('a', 'ä'): 1, ('b', 'o'): 1, ('e', 'u'): 1}",baillèbe,Castres-Gironde,{},{},{},bailhabe,Louer,{},{},"{('l', 'h'): 1, ('è', 'a'): 1}"
+baillabe,Cadaujac,balhabo,Saint-Pierre-du-Mont,{},{'i': 1},"{('l', 'h'): 1, ('e', 'o'): 1}",baillabe,Gousse,{},{},{},baillabo,Cassen,{},{},"{('e', 'o'): 1}"
+baillèbe,Castres-Gironde,baillèbe,Cabanac-et-Villagrains,{},{},{},baillèoue,Bourg-bis,{'o': 1},{},"{('b', 'u'): 1}",baillabe,Garrey,{},{},"{('è', 'a'): 1}"
+baillèbe,Isle-Saint-Georges,baillabe,Nousse,{},{},"{('è', 'a'): 1}",baillabo,Saint-Yzans-de-Médoc,{},{},"{('è', 'a'): 1, ('e', 'o'): 1}",baillèben,Ozourt,{'n': 1},{},{}
+baillébe,La Brède-bis,baillabe,Poyanne,{},{},"{('é', 'a'): 1}",baillèbe,Louchats,{},{},"{('é', 'è'): 1}",baillèbe,Onard,{},{},"{('é', 'è'): 1}"
+baillèbe,La Brède,bailhabe,Ousse-Suzan,{},{},"{('l', 'h'): 1, ('è', 'a'): 1}",baillèbe,Léognan,{},{},{},,,,,
+baillèbe,Léognan,baillèbe,La Brède,{},{},{},,,,,,,,,,
+baillabe,Martillac,bailleben,Saint-Germain-de-la-Rivière,{'n': 1},{},"{('a', 'e'): 1}",baillèoue,Saugnac-et-Cambran,{'è': 1},{},"{('a', 'o'): 1, ('b', 'u'): 1}",baillèbe,Saint-Médard-d'Eyrans,{},{},"{('a', 'è'): 1}"
+baillèbe,Saint-Médard-d'Eyrans,baillèbe,Saint-Morillon,{},{},{},baillét,Donzac,{},{'e': 1},"{('è', 'é'): 1, ('b', 't'): 1}",baillabe,Martillac,{},{},"{('è', 'a'): 1}"
+baillèbe,Saint-Morillon,baillèbe,Saint-Médard-d'Eyrans,{},{},{},baillèbeun,Blaignac,"{'u': 1, 'n': 1}",{},{},,,,,
+baillèbe,Saint-Selve,baillèbe,Saucats,{},{},{},baillèbeun,Blaignac,"{'u': 1, 'n': 1}",{},{},,,,,
+baillèbe,Saucats,baillaoue,Lavazan,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1}",baillèbe,Saint-Selve,{},{},{},baillèbe,Bagas,{},{},{}
+baillèbe,Bagas,baillèoue,Saubusse,{'o': 1},{},"{('b', 'u'): 1}",baillabo,Estigarde,{},{},"{('è', 'a'): 1, ('e', 'o'): 1}",baillèbe,Saucats,{},{},{}
+baillèbeun,Blaignac,baillèbe,Saint-Selve,{},"{'u': 1, 'n': 1}",{},baillèbe,Saint-Morillon,{},"{'u': 1, 'n': 1}",{},baillabo,Siest,{},"{'u': 1, 'n': 1}","{('è', 'a'): 1, ('e', 'o'): 1}"
+baillaben,Camiran-bis,baillabo,Ygos-Saint-Saturnin,{},{'n': 1},"{('e', 'o'): 1}",baillaba,Onesse-Laharie,{},{'n': 1},"{('e', 'a'): 1}",,,,,
+baillébén,Camiran,bailléoue,Cadillac,{},{},"{('b', 'o'): 1, ('é', 'u'): 1, ('n', 'e'): 1}",bailhabon,Baigts,{},{},"{('l', 'h'): 1, ('é', 'a'): 1, ('é', 'o'): 1}",,,,,
+baillèbe,Casseuil,ballaouo,Puyol-Cazalet,{},{},"{('i', 'l'): 1, ('l', 'a'): 1, ('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",baillèbe,Fontet,{},{},{},,,,,
+baillèbe,Fontet,baillèbe,Casseuil,{},{},{},baillâbe,Biscarosse-bis,{},{},"{('è', 'â'): 1}",baillabo,Doazit,{},{},"{('è', 'a'): 1, ('e', 'o'): 1}"
+baillèbe,Gironde-sur-Dropt-bis,baillèoue,Branne,{'o': 1},{},"{('b', 'u'): 1}",ly,Gaas,{},"{'b': 2, 'a': 1, 'i': 1, 'è': 1, 'e': 1}","{('l', 'y'): 1}",baillaben,Sorde-l'Abbaye,{'n': 1},{},"{('è', 'a'): 1}"
+baillèbe,Gironde-sur-Dropt,bailléoue,Langoiran-bis,{'é': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1}",baillao,Moustey,{},{'e': 1},"{('è', 'a'): 1, ('b', 'o'): 1}",,,,,
+baillèbe,Hure,y,Estibeaux,{},"{'a': 1, 'i': 1, 'l': 2, 'è': 1, 'b': 1, 'e': 1}","{('b', 'y'): 1}",baillèoue,Branne,{'o': 1},{},"{('b', 'u'): 1}",baillabo,Cagnotte,{},{},"{('è', 'a'): 1, ('e', 'o'): 1}"
+bailléou,La Réole-bis,baillabo,Saugnacq-et-Muret,{'a': 1},{'u': 1},"{('é', 'b'): 1}",bollavo,Mimbaste,{},{'u': 1},"{('a', 'o'): 1, ('i', 'l'): 1, ('l', 'a'): 1, ('é', 'v'): 1}",,,,,
+baillèbe,La Réole,baillabe,Blanquefort,{},{},"{('è', 'a'): 1}",balhave,Mouscardès,{},{'i': 1},"{('l', 'h'): 1, ('è', 'a'): 1, ('b', 'v'): 1}",,,,,
+baillère,Lamothe-Landerron,baillèbe,Loupiac-de-la-Réole,{},{},"{('r', 'b'): 1}",boillâvo,Tilh,{},{},"{('a', 'o'): 1, ('è', 'â'): 1, ('r', 'v'): 1, ('e', 'o'): 1}",,,,,
+baillèbe,Loupiac-de-la-Réole,baillère,Lamothe-Landerron,{},{},"{('b', 'r'): 1}",,,,,,,,,,
+bailléou,Mongauzy,bollè,Arue,{},"{'i': 1, 'o': 1, 'u': 1}","{('a', 'o'): 1, ('é', 'è'): 1}",,,,,,,,,,
+baillébě,Morizès,bailléou,Lestiac-sur-Garonne,{},{},"{('b', 'o'): 1, ('ě', 'u'): 1}",boillavo,Arouille,{},{},"{('a', 'o'): 1, ('é', 'a'): 1, ('b', 'v'): 1, ('ě', 'o'): 1}",,,,,
+balléoue,Noaillac,baillèben,Arveyres,{'i': 1},{},"{('é', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1, ('e', 'n'): 1}",baillèvo,Lugaut,"{'i': 1, 'è': 1}","{'u': 1, 'e': 1}","{('é', 'v'): 1}",,,,,
+bailléou,Pompéjac,bailléoue,Arcachon-bis,{'e': 1},{},{},baillavo,Roquefort,{'a': 1},{'u': 1},"{('é', 'v'): 1}",,,,,
+baillou,Saint-Hilaire-de-la-Noaille-bis,bailléoue,Saint-Hilaire-de-la-Noaille,"{'é': 1, 'e': 1}",{},{},baillèbe,Civrac-sur-Dordogne,{'è': 1},{},"{('o', 'b'): 1, ('u', 'e'): 1}",,,,,
+bailléoue,Saint-Hilaire-de-la-Noaille,bailléoue,Monprimblanc,{},{},{},baillou,Saint-Hilaire-de-la-Noaille-bis,{},"{'é': 1, 'e': 1}",{},,,,,
+bailléoue,Arcachon-bis,bailléou,Pompéjac,{},{'e': 1},{},bailléou,Arcachon,{},{'e': 1},{},,,,,
+bailléou,Arcachon,bailléoue,Arcachon-bis,{'e': 1},{},{},baillèbe,La Teste-de-Buch-bis,{},{},"{('é', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",,,,,
+bailléoueu,Cazaux,baillèbe,Gujan,{},{'u': 2},"{('é', 'è'): 1, ('o', 'b'): 1}",baillaouo,Lue,{},{'u': 1},"{('é', 'a'): 1, ('e', 'o'): 1}",,,,,
+baillèbe,Gujan,balléoueu,Loupiac,{'u': 1},{},"{('i', 'l'): 1, ('l', 'é'): 1, ('è', 'o'): 1, ('b', 'u'): 1}",bailléoueu,Cazaux,"{'é': 1, 'u': 1}",{},"{('è', 'o'): 1, ('b', 'u'): 1}",baillèbe,La Teste-de-Buch-bis,{},{},{}
+baillèbe,La Teste-de-Buch-bis,bailléou,Arcachon,{},{},"{('è', 'é'): 1, ('b', 'o'): 1, ('e', 'u'): 1}",baillèbe,Gujan,{},{},{},,,,,
+baillèbe,La Teste-de-Buch-ter,baïllaouo,Saint-Laurent-de-Gosse,{'a': 1},{},"{('i', 'ï'): 1, ('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",baillaouo,Aurice,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",,,,,
+baillèbe,La Teste-de-Buch,bailléoue,Omet,{'é': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1}",baillèbe,Bieujac,{},{},{},baillèbe,Le Teich,{},{},{}
+baillèbe,Le Teich,bailléou,Mestras,{},{},"{('è', 'é'): 1, ('b', 'o'): 1, ('e', 'u'): 1}",baillaioue,Paillet,"{'a': 1, 'i': 1}",{},"{('è', 'o'): 1, ('b', 'u'): 1}",baillèbe,La Teste-de-Buch,{},{},{}
+bailléou,Mestras,baillèbe,Le Teich,{},{},"{('é', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baïllèbe,Bommes,{},{},"{('i', 'ï'): 1, ('é', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",,,,,
+baillèbe,Bieujac,baillèbe,La Teste-de-Buch,{},{},{},bailléoüe,Giscos,{'é': 1},{},"{('è', 'o'): 1, ('b', 'ü'): 1}",baillèbe,Castets-en-Dorthe,{},{},{}
+baïllèbe,Bommes,baillèbe,Castets-en-Dorthe,{},{},"{('ï', 'i'): 1}",bailléoue,Lignan-de-Bordeaux,{'é': 1},{},"{('ï', 'i'): 1, ('è', 'o'): 1, ('b', 'u'): 1}",bailléou,Mestras,{},{},"{('ï', 'i'): 1, ('è', 'é'): 1, ('b', 'o'): 1, ('e', 'u'): 1}"
+baillèbe,Castets-en-Dorthe,baillaouo,Saint-Maurice-sur-Adour,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",baïllèbe,Bommes,{},{},"{('i', 'ï'): 1}",baillèbe,Bieujac,{},{},{}
+baillèben,Fargues,baillèbe,Langon-bis,{},{'n': 1},{},,,,,,,,,,
+baillèbe,Langon-bis,baillèben,Fargues,{'n': 1},{},{},ballaouo,Fargues,{},{},"{('i', 'l'): 1, ('l', 'a'): 1, ('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",,,,,
+baillèbe,Langon,bayaou,Captieux,{},"{'b': 1, 'e': 1}","{('i', 'y'): 1, ('l', 'a'): 1, ('l', 'o'): 1, ('è', 'u'): 1}",baillaouo,Larrivière-Saint-Savin,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",baillèbe,Budos,{},{},{}
+baillaibe,Léogeats,baillèbe,Saint-Pierre-de-Mons,{},{'i': 1},"{('a', 'è'): 1}",bayaou,Captieux,{},"{'l': 2, 'e': 1}","{('i', 'y'): 1, ('i', 'o'): 1, ('b', 'u'): 1}",bâillèbe,Mazères,{},{'i': 1},"{('a', 'â'): 1, ('a', 'è'): 1}"
+bâillèbe,Mazères,baillèou,Sainte-Croix-du-Mont,{},{},"{('â', 'a'): 1, ('b', 'o'): 1, ('e', 'u'): 1}",baillèbre,Roaillan,{'r': 1},{},"{('â', 'a'): 1}",baillaibe,Léogeats,{'a': 1},{},"{('â', 'a'): 1, ('è', 'i'): 1}"
+baillèbre,Roaillan,bâillèbe,Mazères,{},{'r': 1},"{('a', 'â'): 1}",baillaouo,Sarraziet,{},{},"{('è', 'a'): 1, ('b', 'o'): 1, ('r', 'u'): 1, ('e', 'o'): 1}",,,,,
+baillèbe,Saint-Pardon-de-Conques,bailléoüe,Giscos,{'é': 1},{},"{('è', 'o'): 1, ('b', 'ü'): 1}",bailliaouo,Capbreton,"{'i': 1, 'a': 1}",{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",baillèbe,Sauternes,{},{},{}
+baillèbe,Saint-Pierre-de-Mons,baillaouo,Labenne,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",baillaibe,Léogeats,{'a': 1},{},"{('è', 'i'): 1}",baillèbe,Sauternes,{},{},{}
+baillèbe,Sauternes,baillaouo,Saint-Sever,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",baillèbe,Saint-Pardon-de-Conques,{},{},{},baillèbe,Saint-Pierre-de-Mons,{},{},{}
+baillèbe,Toulenne,bailléoüe,Saint-Michel-de-Castelnau,{'é': 1},{},"{('è', 'o'): 1, ('b', 'ü'): 1}",baillaouo,Soustons,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",,,,,
+baillèben,Arveyres,baillaou,Tosse,{},{'n': 1},"{('è', 'a'): 1, ('b', 'o'): 1, ('e', 'u'): 1}",balléoue,Noaillac,{},{'n': 1},"{('i', 'l'): 1, ('l', 'é'): 1, ('è', 'o'): 1, ('b', 'u'): 1}",,,,,
+baillèbe,Civrac-sur-Dordogne,baillou,Saint-Hilaire-de-la-Noaille-bis,{},{'e': 1},"{('è', 'o'): 1, ('b', 'u'): 1}",bailléouen̈,Saint-Estèphe,"{'é': 1, 'n': 1, '̈': 1}",{},"{('è', 'o'): 1, ('b', 'u'): 1}",,,,,
+baillèbeu,Izon,baillaouo,Orx,{},{},"{('è', 'a'): 1, ('b', 'o'): 1, ('e', 'u'): 1, ('u', 'o'): 1}",baillèbe,Cissac-Médoc,{},{'u': 1},{},baillaouo,Saubrigues,{},{},"{('è', 'a'): 1, ('b', 'o'): 1, ('e', 'u'): 1, ('u', 'o'): 1}"
+baillébent,Libourne-bis,baillèben,Libourne,{},{'t': 1},"{('é', 'è'): 1}",baillaouo,Saubion,{},{'t': 1},"{('é', 'a'): 1, ('b', 'o'): 1, ('e', 'u'): 1, ('n', 'o'): 1}",baillébent,Pomerol,{},{},{}
+baillèben,Libourne,bailléoue,Carbon-Blanc,{'é': 1},{'n': 1},"{('è', 'o'): 1, ('b', 'u'): 1}",baillébent,Libourne-bis,{'t': 1},{},"{('è', 'é'): 1}",baillèben,Vayres,{},{},{}
+baillébent,Pomerol,baillébent,Libourne-bis,{},{},{},baillèbe,Pauillac,{},"{'n': 1, 't': 1}","{('é', 'è'): 1}",baillèben,Vayres,{},{'t': 1},"{('é', 'è'): 1}"
+baillèbe,Saint-Émilion,bailléoüe,Saint-Michel-de-Castelnau,{'é': 1},{},"{('è', 'o'): 1, ('b', 'ü'): 1}",baillèbe,Saint-Sulpice-de-Faleyrens,{},{},{},baillèbe,Roquebrune,{},{},{}
+baillèbe,Saint-Sulpice-de-Faleyrens,baillèbe,Saint-Émilion,{},{},{},bailléoue,Floirac,{'é': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1}",baillèben,Vayres,{'n': 1},{},{}
+baillèben,Vayres,baillèbe,Saint-Sulpice-de-Faleyrens,{},{'n': 1},{},baillèben,Libourne,{},{},{},baillébent,Pomerol,{'t': 1},{},"{('è', 'é'): 1}"
+baillèbe,Landerrouet-sur-Ségur,baillâouo,Argelouse,{'â': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",baillaouo,Angresse,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",baillèbe,Monségur,{},{},{}
+baillèbe,Monségur,baillâouo,Callen,{'â': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",baillaouo,Saint-Jean-de-Marsacq,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",baillèbe,Landerrouet-sur-Ségur,{},{},{}
+baillèbe,Roquebrune,baillaouo,Soorts-Hossegor,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",baillèbe,Saint-Émilion,{},{},{},baillèbe,Pauillac,{},{},{}
+baillèbe,Cissac-Médoc,baillèbeu,Izon,{'u': 1},{},{},baillaouo,Messanges,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",baillèbe,Pauillac,{},{},{}
+baillèbe,Pauillac,baillébent,Pomerol,"{'n': 1, 't': 1}",{},"{('è', 'é'): 1}",baillèbe,Cissac-Médoc,{},{},{},baillèbe,Roquebrune,{},{},{}
+bailléouen̈,Saint-Estèphe,baillèbe,Civrac-sur-Dordogne,{},"{'u': 1, 'n': 1, '̈': 1}","{('é', 'è'): 1, ('o', 'b'): 1}",baillèbe,Saint-Julien-Beychevelle,{},"{'u': 1, 'n': 1, '̈': 1}","{('é', 'è'): 1, ('o', 'b'): 1}",,,,,
+baillèbe,Saint-Julien-Beychevelle,baillaouo,Saint-Vincent-de-Tyrosse,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",baillaouo,Sore,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",bailléouen̈,Saint-Estèphe,"{'é': 1, 'n': 1, '̈': 1}",{},"{('è', 'o'): 1, ('b', 'u'): 1}"
+baillèbe,Saint-Sauveur,baillaouo,Saint-Yaguen,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",baillèbe,Vertheuil,{},{},{},,,,,
+baillèbe,Vertheuil,baillaouo,Auriac-sur-Dropt,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",baillèbe,Saint-Sauveur,{},{},{},bailléou,Cazaugitat,{},{},"{('è', 'é'): 1, ('b', 'o'): 1, ('e', 'u'): 1}"
+bailléou,Cazaugitat,baillaouo,Saint-Sernin,{'o': 1},{},"{('é', 'a'): 1}",baillèbe,Vertheuil,{},{},"{('é', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",,,,,
+bailléoueu,Landerrouat,baillaoue,Massugas,{},{'u': 1},"{('é', 'a'): 1}",baillèou,Le Taillan-Médoc,{},"{'u': 1, 'e': 1}","{('é', 'è'): 1}",bailléounen,Listrac-de-Durèze,{'n': 1},{},"{('u', 'n'): 1}"
+bailléounen,Listrac-de-Durèze,bailléoueu,Landerrouat,{},{'n': 1},"{('n', 'u'): 1}",baillaouo,Soumensac,{},"{'e': 1, 'n': 1}","{('é', 'a'): 1, ('n', 'o'): 1}",baillaou,Monheurt,{},"{'n': 2, 'e': 1}","{('é', 'a'): 1}"
+baillaoue,Massugas,bailléoueu,Landerrouat,{'u': 1},{},"{('a', 'é'): 1}",bailléou,Pellegrue,{},{'e': 1},"{('a', 'é'): 1}",,,,,
+bailléou,Pellegrue,baillaouo,Puch-d'Agenais,{'o': 1},{},"{('é', 'a'): 1}",baillabe,Lamontjoie,{},{},"{('é', 'a'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillaoue,Massugas,{'e': 1},{},"{('é', 'a'): 1}"
+bailléoueun,Canéjan,bailléoue,Cestas,{},"{'u': 1, 'n': 1}",{},baillèbe,Illats,{},"{'u': 2, 'n': 1}","{('é', 'è'): 1, ('o', 'b'): 1}",baillaouo,Durance,{},"{'u': 1, 'n': 1}","{('é', 'a'): 1, ('e', 'o'): 1}"
+bailléoue,Cestas,baillèbe,Villenave-d'Ornon,{},{'u': 1},"{('é', 'è'): 1, ('o', 'b'): 1}",bailléoueun,Canéjan,"{'u': 1, 'n': 1}",{},{},baillaouo,Allons,{},{},"{('é', 'a'): 1, ('e', 'o'): 1}"
+baillèoueu,Gradignan,baillèbe,Landiras,{},{'u': 2},"{('o', 'b'): 1}",baillèbe,Villenave-d'Ornon,{},{'u': 2},"{('o', 'b'): 1}",baillèoueu,Mérignac,{},{},{}
+bailléeu,Martignas-sur-Jalle,baillèbe,Saint-Jean-d'Illac,{'è': 1},{'u': 1},"{('é', 'b'): 1}",bailléoue,Ambès,{'e': 1},{},"{('e', 'o'): 1}",baillèoueu,Mérignac,"{'è': 1, 'o': 1}",{},"{('é', 'u'): 1}"
+baillèoueu,Mérignac,bailléeu,Martignas-sur-Jalle,{},"{'o': 1, 'u': 1}","{('è', 'é'): 1}",baillèbe,Barsac,{},{'u': 2},"{('o', 'b'): 1}",baillèoueu,Gradignan,{},{},{}
+baillèbe,Pessac,baillèbe,Talence,{},{},{},bailléoue,Carbon-Blanc,{'é': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1}",baillèbe,Saint-Jean-d'Illac,{},{},{}
+baillèbe,Saint-Jean-d'Illac,baïlléou,Pujols-sur-Ciron,{},{},"{('i', 'ï'): 1, ('è', 'é'): 1, ('b', 'o'): 1, ('e', 'u'): 1}",bailléeu,Martignas-sur-Jalle,{},{},"{('è', 'é'): 1, ('b', 'e'): 1, ('e', 'u'): 1}",baillèbe,Pessac,{},{},{}
+baillèbe,Talence,baillèbe,Pessac,{},{},{},baillèbe,Villenave-d'Ornon,{},{},{},,,,,
+baillèbe,Villenave-d'Ornon,baillèoueu,Gradignan,"{'o': 1, 'u': 1}",{},"{('b', 'u'): 1}",bailléoue,Cestas,{'é': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1}",baillèbe,Talence,{},{},{}
+baillèbe,Arbanats,baillèbe,Barsac,{},{},{},baillèoue,Villenave-de-Rions,{'o': 1},{},"{('b', 'u'): 1}",baillèbe,Budos,{},{},{}
+baillèbe,Barsac,baillèoueu,Mérignac,"{'o': 1, 'u': 1}",{},"{('b', 'u'): 1}",baillèbe,Arbanats,{},{},{},baillèbe,Budos-bis,{},{},{}
+baillèbe,Budos-bis,baillèbe,Cérons,{},{},{},baléou,Portets,{},"{'i': 1, 'e': 1}","{('l', 'é'): 1, ('è', 'o'): 1, ('b', 'u'): 1}",baillèbe,Barsac,{},{},{}
+baillèbe,Budos,baillèbe,Arbanats,{},{},{},baillèbe,Langon,{},{},{},baillèbe,Guillos,{},{},{}
+baillèbe,Cérons,bailléou,Escaudes,{},{},"{('è', 'é'): 1, ('b', 'o'): 1, ('e', 'u'): 1}",baillèbe,Budos-bis,{},{},{},baillèbe,Guillos,{},{},{}
+baillèbe,Guillos,baillaouo,Montaut,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",baillèbe,Cérons,{},{},{},baillèbe,Budos,{},{},{}
+baillèbe,Illats,bailléoueun,Canéjan,"{'é': 1, 'u': 1, 'n': 1}",{},"{('è', 'o'): 1, ('b', 'u'): 1}",baillèbe,Landiras,{},{},{},baïllèou,Podensac,{},{},"{('i', 'ï'): 1, ('b', 'o'): 1, ('e', 'u'): 1}"
+baillèbe,Landiras,baillèbe,Illats,{},{},{},baillèoueu,Gradignan,"{'o': 1, 'u': 1}",{},"{('b', 'u'): 1}",baléou,Portets,{},"{'i': 1, 'e': 1}","{('l', 'é'): 1, ('è', 'o'): 1, ('b', 'u'): 1}"
+baïllèou,Podensac,baléou,Portets,{},"{'ï': 1, 'è': 1}","{('l', 'é'): 1}",bailléoue,Bouliac,{'e': 1},{},"{('ï', 'i'): 1, ('è', 'é'): 1}",baillèbe,Illats,{},{},"{('ï', 'i'): 1, ('o', 'b'): 1, ('u', 'e'): 1}"
+baléou,Portets,baillèbe,Budos-bis,"{'i': 1, 'l': 1}",{},"{('é', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baïllèou,Podensac,"{'ï': 1, 'l': 1}",{},"{('é', 'è'): 1}",baillèbe,Landiras,"{'i': 1, 'l': 1}",{},"{('é', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}"
+baillèbe,Preignac,baillaouo,Nomdieu,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",,,,,,,,,,
+baïlléou,Pujols-sur-Ciron,baillaon,Francescas,{},{},"{('ï', 'i'): 1, ('é', 'a'): 1, ('u', 'n'): 1}",baillèbe,Saint-Jean-d'Illac,{},{},"{('ï', 'i'): 1, ('é', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillaouo,Houeillès,{'o': 1},{},"{('ï', 'i'): 1, ('é', 'a'): 1}"
+balléouen,Saint-Michel-de-Rieufret,baillaouo,Bourgougnague,{'i': 1},{'n': 1},"{('é', 'a'): 1, ('e', 'o'): 1}",baillèbe,Aubie-et-Espessas,{'i': 1},"{'u': 1, 'n': 1}","{('é', 'è'): 1, ('o', 'b'): 1}",baillèbeu,Sainte-Radegonde,{'i': 1},{'u': 1},"{('é', 'è'): 1, ('o', 'b'): 1, ('n', 'u'): 1}"
+bailléoüe,Virelade,baillèbe,Saint-Vincent-de-Pertignas,{},{'ü': 1},"{('é', 'è'): 1, ('o', 'b'): 1}",baillèbe,Saint-Louis-de-Montferrand,{},{'ü': 1},"{('é', 'è'): 1, ('o', 'b'): 1}",bailhèoue,Doulezon,{},{},"{('l', 'h'): 1, ('é', 'è'): 1, ('ü', 'u'): 1}"
+bailhèoue,Doulezon,bailléoüe,Virelade,{},{},"{('h', 'l'): 1, ('è', 'é'): 1, ('u', 'ü'): 1}",baillaoué,Sauméjan,{},{},"{('h', 'l'): 1, ('è', 'a'): 1, ('e', 'é'): 1}",baillaouo,Laperche,{},{},"{('h', 'l'): 1, ('è', 'a'): 1, ('e', 'o'): 1}"
+baillèbe,Flaujagues,baillèbun,Gensac,{'u': 1},{},"{('e', 'n'): 1}",baïlléoue,Saint-Vincent-de-Paul,{'é': 1},{},"{('i', 'ï'): 1, ('è', 'o'): 1, ('b', 'u'): 1}",baillaouo,Saint-Pierre de Nogaret,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}"
+baillèbun,Gensac,baillèbe,Juillac,{},{'n': 1},"{('u', 'e'): 1}",baillèbe,Flaujagues,{},{'n': 1},"{('u', 'e'): 1}",,,,,
+baillèbe,Juillac,baillabe,Sainte-Eulalie,{},{},"{('è', 'a'): 1}",baillèbun,Gensac,{'u': 1},{},"{('e', 'n'): 1}",baillaouo,Sainte-Bazeille,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}"
+baillèbe,Mouliets,bailläouo,Sainte-Maure-de-Peyriac,{'ä': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",bailhèbe,Saint-Macaire,{},{},"{('l', 'h'): 1}",baillèbe,Pessac-sur-Dordogne,{},{},{}
+baillèbe,Pessac-sur-Dordogne,baillèbe,Mouliets,{},{},{},bayéoue,Tresses-bis,{},{'b': 1},"{('i', 'y'): 1, ('l', 'é'): 1, ('l', 'o'): 1, ('è', 'u'): 1}",baillaouo,Montignac-de-Lauzun,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}"
+baillèbe,Pujols-bis,baillabe,Listrac-Médoc,{},{},"{('è', 'a'): 1}",,,,,,,,,,
+baillèbe,Pujols,baillèbeu,Saint-Jean-de-Blaignac,{'u': 1},{},{},,,,,,,,,,
+ballèbe,Rauzan,baillaouo,Saint-Colomb-de-Lauzun,"{'i': 1, 'a': 1}",{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",baillèoue,Tresses,"{'i': 1, 'o': 1}",{},"{('b', 'u'): 1}",baillaoue,Sérignac-Péboudou,"{'i': 1, 'a': 1}",{},"{('è', 'o'): 1, ('b', 'u'): 1}"
+baillèbeu,Saint-Jean-de-Blaignac,baillaoue,Saint-Nazaire,{'a': 1},{'u': 1},"{('è', 'o'): 1, ('b', 'u'): 1}",baillèbe,Pujols,{},{'u': 1},{},,,,,
+baillèbeun,Saint-Pey-de-Castets,baillèoue,Tresses,{},{'e': 1},"{('b', 'o'): 1, ('n', 'e'): 1}",baillaouo,Longueville,{},{'e': 1},"{('è', 'a'): 1, ('b', 'o'): 1, ('n', 'o'): 1}",baillèbeu,Sainte-Radegonde,{},{'n': 1},{}
+baillèbe,Saint-Vincent-de-Pertignas,baillaouo,Fauguerolles,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",bailléoüe,Virelade,{'é': 1},{},"{('è', 'o'): 1, ('b', 'ü'): 1}",baillèbeu,Sainte-Radegonde,{'u': 1},{},{}
+baillèbeu,Sainte-Radegonde,balléouen,Saint-Michel-de-Rieufret,{},{},"{('i', 'l'): 1, ('l', 'é'): 1, ('è', 'o'): 1, ('b', 'u'): 1, ('u', 'n'): 1}",baillèbeun,Saint-Pey-de-Castets,{'n': 1},{},{},baillèbe,Saint-Vincent-de-Pertignas,{},{'u': 1},{}
+baillèbe,Aubie-et-Espessas,balléouen,Saint-Michel-de-Rieufret,{'n': 1},{},"{('i', 'l'): 1, ('l', 'é'): 1, ('è', 'o'): 1, ('b', 'u'): 1}",baillaoue,Barbaste,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1}",baillèbe,Cubzac-les-Ponts,{},{},{}
+baillèbe,Cubzac-les-Ponts,baullaouo,Méneau,{'a': 1},{},"{('i', 'u'): 1, ('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",baillèoue,Tresses,{'o': 1},{},"{('b', 'u'): 1}",baillèbe,Aubie-et-Espessas,{},{},{}
+baillèoueu,Peujard,bayéoue,Tresses-bis,{},"{'l': 1, 'è': 1, 'u': 1}","{('i', 'y'): 1, ('l', 'é'): 1}",bailléou,Saint-André-de-Cubzac,{},"{'u': 1, 'e': 1}","{('è', 'é'): 1}",baillaouo,Vianne,{},{'u': 1},"{('è', 'a'): 1, ('e', 'o'): 1}"
+bailléou,Saint-André-de-Cubzac,baillèoueu,Peujard,"{'u': 1, 'e': 1}",{},"{('é', 'è'): 1}",baillaouo,Xaintrailles,{'o': 1},{},"{('é', 'a'): 1}",,,,,
+bailléoueun,Saint-Antoine,baillao,Saint-Pardoux-du-Breuil,{},"{'u': 2, 'e': 1, 'n': 1}","{('é', 'a'): 1}",baillâouo,Gontaud-de-Nogaret-bis,{},"{'u': 1, 'n': 1}","{('é', 'â'): 1, ('e', 'o'): 1}",,,,,
+bailléou,Saint-Gervais,bailléou,Arsac-bis,{},{},{},baillèoue,Benon,{'e': 1},{},"{('é', 'è'): 1}",bailléoue,Saint-Laurent-d'Arce,{'e': 1},{},{}
+bailléoue,Saint-Laurent-d'Arce,baillèben,Le Pian-sur-Garonne,{},{},"{('é', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1, ('e', 'n'): 1}",bailléou,Saint-Gervais,{},{'e': 1},{},,,,,
+bailleou,Salignac,baillèoue,Benon,{'e': 1},{},"{('e', 'è'): 1}",bailléoue,Cantenac,{'e': 1},{},"{('e', 'é'): 1}",bailleoueu,Virsac,"{'e': 1, 'u': 1}",{},{}
+bailleoueu,Virsac,bailleou,Salignac,{},"{'e': 1, 'u': 1}",{},bailléoueu,Arcins,{},{},"{('e', 'é'): 1}",baillaouo,Colayrac-Saint-Cirq,{},{'u': 1},"{('e', 'a'): 1, ('e', 'o'): 1}"
+baillèoue,Benon,bailléou,Saint-Gervais,{},{'e': 1},"{('è', 'é'): 1}",bailleou,Salignac,{},{'e': 1},"{('è', 'e'): 1}",bailléoue,Carcans,{},{},"{('è', 'é'): 1}"
+bailléoue,Carcans,baillaouo,Foulayronnes,{},{},"{('é', 'a'): 1, ('e', 'o'): 1}",baillèt,Hourtin,{},"{'u': 1, 'e': 1}","{('é', 'è'): 1, ('o', 't'): 1}",baillèoue,Benon,{},{},"{('é', 'è'): 1}"
+baillèt,Hourtin,bailléoue,Carcans,"{'é': 1, 'o': 1}",{},"{('è', 'u'): 1, ('t', 'e'): 1}",baillaoue,Saint-Quentin-de-Caplong,"{'a': 1, 'o': 1}",{},"{('è', 'u'): 1, ('t', 'e'): 1}",,,,,
+baillèbe,Saint-Laurent-Médoc,baillèben,Le Pian-sur-Garonne,{'n': 1},{},{},baillaouo,Taillebourg,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",baillèbe,Caudrot,{},{},{}
+baillèbe,Caudrot,baillèbe,Saint-Laurent-Médoc,{},{},{},baïaou,Labarde,{},"{'b': 1, 'e': 1}","{('i', 'ï'): 1, ('l', 'a'): 1, ('l', 'o'): 1, ('è', 'u'): 1}",baillèbe,Saint-André-du-Bois,{},{},{}
+baillèben,Le Pian-sur-Garonne,bailléoue,Saint-Laurent-d'Arce,{'é': 1},{'n': 1},"{('è', 'o'): 1, ('b', 'u'): 1}",baillèbe,Saint-Laurent-Médoc,{},{'n': 1},{},baillèbe,Saint-André-du-Bois,{},{'n': 1},{}
+baillèbe,Saint-André-du-Bois,bailléou,Lamarque,{},{},"{('è', 'é'): 1, ('b', 'o'): 1, ('e', 'u'): 1}",baillèben,Le Pian-sur-Garonne,{'n': 1},{},{},baillèbe,Caudrot,{},{},{}
+baillébe,Saint-Germain-de-Grave,baillèbe,Le Porge,{},{},"{('é', 'è'): 1}",bailhaôuo,Saint-Sauveur-de-Meilhan,{'h': 1},{},"{('l', 'a'): 1, ('é', 'ô'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",baillèbe,Saint-Laurent-du-Bois,{},{},"{('é', 'è'): 1}"
+baillèbe,Saint-Laurent-du-Bois,baillébe,Saint-Germain-de-Grave,{},{},"{('è', 'é'): 1}",,,,,,,,,,
+bailhèbe,Saint-Macaire,baillèbe,Mouliets,{},{},"{('h', 'l'): 1}",baillec,Poudenas,{},{'e': 1},"{('h', 'l'): 1, ('è', 'e'): 1, ('b', 'c'): 1}",bailleben,Saint-Martin-de-Sescas,{'n': 1},{},"{('h', 'l'): 1, ('è', 'e'): 1}"
+bailémne,Saint-Maixant,bailléoue,Mios,{'l': 1},{},"{('m', 'o'): 1, ('n', 'u'): 1}",bailleben,Saint-Martin-de-Sescas,{'n': 1},{},"{('é', 'l'): 1, ('m', 'e'): 1, ('n', 'b'): 1}",,,,,
+bailleben,Saint-Martin-de-Sescas,bailémne,Saint-Maixant,{},{'n': 1},"{('l', 'é'): 1, ('e', 'm'): 1, ('b', 'n'): 1}",baillabe,Sainte-Eulalie,{},{'n': 1},"{('e', 'a'): 1}",bailhèbe,Saint-Macaire,{},{'n': 1},"{('l', 'h'): 1, ('e', 'è'): 1}"
+baillébeunn,Saint-Pierre-d'Aurillac,baillaouo,Peyrière,{},"{'e': 1, 'n': 1}","{('é', 'a'): 1, ('b', 'o'): 1, ('n', 'o'): 1}",baillaouo,Espiens,{},"{'e': 1, 'n': 1}","{('é', 'a'): 1, ('b', 'o'): 1, ('n', 'o'): 1}",baillaouo,Sos,{},"{'e': 1, 'n': 1}","{('é', 'a'): 1, ('b', 'o'): 1, ('n', 'o'): 1}"
+baillèbe,Verdelais,baillébe,Le Temple,{},{},"{('è', 'é'): 1}",baillèbe,Grayan-bis,{},{},{},baillèbe,Balizac,{},{},{}
+baillèbe,Balizac,baïllèbe,Saint-Genès-de-Castillon,{},{},"{('i', 'ï'): 1}",baillèbe,Verdelais,{},{},{},baillèbe,Grayan,{},{},{}
+baillaoue,Hostens,bailléoue,Le Verdon-sur-Mer,{},{},"{('a', 'é'): 1}",baillèbe,Le Tuzan,{},{'u': 1},"{('a', 'è'): 1, ('o', 'b'): 1}",,,,,
+baillèbe,Le Tuzan,baillaoue,Hostens,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1}",baillèbe,Louchats,{},{},{},,,,,
+baillèbe,Louchats,baillébe,La Brède-bis,{},{},"{('è', 'é'): 1}",baillèoue,Origne,{'o': 1},{},"{('b', 'u'): 1}",baillèbe,Le Tuzan,{},{},{}
+baillèoue,Origne,baillabo,Uchacq,{'a': 1},"{'u': 1, 'e': 1}","{('è', 'b'): 1}",baillèbe,Saint-Léger-de-Balson,{},{'u': 1},"{('o', 'b'): 1}",baillèbe,Louchats,{},{'u': 1},"{('o', 'b'): 1}"
+baillèbe,Saint-Léger-de-Balson,baillèoue,Origne,{'o': 1},{},"{('b', 'u'): 1}",baillabo,Clermont,{},{},"{('è', 'a'): 1, ('e', 'o'): 1}",baillèbe,Saint-Symphorien-bis,{},{},{}
+baillèbe,Saint-Symphorien-bis,baillèbe,Saint-Léger-de-Balson,{},{},{},baillèbe,Saint-Laurent-des-Combes,{},{},{},baillaouo,Montagnac-sur-Auvignon,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}"
+baillèbe,Saint-Symphorien,baillaouo,Castelnau-sur-Gupie,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",,,,,,,,,,
+baillèbe,Grayan-bis,baillèbe,Verdelais,{},{},{},baillèbe,Grayan,{},{},{},,,,,
+baillèbe,Grayan,baillaouo,Nérac-bis,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",baillèbe,Balizac,{},{},{},baillèbe,Grayan-bis,{},{},{}
+baillaben,Jau-Dignac-et-Loirac,baillabe,Lourquen,{},{'n': 1},{},bailléoue,Le Verdon-sur-Mer,{'é': 1},{'n': 1},"{('a', 'o'): 1, ('b', 'u'): 1}",,,,,
+bailléoue,Le Verdon-sur-Mer,baillaben,Jau-Dignac-et-Loirac,{},{},"{('é', 'a'): 1, ('o', 'b'): 1, ('u', 'e'): 1, ('e', 'n'): 1}",baillaoue,Hostens,{},{},"{('é', 'a'): 1}",bailléoue,Saint-Vivien-de-Médoc,{},{},{}
+bailléoue,Saint-Vivien-de-Médoc,bailléoue,Le Verdon-sur-Mer,{},{},{},,,,,,,,,,
+bailléoue,Soulac-sur-Mer,baillaouo,Mauvezin-sur-Gupie,{},{},"{('é', 'a'): 1, ('e', 'o'): 1}",,,,,,,,,,
+baillèoue,Talais,baillaouo,Calonges,{},{},"{('è', 'a'): 1, ('e', 'o'): 1}",,,,,,,,,,
+balléou,Vensac,bailléoue,La Roquille,"{'i': 1, 'e': 1}",{},{},baillèoue,Appelles,"{'i': 1, 'e': 1}",{},"{('é', 'è'): 1}",,,,,
+baillèoue,Appelles,balléou,Vensac,{},"{'i': 1, 'e': 1}","{('è', 'é'): 1}",baillèoue,Caplong,{},{},{},,,,,
+baillèoue,Caplong,baillaouo,Puymiclan,{},{},"{('è', 'a'): 1, ('e', 'o'): 1}",baillèoue,Appelles,{},{},{},,,,,
+bailléoueu,Eynesse,baillaouo,Sénestis,{},{'u': 1},"{('é', 'a'): 1, ('e', 'o'): 1}",bailléoue,La Roquille,{},{'u': 1},{},,,,,
+bailléoue,La Roquille,baïllaouon,Lachapelle,{'o': 1},{},"{('i', 'ï'): 1, ('é', 'a'): 1, ('e', 'n'): 1}",balléou,Vensac,{},"{'i': 1, 'e': 1}",{},bailléoueu,Eynesse,{'u': 1},{},{}
+bailleôue,Les Lèves-et-Thoumeyragues,baillaouo,Samazan,{},{},"{('e', 'a'): 1, ('ô', 'o'): 1, ('e', 'o'): 1}",baillaoube,Riocaud,{'b': 1},{},"{('e', 'a'): 1, ('ô', 'o'): 1}",bailléoue,Ligueux,{},{},"{('e', 'é'): 1, ('ô', 'o'): 1}"
+bailléoue,Ligueux,baillaouo,Lagruère,{},{},"{('é', 'a'): 1, ('e', 'o'): 1}",bailleôue,Les Lèves-et-Thoumeyragues,{},{},"{('é', 'e'): 1, ('o', 'ô'): 1}",bailléoueu,Pineuilh,{'u': 1},{},{}
+bailléoueu,Pineuilh,bailléoue,Ligueux,{},{'u': 1},{},,,,,,,,,,
+baillaoube,Riocaud,bailleôue,Les Lèves-et-Thoumeyragues,{},{'b': 1},"{('a', 'e'): 1, ('o', 'ô'): 1}",baillaou,Saint-Avit-de-Soulège,{},"{'b': 1, 'e': 1}",{},,,,,
+baillaou,Saint-Avit-de-Soulège,baillaoube,Riocaud,"{'b': 1, 'e': 1}",{},{},,,,,,,,,,
+baillàue,Saint-Avit-Saint-Nazaire,ballaouo,Monsempron-Libos,{},{},"{('i', 'l'): 1, ('l', 'a'): 1, ('à', 'o'): 1, ('e', 'o'): 1}",baillaouo,Agen,{'a': 1},{},"{('à', 'o'): 1, ('e', 'o'): 1}",,,,,
+baillaoue,Saint-Quentin-de-Caplong,baillèt,Hourtin,{},"{'u': 1, 'e': 1}","{('a', 'è'): 1, ('o', 't'): 1}",baillaouo,Le Passage,{},{},"{('e', 'o'): 1}",,,,,
+baillaoube,Sainte-Foy-la-Grande-bis,baillèoue,Auros,{},{'b': 1},"{('a', 'è'): 1}",baillaoube,Sainte-Foy-la-Grande-ter,{},{},{},,,,,
+baillaoube,Sainte-Foy-la-Grande-ter,baillèoue,Moulis-en-Médoc-bis,{},{'b': 1},"{('a', 'è'): 1}",baillaoube,Sainte-Foy-la-Grande-bis,{},{},{},baillâouö,Laplume-bis,{},{'e': 1},"{('a', 'â'): 1, ('b', 'ö'): 1}"
+bailleben,Sainte-Foy-la-Grande,baillaoue,Blasimon,{'a': 1},{'n': 1},"{('e', 'o'): 1, ('b', 'u'): 1}",,,,,,,,,,
+baillaoue,Blasimon,bailleben,Sainte-Foy-la-Grande,{},{},"{('a', 'e'): 1, ('o', 'b'): 1, ('u', 'e'): 1, ('e', 'n'): 1}",bailläoue,Castelviel,{},{},"{('a', 'ä'): 1}",,,,,
+bailläoue,Castelviel,baillaouo,Caudecoste,{},{},"{('ä', 'a'): 1, ('e', 'o'): 1}",baillaoue,Blasimon,{},{},"{('ä', 'a'): 1}",,,,,
+baillabe,Cleyrac,,,,,,,,,,,,,,,
+baillèbe,Coirac,baillaouo,Sauveterre-Saint-Denis,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",baillo,Cancon-bis,{},"{'b': 1, 'e': 1}","{('è', 'o'): 1}",baillaouo,Engayrac,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}"
+baillèbe,Gornac,baillèoue,Moulis-en-Médoc,{'o': 1},{},"{('b', 'u'): 1}",,,,,,,,,,
+baillèbe,Mérignas,baillèbe,Saint-Sulpice-de-Pommiers,{},{},{},baillabo,Blanquefort-sur-Briolance-La-Sauvetat,{},{},"{('è', 'a'): 1, ('e', 'o'): 1}",,,,,
+baillébe,Mourens,baillèbe,Ruch,{},{},"{('é', 'è'): 1}",,,,,,,,,,
+baillèbe,Ruch,baillébe,Mourens,{},{},"{('è', 'é'): 1}",baillèbe,Saint-Brice,{},{},{},,,,,
+baillèbe,Saint-Brice,bailaouo,Ferrensac,{},{},"{('l', 'a'): 1, ('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",baillèbe,Ruch,{},{},{},,,,,
+baillèbe,Saint-Félix-de-Foncaude,vaillaoué,Trémons,{'a': 1},{},"{('b', 'v'): 1, ('è', 'o'): 1, ('b', 'u'): 1, ('e', 'é'): 1}",baillaouo,Fumel-bis,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",,,,,
+baillèbe,Saint-Léger-de-Vignague,baïllaouo,Saint-Nicolas-de-la-Balerme,{'a': 1},{},"{('i', 'ï'): 1, ('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",baillèbe,Saint-Sulpice-de-Pommiers,{},{},{},baillaoua,Blanquefort-sur-Briolance,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'a'): 1}"
+baillèbe,Saint-Sulpice-de-Pommiers,baillèbe,Saint-Léger-de-Vignague,{},{},{},baillèbe,Mérignas,{},{},{},baillèbe,Sauveterre-de-Guyenne-bis,{},{},{}
+baillèbe,Sauveterre-de-Guyenne-bis,baillèbe,Saint-Sulpice-de-Pommiers,{},{},{},,,,,,,,,,
+baillabe,Sauveterre-de-Guyenne-ter,baillèbe,Arbis,{},{},"{('a', 'è'): 1}",,,,,,,,,,
+baillèbe,Sauveterre-de-Guyenne,baillaouo,Castang,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",baillaoue,Escoussans,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1}",,,,,
+baillèbe,Arbis,baillabe,Sauveterre-de-Guyenne-ter,{},{},"{('è', 'a'): 1}",baillabe,Baigneaux,{},{},"{('è', 'a'): 1}",,,,,
+baillabe,Baigneaux,ballaoua,Roquefort,{'o': 1},{'i': 1},"{('b', 'u'): 1, ('e', 'a'): 1}",baillaouo,Bonnenouvelle,{'o': 1},{},"{('b', 'u'): 1, ('e', 'o'): 1}",baillèbe,Arbis,{},{},"{('a', 'è'): 1}"
+baillaoue,Escoussans,baillèbe,Sauveterre-de-Guyenne,{},{'u': 1},"{('a', 'è'): 1, ('o', 'b'): 1}",baillaoua,La Croix-Blanche,{},{},"{('e', 'a'): 1}",,,,,
+baillabe,Faleyras,baillao,Montastruc,{},{'e': 1},"{('b', 'o'): 1}",baillaouo,La Sauvetat-de-Savères,{'o': 1},{},"{('b', 'u'): 1, ('e', 'o'): 1}",baillêbe,Frontenac,{},{},"{('a', 'ê'): 1}"
+baillêbe,Frontenac,baïllaouo,Saint-Martin-de-Beauville,{'a': 1},{},"{('i', 'ï'): 1, ('ê', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",baïllaoueu,Romagne,"{'a': 1, 'u': 1}",{},"{('i', 'ï'): 1, ('ê', 'o'): 1, ('b', 'u'): 1}",baillabe,Faleyras,{},{},"{('ê', 'a'): 1}"
+baillaoue,Ladaux,baillaoube,Lugasson,{'b': 1},{},{},bailléoübe,Soulignac,{'ü': 1},{},"{('a', 'é'): 1, ('u', 'b'): 1}",,,,,
+baillaoube,Lugasson,baillaoue,Ladaux,{},{'b': 1},{},baïllaoueu,Romagne,{},{},"{('i', 'ï'): 1, ('b', 'e'): 1, ('e', 'u'): 1}",,,,,
+baïllaoueu,Romagne,baillêbe,Frontenac,{},{'u': 2},"{('ï', 'i'): 1, ('a', 'ê'): 1, ('o', 'b'): 1}",baillaouo,Tayrac,{},{'u': 1},"{('ï', 'i'): 1, ('e', 'o'): 1}",baillaoube,Lugasson,{'b': 1},{'u': 1},"{('ï', 'i'): 1}"
+baillaoueun,Saint-Pierre-de-Bat,baillao,Monclar-bis,{},"{'u': 2, 'e': 1, 'n': 1}",{},baillaoua,Sérignac-sur-Garonne,{},"{'u': 1, 'n': 1}","{('e', 'a'): 1}",,,,,
+bailléoübe,Soulignac,baillaoue,Ladaux,{},{'b': 1},"{('é', 'a'): 1, ('ü', 'u'): 1}",baillaoué,Monclar,{},{'e': 1},"{('é', 'a'): 1, ('ü', 'u'): 1, ('b', 'é'): 1}",baillaouo,Saint-Étienne-de-Fougères,{},{'e': 1},"{('é', 'a'): 1, ('ü', 'u'): 1, ('b', 'o'): 1}"
+baillaoueu,Targon-bis,ballaouo,La Sauvetat-sur-Lède,{},"{'i': 1, 'u': 1}","{('e', 'o'): 1}",baillaouo,Lacapelle-Biron,{},{'u': 1},"{('e', 'o'): 1}",,,,,
+baillaoue,Targon,baillec,Pailloles,{},"{'u': 1, 'e': 1}","{('a', 'e'): 1, ('o', 'c'): 1}",baillaoue,Cazalis,{},{},{},,,,,
+baillaoue,Cazalis,bailláouo,Laussou,{},{},"{('a', 'á'): 1, ('e', 'o'): 1}",bailléoue,Sainte-Hélène,{},{},"{('a', 'é'): 1}",baillaoue,Targon,{},{},{}
+bailléoueun,Lucmau,baillèbe,Gardegan,{},"{'u': 2, 'n': 1}","{('é', 'è'): 1, ('o', 'b'): 1}",bailléwe,Gours,{},"{'u': 2, 'n': 1}","{('o', 'w'): 1}",,,,,
+baillèoueu,Noaillan,bailléoûe,Préchac-bis,{},{'u': 1},"{('è', 'é'): 1, ('u', 'û'): 1}",,,,,,,,,,
+bailléoûe,Préchac-bis,baillèoueu,Noaillan,{'u': 1},{},"{('é', 'è'): 1, ('û', 'u'): 1}",baillèbe,Francs,{},{'û': 1},"{('é', 'è'): 1, ('o', 'b'): 1}",,,,,
+bäillèou,Préchac,bailléoueu,Puynormand,"{'u': 1, 'e': 1}",{},"{('ä', 'a'): 1, ('è', 'é'): 1}",baillèbe,Cabanac-et-Villagrains,{},{},"{('ä', 'a'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",bailléoue,Uzeste,{'e': 1},{},"{('ä', 'a'): 1, ('è', 'é'): 1}"
+bailléoue,Uzeste,bäillèou,Préchac,{},{'e': 1},"{('a', 'ä'): 1, ('é', 'è'): 1}",baillèouën,Saint-Germain-du-Puch,{'ë': 1},{},"{('é', 'è'): 1, ('e', 'n'): 1}",baillaoube,Villandraut-bis,{'b': 1},{},"{('é', 'a'): 1}"
+baillaoube,Villandraut-bis,bailléoue,Uzeste,{},{'b': 1},"{('a', 'é'): 1}",baillèbe,Gardegan,{},"{'o': 1, 'u': 1}","{('a', 'è'): 1}",baille,Saint-Christophe-des-Bardes,{},"{'a': 1, 'o': 1, 'u': 1, 'b': 1}",{}
+bâilléoue,Villandraut,baillèbe,Francs,{},{'u': 1},"{('â', 'a'): 1, ('é', 'è'): 1, ('o', 'b'): 1}",bailléoueu,Duhort-Bachen,{'u': 1},{},"{('â', 'a'): 1}",bailleoueu,Puisseguin,{'u': 1},{},"{('â', 'a'): 1, ('é', 'e'): 1}"
+baillèbe,Francs,bailléoûe,Préchac-bis,{'é': 1},{},"{('è', 'o'): 1, ('b', 'û'): 1}",bâilléoue,Villandraut,{'é': 1},{},"{('a', 'â'): 1, ('è', 'o'): 1, ('b', 'u'): 1}",bailléwe,Gours,{},{},"{('è', 'é'): 1, ('b', 'w'): 1}"
+bailléwe,Gours,baille,Saint-Christophe-des-Bardes,{},"{'é': 1, 'w': 1}",{},bailléoueun,Lucmau,"{'o': 1, 'u': 1, 'n': 1}",{},"{('w', 'u'): 1}",baillèbe,Francs,{},{},"{('é', 'è'): 1, ('w', 'b'): 1}"
+bailleoueu,Puisseguin,baillèbe,Castillon-la-Bataille,{},{'u': 2},"{('e', 'è'): 1, ('o', 'b'): 1}",bailléoueu,Puynormand,{},{},"{('e', 'é'): 1}",bâilléoue,Villandraut,{},{'u': 1},"{('a', 'â'): 1, ('e', 'é'): 1}"
+bailléoueu,Puynormand,bailleoueu,Puisseguin,{},{},"{('é', 'e'): 1}",bäillèou,Préchac,{},"{'u': 1, 'e': 1}","{('a', 'ä'): 1, ('é', 'è'): 1}",baille,Saint-Christophe-des-Bardes,{},"{'é': 1, 'o': 1, 'u': 2}",{}
+baille,Saint-Christophe-des-Bardes,baillaoube,Villandraut-bis,"{'a': 1, 'o': 1, 'u': 1, 'b': 1}",{},{},bailléwe,Gours,"{'é': 1, 'w': 1}",{},{},bailléoueu,Puynormand,"{'é': 1, 'o': 1, 'u': 2}",{},{}
+bailléoue,Aire-sur-l'Adour,baillèbe,Saint-Laurent-des-Combes,{},{'u': 1},"{('é', 'è'): 1, ('o', 'b'): 1}",baillèbe,Buanes,{},{'u': 1},"{('é', 'è'): 1, ('o', 'b'): 1}",baillaouo,Montagnac-sur-Lède,{},{},"{('é', 'a'): 1, ('e', 'o'): 1}"
+baillaoueun̈,Bahus-Soubiran,baillèoue,Bourg-bis,{},"{'u': 1, 'n': 1, '̈': 1}","{('a', 'è'): 1}",baillèou,Classun,{},"{'e': 1, 'u': 1, 'n': 1, '̈': 1}","{('a', 'è'): 1}",baillèbe,Buanes,{},"{'u': 2, 'n': 1, '̈': 1}","{('a', 'è'): 1, ('o', 'b'): 1}"
+baillèbe,Buanes,bailléoue,Aire-sur-l'Adour,{'é': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1}",baillabe,Gamarde-les-Bains,{},{},"{('è', 'a'): 1}",baillaoueun̈,Bahus-Soubiran,"{'a': 1, 'u': 1, 'n': 1, '̈': 1}",{},"{('è', 'o'): 1, ('b', 'u'): 1}"
+baillèou,Classun,baillaoueun̈,Bahus-Soubiran,"{'e': 1, 'u': 1, 'n': 1, '̈': 1}",{},"{('è', 'a'): 1}",baillèbe,Castillon-la-Bataille,{},{},"{('o', 'b'): 1, ('u', 'e'): 1}",bailléoueu,Duhort-Bachen,"{'u': 1, 'e': 1}",{},"{('è', 'é'): 1}"
+bailléoueu,Duhort-Bachen,bâilléoue,Villandraut,{},{'u': 1},"{('a', 'â'): 1}",baillaoua,Monségur,{},{'u': 1},"{('é', 'a'): 1, ('e', 'a'): 1}",baillèou,Classun,{},"{'u': 1, 'e': 1}","{('é', 'è'): 1}"
+baillèbe,Eugénie-les-Bains,baillaoue,Auradou,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1}",baillèbe,Saint-Philippe-d'Aiguille,{},{},{},,,,,
+baillèbe,Latrille,baillèoǔ,Maillères,{},{},"{('b', 'o'): 1, ('e', 'ǔ'): 1}",baillèoue,Lussagnet,{'o': 1},{},"{('b', 'u'): 1}",,,,,
+baillèbe,Renung,baillaioue,Prignac-et-Marcamps,"{'a': 1, 'i': 1}",{},"{('è', 'o'): 1, ('b', 'u'): 1}",baillèbe,Saint-Agnet,{},{},{},baillèbe,Saint-Loubouer,{},{},{}
+baillèbe,Saint-Agnet,baillèbe,Renung,{},{},{},baillèbe,Saint-Antoine-sur-l'Isle,{},{},{},baillèbe,Sarron,{},{},{}
+baillèbe,Saint-Loubouer,baillèbe,Sarron,{},{},{},baillèoueu,Lansac,"{'o': 1, 'u': 1}",{},"{('b', 'u'): 1}",baillèbe,Renung,{},{},{}
+baillèbe,Sarron,baillèbeunn,Bonnetan,"{'u': 1, 'n': 2}",{},{},baillèbe,Saint-Loubouer,{},{},{},baillèbe,Saint-Agnet,{},{},{}
+baillèbe,Vielle-Tursan,baillèbe,Cambes,{},{},{},baillèbe,Amou-bis,{},{},{},baillèbe,Amou,{},{},{}
+baillèbe,Amou-bis,baillèbe,Vielle-Tursan,{},{},{},,,,,,,,,,
+baillèbe,Amou,baillèbe,Carignan-de-Bordeaux,{},{},{},baillèbe,Vielle-Tursan,{},{},{},,,,,
+baillèbe,Bassercles,bailliou,Cénac,{},{},"{('è', 'i'): 1, ('b', 'o'): 1, ('e', 'u'): 1}",baillèbe,Bonnegarde,{},{},{},baillaou,Tartas-bis,{},{},"{('è', 'a'): 1, ('b', 'o'): 1, ('e', 'u'): 1}"
+baillèbe,Bonnegarde,bailléoue,Branne-bis,{'é': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1}",baillèbe,Brassempouy,{},{},{},baillèbe,Bassercles,{},{},{}
+baillèbe,Brassempouy,baillèbe,Bonnegarde,{},{},{},bailléou,Créon,{},{},"{('è', 'é'): 1, ('b', 'o'): 1, ('e', 'u'): 1}",baillaouo,Souprosse,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}"
+bailléoueu,Castaignos-Souslens,baillaoué,Trentels,{},{'u': 1},"{('é', 'a'): 1, ('e', 'é'): 1}",,,,,,,,,,
+bailléeu,Castel-Sarrazin,baillèbou,Latresne,{'è': 1},{},"{('é', 'b'): 1, ('e', 'o'): 1}",baillaouo,Port-Sainte-Marie,{'o': 1},{},"{('é', 'a'): 1, ('e', 'o'): 1}",,,,,
+baillabe,Castelnau-Chalosse,baillèbe,Haux,{},{},"{('a', 'è'): 1}",,,,,,,,,,
+bailla,Donzacq,baillèbou,Latresne,"{'è': 1, 'b': 1, 'o': 1}",{},"{('a', 'u'): 1}",baillébeun,Marpaps,"{'é': 1, 'b': 1, 'e': 1, 'u': 1}",{},"{('a', 'n'): 1}",baillèbe,Gaujacq,"{'è': 1, 'b': 1}",{},"{('a', 'e'): 1}"
+baillèbe,Gaujacq,baillaouo,Laglorieuse,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",baillao,Campet,{},{'e': 1},"{('è', 'a'): 1, ('b', 'o'): 1}",bailla,Donzacq,{},"{'b': 1, 'e': 1}","{('è', 'a'): 1}"
+baillébeun,Marpaps,bailla,Donzacq,{},"{'b': 1, 'e': 1, 'u': 1, 'n': 1}","{('é', 'a'): 1}",,,,,,,,,,
+bailleoueu,Nassiet,baillaouo,Allez-et-Cazeneuve,{},{'u': 1},"{('e', 'a'): 1, ('e', 'o'): 1}",baillaouo,Saint-Hilaire-de-Lusignan,{},{'u': 1},"{('e', 'a'): 1, ('e', 'o'): 1}",,,,,
+baillèbeun,Pomarez,baillaouo,Astaffort-bis,{},{'e': 1},"{('è', 'a'): 1, ('b', 'o'): 1, ('n', 'o'): 1}",baillèbe,Castets,{},"{'u': 1, 'n': 1}",{},,,,,
+baillèbe,Castets,baillèbeun,Pomarez,"{'u': 1, 'n': 1}",{},{},,,,,,,,,,
+baillèoue,Léon,baillabo,Bourlens,{'a': 1},"{'u': 1, 'e': 1}","{('è', 'b'): 1}",,,,,,,,,,
+baillabe,Lévignacq,baillao,Sainte-Livrade-sur-Lot-bis,{},{'e': 1},"{('b', 'o'): 1}",,,,,,,,,,
+baillaoue,Linxe,baillèbe,Cabara-bis,{},{'u': 1},"{('a', 'è'): 1, ('o', 'b'): 1}",baillèbe,Lit-et-Mixe,{},{'u': 1},"{('a', 'è'): 1, ('o', 'b'): 1}",,,,,
+baillèbe,Lit-et-Mixe,baillabe,Saint-Michel-Escalus,{},{},"{('è', 'a'): 1}",baillaoue,Linxe,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1}",,,,,
+baillabe,Saint-Julien-en-Born,baillaoue,Taller,{'o': 1},{},"{('b', 'u'): 1}",baillaoue,Savignac-de-Duras,{'o': 1},{},"{('b', 'u'): 1}",baillabe,Saint-Michel-Escalus,{},{},{}
+baillabe,Saint-Michel-Escalus,baillabe,Saint-Julien-en-Born,{},{},{},baillèbe,Lit-et-Mixe,{},{},"{('a', 'è'): 1}",baillèbe,Vielle-Saint-Girons,{},{},"{('a', 'è'): 1}"
+baillaoue,Taller,baillèouë,Ambarès-et-Lagrave,{},{},"{('a', 'è'): 1, ('e', 'ë'): 1}",baillabe,Saint-Julien-en-Born,{},{'u': 1},"{('o', 'b'): 1}",baillabe,Uza,{},{'u': 1},"{('o', 'b'): 1}"
+baillabe,Uza,baillèbe,Vielle-Saint-Girons,{},{},"{('a', 'è'): 1}",bailléoue,Quinsac,{'é': 1},{},"{('a', 'o'): 1, ('b', 'u'): 1}",baillaoue,Taller,{'o': 1},{},"{('b', 'u'): 1}"
+baillèbe,Vielle-Saint-Girons,baillabe,Uza,{},{},"{('è', 'a'): 1}",baillabe,Saint-Michel-Escalus,{},{},"{('è', 'a'): 1}",,,,,
+baillèbe,Bénesse-lès-Dax,baïllèbe,Saint-Caprais-de-Bordeaux,{},{},"{('i', 'ï'): 1}",baillèbe,Dax-Saint-Vincent,{},{},{},,,,,
+baillabe,Candresse,baillèbe,Dax-Saint-Vincent,{},{},"{('a', 'è'): 1}",,,,,,,,,,
+baillèbe,Dax-Saint-Vincent,baillèbe,Cabara-bis,{},{},{},baillabe,Candresse,{},{},"{('è', 'a'): 1}",baillèbe,Bénesse-lès-Dax,{},{},{}
+baillébe,Dax,baillaioue,Herm,"{'a': 1, 'i': 1}",{},"{('é', 'o'): 1, ('b', 'u'): 1}",,,,,,,,,,
+baillaioue,Herm,bailléou,Heugas,{},"{'i': 1, 'e': 1}","{('a', 'é'): 1}",baillébe,Dax,{},"{'o': 1, 'u': 1}","{('a', 'é'): 1, ('i', 'b'): 1}",,,,,
+bailléou,Heugas,baillaioue,Herm,"{'a': 1, 'e': 1}",{},"{('é', 'i'): 1}",,,,,,,,,,
+baillèt,Mées,bailliou,Narrosse,{'i': 1},{},"{('è', 'o'): 1, ('t', 'u'): 1}",baillèbe,Fronsac-bis,{'b': 1},{},"{('t', 'e'): 1}",baillèoue,Oeyreluy,"{'o': 1, 'u': 1}",{},"{('t', 'e'): 1}"
+bailliou,Narrosse,baïllèbeun,Tabanac,"{'è': 1, 'n': 1}",{},"{('i', 'ï'): 1, ('i', 'b'): 1, ('o', 'e'): 1}",baillèt,Mées,{},{'u': 1},"{('i', 'è'): 1, ('o', 't'): 1}",baillèoue,Oeyreluy,{'e': 1},{},"{('i', 'è'): 1}"
+baillèoue,Oeyreluy,baillèt,Mées,{},"{'u': 1, 'e': 1}","{('o', 't'): 1}",bailliou,Narrosse,{},{'e': 1},"{('è', 'i'): 1}",,,,,
+baillèoue,Rivière-Saas-et-Gourby,baillèoue,Bourg,{},{},{},baillèou,Sablar,{},{'e': 1},{},baillèoue,Saint-Pandelon,{},{},{}
+baillèou,Sablar,baillèoue,Rivière-Saas-et-Gourby,{'e': 1},{},{},baillāouo,Coudures,"{'a': 1, 'o': 1}",{},"{('è', '̄'): 1}",,,,,
+baillèoue,Saint-Pandelon,baillaou,Saint-Seurin-de-Bourg,{},{'e': 1},"{('è', 'a'): 1}",baillèoue,Rivière-Saas-et-Gourby,{},{},{},,,,,
+baillèoue,Saint-Paul-lès-Dax,baillèbe,Saillans,{},{'u': 1},"{('o', 'b'): 1}",,,,,,,,,,
+baillèoue,Saint-Vincent-de-Paul,baillèoue,Saugnac-et-Cambran,{},{},{},bailleben,Saint-Germain-de-la-Rivière,{},{},"{('è', 'e'): 1, ('o', 'b'): 1, ('u', 'e'): 1, ('e', 'n'): 1}",baillaouo,Herré,{},{},"{('è', 'a'): 1, ('e', 'o'): 1}"
+baillèoue,Saubusse,baillaouo,Gabarret,{},{},"{('è', 'a'): 1, ('e', 'o'): 1}",baillèbe,Bagas,{},{'u': 1},"{('o', 'b'): 1}",baillabo,Siest,{'a': 1},"{'u': 1, 'e': 1}","{('è', 'b'): 1}"
+baillèoue,Saugnac-et-Cambran,baillabe,Martillac,{},{'u': 1},"{('è', 'a'): 1, ('o', 'b'): 1}",baillèoue,Saint-Vincent-de-Paul,{},{},{},baillabo,Siest,{'a': 1},"{'u': 1, 'e': 1}","{('è', 'b'): 1}"
+baillabo,Siest,baillèbeun,Blaignac,"{'e': 1, 'u': 1}",{},"{('a', 'è'): 1, ('o', 'n'): 1}",baillèoue,Saugnac-et-Cambran,{'è': 1},{},"{('a', 'o'): 1, ('b', 'u'): 1, ('o', 'e'): 1}",baillèoue,Saubusse,{'è': 1},{},"{('a', 'o'): 1, ('b', 'u'): 1, ('o', 'e'): 1}"
+baillaouo,Tercis-les-Bains,baillèbe,Grignols-bis,{},{'o': 1},"{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillaouo,Créon-d'Armagnac,{},{},{},,,,,
+baillèoue,Téthieu,baillèoue,Saint-Julien-d'Armagnac,{},{},{},baillaouo,Betbezer-d'Armagnac,{},{},"{('è', 'a'): 1, ('e', 'o'): 1}",,,,,
+bailléoue,Yzosse,bailléoue,Arx,{},{},{},baillèben̈,Grignols,{'è': 1},{},"{('é', 'b'): 1, ('o', 'e'): 1, ('u', 'n'): 1, ('e', '̈'): 1}",baillaouo,Créon-d'Armagnac,{},{},"{('é', 'a'): 1, ('e', 'o'): 1}"
+bailléoue,Arx,bailléoueu,Baudignan,{'u': 1},{},{},baillaoue,Lavazan,{},{},"{('é', 'a'): 1}",bailléoue,Yzosse,{},{},{}
+bailléoueu,Baudignan,baillêouo,Sainte-Meille,{},{'u': 1},"{('é', 'ê'): 1, ('e', 'o'): 1}",bailléoue,Arx,{},{'u': 1},{},baillaouo,Betbezer-d'Armagnac,{},{'u': 1},"{('é', 'a'): 1, ('e', 'o'): 1}"
+baillaouo,Betbezer-d'Armagnac,baillèoue,Téthieu,{},{},"{('a', 'è'): 1, ('o', 'e'): 1}",bailléoueu,Baudignan,{'e': 1},{},"{('a', 'é'): 1, ('o', 'u'): 1}",baillaouo,Créon-d'Armagnac,{},{},{}
+baillaouo,Créon-d'Armagnac,bailléoue,Yzosse,{},{},"{('a', 'é'): 1, ('o', 'e'): 1}",baillaouo,Tercis-les-Bains,{},{},{},baillaouo,Betbezer-d'Armagnac,{},{},{}
+baillabo,Estigarde,baillèbe,Bagas,{},{},"{('a', 'è'): 1, ('o', 'e'): 1}",baillaouo,Gabarret,{'o': 1},{},"{('b', 'u'): 1}",,,,,
+baillaouo,Gabarret,baillabo,Estigarde,{},{'u': 1},"{('o', 'b'): 1}",baillèoue,Saubusse,{},{},"{('a', 'è'): 1, ('o', 'e'): 1}",baillaouo,Herré,{},{},{}
+baillaouo,Herré,baillèoue,Saint-Vincent-de-Paul,{},{},"{('a', 'è'): 1, ('o', 'e'): 1}",baillaouo,Lagrange,{},{},{},baillaouo,Gabarret,{},{},{}
+baillaouo,Lagrange,bailhébe,Cours-les-Bains,{},{'o': 1},"{('l', 'h'): 1, ('a', 'é'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillaouo,Herré,{},{},{},,,,,
+báillait,Losse,bailléou,Génissac,{},{},"{('á', 'a'): 1, ('a', 'é'): 1, ('i', 'o'): 1, ('t', 'u'): 1}",,,,,,,,,,
+baillèoue,Mauvezin-d'Armagnac,baillèben,Nerbis,{},{},"{('o', 'b'): 1, ('u', 'e'): 1, ('e', 'n'): 1}",,,,,,,,,,
+baillèou,Parleboscq,,,,,,,,,,,,,,,
+baillèoue,Rimbez-et-Baudiets,baillèoue,Saint-Julien-d'Armagnac,{},{},{},bailléou,Bordères,{},{'e': 1},"{('è', 'é'): 1}",baillawo,Castelnau-Tursan,{'a': 1},"{'u': 1, 'e': 1}","{('è', 'w'): 1}"
+baillèoue,Saint-Julien-d'Armagnac,baillèoue,Téthieu,{},{},{},baillèoue,Rimbez-et-Baudiets,{},{},{},baillêouo,Sainte-Meille,{},{},"{('è', 'ê'): 1, ('e', 'o'): 1}"
+baillêouo,Sainte-Meille,bailléoueu,Baudignan,{'e': 1},{},"{('ê', 'é'): 1, ('o', 'u'): 1}",baillèoue,Saint-Julien-d'Armagnac,{},{},"{('ê', 'è'): 1, ('o', 'e'): 1}",,,,,
+baillèbo,Arboucave,baillèouo,Lauret,{'o': 1},{},"{('b', 'u'): 1}",baillèwo,Bats,{},{},"{('b', 'w'): 1}",baillaoue,Lacajunte,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1, ('o', 'e'): 1}"
+baillèwo,Bats,baillèbo,Arboucave,{},{},"{('w', 'b'): 1}",baillawo,Castelnau-Tursan,{},{},"{('è', 'a'): 1}",,,,,
+baillawo,Castelnau-Tursan,baillèoue,Rimbez-et-Baudiets,{'è': 1},{},"{('a', 'o'): 1, ('w', 'u'): 1, ('o', 'e'): 1}",baillèwo,Bats,{},{},"{('a', 'è'): 1}",,,,,
+baillabo,Geaune-bis,baillèt,Geaune,{},{'o': 1},"{('a', 'è'): 1, ('b', 't'): 1}",,,,,,,,,,
+baillèt,Geaune,baillabo,Geaune-bis,{'a': 1},{},"{('è', 'b'): 1, ('t', 'o'): 1}",baillaoue,Lacajunte,"{'a': 1, 'o': 1}",{},"{('è', 'u'): 1, ('t', 'e'): 1}",,,,,
+baillaoue,Lacajunte,baillèbo,Arboucave,{'è': 1},"{'u': 1, 'e': 1}","{('a', 'b'): 1}",baillèt,Geaune,{},"{'u': 1, 'e': 1}","{('a', 'è'): 1, ('o', 't'): 1}",,,,,
+baillèouo,Lauret,baillèbo,Arboucave,{},{'u': 1},"{('o', 'b'): 1}",baillèouo,Mauries,{},{},{},,,,,
+baillèouo,Mauries,baillâbo,Miramont-Sensacq,{},{'u': 1},"{('è', 'â'): 1, ('o', 'b'): 1}",baillèouo,Lauret,{},{},{},,,,,
+baillâbo,Miramont-Sensacq,baillèouo,Mauries,{'è': 1},{},"{('â', 'o'): 1, ('b', 'u'): 1}",,,,,,,,,,
+baillèouo,Philondenx,baillaouo,Saint-Médard,{},{},"{('è', 'a'): 1}",,,,,,,,,,
+baillabo,Pimbo,bailhaben,Oeyregave,{'e': 1},{},"{('l', 'h'): 1, ('o', 'n'): 1}",,,,,,,,,,
+ballaouo,Puyol-Cazalet,baillèbe,Casseuil,{'i': 1},{'o': 1},"{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",,,,,,,,,,
+baillèbe,Samadet,baillaoue,Gaillan-en-Médoc,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1}",baillaouo,Sorbets,{'a': 1},{},"{('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",,,,,
+baillaouo,Sorbets,baillèbe,Samadet,{},{'o': 1},"{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillaé,Civrac,{},"{'u': 1, 'o': 1}","{('o', 'é'): 1}",bailléou,Artassenx,{},{'o': 1},"{('a', 'é'): 1}"
+baïllaouo,Urgons,bailléou,Artassenx,{},{'o': 1},"{('ï', 'i'): 1, ('a', 'é'): 1}",bailla,Ordonnac,{},"{'o': 2, 'u': 1}","{('ï', 'i'): 1}",,,,,
+bailléou,Artassenx,baillèbe,Saint-Germain-d'Esteuil,{},{},"{('é', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baïllaouo,Urgons,{'o': 1},{},"{('i', 'ï'): 1, ('é', 'a'): 1}",baillaouo,Sorbets,{'o': 1},{},"{('é', 'a'): 1}"
+bailleou,Bascons,baillèoue,Moulon,{'e': 1},{},"{('e', 'è'): 1}",,,,,,,,,,
+baillabe,Benquet,,,,,,,,,,,,,,,
+bailléou,Bordères,baillèoue,Rimbez-et-Baudiets,{'e': 1},{},"{('é', 'è'): 1}",,,,,,,,,,
+baillèoue,Castandet,baillèou,Cazères-sur-l'Adour,{},{'e': 1},{},bailhébe,Cours-les-Bains,{},{'u': 1},"{('l', 'h'): 1, ('è', 'é'): 1, ('o', 'b'): 1}",baillèou,Grenade-sur-l'Adour,{},{'e': 1},{}
+baillèou,Cazères-sur-l'Adour,bailléoun,Naujan-et-Postiac,{'n': 1},{},"{('è', 'é'): 1}",baillèoue,Castandet,{'e': 1},{},{},bailléoue,Grenade-sur-l'Adour-bis,{'e': 1},{},"{('è', 'é'): 1}"
+bailléoue,Grenade-sur-l'Adour-bis,baillaouo,Morganx,{},{},"{('é', 'a'): 1, ('e', 'o'): 1}",baillèou,Cazères-sur-l'Adour,{},{'e': 1},"{('é', 'è'): 1}",,,,,
+baillèou,Grenade-sur-l'Adour,baillèoue,Castandet,{'e': 1},{},{},,,,,,,,,,
+ballèoue,Le Vignau,baillèoue,Lussagnet,{'i': 1},{},{},,,,,,,,,,
+baillèoue,Lussagnet,baillèbe,Latrille,{},{'u': 1},"{('o', 'b'): 1}",ballèoue,Le Vignau,{},{'i': 1},{},baillèoue,Maurrin,{},{},{}
+baillèoue,Maurrin,baillèoue,Lussagnet,{},{},{},,,,,,,,,,
+baillèoue,Aubagnan,baillaouo,Cazalis,{},{},"{('è', 'a'): 1, ('e', 'o'): 1}",baillaouo,Castelner,{},{},"{('è', 'a'): 1, ('e', 'o'): 1}",,,,,
+baillaouo,Castelner,baillèoue,Aubagnan,{},{},"{('a', 'è'): 1, ('o', 'e'): 1}",,,,,,,,,,
+baillaouo,Cazalis,baillèoue,Aubagnan,{},{},"{('a', 'è'): 1, ('o', 'e'): 1}",,,,,,,,,,
+baillabo,Hagetmau-bis,baillaouo,Labastide-Chalosse,{'o': 1},{},"{('b', 'u'): 1}",,,,,,,,,,
+baillaouo,Hagetmau,baillaouo,Horsarrieu,{},{},{},baillabo,Peyre,{},{'u': 1},"{('o', 'b'): 1}",,,,,
+baillaouo,Horsarrieu,baillèoue,Moulon,{},{},"{('a', 'è'): 1, ('o', 'e'): 1}",baillaouo,Hagetmau,{},{},{},,,,,
+baillaouo,Labastide-Chalosse,baillèouo,Momuy,{},{},"{('a', 'è'): 1}",baillabo,Hagetmau-bis,{},{'u': 1},"{('o', 'b'): 1}",,,,,
+baillaouo,Lacrabe,baillèouo,Monségur,{},{},"{('a', 'è'): 1}",,,,,,,,,,
+baillec,Mant,baillèouo,Momuy,"{'è': 1, 'o': 1}",{},"{('e', 'u'): 1, ('c', 'o'): 1}",baillaouo,Morganx,"{'a': 1, 'o': 1}",{},"{('e', 'u'): 1, ('c', 'o'): 1}",,,,,
+baillèouo,Momuy,baillec,Mant,{},"{'u': 1, 'o': 1}","{('è', 'e'): 1, ('o', 'c'): 1}",baillaouo,Labastide-Chalosse,{},{},"{('è', 'a'): 1}",baillèouo,Monségur,{},{},{}
+baillèouo,Monségur,baillaouo,Lacrabe,{},{},"{('è', 'a'): 1}",baillabo,Peyre,{},{'u': 1},"{('è', 'a'): 1, ('o', 'b'): 1}",baillèouo,Momuy,{},{},{}
+baillaouo,Morganx,baillabo,Peyre,{},{'u': 1},"{('o', 'b'): 1}",bailléoue,Grenade-sur-l'Adour-bis,{},{},"{('a', 'é'): 1, ('o', 'e'): 1}",baillec,Mant,{},"{'u': 1, 'o': 1}","{('a', 'e'): 1, ('o', 'c'): 1}"
+baillabo,Peyre,baillaouo,Hagetmau,{'o': 1},{},"{('b', 'u'): 1}",baillaouo,Morganx,{'o': 1},{},"{('b', 'u'): 1}",baillèouo,Monségur,{'è': 1},{},"{('a', 'o'): 1, ('b', 'u'): 1}"
+baillaouo,Poudenx,bailléount,Nérigean,{'n': 1},{},"{('a', 'é'): 1, ('o', 't'): 1}",baillao,Saint-Cricq-Chalosse,{},"{'u': 1, 'o': 1}",{},,,,,
+baillao,Saint-Cricq-Chalosse,baillaouo,Poudenx,"{'u': 1, 'o': 1}",{},{},bailléount,Nérigean,"{'u': 1, 'n': 1, 't': 1}",{},"{('a', 'é'): 1}",baillayo,Sainte-Colombe,{'y': 1},{},{}
+baillayo,Sainte-Colombe,baillao,Saint-Cricq-Chalosse,{},{'y': 1},{},baillèoue,Queyrac,{'è': 1},{},"{('a', 'o'): 1, ('y', 'u'): 1, ('o', 'e'): 1}",,,,,
+baillaouo,Serres-Gaston,bailla,Ordonnac,{},"{'o': 2, 'u': 1}",{},baillaouo,Serreslous-et-Arribans,{},{},{},baillaouo,Mézos,{},{},{}
+baillaouo,Serreslous-et-Arribans,baillaouo,Serres-Gaston,{},{},{},baillèbe,Saint-Germain-d'Esteuil,{},{'o': 1},"{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillaouo,Bélis,{},{},{}
+baillaouo,Bélis,baillabo,Aureilhan,{},{'u': 1},"{('o', 'b'): 1}",baillaouo,Serreslous-et-Arribans,{},{},{},,,,,
+baillèoueu,Brocas,baillaé,Civrac,{},"{'u': 2, 'e': 1}","{('è', 'a'): 1, ('o', 'é'): 1}",bailleou,Garein,{},"{'u': 1, 'e': 1}","{('è', 'e'): 1}",baillabou,Canenx-et-Réaut,{'a': 1},"{'u': 1, 'e': 1}","{('è', 'b'): 1}"
+baillabou,Canenx-et-Réaut,baillèbe,Saint-Germain-d'Esteuil,{},{'u': 1},"{('a', 'è'): 1, ('o', 'e'): 1}",baillèoueu,Brocas,{'è': 1},{},"{('a', 'o'): 1, ('b', 'u'): 1, ('o', 'e'): 1}",baillhèbe,Cère,{'h': 1},{'u': 1},"{('a', 'è'): 1, ('o', 'e'): 1}"
+baillhèbe,Cère,baillèouë,Labrit,{},{},"{('h', 'è'): 1, ('è', 'o'): 1, ('b', 'u'): 1, ('e', 'ë'): 1}",baillèbe,Saint-Seurin-de-Cadourne,{},{'h': 1},{},baillabou,Canenx-et-Réaut,{},{},"{('h', 'a'): 1, ('è', 'b'): 1, ('b', 'o'): 1, ('e', 'u'): 1}"
+bailleou,Garein,baillèouë,Labrit,{'ë': 1},{},"{('e', 'è'): 1}",baillèoueu,Brocas,"{'u': 1, 'e': 1}",{},"{('e', 'è'): 1}",,,,,
+baillèouë,Labrit,bailleou,Garein,{},{'ë': 1},"{('è', 'e'): 1}",bailléoüe,Lesparre-Médoc,{},{},"{('è', 'é'): 1, ('u', 'ü'): 1, ('ë', 'e'): 1}",baillhèbe,Cère,{'h': 1},{'ë': 1},"{('o', 'b'): 1, ('u', 'e'): 1}"
+baillèoǔ,Maillères,baillèbe,Latrille,{},{},"{('o', 'b'): 1, ('ǔ', 'e'): 1}",,,,,,,,,,
+bâillabo,Vert,,,,,,,,,,,,,,,
+baillabo,Aureilhan,baillaouo,Bélis,{'o': 1},{},"{('b', 'u'): 1}",baillaouo,Mézos,{'o': 1},{},"{('b', 'u'): 1}",,,,,
+baillaouo,Mézos,baillaouo,Serres-Gaston,{},{},{},baillabo,Aureilhan,{},{'u': 1},"{('o', 'b'): 1}",,,,,
+baillaouo,Mimizan-bis,baillaouo,Mazerolles,{},{},{},baillaouo,Pontenx-les-Forges,{},{},{},baillaou,Mimizan,{},{'o': 1},{}
+baillaou,Mimizan,baillabe,Beautiran,{},{},"{('o', 'b'): 1, ('u', 'e'): 1}",baillaouo,Mimizan-bis,{'o': 1},{},{},,,,,
+baillaouo,Pontenx-les-Forges,baillaouo,Mimizan-bis,{},{},{},baillaouo,Saint-Paul-en-Born,{},{},{},,,,,
+baillaouo,Saint-Paul-en-Born,baillaouo,Pontenx-les-Forges,{},{},{},,,,,,,,,,
+baillaouo,Bostens,,,,,,,,,,,,,,,
+baïllaouo,Bretagne-de-Marsan,baillèbe,Préchacq-les-Bains,{},{'o': 1},"{('ï', 'i'): 1, ('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillabo,Campagne,{},{'u': 1},"{('ï', 'i'): 1, ('o', 'b'): 1}",,,,,
+baillabo,Campagne,baïllaouo,Bretagne-de-Marsan,{'o': 1},{},"{('i', 'ï'): 1, ('b', 'u'): 1}",baillèbou,Latresne,{'u': 1},{},"{('a', 'è'): 1}",baillao,Campet,{},{'b': 1},{}
+baillao,Campet,baillèbe,Gaujacq,{'è': 1},{},"{('a', 'b'): 1, ('o', 'e'): 1}",baillaouo,Gaillères,"{'u': 1, 'o': 1}",{},{},baillabo,Campagne,{'b': 1},{},{}
+baillaouo,Gaillères,baillao,Campet,{},"{'u': 1, 'o': 1}",{},baillaouo,Haut-Mauco,{},{},{},,,,,
+baillaouo,Geloux,baillèbe,Haux,{},{'o': 1},"{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",,,,,,,,,,
+baillaouo,Haut-Mauco,baillaouo,Gaillères,{},{},{},baillaouo,Laglorieuse,{},{},{},,,,,
+baillaouo,Laglorieuse,baillaouo,Haut-Mauco,{},{},{},baillèbe,Gaujacq,{},{'o': 1},"{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",,,,,
+baillabou,Lucbardez-et-Bargues,,,,,,,,,,,,,,,
+baillaouo,Mazerolles,baillaouo,Mimizan-bis,{},{},{},baillabe,Montfort-en-Chalosse-bis,{},{'o': 1},"{('o', 'b'): 1, ('u', 'e'): 1}",,,,,
+baillabo,Mont-de-Marsan-bis,baillaben,Montfort-en-Chalosse,{'e': 1},{},"{('o', 'n'): 1}",baillabo,Saint-Yzans-de-Médoc,{},{},{},,,,,
+baillabo,Mont-de-Marsan,balhabo,Saint-Avit,{},{'i': 1},"{('l', 'h'): 1}",baillabe,Goos,{},{},"{('o', 'e'): 1}",balhabo,Saint-Pierre-du-Mont,{},{'i': 1},"{('l', 'h'): 1}"
+balhabo,Saint-Avit,baillabe,Valeyrac,{'i': 1},{},"{('h', 'l'): 1, ('o', 'e'): 1}",baillabo,Mont-de-Marsan,{'i': 1},{},"{('h', 'l'): 1}",baillabo,Saint-Martin-d'Oney,{'i': 1},{},"{('h', 'l'): 1}"
+baillabo,Saint-Martin-d'Oney,baillabo,Saint-Perdon,{},{},{},baillabe,Beautiran,{},{},"{('o', 'e'): 1}",balhabo,Saint-Avit,{},{'i': 1},"{('l', 'h'): 1}"
+baillabo,Saint-Perdon,baillabo,Saint-Martin-d'Oney,{},{},{},balhabo,Saint-Pierre-du-Mont,{},{'i': 1},"{('l', 'h'): 1}",,,,,
+balhabo,Saint-Pierre-du-Mont,baillabo,Mont-de-Marsan,{'i': 1},{},"{('h', 'l'): 1}",baillabe,Cadaujac,{'i': 1},{},"{('h', 'l'): 1, ('o', 'e'): 1}",baillabo,Saint-Perdon,{'i': 1},{},"{('h', 'l'): 1}"
+baillabo,Uchacq,baillabo,Clermont,{},{},{},baillèoue,Origne,{'è': 1},{},"{('a', 'o'): 1, ('b', 'u'): 1, ('o', 'e'): 1}",,,,,
+baillabo,Cassen,baillabe,Cadaujac,{},{},"{('o', 'e'): 1}",baillabe,Garrey,{},{},"{('o', 'e'): 1}",,,,,
+baillabo,Clermont,baillèbe,Saint-Léger-de-Balson,{},{},"{('a', 'è'): 1, ('o', 'e'): 1}",baillabo,Uchacq,{},{},{},baillabe,Gamarde-les-Bains,{},{},"{('o', 'e'): 1}"
+baillabe,Gamarde-les-Bains,baillèbe,Buanes,{},{},"{('a', 'è'): 1}",baillabo,Clermont,{},{},"{('e', 'o'): 1}",baillabe,Garrey,{},{},{}
+baillabe,Garrey,baillèbe,Castres-Gironde,{},{},"{('a', 'è'): 1}",baillabe,Gamarde-les-Bains,{},{},{},baillabo,Cassen,{},{},"{('e', 'o'): 1}"
+baillabe,Goos,baillabo,Mont-de-Marsan,{},{},"{('e', 'o'): 1}",baillabe,Hinx,{},{},{},baillabe,Gousse,{},{},{}
+baillabe,Gousse,baillabe,Cadaujac,{},{},{},baillabe,Goos,{},{},{},bailhabe,Louer,{},{},"{('l', 'h'): 1}"
+baillabe,Hinx,baillabe,Goos,{},{},{},baillèoue,Queyrac,{'è': 1},{},"{('a', 'o'): 1, ('b', 'u'): 1}",baillabe,Laurède,{},{},{}
+baillabe,Laurède,baillèouën,Saint-Germain-du-Puch,"{'è': 1, 'o': 1}",{},"{('a', 'u'): 1, ('b', 'ë'): 1, ('e', 'n'): 1}",bailhabe,Louer,{},{},"{('l', 'h'): 1}",baillabe,Hinx,{},{},{}
+bailhabe,Louer,baillabe,Laurède,{},{},"{('h', 'l'): 1}",baillèbe,Cabanac-et-Villagrains,{},{},"{('h', 'l'): 1, ('a', 'è'): 1}",baillabe,Gousse,{},{},"{('h', 'l'): 1}"
+baillabe,Lourquen,baillaben,Jau-Dignac-et-Loirac,{'n': 1},{},{},,,,,,,,,,
+baillabe,Montfort-en-Chalosse-bis,baillaouo,Mazerolles,{'o': 1},{},"{('b', 'u'): 1, ('e', 'o'): 1}",baillaben,Montfort-en-Chalosse,{'n': 1},{},{},,,,,
+baillaben,Montfort-en-Chalosse,baillabo,Mont-de-Marsan-bis,{},{'n': 1},"{('e', 'o'): 1}",baillabe,Montfort-en-Chalosse-bis,{},{'n': 1},{},,,,,
+baillabe,Nousse,baillèbe,Isle-Saint-Georges,{},{},"{('a', 'è'): 1}",baillèbe,Onard,{},{},"{('a', 'è'): 1}",,,,,
+baillèbe,Onard,baillébe,La Brède-bis,{},{},"{('è', 'é'): 1}",baillabe,Nousse,{},{},"{('è', 'a'): 1}",,,,,
+baillèben,Ozourt,baillèbe,Isle-Saint-Georges,{},{'n': 1},{},baillabe,Poyanne,{},{'n': 1},"{('è', 'a'): 1}",,,,,
+baillabe,Poyanne,baillébe,La Brède-bis,{},{},"{('a', 'é'): 1}",baillèben,Ozourt,{'n': 1},{},"{('a', 'è'): 1}",,,,,
+baïllaou,Poyartin,baillabe,Saint-Geours-d'Auribat,{},{},"{('ï', 'i'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",,,,,,,,,,
+baillèbe,Préchacq-les-Bains,baïllaouo,Bretagne-de-Marsan,{'a': 1},{},"{('i', 'ï'): 1, ('è', 'o'): 1, ('b', 'u'): 1, ('e', 'o'): 1}",,,,,,,,,,
+baillabe,Saint-Geours-d'Auribat,baïllaou,Poyartin,{},{},"{('i', 'ï'): 1, ('b', 'o'): 1, ('e', 'u'): 1}",,,,,,,,,,
+bailhabo,Saint-Jean-de-Lier,,,,,,,,,,,,,,,
+baillabe,Sort-en-Chalosse,ballabe,Vicq-d'Auribat,{},{'i': 1},{},,,,,,,,,,
+ballabe,Vicq-d'Auribat,baillabe,Sort-en-Chalosse,{'i': 1},{},{},,,,,,,,,,
+ballabé,Arengosse,ballabe,Arjuzanx,{},{},"{('é', 'e'): 1}",bailléouenn,Saint-Quentin-de-Baron,"{'i': 1, 'é': 1, 'o': 1, 'u': 1}",{},"{('a', 'e'): 1, ('b', 'n'): 1, ('é', 'n'): 1}",,,,,
+ballabe,Arjuzanx,baillabo,Garrosse,{'i': 1},{},"{('e', 'o'): 1}",bailléouent,Tizac-de-Curton,"{'i': 1, 'é': 1, 'n': 1, 't': 1}",{},"{('a', 'o'): 1, ('b', 'u'): 1}",ballabé,Arengosse,{},{},"{('e', 'é'): 1}"
+baillabo,Garrosse,baillabe,Morcenx-bourg,{},{},"{('o', 'e'): 1}",ballabe,Arjuzanx,{},{'i': 1},"{('o', 'e'): 1}",,,,,
+baillabe,Lesperon,baillaouo,Morcenx,{'o': 1},{},"{('b', 'u'): 1, ('e', 'o'): 1}",baillabe,Morcenx-bourg,{},{},{},,,,,
+baillabe,Morcenx-bourg,baillabe,Lesperon,{},{},{},baillabo,Garrosse,{},{},"{('e', 'o'): 1}",,,,,
+baillabè,Morcenx-gare,,,,,,,,,,,,,,,
+baillaouo,Morcenx,baillabe,Lesperon,{},{'o': 1},"{('o', 'b'): 1, ('u', 'e'): 1}",,,,,,,,,,
+baillaba,Onesse-Laharie,baïllabon,Sindères,{'o': 1},{},"{('i', 'ï'): 1, ('a', 'n'): 1}",baillaben,Camiran-bis,{'e': 1},{},"{('a', 'n'): 1}",,,,,
+bailhabe,Ousse-Suzan,baillèbe,La Brède,{},{},"{('h', 'l'): 1, ('a', 'è'): 1}",baïllabon,Sindères,{'o': 1},{},"{('i', 'ï'): 1, ('h', 'l'): 1, ('e', 'n'): 1}",,,,,
+baïllabon,Sindères,bailhabe,Ousse-Suzan,{},{'n': 1},"{('ï', 'i'): 1, ('l', 'h'): 1, ('o', 'e'): 1}",bailleouen,Capian,{'e': 1},{},"{('ï', 'i'): 1, ('a', 'o'): 1, ('b', 'u'): 1, ('o', 'e'): 1}",baillaba,Onesse-Laharie,{},{'n': 1},"{('ï', 'i'): 1, ('o', 'a'): 1}"
+baillabo,Ygos-Saint-Saturnin,baillaben,Camiran-bis,{'e': 1},{},"{('o', 'n'): 1}",bailhabon,Baigts,{'n': 1},{},"{('l', 'h'): 1}",,,,,
+bailhabon,Baigts,baillabo,Ygos-Saint-Saturnin,{},{'n': 1},"{('h', 'l'): 1}",baillébén,Camiran,{},{},"{('h', 'l'): 1, ('a', 'é'): 1, ('o', 'é'): 1}",,,,,
+bailla̩bon,Bergouey,,,,,,,,,,,,,,,
+baillabenn,Caupenne,baillèbën,Saint-Aubin,{},{'n': 1},"{('a', 'è'): 1, ('e', 'ë'): 1}",baullabo,Hauriet,{},{'n': 2},"{('i', 'u'): 1, ('e', 'o'): 1}",,,,,
+baillabo,Doazit,baillèbe,Fontet,{},{},"{('a', 'è'): 1, ('o', 'e'): 1}",baillaben,Toulouzette,{'e': 1},{},"{('o', 'n'): 1}",,,,,
+baullabo,Hauriet,baillabenn,Caupenne,"{'e': 1, 'n': 1}",{},"{('u', 'i'): 1, ('o', 'n'): 1}",baillabe,Lahosse,{},{},"{('u', 'i'): 1, ('o', 'e'): 1}",,,,,
+baillabe,Lahosse,baillèbe,Larbey,{},{},"{('a', 'è'): 1}",baullabo,Hauriet,{},{},"{('i', 'u'): 1, ('e', 'o'): 1}",,,,,
+baillèbe,Larbey,baillabe,Lahosse,{},{},"{('è', 'a'): 1}",baillabe,Maylis,{},{},"{('è', 'a'): 1}",,,,,
+baillabe,Maylis,baillèbe,Larbey,{},{},"{('a', 'è'): 1}",,,,,,,,,,
+baillèbe,Mugron-bis,baillèben,Nerbis,{'n': 1},{},{},,,,,,,,,,
+baillabe,Mugron,baillèben,Nerbis,{'n': 1},{},"{('a', 'è'): 1}",,,,,,,,,,
+baillèben,Nerbis,baillèoue,Mauvezin-d'Armagnac,{'o': 1},{'n': 1},"{('b', 'u'): 1}",baillèbe,Mugron-bis,{},{'n': 1},{},baillabe,Mugron,{},{'n': 1},"{('è', 'a'): 1}"
+baillèbën,Saint-Aubin,baillabenn,Caupenne,{'e': 1},{},"{('è', 'a'): 1, ('ë', 'n'): 1}",baillaben,Toulouzette,{},{},"{('è', 'a'): 1, ('ë', 'e'): 1}",,,,,
+baillaben,Toulouzette,baillabo,Doazit,{},{'n': 1},"{('e', 'o'): 1}",baillâbe,Biscarosse-bis,{},{'n': 1},"{('a', 'â'): 1}",baillèbën,Saint-Aubin,{},{},"{('a', 'è'): 1, ('e', 'ë'): 1}"
+baillâbe,Biscarosse-bis,baillèbe,Fontet,{},{},"{('â', 'è'): 1}",baillaben,Toulouzette,{'n': 1},{},"{('â', 'a'): 1}",,,,,
+baillabe,Biscarosse,baillaben,Gastes,{'n': 1},{},{},,,,,,,,,,
+baillaben,Gastes,baillabe,Biscarosse,{},{'n': 1},{},,,,,,,,,,
+baillèbe,Parentis-en-Born,boliavo,Misson,{},{'i': 1},"{('a', 'o'): 1, ('l', 'i'): 1, ('è', 'a'): 1, ('b', 'v'): 1, ('e', 'o'): 1}",baillabe,Sainte-Eulalie-en-Born,{},{},"{('è', 'a'): 1}",,,,,
+baillabe,Sainte-Eulalie-en-Born,baillèbe,Parentis-en-Born,{},{},"{('a', 'è'): 1}",baillaben,Bélus,{'n': 1},{},{},,,,,
+baillabe,Sanguinet,baillaben,Ychoux,{'n': 1},{},{},,,,,,,,,,
+baillaben,Ychoux,baillabe,Blanquefort,{},{'n': 1},{},baillabe,Sanguinet,{},{'n': 1},{},baillaben,Bélus,{},{},{}
+baillaben,Bélus,baillabe,Sainte-Eulalie-en-Born,{},{'n': 1},{},baillaben,Ychoux,{},{},{},,,,,
+baillabe,Cauneille,baïllèbe,Peyrehorade,{},{},"{('i', 'ï'): 1, ('a', 'è'): 1}",,,,,,,,,,
+baillaben,Hastingues,baillèbe,Port-de-Lanne,{},{'n': 1},"{('a', 'è'): 1}",,,,,,,,,,
+bailhaben,Oeyregave,baillabo,Pimbo,{},{'n': 1},"{('h', 'l'): 1, ('e', 'o'): 1}",baillaben,Orthevielle,{},{},"{('h', 'l'): 1}",,,,,
+baillabe,Orist,baillabe,Saint-Étienne-d'Orthe,{},{},{},baillaben,Orthevielle,{'n': 1},{},{},baillabe,Peyrehorade-bis,{},{},{}
+baillaben,Orthevielle,baillabe,Orist,{},{'n': 1},{},bailhaben,Oeyregave,{},{},"{('l', 'h'): 1}",baillèbe,Pey,{},{'n': 1},"{('a', 'è'): 1}"
+baillèbe,Pey,baillèbe,Port-de-Lanne,{},{},{},baillaben,Orthevielle,{'n': 1},{},"{('è', 'a'): 1}",,,,,
+baillabe,Peyrehorade-bis,baïllèbe,Peyrehorade,{},{},"{('i', 'ï'): 1, ('a', 'è'): 1}",baillabe,Orist,{},{},{},,,,,
+baïllèbe,Peyrehorade,baillabe,Cauneille,{},{},"{('ï', 'i'): 1, ('è', 'a'): 1}",baillabe,Peyrehorade-bis,{},{},"{('ï', 'i'): 1, ('è', 'a'): 1}",baillèbe,Port-de-Lanne,{},{},"{('ï', 'i'): 1}"
+baillèbe,Port-de-Lanne,baillèbe,Pey,{},{},{},baillaben,Hastingues,{'n': 1},{},"{('è', 'a'): 1}",baïllèbe,Peyrehorade,{},{},"{('i', 'ï'): 1}"
+bailhabén,Saint-Cricq-du-Gave,baillabe,Saint-Étienne-d'Orthe,{},{'n': 1},"{('h', 'l'): 1, ('é', 'e'): 1}",,,,,,,,,,
+baillabe,Saint-Étienne-d'Orthe,bailhabén,Saint-Cricq-du-Gave,{'é': 1},{},"{('l', 'h'): 1, ('e', 'n'): 1}",baillabe,Orist,{},{},{},,,,,
+baillabe,Saint-Lon-les-Mines,bailléoue,Branne-bis,{'é': 1},{},"{('a', 'o'): 1, ('b', 'u'): 1}",baillaben,Sorde-l'Abbaye,{'n': 1},{},{},,,,,
+baillaben,Sorde-l'Abbaye,baillabe,Saint-Lon-les-Mines,{},{'n': 1},{},baillèbe,Gironde-sur-Dropt-bis,{},{'n': 1},"{('a', 'è'): 1}",baillabo,Belhade,{},{'n': 1},"{('e', 'o'): 1}"
+baillabo,Belhade,baillaben,Sorde-l'Abbaye,{'e': 1},{},"{('o', 'n'): 1}",,,,,,,,,,
+baillabo,Biganon,baillabo,Liposthey,{},{},{},,,,,,,,,,
+baillabo,Liposthey,baillaouo,Mano,{'o': 1},{},"{('b', 'u'): 1}",baillaouo,Pissos,{'o': 1},{},"{('b', 'u'): 1}",baillabo,Biganon,{},{},{}
+baillaouo,Mano,baillèc,Antagnac,{},"{'u': 1, 'o': 1}","{('a', 'è'): 1, ('o', 'c'): 1}",baillabo,Liposthey,{},{'u': 1},"{('o', 'b'): 1}",baillao,Moustey,{},"{'u': 1, 'o': 1}",{}
+baillao,Moustey,baillèbe,Gironde-sur-Dropt,{'è': 1},{},"{('a', 'b'): 1, ('o', 'e'): 1}",baillaouo,Mano,"{'u': 1, 'o': 1}",{},{},,,,,
+baillaouo,Pissos-bis,baillaouo,Pissos,{},{},{},baillaouo,Saint-Gein,{},{},{},,,,,
+baillaouo,Pissos,baillabo,Liposthey,{},{'u': 1},"{('o', 'b'): 1}",baillaouo,Pissos-bis,{},{},{},baillâouo,Richet,{},{},"{('a', 'â'): 1}"
+baillâouo,Richet,baillabo,Saugnacq-et-Muret-bis,{},{'u': 1},"{('â', 'a'): 1, ('o', 'b'): 1}",baillaouo,Pissos,{},{},"{('â', 'a'): 1}",,,,,
+baillabo,Saugnacq-et-Muret-bis,baillâouo,Richet,{'â': 1},{},"{('a', 'o'): 1, ('b', 'u'): 1}",baillabo,Saugnacq-et-Muret,{},{},{},,,,,
+baillabo,Saugnacq-et-Muret,baillabo,Saugnacq-et-Muret-bis,{},{},{},bailléou,La Réole-bis,{},{},"{('a', 'é'): 1, ('b', 'o'): 1, ('o', 'u'): 1}",baillabo,Cagnotte,{},{},{}
+baillabo,Cagnotte,baillèbe,Hure,{},{},"{('a', 'è'): 1, ('o', 'e'): 1}",baillabo,Saugnacq-et-Muret,{},{},{},,,,,
+y,Estibeaux,ly,Gaas,{'l': 1},{},{},baillèbe,Hure,"{'b': 2, 'a': 1, 'i': 1, 'l': 2, 'è': 1}",{},"{('y', 'e'): 1}",bollavo,Mimbaste,"{'b': 1, 'o': 1, 'l': 2, 'a': 1, 'v': 1}",{},"{('y', 'o'): 1}"
+ly,Gaas,baillèbe,Gironde-sur-Dropt-bis,"{'b': 2, 'a': 1, 'i': 1, 'l': 1, 'è': 1}",{},"{('y', 'e'): 1}",y,Estibeaux,{},{'l': 1},{},boillavo,Habas,"{'b': 1, 'o': 1, 'i': 1, 'l': 1, 'a': 1, 'v': 1}",{},"{('y', 'o'): 1}"
+boillavo,Habas,bolliavo,Labatut,{},{},"{('i', 'l'): 1, ('l', 'i'): 1}",ly,Gaas,{},"{'b': 1, 'o': 2, 'i': 1, 'a': 1, 'v': 1}","{('l', 'y'): 1}",,,,,
+bolliavo,Labatut,boillavo,Habas,{'i': 1},{'i': 1},{},bollavo,Mimbaste,{},{'i': 1},{},,,,,
+bollavo,Mimbaste,bailléou,La Réole-bis,{'a': 1},{},"{('o', 'i'): 1, ('a', 'é'): 1, ('v', 'o'): 1, ('o', 'u'): 1}",bolliavo,Labatut,{'i': 1},{},{},y,Estibeaux,{},"{'o': 2, 'l': 2, 'a': 1, 'v': 1}","{('b', 'y'): 1}"
+boliavo,Misson,baillèbe,Parentis-en-Born,{'a': 1},{},"{('o', 'i'): 1, ('i', 'l'): 1, ('a', 'è'): 1, ('v', 'b'): 1, ('o', 'e'): 1}",balhave,Mouscardès,{},{},"{('o', 'a'): 1, ('i', 'h'): 1, ('o', 'e'): 1}",,,,,
+balhave,Mouscardès,baillèbe,La Réole,{'i': 1},{},"{('h', 'l'): 1, ('a', 'è'): 1, ('v', 'b'): 1}",boliavo,Misson,{},{},"{('a', 'o'): 1, ('h', 'i'): 1, ('e', 'o'): 1}",bolliavo,Ossages,{'l': 1},{},"{('a', 'o'): 1, ('h', 'i'): 1, ('e', 'o'): 1}"
+bolliavo,Ossages,boliovo,Pouillon,{},{'l': 1},"{('a', 'o'): 1}",balhave,Mouscardès,{},{'i': 1},"{('o', 'a'): 1, ('l', 'h'): 1, ('o', 'e'): 1}",,,,,
+boliovo,Pouillon,bolliavo,Ossages,{'l': 1},{},"{('o', 'a'): 1}",,,,,,,,,,
+boillâvo,Tilh,baillère,Lamothe-Landerron,{},{},"{('o', 'a'): 1, ('â', 'è'): 1, ('v', 'r'): 1, ('o', 'e'): 1}",,,,,,,,,,
+boillavo,Arouille,baillébě,Morizès,{},{},"{('o', 'a'): 1, ('a', 'é'): 1, ('v', 'b'): 1, ('o', 'ě'): 1}",baillaouo,Luglon,{'o': 1},{},"{('o', 'a'): 1, ('v', 'u'): 1}",bollè,Arue,{},"{'i': 1, 'v': 1, 'o': 1}","{('a', 'è'): 1}"
+bollè,Arue,baillaouo,Sabres,"{'a': 2, 'o': 1, 'u': 1}",{},"{('o', 'i'): 1, ('è', 'o'): 1}",bailléou,Mongauzy,"{'a': 1, 'é': 1, 'o': 1}",{},"{('o', 'i'): 1, ('è', 'u'): 1}",boillavo,Arouille,"{'i': 1, 'a': 1, 'v': 1}",{},"{('è', 'o'): 1}"
+baillavo,Cachen,bollia,Lencouacq,{},"{'v': 1, 'o': 1}","{('a', 'o'): 1, ('i', 'l'): 1, ('l', 'i'): 1}",baillaouo,Lue-bis,{'o': 1},{},"{('v', 'u'): 1}",baillavo,Commensacq-bis,{},{},{}
+baillavo,Labastide-d'Armagnac,baillèvo,Maillas,{},{},"{('a', 'è'): 1}",baillavo,Commensacq,{},{},{},,,,,
+bollia,Lencouacq,baillèvo,Lugaut,"{'a': 1, 'è': 1}",{},"{('o', 'i'): 1, ('i', 'v'): 1, ('a', 'o'): 1}",baillavo,Cachen,{'a': 2},{},"{('o', 'i'): 1, ('i', 'v'): 1, ('a', 'o'): 1}",baillèvo,Maillas,"{'a': 1, 'è': 1}",{},"{('o', 'i'): 1, ('i', 'v'): 1, ('a', 'o'): 1}"
+baillèvo,Lugaut,balléoue,Noaillac,{},{},"{('i', 'l'): 1, ('l', 'é'): 1, ('è', 'o'): 1, ('v', 'u'): 1, ('o', 'e'): 1}",bollia,Lencouacq,{},"{'i': 1, 'o': 1}","{('a', 'o'): 1, ('è', 'i'): 1, ('v', 'a'): 1}",,,,,
+baillèvo,Maillas,baillavo,Labastide-d'Armagnac,{},{},"{('è', 'a'): 1}",bollia,Lencouacq,{},"{'i': 1, 'o': 1}","{('a', 'o'): 1, ('è', 'i'): 1, ('v', 'a'): 1}",,,,,
+boillèvo,Pouydesseaux,baillâvo,Saint-Justin,{},{},"{('o', 'a'): 1, ('è', 'â'): 1}",baillèvo,Saint-Gor,{},{},"{('o', 'a'): 1}",,,,,
+baillavo,Roquefort,bailléou,Pompéjac,{},{},"{('a', 'é'): 1, ('v', 'o'): 1, ('o', 'u'): 1}",bailleivo,Sarbazan,{'e': 1},{},"{('a', 'i'): 1}",baillèvo,Saint-Gor,{},{},"{('a', 'è'): 1}"
+baillèvo,Saint-Gor,boillèvo,Pouydesseaux,{},{},"{('a', 'o'): 1}",baillavo,Roquefort,{},{},"{('è', 'a'): 1}",,,,,
+baillâvo,Saint-Justin,balièvo,Escource-bis,{},{'i': 1},"{('l', 'i'): 1, ('â', 'è'): 1}",boillèvo,Pouydesseaux,{},{},"{('a', 'o'): 1, ('â', 'è'): 1}",,,,,
+bailleivo,Sarbazan,baillavo,Roquefort,{},{'i': 1},"{('e', 'a'): 1}",,,,,,,,,,
+baillavo,Vielle-Soubiran,baillaouo,Labouheyre,{'o': 1},{},"{('v', 'u'): 1}",baillavo,Commensacq-bis,{},{},{},,,,,
+baillavo,Commensacq-bis,baillavo,Commensacq,{},{},{},baillavo,Cachen,{},{},{},baillavo,Vielle-Soubiran,{},{},{}
+baillavo,Commensacq,baillavo,Labastide-d'Armagnac,{},{},{},baillavo,Commensacq-bis,{},{},{},,,,,
+balièvo,Escource-bis,baillâvo,Saint-Justin,{'i': 1},{},"{('i', 'l'): 1, ('è', 'â'): 1}",baillaouo,Escource,"{'i': 1, 'l': 1}",{},"{('i', 'a'): 1, ('è', 'o'): 1, ('v', 'u'): 1}",,,,,
+baillaouo,Escource,baillaouo,Labouheyre,{},{},{},balièvo,Escource-bis,{},"{'i': 1, 'u': 1}","{('l', 'i'): 1, ('a', 'è'): 1, ('o', 'v'): 1}",,,,,
+baillaouo,Labouheyre,baillaouo,Escource,{},{},{},baillavo,Vielle-Soubiran,{},{'u': 1},"{('o', 'v'): 1}",baillaouo,Lue-bis,{},{},{}
+baillaouo,Lue-bis,baillavo,Cachen,{},{'u': 1},"{('o', 'v'): 1}",baillaouo,Labouheyre,{},{},{},,,,,
+baillaouo,Lue,bailléoueu,Cazaux,{'e': 1},{},"{('a', 'é'): 1, ('o', 'u'): 1}",,,,,,,,,,
+baillaouo,Luglon,boillavo,Arouille,{},{'u': 1},"{('a', 'o'): 1, ('o', 'v'): 1}",baillaouo,Solférino,{},{},{},baillaouo,Sabres,{},{},{}
+baillaouo,Sabres-bis,baillaouo,Trensacq,{},{},{},,,,,,,,,,
+baillaouo,Sabres,bollè,Arue,{},"{'i': 1, 'o': 2, 'u': 1}","{('a', 'o'): 1, ('a', 'è'): 1}",baillaouo,Luglon,{},{},{},,,,,
+baillaouo,Solférino,baillaouo,Luglon,{},{},{},bailléou,Lestiac-sur-Garonne,{},{'o': 1},"{('a', 'é'): 1}",baillaouo,Trensacq,{},{},{}
+baillaouo,Trensacq,baillaouo,Solférino,{},{},{},baillaouo,Sabres-bis,{},{},{},,,,,
+baillaouo,Barthes,baillaouo,Biaudos,{},{},{},baillaouo,Tarnos,{},{},{},baillaouo,Biarrotte,{},{},{}
+baillaouo,Biarrotte,baillaouo,Barthes,{},{},{},,,,,,,,,,
+baillaouo,Biaudos,balléoueu,Loupiac,{'e': 1},{'i': 1},"{('a', 'é'): 1, ('o', 'u'): 1}",baillaouo,Barthes,{},{},{},,,,,
+baïllaouo,Ondres,,,,,,,,,,,,,,,
+baillaouo,Saint-André-de-Seignanx,,,,,,,,,,,,,,,
+baillaouo,Saint-Barthélemy,baïllaouo,Saint-Laurent-de-Gosse,{},{},"{('i', 'ï'): 1}",,,,,,,,,,
+baïllaouo,Saint-Laurent-de-Gosse,baillaouo,Saint-Barthélemy,{},{},"{('ï', 'i'): 1}",baillèbe,La Teste-de-Buch-ter,{},{'o': 1},"{('ï', 'i'): 1, ('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillaouo,Saint-Martin-de-Seignanx-bis,{},{},"{('ï', 'i'): 1}"
+baillaouo,Saint-Martin-de-Seignanx-bis,baïllaouo,Saint-Laurent-de-Gosse,{},{},"{('i', 'ï'): 1}",,,,,,,,,,
+baillaouo,Saint-Martin-de-Seignanx,,,,,,,,,,,,,,,
+baillaouo,Tarnos,baillaouo,Barthes,{},{},{},,,,,,,,,,
+baillaouo,Audignon,,,,,,,,,,,,,,,
+baillaouo,Aurice,baillèbe,La Teste-de-Buch-ter,{},{'o': 1},"{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillao,Banos,{},"{'u': 1, 'o': 1}",{},,,,,
+baillao,Banos,baillaouo,Aurice,"{'u': 1, 'o': 1}",{},{},baillaouo,Cachon,"{'u': 1, 'o': 1}",{},{},,,,,
+baillaouo,Cachon,baillao,Banos,{},"{'u': 1, 'o': 1}",{},,,,,,,,,,
+baillaouo,Cauna,,,,,,,,,,,,,,,
+baillāouo,Coudures,baillèou,Sablar,{},"{'̄': 1, 'o': 1}","{('a', 'è'): 1}",baillaou,Dumes,{},"{'̄': 1, 'o': 1}",{},bailla̱ouo,Eyres-Moncube,{},{},"{('̄', '̱'): 1}"
+baillaou,Dumes,baillāouo,Coudures,"{'̄': 1, 'o': 1}",{},{},,,,,,,,,,
+bailla̱ouo,Eyres-Moncube,baillāouo,Coudures,{},{},"{('̱', '̄'): 1}",,,,,,,,,,
+ballaouo,Fargues,baillèbe,Langon-bis,{'i': 1},{'o': 1},"{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",,,,,,,,,,
+baillaouo,Larrivière-Saint-Savin,baillèbe,Langon,{},{'o': 1},"{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillao,Montgaillard,{},"{'u': 1, 'o': 1}",{},baillaouo,Montaut,{},{},{}
+baillaouo,Montaut,baillaouo,Montsoué,{},{},{},baillèbe,Guillos,{},{'o': 1},"{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillaouo,Larrivière-Saint-Savin,{},{},{}
+baillao,Montgaillard,baillèoue,Le Pian-Médoc,"{'u': 1, 'e': 1}",{},"{('a', 'è'): 1}",baillaouo,Montsoué,"{'u': 1, 'o': 1}",{},{},baillaouo,Larrivière-Saint-Savin,"{'u': 1, 'o': 1}",{},{}
+baillaouo,Montsoué,baillao,Montgaillard,{},"{'u': 1, 'o': 1}",{},bailléou,Escaudes,{},{'o': 1},"{('a', 'é'): 1}",baillaouo,Montaut,{},{},{}
+baillaouo,Saint-Maurice-sur-Adour,baillec,Sainte-Eulalie,{},"{'u': 1, 'o': 1}","{('a', 'e'): 1, ('o', 'c'): 1}",baillèbe,Castets-en-Dorthe,{},{'o': 1},"{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillaouo,Saint-Sever,{},{},{}
+baillaouo,Saint-Sever,baillaouo,Saint-Maurice-sur-Adour,{},{},{},baillèbe,Sauternes,{},{'o': 1},"{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillaouo,Sarraziet,{},{},{}
+baillec,Sainte-Eulalie,bailléoueun,Pompignac,"{'é': 1, 'o': 1, 'u': 2}",{},"{('c', 'n'): 1}",baillaouo,Saint-Maurice-sur-Adour,"{'a': 1, 'o': 1}",{},"{('e', 'u'): 1, ('c', 'o'): 1}",baillaouo,Sarraziet,"{'a': 1, 'o': 1}",{},"{('e', 'u'): 1, ('c', 'o'): 1}"
+baillaouo,Sarraziet,baillèbre,Roaillan,{},{},"{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'r'): 1, ('o', 'e'): 1}",baillec,Sainte-Eulalie,{},"{'u': 1, 'o': 1}","{('a', 'e'): 1, ('o', 'c'): 1}",baillaouo,Saint-Sever,{},{},{}
+baillaouo,Bénesse-Maremne,baillèbe,Le Haillan,{},{'o': 1},"{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillaouo,Josse,{},{},{},bailliaouo,Capbreton,{'i': 1},{},{}
+bailliaouo,Capbreton,baillèbe,Saint-Pardon-de-Conques,{},"{'u': 1, 'o': 1}","{('i', 'è'): 1, ('a', 'b'): 1, ('o', 'e'): 1}",baillaouo,Bénesse-Maremne,{},{'i': 1},{},baillaouo,Labenne,{},{'i': 1},{}
+baillaouo,Josse,baillaouo,Bénesse-Maremne,{},{},{},baillèoue,Le Pian-Médoc,{},{},"{('a', 'è'): 1, ('o', 'e'): 1}",baillaouo,Labenne,{},{},{}
+baillaouo,Labenne,baillaouo,Josse,{},{},{},baillèbe,Saint-Pierre-de-Mons,{},{'o': 1},"{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",bailliaouo,Capbreton,{'i': 1},{},{}
+baillaouo,Orx,baillaouo,Saint-Geours-de-Maremne,{},{},{},baillèbeu,Izon,{'è': 1},{'o': 1},"{('a', 'b'): 1, ('o', 'e'): 1}",baillaouo,Saint-Jean-de-Marsacq,{},{},{}
+baillaouo,Saint-Jean-de-Marsacq,baillèbe,Monségur,{},{'o': 1},"{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillâouo,Saint-Martin-de-Hinx,{},{},"{('a', 'â'): 1}",baillaouo,Orx,{},{},{}
+baillâouo,Saint-Martin-de-Hinx,baillaouo,Luxey,{},{},"{('â', 'a'): 1}",baillaouo,Saint-Vincent-de-Tyrosse,{},{},"{('â', 'a'): 1}",baillaouo,Saint-Jean-de-Marsacq,{},{},"{('â', 'a'): 1}"
+baillaouo,Saint-Vincent-de-Tyrosse,baillâouo,Saint-Martin-de-Hinx,{},{},"{('a', 'â'): 1}",baillèbe,Saint-Julien-Beychevelle,{},{'o': 1},"{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillaouo,Sainte-Marie-de-Gosse,{},{},{}
+baillaouo,Sainte-Marie-de-Gosse,baillaouo,Le Leuy,{},{},{},baillaouo,Seignosse,{},{},{},baillaouo,Saint-Vincent-de-Tyrosse,{},{},{}
+baillaouo,Saubion,baillébent,Libourne-bis,{'é': 1},{},"{('a', 'b'): 1, ('o', 'e'): 1, ('u', 'n'): 1, ('o', 't'): 1}",baillaouo,Saubrigues,{},{},{},,,,,
+baillaouo,Saubrigues,baillèbeu,Izon,{'è': 1},{'o': 1},"{('a', 'b'): 1, ('o', 'e'): 1}",baillaouo,Saubion,{},{},{},baillâouo,Argelouse,{},{},"{('a', 'â'): 1}"
+baillâouo,Argelouse,baillèbe,Landerrouet-sur-Ségur,{},{'o': 1},"{('â', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillaouo,Saubrigues,{},{},"{('â', 'a'): 1}",,,,,
+baillâouo,Callen,baillaouo,Luxey,{},{},"{('â', 'a'): 1}",baillèbe,Monségur,{},{'o': 1},"{('â', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",,,,,
+baillaouo,Houaste,baillaouo,Sore,{},{},{},,,,,,,,,,
+baillaouo,Luxey,baillaouo,Sore,{},{},{},baillâouo,Saint-Martin-de-Hinx,{},{},"{('a', 'â'): 1}",baillâouo,Callen,{},{},"{('a', 'â'): 1}"
+baillaouo,Sore,baillèbe,Saint-Julien-Beychevelle,{},{'o': 1},"{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillaouo,Luxey,{},{},{},baillaouo,Houaste,{},{},{}
+baillaouo,Angresse,baillèbe,Landerrouet-sur-Ségur,{},{'o': 1},"{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",,,,,,,,,,
+baillaouo,Azur,baillaouo,Magescq,{},{},{},,,,,,,,,,
+baillaouo,Magescq,baillaouo,Azur,{},{},{},baillaouo,Messanges-bis,{},{},{},,,,,
+baillaouo,Messanges-bis,baillaouo,Magescq,{},{},{},,,,,,,,,,
+baillaouo,Messanges,baillèbe,Cissac-Médoc,{},{'o': 1},"{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillaouo,Saint-Geours-de-Maremne,{},{},{},baillaouo,Moliets-et-Maa,{},{},{}
+baillaouo,Moliets-et-Maa,baillaouo,Seignosse,{},{},{},baillaouo,Audon,{},{},{},baillaouo,Messanges,{},{},{}
+baillaouo,Saint-Geours-de-Maremne,baillaouo,Messanges,{},{},{},baillaouo,Orx,{},{},{},baillaouo,Seignosse,{},{},{}
+baillaouo,Seignosse,baillaouo,Sainte-Marie-de-Gosse,{},{},{},baillaouo,Moliets-et-Maa,{},{},{},baillaouo,Saint-Geours-de-Maremne,{},{},{}
+baillaouo,Soorts-Hossegor,baillaouo,Soustons,{},{},{},baillèbe,Roquebrune,{},{'o': 1},"{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillaouo,Lamothe,{},{},{}
+baillaouo,Soustons,baillèbe,Toulenne,{},{'o': 1},"{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillaouo,Soorts-Hossegor,{},{},{},baillaou,Tosse,{},{'o': 1},{}
+baillaou,Tosse,baillaouo,Vieux-Boucau-les-Bains,{'o': 1},{},{},baillèben,Arveyres,{'è': 1},{},"{('a', 'b'): 1, ('o', 'e'): 1, ('u', 'n'): 1}",baillaouo,Soustons,{'o': 1},{},{}
+baillaouo,Vieux-Boucau-les-Bains,baillaou,Tosse,{},{'o': 1},{},baillec,Gouts,{},"{'u': 1, 'o': 1}","{('a', 'e'): 1, ('o', 'c'): 1}",,,,,
+baillaouo,Audon,baillaouo,Moliets-et-Maa,{},{},{},baillaouo,Le Leuy,{},{},{},baillaouo,Lamothe,{},{},{}
+baïllaouo,Carcarès-Sainte-Croix,baillec,Gouts,{},"{'u': 1, 'o': 1}","{('ï', 'i'): 1, ('a', 'e'): 1, ('o', 'c'): 1}",,,,,,,,,,
+baillec,Gouts,baïllaouo,Carcarès-Sainte-Croix,"{'a': 1, 'o': 1}",{},"{('i', 'ï'): 1, ('e', 'u'): 1, ('c', 'o'): 1}",baillaouo,Vieux-Boucau-les-Bains,"{'a': 1, 'o': 1}",{},"{('e', 'u'): 1, ('c', 'o'): 1}",baillaouo,Lamothe,"{'a': 1, 'o': 1}",{},"{('e', 'u'): 1, ('c', 'o'): 1}"
+baillaouo,Lamothe,baillaouo,Soorts-Hossegor,{},{},{},baillaouo,Audon,{},{},{},baillec,Gouts,{},"{'u': 1, 'o': 1}","{('a', 'e'): 1, ('o', 'c'): 1}"
+baillaouo,Le Leuy,baillaouo,Audon,{},{},{},baillaouo,Sainte-Marie-de-Gosse,{},{},{},,,,,
+baillaouo,Meilhan,baillabo,Perricard,{},{'u': 1},"{('o', 'b'): 1}",,,,,,,,,,
+baillaouo,Souprosse,baillèbe,Brassempouy,{},{'o': 1},"{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillaou,Tartas-bis,{},{'o': 1},{},,,,,
+baillaou,Tartas-bis,baillèbe,Bassercles,{},{},"{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillaouo,Souprosse,{'o': 1},{},{},,,,,
+baillâouo,Tartas-ville-haute-bis,baillaou,Tartas-ville-haute,{},{'o': 1},"{('â', 'a'): 1}",,,,,,,,,,
+baillaou,Tartas-ville-haute,baillaouo,Anzex,{'o': 1},{},{},baillâouo,Tartas-ville-haute-bis,{'o': 1},{},"{('a', 'â'): 1}",,,,,
+baillâouo,Tartas,baillaouo,Cazideroque,{},{},"{('â', 'a'): 1}",,,,,,,,,,
+baillaouo,Bégaar,bäillaouo,Fargues-sur-Ourbise,{},{},"{('a', 'ä'): 1}",,,,,,,,,,
+baïllaouo,Beylongue,baillaouo,Rion-des-Landes-bis,{},{},"{('ï', 'i'): 1}",baillaouo,Boos,{},{},"{('ï', 'i'): 1}",,,,,
+baillaouo,Boos,baïllaouo,Beylongue,{},{},"{('i', 'ï'): 1}",baillaouo,Arthez-d'Armagnac,{},{},{},bouléouo,Carcen-Ponson,{},{'a': 1},"{('a', 'o'): 1, ('i', 'u'): 1, ('l', 'é'): 1}"
+bouléouo,Carcen-Ponson,baillaouo,Saint-Léon,{'l': 1},{},"{('o', 'a'): 1, ('u', 'i'): 1, ('é', 'a'): 1}",baillaouo,Boos,{'l': 1},{},"{('o', 'a'): 1, ('u', 'i'): 1, ('é', 'a'): 1}",,,,,
+baillaouo,Laluque,,,,,,,,,,,,,,,
+baillaouo,Lesgor,baillaoué,Rion-des-Landes,{},{},"{('o', 'é'): 1}",baillaouo,Rion-des-Landes-bis,{},{},{},,,,,
+baillaouo,Pontonx-sur-l'Adour,baillaouo,Rion-des-Landes-bis,{},{},{},,,,,,,,,,
+baillaouo,Rion-des-Landes-bis,baillaouo,Lesgor,{},{},{},baïllaouo,Beylongue,{},{},"{('i', 'ï'): 1}",baillaouo,Pontonx-sur-l'Adour,{},{},{}
+baillaoué,Rion-des-Landes,baillaouo,Arthez-d'Armagnac,{},{},"{('é', 'o'): 1}",baillaouo,Lesgor,{},{},"{('é', 'o'): 1}",baillao,Lacquy,{},"{'u': 1, 'é': 1}",{}
+baillaouo,Saint-Yaguen,baillaouo,Villenave,{},{},{},baillèbe,Saint-Sauveur,{},{'o': 1},"{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillaouo,Bourdalat,{},{},{}
+baillaouo,Villenave,baillaouo,Saint-Yaguen,{},{},{},baillao,Hontanx,{},"{'u': 1, 'o': 1}",{},,,,,
+baillaouo,Arthez-d'Armagnac,baillaouo,Boos,{},{},{},baillaoué,Rion-des-Landes,{},{},"{('o', 'é'): 1}",baillaouo,Bourdalat,{},{},{}
+baillaouo,Bourdalat,baillaouo,Saint-Yaguen,{},{},{},baillaouo,Razimet,{},{},{},baillaouo,Arthez-d'Armagnac,{},{},{}
+baillao,Hontanx,baillaouo,Villenave,"{'u': 1, 'o': 1}",{},{},baillao,Lacquy,{},{},{},,,,,
+baillao,Lacquy,baillaoué,Rion-des-Landes,"{'u': 1, 'é': 1}",{},{},baillao,Hontanx,{},{},{},,,,,
+baillaouo,Le Frêche,baillaouo,Montégut,{},{},{},,,,,,,,,,
+baillaouo,Montégut,baillaouo,Le Frêche,{},{},{},,,,,,,,,,
+baillec,Perquie,,,,,,,,,,,,,,,
+baillaouo,Pujo-le-Plan,,,,,,,,,,,,,,,
+baillaoué,Saint-Cricq-Villeneuve,,,,,,,,,,,,,,,
+baillaouo,Saint-Gein,baillaouo,Pissos-bis,{},{},{},baillèc,Antagnac,{},"{'u': 1, 'o': 1}","{('a', 'è'): 1, ('o', 'c'): 1}",baillaouo,Sainte-Foy,{},{},{}
+baillaouo,Sainte-Foy,baillaouo,Saint-Gein,{},{},{},,,,,,,,,,
+bâillao,Villeneuve-de-Marsan,bailléoue,Langoiran-bis,"{'u': 1, 'e': 1}",{},"{('â', 'a'): 1, ('a', 'é'): 1}",baillèc,Antagnac,{},{},"{('â', 'a'): 1, ('a', 'è'): 1, ('o', 'c'): 1}",,,,,
+baillèc,Antagnac,baillaouo,Saint-Gein,"{'a': 1, 'o': 1}",{},"{('è', 'u'): 1, ('c', 'o'): 1}",baillaouo,Mano,"{'a': 1, 'o': 1}",{},"{('è', 'u'): 1, ('c', 'o'): 1}",bâillao,Villeneuve-de-Marsan,{},{},"{('a', 'â'): 1, ('è', 'a'): 1, ('c', 'o'): 1}"
+baillaouo,Argenton,,,,,,,,,,,,,,,
+bailla,Bouglon,,,,,,,,,,,,,,,
+baillaouo,Grézet-Cavagnan,baillaouau,Guérin,{'a': 1},{},"{('o', 'u'): 1}",baillaouo,Labastide-Castel-Amouroux,{},{},{},baillauo,Casteljaloux,{},{'o': 1},{}
+baillaouau,Guérin,baillaouo,Caubeyres,{},{'u': 1},"{('a', 'o'): 1}",baillaouo,Grézet-Cavagnan,{},{'u': 1},"{('a', 'o'): 1}",,,,,
+baillaouo,Labastide-Castel-Amouroux,baillaouo,Grézet-Cavagnan,{},{},{},baillaouo,Poussignac,{},{},{},,,,,
+baillaouo,Poussignac,baillaouo,Ruffiac,{},{},{},baillaouo,Labastide-Castel-Amouroux,{},{},{},,,,,
+baillâouo,Romestaing,baillaouo,Ruffiac_bis,{},{},"{('â', 'a'): 1}",,,,,,,,,,
+baillaouo,Ruffiac_bis,baillaouo,Anzex,{},{},{},baillâouo,Romestaing,{},{},"{('a', 'â'): 1}",baillaouo,Leyritz-Moncassin,{},{},{}
+baillaouo,Ruffiac,baillaouo,Poussignac,{},{},{},baillabo,Saint-Gemme-Martaillac,{},{'u': 1},"{('o', 'b'): 1}",baillaouo,Heuliès,{},{},{}
+baillabo,Saint-Gemme-Martaillac,baillaouo,Ruffiac,{'o': 1},{},"{('b', 'u'): 1}",baillaouo,Anzex,{'o': 1},{},"{('b', 'u'): 1}",,,,,
+baillaouo,Anzex,baillaou,Tartas-ville-haute,{},{'o': 1},{},baillaouo,Ruffiac_bis,{},{},{},baillabo,Saint-Gemme-Martaillac,{},{'u': 1},"{('o', 'b'): 1}"
+baillaouo,Beauziac,baillaouo,Casteljaloux-bis,{},{},{},baillaouo,Leyritz-Moncassin,{},{},{},,,,,
+baillaouo,Casteljaloux-bis,baillaouo,Beauziac,{},{},{},baillaouo,Damazan-bis,{},{},{},baillauo,Casteljaloux,{},{'o': 1},{}
+baillauo,Casteljaloux,baillaouo,Grézet-Cavagnan,{'o': 1},{},{},baillaouo,Heuliès,{'o': 1},{},{},baillaouo,Casteljaloux-bis,{'o': 1},{},{}
+baillaouo,Heuliès,baillauo,Casteljaloux,{},{'o': 1},{},baillaouo,Ruffiac,{},{},{},baillaouo,Leyritz-Moncassin,{},{},{}
+baillaouo,Leyritz-Moncassin,baillaouo,Ruffiac_bis,{},{},{},baillaouo,Beauziac,{},{},{},baillaouo,Heuliès,{},{},{}
+baillaouo,Saint-Martin-Curton,baillaouo,Laparade,{},{},{},,,,,,,,,,
+baillaouo,Villefranche-du-Queyran,baillaouo,Castelmoron-sur-Lot,{},{},{},baillaouo,Brugnac,{},{},{},,,,,
+baillaouo,Brugnac,bailhaouo,Castelmoron-sur-Lot-bis,{},{},"{('l', 'h'): 1}",baillaouo,Villefranche-du-Queyran,{},{},{},,,,,
+bailhaouo,Castelmoron-sur-Lot-bis,baillaouo,Brugnac,{},{},"{('h', 'l'): 1}",baillaouo,Castelmoron-sur-Lot,{},{},"{('h', 'l'): 1}",,,,,
+baillaouo,Castelmoron-sur-Lot,baillaouo,Villefranche-du-Queyran,{},{},{},baillao,Coulx,{},"{'u': 1, 'o': 1}",{},bailhaouo,Castelmoron-sur-Lot-bis,{},{},"{('l', 'h'): 1}"
+baillao,Coulx,baillaouo,Castelmoron-sur-Lot,"{'u': 1, 'o': 1}",{},{},baillaouo,Grateloup,"{'u': 1, 'o': 1}",{},{},,,,,
+baillaouo,Grateloup,baillaouo,Saint-Gayrand,{},{},{},baillao,Coulx,{},"{'u': 1, 'o': 1}",{},,,,,
+baillaouo,Labretonie,baillaouo,Ambrus,{},{},{},,,,,,,,,,
+baillaouo,Laparade,baillaouo,Saint-Martin-Curton,{},{},{},baillaouo,Saint-Gayrand,{},{},{},,,,,
+baillaouo,Saint-Gayrand,baillaouo,Laparade,{},{},{},baillaouo,Grateloup,{},{},{},baillec,Verteuil-d'Agenais,{},"{'u': 1, 'o': 1}","{('a', 'e'): 1, ('o', 'c'): 1}"
+baillec,Verteuil-d'Agenais,baillaouo,Saint-Gayrand,"{'a': 1, 'o': 1}",{},"{('e', 'u'): 1, ('c', 'o'): 1}",baillaouo,Ambrus,"{'a': 1, 'o': 1}",{},"{('e', 'u'): 1, ('c', 'o'): 1}",,,,,
+baillaouo,Ambrus,baillaouo,Labretonie,{},{},{},baillaouo,Caubeyres,{},{},{},baillec,Verteuil-d'Agenais,{},"{'u': 1, 'o': 1}","{('a', 'e'): 1, ('o', 'c'): 1}"
+baillaouo,Buzet-sur-Baïse,baillaouo,Damazan-bis,{},{},{},,,,,,,,,,
+baillaouo,Caubeyres,baillaouo,Ambrus,{},{},{},baillaouau,Guérin,{'a': 1},{},"{('o', 'u'): 1}",baillaouo,Damazan-bis,{},{},{}
+baillaouo,Damazan-bis,baillaouo,Casteljaloux-bis,{},{},{},baillaouo,Buzet-sur-Baïse,{},{},{},baillaouo,Caubeyres,{},{},{}
+baillaouo,Damazan,baillaouë,Esclottes,{},{},"{('o', 'ë'): 1}",baillaouo,Moncrabeau-bis,{},{},{},baillaouo,Saint-Léger,{},{},{}
+bäillaouo,Fargues-sur-Ourbise,baillaouo,Bégaar,{},{},"{('ä', 'a'): 1}",baillaouo,Saint-Pierre-de-Buzet,{},{},"{('ä', 'a'): 1}",baillaou,Monheurt,{},{'o': 1},"{('ä', 'a'): 1}"
+baillaou,Monheurt,bailléounen,Listrac-de-Durèze,"{'n': 2, 'e': 1}",{},"{('a', 'é'): 1}",bäillaouo,Fargues-sur-Ourbise,{'o': 1},{},"{('a', 'ä'): 1}",baillaouo,Puch-d'Agenais,{'o': 1},{},{}
+baillaouo,Puch-d'Agenais,baillaouo,Moncrabeau,{},{},{},bailléou,Pellegrue,{},{'o': 1},"{('a', 'é'): 1}",baillaou,Monheurt,{},{'o': 1},{}
+baillaouo,Razimet,baillaouo,Bourdalat,{},{},{},baillâouo,Baleyssagues,{},{},"{('a', 'â'): 1}",baillaouo,Saint-Léon,{},{},{}
+baillaouo,Saint-Léger,baillaouo,Duras,{},{},{},baillaouo,Damazan,{},{},{},baillaouo,Saint-Pierre-de-Buzet,{},{},{}
+baillaouo,Saint-Léon,baillaouo,Saint-Pierre-de-Buzet,{},{},{},bouléouo,Carcen-Ponson,{},{'a': 1},"{('a', 'o'): 1, ('i', 'u'): 1, ('l', 'é'): 1}",baillaouo,Razimet,{},{},{}
+baillaouo,Saint-Pierre-de-Buzet,bäillaouo,Fargues-sur-Ourbise,{},{},"{('a', 'ä'): 1}",baillaouo,Saint-Léon,{},{},{},baillaouo,Saint-Léger,{},{},{}
+baillaouo,Auriac-sur-Dropt,baillâouo,Baleyssagues,{},{},"{('a', 'â'): 1}",baillèbe,Vertheuil,{},{'o': 1},"{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillaoue,Moustier,{},{},"{('o', 'e'): 1}"
+baillâouo,Baleyssagues,baillaouo,Razimet,{},{},"{('â', 'a'): 1}",baillaouo,Auriac-sur-Dropt,{},{},"{('â', 'a'): 1}",baillaouo,Duras,{},{},"{('â', 'a'): 1}"
+baillaouo,Duras,baillaouë,Esclottes,{},{},"{('o', 'ë'): 1}",baillaouo,Saint-Léger,{},{},{},baillâouo,Baleyssagues,{},{},"{('a', 'â'): 1}"
+baillaouë,Esclottes,baillaoue,La Sauvetat-du-Dropt,{},{},"{('ë', 'e'): 1}",baillaouo,Damazan,{},{},"{('ë', 'o'): 1}",baillaouo,Duras,{},{},"{('ë', 'o'): 1}"
+baillaoue,La Sauvetat-du-Dropt,baillaoue,Moustier,{},{},{},baillèouë,Ambarès-et-Lagrave,{},{},"{('a', 'è'): 1, ('e', 'ë'): 1}",baillaouë,Esclottes,{},{},"{('e', 'ë'): 1}"
+baillaoue,Moustier,baillaouë,Saint-Astier,{},{},"{('e', 'ë'): 1}",baillaoue,La Sauvetat-du-Dropt,{},{},{},baillaouo,Auriac-sur-Dropt,{},{},"{('e', 'o'): 1}"
+baillaouë,Saint-Astier,baillaoue,Savignac-de-Duras,{},{},"{('ë', 'e'): 1}",baillaoue,Moustier,{},{},"{('ë', 'e'): 1}",baillaouo,Saint-Sernin,{},{},"{('ë', 'o'): 1}"
+baillaouo,Saint-Sernin,bailléou,Cazaugitat,{},{'o': 1},"{('a', 'é'): 1}",baillaouë,Saint-Astier,{},{},"{('o', 'ë'): 1}",,,,,
+baillaoue,Savignac-de-Duras,baillabe,Saint-Julien-en-Born,{},{'u': 1},"{('o', 'b'): 1}",baillaouë,Saint-Astier,{},{},"{('e', 'ë'): 1}",,,,,
+baillaouo,Soumensac,bailléounen,Listrac-de-Durèze,"{'n': 1, 'e': 1}",{},"{('a', 'é'): 1, ('o', 'n'): 1}",baillaoue,Villeneuve-de-Duras,{},{},"{('o', 'e'): 1}",,,,,
+baillaoue,Villeneuve-de-Duras,baillaouo,Soumensac,{},{},"{('e', 'o'): 1}",bailleoüe,Bassens,{},{},"{('a', 'e'): 1, ('u', 'ü'): 1}",,,,,
+baillaoua,Fieux,bailléoue,Ambès,{},{},"{('a', 'é'): 1, ('a', 'e'): 1}",baillaon,Francescas,{},{'a': 1},"{('u', 'n'): 1}",,,,,
+baillaon,Francescas,baillaoua,Fieux,{'u': 1},{},"{('n', 'a'): 1}",baïlléou,Pujols-sur-Ciron,{},{},"{('i', 'ï'): 1, ('a', 'é'): 1, ('n', 'u'): 1}",,,,,
+baillabe,Lamontjoie,bailléou,Pellegrue,{},{},"{('a', 'é'): 1, ('b', 'o'): 1, ('e', 'u'): 1}",baillaouo,Moncrabeau,{'o': 1},{},"{('b', 'u'): 1, ('e', 'o'): 1}",,,,,
+baillaouo,Moncrabeau-bis,baillaouo,Damazan,{},{},{},baillaouo,Moncrabeau,{},{},{},,,,,
+baillaouo,Moncrabeau,baillabe,Lamontjoie,{},{'o': 1},"{('o', 'b'): 1, ('u', 'e'): 1}",baillaouo,Puch-d'Agenais,{},{},{},baillaouo,Moncrabeau-bis,{},{},{}
+baillaouo,Nomdieu,baillāouo,Boussès,{'̄': 1},{},{},baillèbe,Preignac,{},{'o': 1},"{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillaouo,Allons,{},{},{}
+baillaouo,Allons,baillaouo,Nomdieu,{},{},{},bailléoue,Cestas,{},{},"{('a', 'é'): 1, ('o', 'e'): 1}",baillaouo,Durance,{},{},{}
+baillāouo,Boussès,baillèoue,Carbon-Blanc-bis,{},{'̄': 1},"{('a', 'è'): 1, ('o', 'e'): 1}",baillaouo,Nomdieu,{},{'̄': 1},{},baillaouo,Durance,{},{'̄': 1},{}
+baillaouo,Durance,bailléoueun,Canéjan,"{'e': 1, 'u': 1}",{},"{('a', 'é'): 1, ('o', 'n'): 1}",baillāouo,Boussès,{'̄': 1},{},{},baillaouo,Allons,{},{},{}
+baillaouo,Houeillès-bis,baillaouo,Houeillès,{},{},{},bailléou,Lormont,{},{'o': 1},"{('a', 'é'): 1}",,,,,
+baillaouo,Houeillès,baïlléou,Pujols-sur-Ciron,{},{'o': 1},"{('i', 'ï'): 1, ('a', 'é'): 1}",baillaouo,Houeillès-bis,{},{},{},,,,,
+baillaouo,Pindères,baillaou·o,Lauzun-bis,{'·': 1},{},{},baillaoué,Sauméjan,{},{},"{('o', 'é'): 1}",baillaouo,Armillac,{},{},{}
+baillaouo,Pompogne,baillèoue,Lège,{},{},"{('a', 'è'): 1, ('o', 'e'): 1}",baillaouo,Agnac,{},{},{},baillaoué,Sauméjan,{},{},"{('o', 'é'): 1}"
+baillaoué,Sauméjan,bailhèoue,Doulezon,{},{},"{('l', 'h'): 1, ('a', 'è'): 1, ('é', 'e'): 1}",baillaouo,Pompogne,{},{},"{('é', 'o'): 1}",baillaouo,Pindères,{},{},"{('é', 'o'): 1}"
+baillaouo,Agnac,baillaouo,Pompogne,{},{},{},bailléou,Ludon-Médoc,{},{'o': 1},"{('a', 'é'): 1}",baillaouo,Armillac,{},{},{}
+baillaouo,Armillac,baillaouo,Agnac,{},{},{},baillaouo,Lavergne,{},{},{},baillaouo,Pindères,{},{},{}
+baillaouo,Bourgougnague,baillaouo,Lauzun-ter,{},{},{},balléouen,Saint-Michel-de-Rieufret,{'e': 1},{'i': 1},"{('a', 'é'): 1, ('o', 'n'): 1}",baillaouo,Laperche,{},{},{}
+baillaouo,Laperche,bailhèoue,Doulezon,{},{},"{('l', 'h'): 1, ('a', 'è'): 1, ('o', 'e'): 1}",baillaou·o,Lauzun-bis,{'·': 1},{},{},baillaouo,Bourgougnague,{},{},{}
+baillaou·o,Lauzun-bis,baillaouo,Laperche,{},{'·': 1},{},baillaouo,Pindères,{},{'·': 1},{},baillaouo,Lavergne,{},{'·': 1},{}
+baillaouo,Lauzun-ter,baillaouo,Bruch,{},{},{},baillaouo,Bourgougnague,{},{},{},baillaouo,Lauzun-tet,{},{},{}
+baillaouo,Lauzun-tet,baillaouo,Lauzun,{},{},{},baillèbe,Saint-Loubès,{},{'o': 1},"{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillaouo,Lauzun-ter,{},{},{}
+baillaouo,Lauzun,baillèoue,Macau,{},{},"{('a', 'è'): 1, ('o', 'e'): 1}",baillaouo,Lauzun-tet,{},{},{},baillaouo,Lavergne,{},{},{}
+baillaouo,Lavergne,baillaouo,Armillac,{},{},{},baillaouo,Lauzun,{},{},{},baillaou·o,Lauzun-bis,{'·': 1},{},{}
+baillaouo,Lévignac-de-Guyenne,baillaouo,Thouars-sur-Garonne,{},{},{},baillaouo,Miramont-de-Guyenne,{},{},{},baillaouo,Montignac-de-Lauzun,{},{},{}
+baillaouo,Miramont-de-Guyenne,baillaouo,Lévignac-de-Guyenne,{},{},{},baillaoue,Fréchou,{},{},"{('o', 'e'): 1}",baillaouo,Peyrière,{},{},{}
+baillaouo,Montignac-de-Lauzun,baillèbe,Pessac-sur-Dordogne,{},{'o': 1},"{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillaouo,Lévignac-de-Guyenne,{},{},{},baillaouo,Peyrière,{},{},{}
+baillaouo,Peyrière,baillaouo,Miramont-de-Guyenne,{},{},{},baillébeunn,Saint-Pierre-d'Aurillac,"{'é': 1, 'n': 1}",{},"{('a', 'b'): 1, ('o', 'e'): 1, ('o', 'n'): 1}",baillaouo,Montignac-de-Lauzun,{},{},{}
+baillaouo,Puysserampion,baïllaouo,Lavardac-bis,{},{},"{('i', 'ï'): 1}",baillaouo,Virazeil,{},{},{},baillaouo,Roumagne,{},{},{}
+baillaouo,Roumagne,baillaouo,Puysserampion,{},{},{},,,,,,,,,,
+baillaouo,Saint-Colomb-de-Lauzun,baillaoüa,Marmande,{},{},"{('u', 'ü'): 1, ('o', 'a'): 1}",ballèbe,Rauzan,{},"{'i': 1, 'o': 1}","{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",,,,,
+baillaoue,Saint-Nazaire,baillèbeu,Saint-Jean-de-Blaignac,{'è': 1},{'e': 1},"{('a', 'b'): 1, ('o', 'e'): 1}",baillaoue,Sérignac-Péboudou,{},{},{},,,,,
+baillaouo,Ségalas,baillaoue,Sérignac-Péboudou,{},{},"{('o', 'e'): 1}",baillaouo,Lavardac,{},{},{},,,,,
+baillaoue,Sérignac-Péboudou,ballèbe,Rauzan,{},"{'i': 1, 'u': 1}","{('a', 'è'): 1, ('o', 'b'): 1}",baillaouo,Ségalas,{},{},"{('e', 'o'): 1}",baillaoue,Saint-Nazaire,{},{},{}
+baillaoue,Barbaste,baillèbe,Aubie-et-Espessas,{},{'u': 1},"{('a', 'è'): 1, ('o', 'b'): 1}",baillaouo,Bruch,{},{},"{('e', 'o'): 1}",baillaouo,Saint-Laurent,{},{},"{('e', 'o'): 1}"
+baillaouo,Béquin,baillaœu,Saint-Aubin-de-Médoc,{},{'o': 1},"{('o', 'œ'): 1}",baillaouo,Pompiey,{},{},{},baillaouo,Bruch-bis,{},{},{}
+baillaouo,Bruch-bis,bailléoue,Montussan,{},{},"{('a', 'é'): 1, ('o', 'e'): 1}",baillaouo,Béquin,{},{},{},baillaouo,Bruch,{},{},{}
+baillaouo,Bruch,baillaoue,Barbaste,{},{},"{('o', 'e'): 1}",baillaouo,Lauzun-ter,{},{},{},baillaouo,Bruch-bis,{},{},{}
+baillèc,Feugarolles,baillaouo,Montesquieu,"{'a': 1, 'o': 1}",{},"{('è', 'u'): 1, ('c', 'o'): 1}",baillaœu,Saint-Aubin-de-Médoc,{'a': 1},{},"{('è', 'œ'): 1, ('c', 'u'): 1}",baïllaouo,Lavardac-bis,"{'a': 1, 'o': 1}",{},"{('i', 'ï'): 1, ('è', 'u'): 1, ('c', 'o'): 1}"
+baïllaouo,Lavardac-bis,baillèc,Feugarolles,{},"{'u': 1, 'o': 1}","{('ï', 'i'): 1, ('a', 'è'): 1, ('o', 'c'): 1}",baillaouo,Puysserampion,{},{},"{('ï', 'i'): 1}",,,,,
+baillaouo,Lavardac,baillaouo,Ségalas,{},{},{},baullaouo,Méneau,{},{},"{('i', 'u'): 1}",baillaouo,Mongaillard,{},{},{}
+baullaouo,Méneau,baillaouo,Lavardac,{},{},"{('u', 'i'): 1}",baillèbe,Cubzac-les-Ponts,{},{'o': 1},"{('u', 'i'): 1, ('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillaouo,Saint-Laurent,{},{},"{('u', 'i'): 1}"
+baillaouo,Mongaillard,baillaouo,Lavardac,{},{},{},baillaouo,Montesquieu,{},{},{},,,,,
+baillaouo,Montesquieu,baillaouo,Pompiey,{},{},{},baillèc,Feugarolles,{},"{'u': 1, 'o': 1}","{('a', 'è'): 1, ('o', 'c'): 1}",baillaouo,Mongaillard,{},{},{}
+baillaouo,Pompiey,baillaouo,Béquin,{},{},{},baillaouo,Montesquieu,{},{},{},baillaouo,Saint-Laurent,{},{},{}
+baillaouo,Saint-Laurent,baullaouo,Méneau,{},{},"{('i', 'u'): 1}",baillaoue,Barbaste,{},{},"{('o', 'e'): 1}",baillaouo,Pompiey,{},{},{}
+baillaouo,Thouars-sur-Garonne,baillaouo,Lévignac-de-Guyenne,{},{},{},baillaouo,Vianne,{},{},{},,,,,
+baillaouo,Vianne,baillaouo,Thouars-sur-Garonne,{},{},{},baillèoueu,Peujard,{'e': 1},{},"{('a', 'è'): 1, ('o', 'u'): 1}",baillaouo,Birac-sur-Trec,{},{},{}
+baillaouo,Xaintrailles,bailléou,Saint-André-de-Cubzac,{},{'o': 1},"{('a', 'é'): 1}",baillaouo,Beaupuy,{},{},{},baillaouo,Birac-sur-Trec,{},{},{}
+baillaouo,Agmé,baillaouo,Beaupuy,{},{},{},,,,,,,,,,
+baillaouo,Beaupuy,baillaouo,Xaintrailles,{},{},{},baillaouo,Agmé,{},{},{},,,,,
+baillaouo,Birac-sur-Trec,baillaouo,Vianne,{},{},{},baillaouo,Xaintrailles,{},{},{},,,,,
+baillaouo,Fauguerolles,baillèbe,Saint-Vincent-de-Pertignas,{},{'o': 1},"{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillaoua,Marmande-bis,{},{},"{('o', 'a'): 1}",,,,,
+baillâouo,Gontaud-de-Nogaret-bis,bailléoueun,Saint-Antoine,"{'e': 1, 'u': 1}",{},"{('â', 'é'): 1, ('o', 'n'): 1}",baillaouo,Gontaud-de-Nogaret,{},{},"{('â', 'a'): 1}",baillaouo,Hautesvignes,{},{},"{('â', 'a'): 1}"
+baillaouo,Gontaud-de-Nogaret,baillâouo,Gontaud-de-Nogaret-bis,{},{},"{('a', 'â'): 1}",baillaoua,Marmande-bis,{},{},"{('o', 'a'): 1}",,,,,
+baillaouo,Hautesvignes,baillaouo,Marmande-ter,{},{},{},baillaouo,Caumont-sur-Garonne,{},{},{},baillâouo,Gontaud-de-Nogaret-bis,{},{},"{('a', 'â'): 1}"
+baillaouo,Longueville,baillèbeun,Saint-Pey-de-Castets,{'è': 1},{},"{('a', 'b'): 1, ('o', 'e'): 1, ('o', 'n'): 1}",baillaoüa,Marmande,{},{},"{('u', 'ü'): 1, ('o', 'a'): 1}",baillaoua,Marmande-bis,{},{},"{('o', 'a'): 1}"
+baillaoua,Marmande-bis,baillaouo,Fauguerolles,{},{},"{('a', 'o'): 1}",baillaouo,Longueville,{},{},"{('a', 'o'): 1}",baillaouo,Gontaud-de-Nogaret,{},{},"{('a', 'o'): 1}"
+baillaouo,Marmande-ter,baillaouo,Hautesvignes,{},{},{},baillaoüa,Marmande,{},{},"{('u', 'ü'): 1, ('o', 'a'): 1}",,,,,
+baillaoüa,Marmande,baillaouo,Longueville,{},{},"{('ü', 'u'): 1, ('a', 'o'): 1}",baillaouo,Saint-Colomb-de-Lauzun,{},{},"{('ü', 'u'): 1, ('a', 'o'): 1}",baillaouo,Marmande-ter,{},{},"{('ü', 'u'): 1, ('a', 'o'): 1}"
+baillao,Saint-Pardoux-du-Breuil,bailléoueun,Saint-Antoine,"{'u': 2, 'e': 1, 'n': 1}",{},"{('a', 'é'): 1}",,,,,,,,,,
+baillaouo,Saint-Pierre de Nogaret,baillèbe,Flaujagues,{},{'o': 1},"{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillaouo,Sainte-Bazeille,{},{},{},,,,,
+baillaouo,Sainte-Bazeille,baillèbe,Juillac,{},{'o': 1},"{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillaouo,Saint-Pierre de Nogaret,{},{},{},,,,,
+baillaouo,Taillebourg,baillèbe,Saint-Laurent-Médoc,{},{'o': 1},"{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillaou,Aubiac,{},{'o': 1},{},baillaouo,Virazeil,{},{},{}
+baillaouo,Virazeil,baillaouo,Puysserampion,{},{},{},baillaouo,Taillebourg,{},{},{},,,,,
+baillaouo,Cocumont,baillaouo,Couthures-sur-Garonne,{},{},{},baillaouo,Jusix,{},{},{},,,,,
+baillaouo,Couthures-sur-Garonne,baillaouo,Cocumont,{},{},{},baillâouô,Montpouillan,{},{},"{('a', 'â'): 1, ('o', 'ô'): 1}",baillaouo,Lisse,{},{},{}
+baillaouo,Gaujac,baillaouo,Réaup-Lisse,{},{},{},baillaouo,Jusix,{},{},{},baïllaouo,Lannes,{},{},"{('i', 'ï'): 1}"
+baillaouo,Jusix,baillaouo,Gaujac,{},{},{},baillaouo,Cocumont,{},{},{},,,,,
+baillaouo,Meilhan-sur-Garonne,baillâouô,Montpouillan,{},{},"{('a', 'â'): 1, ('o', 'ô'): 1}",bailhaôuo,Saint-Sauveur-de-Meilhan,{},{},"{('l', 'h'): 1, ('o', 'ô'): 1}",,,,,
+baillâouô,Montpouillan,baillaouo,Couthures-sur-Garonne,{},{},"{('â', 'a'): 1, ('ô', 'o'): 1}",baillaouo,Meilhan-sur-Garonne,{},{},"{('â', 'a'): 1, ('ô', 'o'): 1}",baillaouo,Gueyze,{},{},"{('â', 'a'): 1, ('ô', 'o'): 1}"
+bailhaôuo,Saint-Sauveur-de-Meilhan,baillébe,Saint-Germain-de-Grave,{},{'o': 1},"{('h', 'l'): 1, ('a', 'é'): 1, ('ô', 'b'): 1, ('u', 'e'): 1}",baillaouo,Gueyze,{},{},"{('h', 'l'): 1, ('ô', 'o'): 1}",baillaouo,Meilhan-sur-Garonne,{},{},"{('h', 'l'): 1, ('ô', 'o'): 1}"
+baillaouo,Gueyze,bailhaôuo,Saint-Sauveur-de-Meilhan,{},{},"{('l', 'h'): 1, ('o', 'ô'): 1}",baillaouo,Mézin,{},{},{},baillâouô,Montpouillan,{},{},"{('a', 'â'): 1, ('o', 'ô'): 1}"
+baïllaouo,Lannes,baillaouo,Gaujac,{},{},"{('ï', 'i'): 1}",baillaouo,Lisse,{},{},"{('ï', 'i'): 1}",,,,,
+baillaouo,Lisse,baillaouo,Couthures-sur-Garonne,{},{},{},baillaouo,Mézin,{},{},{},baïllaouo,Lannes,{},{},"{('i', 'ï'): 1}"
+baillaouo,Meylan,baillaouo,Mézin,{},{},{},baillèoueu,Auros-bis,{'e': 1},{},"{('a', 'è'): 1, ('o', 'u'): 1}",,,,,
+baillaouo,Mézin,baillaouo,Gueyze,{},{},{},baillaouo,Meylan,{},{},{},baillaouo,Lisse,{},{},{}
+baillec,Poudenas,bailhèbe,Saint-Macaire,"{'h': 1, 'è': 1}",{'c': 1},"{('l', 'b'): 1}",baillaouo,Andiran,"{'a': 1, 'o': 1}",{},"{('e', 'u'): 1, ('c', 'o'): 1}",,,,,
+baillaouo,Réaup-Lisse,baillaouo,Gaujac,{},{},{},baillaouo,Saint-Pé-Saint-Simon,{},{},{},,,,,
+baillaouo,Saint-Pé-Saint-Simon,baillaouo,Réaup-Lisse,{},{},{},,,,,,,,,,
+bailläouo,Sainte-Maure-de-Peyriac,baillaouo,Andiran,{},{},"{('ä', 'a'): 1}",baillèbe,Mouliets,{},{'o': 1},"{('ä', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillaouo,Sos,{},{},"{('ä', 'a'): 1}"
+baillaouo,Sos,bailläouo,Sainte-Maure-de-Peyriac,{},{},"{('a', 'ä'): 1}",baillébeunn,Saint-Pierre-d'Aurillac,"{'é': 1, 'n': 1}",{},"{('a', 'b'): 1, ('o', 'e'): 1, ('o', 'n'): 1}",baillaouo,Villeneuve-de-Mézin,{},{},{}
+baillaouo,Villeneuve-de-Mézin,baillaoüo,Calignac,{},{},"{('u', 'ü'): 1}",baillaouo,Sos,{},{},{},,,,,
+baillaouo,Andiran,baillec,Poudenas,{},"{'u': 1, 'o': 1}","{('a', 'e'): 1, ('o', 'c'): 1}",bailläouo,Sainte-Maure-de-Peyriac,{},{},"{('a', 'ä'): 1}",baillaoüo,Calignac,{},{},"{('u', 'ü'): 1}"
+baillaoüo,Calignac,baillaouo,Villeneuve-de-Mézin,{},{},"{('ü', 'u'): 1}",baillaouo,Andiran,{},{},"{('ü', 'u'): 1}",,,,,
+baillaoue,Fréchou,baillaouo,Miramont-de-Guyenne,{},{},"{('e', 'o'): 1}",baillaouo,Espiens,{},{},"{('e', 'o'): 1}",,,,,
+baillaouo,Espiens,baillébeunn,Saint-Pierre-d'Aurillac,"{'é': 1, 'n': 1}",{},"{('a', 'b'): 1, ('o', 'e'): 1, ('o', 'n'): 1}",baillaoue,Fréchou,{},{},"{('o', 'e'): 1}",baillaouo,Moncaut,{},{},{}
+baillaouo,Moncaut,baillaouo,Espiens,{},{},{},,,,,,,,,,
+baillaouo,Montagnac-sur-Auvignon,baillèbe,Saint-Symphorien-bis,{},{'o': 1},"{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillaouo,Nérac-bis,{},{},{},,,,,
+baillaouo,Nérac-bis,baillaouo,Montagnac-sur-Auvignon,{},{},{},baillèbe,Grayan,{},{'o': 1},"{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillaouo,Nérac,{},{},{}
+baillaouo,Nérac-ter,baillaouo,Cambes,{},{},{},baillaouo,Nérac,{},{},{},,,,,
+baillaouo,Nérac,baillaouo,Nérac-ter,{},{},{},baillaouo,Nérac-bis,{},{},{},,,,,
+baillec,Saumont,,,,,,,,,,,,,,,
+baillaouo,Cambes,baillaouo,Castelnau-sur-Gupie,{},{},{},baillaouo,Nérac-ter,{},{},{},,,,,
+baillaouo,Castelnau-sur-Gupie,baillèbe,Saint-Symphorien,{},{'o': 1},"{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillaouo,Cambes,{},{},{},,,,,
+baillaouo,Caubon-Saint-Sauveur,baillao,Escassefort,{},"{'u': 1, 'o': 1}",{},,,,,,,,,,
+baillao,Escassefort,baillaouo,Caubon-Saint-Sauveur,"{'u': 1, 'o': 1}",{},{},baillaouo,Lagupie,"{'u': 1, 'o': 1}",{},{},,,,,
+baïllaouon,Lachapelle,bailléoue,La Roquille,{},{'n': 1},"{('ï', 'i'): 1, ('a', 'é'): 1, ('o', 'e'): 1}",,,,,,,,,,
+baillaouo,Lagupie,baillao,Escassefort,{},"{'u': 1, 'o': 1}",{},baillaouo,Monteton,{},{},{},,,,,
+baillaouo,Mauvezin-sur-Gupie,bailléoue,Soulac-sur-Mer,{},{},"{('a', 'é'): 1, ('o', 'e'): 1}",baillaouo,Monteton,{},{},{},,,,,
+baillaouo,Monteton,baillaouo,Mauvezin-sur-Gupie,{},{},{},baillaouo,Lagupie,{},{},{},,,,,
+baïllaöuo,Montignac-Toupinerie,,,,,,,,,,,,,,,
+baillaouo,Puymiclan,baillaoua,Saint-Avit,{},{},"{('o', 'a'): 1}",baillèoue,Caplong,{},{},"{('a', 'è'): 1, ('o', 'e'): 1}",,,,,
+baillaoua,Saint-Avit,baillaoua,Tonneins_bis,{},{},{},baillaouo,Puymiclan,{},{},"{('a', 'o'): 1}",baillèc,Saint-Barthélemy-d'Agenais,{},"{'u': 1, 'a': 1}","{('a', 'è'): 1, ('o', 'c'): 1}"
+baillèc,Saint-Barthélemy-d'Agenais,baillaoua,Saint-Avit,"{'a': 1, 'o': 1}",{},"{('è', 'u'): 1, ('c', 'a'): 1}",,,,,,,,,,
+baillaouo,Saint-Martin-Petit,baillabo,Tonneins_ter,{},{'u': 1},"{('o', 'b'): 1}",baillaba,Lafitte-sur-Lot,{},{'o': 1},"{('o', 'b'): 1, ('u', 'a'): 1}",,,,,
+baillaou,Saint-Pierre-sur-Dropt,baillāouo,Unet,"{'̄': 1, 'o': 1}",{},{},baillaouo,Seyches,{'o': 1},{},{},baillaba,Lafitte-sur-Lot,{},{},"{('o', 'b'): 1, ('u', 'a'): 1}"
+baillaouo,Seyches,baillaou,Saint-Pierre-sur-Dropt,{},{'o': 1},{},baillaouo,Clairac,{},{},{},,,,,
+baillaouo,Clairac,baillaouo,Seyches,{},{},{},,,,,,,,,,
+baillaouo,Fauillet,baillaba,Lafitte-sur-Lot,{},{'o': 1},"{('o', 'b'): 1, ('u', 'a'): 1}",,,,,,,,,,
+baillaba,Lafitte-sur-Lot,baillaouo,Saint-Martin-Petit,{'o': 1},{},"{('b', 'u'): 1, ('a', 'o'): 1}",baillaou,Saint-Pierre-sur-Dropt,{},{},"{('b', 'o'): 1, ('a', 'u'): 1}",baillaouo,Fauillet,{'o': 1},{},"{('b', 'u'): 1, ('a', 'o'): 1}"
+baillaoua,Tonneins_bis,baillabo,Tonneins_ter,{'b': 1},"{'u': 1, 'a': 1}",{},baillaoua,Saint-Avit,{},{},{},baillabo,Tonneins,{'b': 1},"{'u': 1, 'a': 1}",{}
+baillabo,Tonneins_ter,baillaouo,Saint-Martin-Petit,{'o': 1},{},"{('b', 'u'): 1}",baillaoua,Tonneins_bis,{'o': 1},{},"{('b', 'u'): 1, ('o', 'a'): 1}",baillāouo,Unet,"{'̄': 1, 'o': 1}",{},"{('b', 'u'): 1}"
+baillabo,Tonneins,baillāouo,Unet,"{'̄': 1, 'o': 1}",{},"{('b', 'u'): 1}",baillaoua,Tonneins_bis,{'o': 1},{},"{('b', 'u'): 1, ('o', 'a'): 1}",,,,,
+baillāouo,Unet,baillabo,Tonneins,{},"{'o': 1, 'u': 1}","{('̄', 'b'): 1}",baillaou,Saint-Pierre-sur-Dropt,{},"{'̄': 1, 'o': 1}",{},baillabo,Tonneins_ter,{},"{'o': 1, 'u': 1}","{('̄', 'b'): 1}"
+baillaoua,Varès,,,,,,,,,,,,,,,
+baillaouo,Calonges,baillèoue,Talais,{},{},"{('a', 'è'): 1, ('o', 'e'): 1}",,,,,,,,,,
+baillaouo,Caumont-sur-Garonne,baillaouo,Hautesvignes,{},{},{},baillaoua,Fourques,{},{},"{('o', 'a'): 1}",,,,,
+baillaoua,Fourques,baillaouo,Caumont-sur-Garonne,{},{},"{('a', 'o'): 1}",baillaouo,Le Mas-d'Agenais-bis,{},{},"{('a', 'o'): 1}",,,,,
+baillaouo,Lagruère,baillaouo,Lamarque,{},{},{},bailléoue,Ligueux,{},{},"{('a', 'é'): 1, ('o', 'e'): 1}",,,,,
+baillaouo,Lamarque,baillaouo,Lagruère,{},{},{},baillaouo,Le Mas-d'Agenais-bis,{},{},{},,,,,
+baillaouo,Le Mas-d'Agenais-bis,baillaoua,Fourques,{},{},"{('o', 'a'): 1}",baillaouo,Lamarque,{},{},{},,,,,
+baillâbo,Le Mas-d'Agenais,baillâouo,Sainte-Marthe,{'o': 1},{},"{('b', 'u'): 1}",,,,,,,,,,
+baillâouo,Sainte-Marthe,baillâbo,Le Mas-d'Agenais,{},{'u': 1},"{('o', 'b'): 1}",,,,,,,,,,
+baillaouo,Samazan,bailleôue,Les Lèves-et-Thoumeyragues,{},{},"{('a', 'e'): 1, ('o', 'ô'): 1, ('o', 'e'): 1}",,,,,,,,,,
+baillaouo,Sénestis,baillaö,Villeton,{},"{'u': 1, 'o': 1}","{('o', 'ö'): 1}",bailléoueu,Eynesse,{'e': 1},{},"{('a', 'é'): 1, ('o', 'u'): 1}",,,,,
+baillaö,Villeton,baillabe,Listrac-Médoc,{'b': 1},{},"{('ö', 'e'): 1}",baillaouo,Sénestis,"{'o': 1, 'u': 1}",{},"{('ö', 'o'): 1}",baillaouo,Agen-bis,"{'o': 1, 'u': 1}",{},"{('ö', 'o'): 1}"
+baillaouo,Agen-bis,baillaö,Villeton,{},"{'u': 1, 'o': 1}","{('o', 'ö'): 1}",,,,,,,,,,
+baillaouo,Agen-ter,baillaouo,Dolmayrac,{},{},{},baillaouo,Bon-Encontre,{},{},{},baillaouo,Agen,{},{},{}
+baillaouo,Agen,baïllaouo,Artigues,{},{},"{('i', 'ï'): 1}",baillàue,Saint-Avit-Saint-Nazaire,{},{'o': 1},"{('a', 'à'): 1, ('o', 'e'): 1}",baillaouo,Agen-ter,{},{},{}
+baïllaouo,Artigues,baillaouo,Boé,{},{},"{('ï', 'i'): 1}",bäillèoue,Margaux,{},{},"{('a', 'ä'): 1, ('ï', 'i'): 1, ('a', 'è'): 1, ('o', 'e'): 1}",baillaouo,Agen,{},{},"{('ï', 'i'): 1}"
+baillaouo,Boé,baillèou,Castillon-de-Castets,{},{'o': 1},"{('a', 'è'): 1}",baïllaouo,Artigues,{},{},"{('i', 'ï'): 1}",baillaouo,Bon-Encontre,{},{},{}
+baillaouo,Bon-Encontre,bailléoueu,Yvrac,{'e': 1},{},"{('a', 'é'): 1, ('o', 'u'): 1}",baillaouo,Boé,{},{},{},baillaouo,Agen-ter,{},{},{}
+baillaouo,Colayrac-Saint-Cirq,bailleoueu,Virsac,{'e': 1},{},"{('a', 'e'): 1, ('o', 'u'): 1}",baillaouo,Dolmayrac,{},{},{},baillaouo,Foulayronnes,{},{},{}
+baillaouo,Dolmayrac,baillaouo,Colayrac-Saint-Cirq,{},{},{},baillaouo,Agen-ter,{},{},{},baillaouo,Le Passage,{},{},{}
+baillaouo,Foulayronnes,baillaouo,Le Passage,{},{},{},bailléoue,Carcans,{},{},"{('a', 'é'): 1, ('o', 'e'): 1}",baillaouo,Colayrac-Saint-Cirq,{},{},{}
+baillaouo,Le Passage,baillaoue,Saint-Quentin-de-Caplong,{},{},"{('o', 'e'): 1}",baillaouo,Foulayronnes,{},{},{},baillaouo,Dolmayrac,{},{},{}
+baillaouo,Pont-du-Casse,,,,,,,,,,,,,,,
+baillaouo,Saint-Hilaire-de-Lusignan,bailleoueu,Nassiet,{'e': 1},{},"{('a', 'e'): 1, ('o', 'u'): 1}",,,,,,,,,,
+baillaouo,Astaffort-bis,baillèbeun,Pomarez,{'è': 1},{},"{('a', 'b'): 1, ('o', 'e'): 1, ('o', 'n'): 1}",,,,,,,,,,
+baillaouo,Astaffort,baillaouo,Caudecoste,{},{},{},,,,,,,,,,
+baillaouo,Caudecoste,baillaouo,Astaffort,{},{},{},bailläoue,Castelviel,{},{},"{('a', 'ä'): 1, ('o', 'e'): 1}",,,,,
+baillaouo,Cuq,baillaouo,Condezaygues,{},{},{},baillaouo,Fals,{},{},{},baïllaouo,Saint-Nicolas-de-la-Balerme,{},{},"{('i', 'ï'): 1}"
+baillaouo,Fals,baillaouo,Cuq,{},{},{},,,,,,,,,,
+baillaouo,Layrac,baillaouo,Saint-Quentin-du-Dropt,{},{},{},baïllaouo,Saint-Nicolas-de-la-Balerme,{},{},"{('i', 'ï'): 1}",,,,,
+baïllaouo,Saint-Nicolas-de-la-Balerme,baillaouo,Layrac,{},{},"{('ï', 'i'): 1}",baillèbe,Saint-Léger-de-Vignague,{},{'o': 1},"{('ï', 'i'): 1, ('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillaouo,Cuq,{},{},"{('ï', 'i'): 1}"
+baillaouo,Sauveterre-Saint-Denis,baillaou,Cauzac,{},{'o': 1},{},baillèbe,Coirac,{},{'o': 1},"{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillaouo,Beauville,{},{},{}
+baillaouo,Beauville,baillaoua,Saint-Robert,{},{},"{('o', 'a'): 1}",baillaouo,Sauveterre-Saint-Denis,{},{},{},,,,,
+baillaouo,Blaymont,baillaouo,Boudy-de-Beauregard,{},{},{},baillaou,Cauzac,{},{'o': 1},{},,,,,
+baillaou,Cauzac,baillaouo,Blaymont,{'o': 1},{},{},baillaouo,Sauveterre-Saint-Denis,{'o': 1},{},{},baillaouo,Dondas,{'o': 1},{},{}
+baillaouo,Dondas,baillaou,Cauzac,{},{'o': 1},{},,,,,,,,,,
+baillaouo,Engayrac,baïllaouo,Sauvagnas,{},{},"{('i', 'ï'): 1}",baillèbe,Coirac,{},{'o': 1},"{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillaouo,Gandaille,{},{},{}
+baillaouo,Gandaille,baillaouo,Saint-Maurin,{},{},{},baïllaouo,Saint-Martin-de-Beauville,{},{},"{('i', 'ï'): 1}",baillaouo,Engayrac,{},{},{}
+baïllaouo,Saint-Martin-de-Beauville,baillaouo,Gandaille,{},{},"{('ï', 'i'): 1}",baillêbe,Frontenac,{},{'o': 1},"{('ï', 'i'): 1, ('a', 'ê'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillaouo,Fongrave,{},{},"{('ï', 'i'): 1}"
+baillaouo,Saint-Maurin,baillaouo,Tayrac,{},{},{},baillaouo,Gandaille,{},{},{},baillo,Cancon-bis,{},"{'a': 1, 'o': 1, 'u': 1}",{}
+baillaouo,Tayrac,baïllaoueu,Romagne,{'e': 1},{},"{('i', 'ï'): 1, ('o', 'u'): 1}",baillaouo,Saint-Maurin,{},{},{},baillaouo,Beaugas,{},{},{}
+baillaouo,Beaugas,baillaouo,Boudy-de-Beauregard,{},{},{},baillaouo,Tayrac,{},{},{},,,,,
+baillaouo,Boudy-de-Beauregard,baillo,Cancon-bis,{},"{'a': 1, 'o': 1, 'u': 1}",{},baillaouo,Blaymont,{},{},{},baillaouo,Beaugas,{},{},{}
+baillo,Cancon-bis,baillèbe,Coirac,"{'è': 1, 'b': 1}",{},"{('o', 'e'): 1}",baillaouo,Boudy-de-Beauregard,"{'a': 1, 'o': 1, 'u': 1}",{},{},baillaouo,Saint-Maurin,"{'a': 1, 'o': 1, 'u': 1}",{},{}
+baillaouo,Cancon,baill͟aouo,Lougratte,{'͟': 1},{},{},baillaou,Casseneuil,{},{'o': 1},{},,,,,
+baillaou,Casseneuil,baillaouo,Lalandusse,{'o': 1},{},{},baillaouo,Monviel,{'o': 1},{},{},baillaouo,Cancon,{'o': 1},{},{}
+baillaouo,Castelnaud-de-Gratecambe,baillait,Bègles,{},{'o': 1},"{('o', 'i'): 1, ('u', 't'): 1}",,,,,,,,,,
+baillaouo,Monviel,baillaou,Casseneuil,{},{'o': 1},{},baillaouo,Moulinet,{},{},{},,,,,
+baillaouo,Moulinet,baillaouo,Monviel,{},{},{},,,,,,,,,,
+baillec,Pailloles,baillaoue,Targon,"{'a': 1, 'o': 1, 'u': 1}",{'c': 1},{},baillaouo,Saint-Maurice-de-Lestapel,"{'a': 1, 'o': 1}",{},"{('e', 'u'): 1, ('c', 'o'): 1}",,,,,
+baillaouo,Saint-Maurice-de-Lestapel,baillaouo,Monflanquin-bis,{},{},{},baillec,Pailloles,{},"{'u': 1, 'o': 1}","{('a', 'e'): 1, ('o', 'c'): 1}",,,,,
+baillaouo,Cahuzac,,,,,,,,,,,,,,,
+baillaouo,Castang,baillèbe,Sauveterre-de-Guyenne,{},{'o': 1},"{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",,,,,,,,,,
+baillaouo,Castillonnès,bailaouo,Ferrensac,{},{'l': 1},{},baillaouo,Lalandusse,{},{},{},,,,,
+baillaouo,Cavarc,bailaouo,Ferrensac,{},{'l': 1},{},,,,,,,,,,
+bailaouo,Ferrensac,baillaouo,Castillonnès,{'l': 1},{},{},baillèbe,Saint-Brice,{},{},"{('a', 'l'): 1, ('o', 'è'): 1, ('u', 'b'): 1, ('o', 'e'): 1}",baillaouo,Cavarc,{'l': 1},{},{}
+baillaouo,Lalandusse,baillaou,Casseneuil,{},{'o': 1},{},baillaouo,Castillonnès,{},{},{},,,,,
+baill͟aouo,Lougratte,baillaouo,Cancon,{},{'͟': 1},{},baillaouo,Montauriol,{},{'͟': 1},{},,,,,
+baillaouo,Montauriol,baill͟aouo,Lougratte,{'͟': 1},{},{},,,,,,,,,,
+baillaouo,Saint-Quentin-du-Dropt,baillaouo,Layrac,{},{},{},baillabo,Blanquefort-sur-Briolance-La-Sauvetat,{},{'u': 1},"{('o', 'b'): 1}",,,,,
+baillabo,Blanquefort-sur-Briolance-La-Sauvetat,baillèbe,Mérignas,{},{},"{('a', 'è'): 1, ('o', 'e'): 1}",baillaouo,Saint-Quentin-du-Dropt,{'o': 1},{},"{('b', 'u'): 1}",,,,,
+baillaoua,Blanquefort-sur-Briolance,baillaouo,Condezaygues,{},{},"{('a', 'o'): 1}",baillèbe,Saint-Léger-de-Vignague,{},{'a': 1},"{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillaouo,Fumel,{},{},"{('a', 'o'): 1}"
+baillaouo,Condezaygues,baillaouo,Cuzorn,{},{},{},baillaouo,Cuq,{},{},{},baillaoua,Blanquefort-sur-Briolance,{},{},"{('o', 'a'): 1}"
+baillaouo,Cuzorn,baillaoué,Saint-Sylvestre-sur-Lot,{},{},"{('o', 'é'): 1}",baillaouo,Condezaygues,{},{},{},baillaouo,Fumel-bis,{},{},{}
+baillaouo,Fumel-bis,baillèbe,Saint-Félix-de-Foncaude,{},{'o': 1},"{('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillaouo,Cuzorn,{},{},{},baillaouo,Fumel,{},{},{}
+baillaouo,Fumel,baillaouo,Fumel-bis,{},{},{},baillaoua,Blanquefort-sur-Briolance,{},{},"{('o', 'a'): 1}",,,,,
+ballaouo,Monsempron-Libos,baillàue,Saint-Avit-Saint-Nazaire,{'i': 1},{'o': 1},"{('a', 'à'): 1, ('o', 'e'): 1}",baillaoua,Saint-Front-sur-Lémance-Bonaguil,{'i': 1},{},"{('o', 'a'): 1}",,,,,
+baillaoua,Saint-Front-sur-Lémance-Bonaguil,bäillèoue,Margaux,{},{},"{('a', 'ä'): 1, ('a', 'è'): 1, ('a', 'e'): 1}",ballaouo,Monsempron-Libos,{},{'i': 1},"{('a', 'o'): 1}",,,,,
+baillaouo,Saint-Front-sur-Lémance,baillaouo,Brax,{},{},{},,,,,,,,,,
+baillaoua,Sauveterre-la-Lémance,baillaoua,Marmont-Pachas,{},{},{},baillaou,Aubiac,{},{'a': 1},{},,,,,
+baillaou,Aubiac,baillaouo,Taillebourg,{'o': 1},{},{},baillaoua,Sauveterre-la-Lémance,{'a': 1},{},{},,,,,
+baillaouo,Brax,baillaouo,Moirax,{},{},{},bailhaouo,Laplume,{},{},"{('l', 'h'): 1}",baillaouo,Saint-Front-sur-Lémance,{},{},{}
+baillaouo,Estillac,baillèoue,Moulis-en-Médoc-bis,{},{},"{('a', 'è'): 1, ('o', 'e'): 1}",baillâouö,Laplume-bis,{},{},"{('a', 'â'): 1, ('o', 'ö'): 1}",,,,,
+baillâouö,Laplume-bis,baillaouo,Estillac,{},{},"{('â', 'a'): 1, ('ö', 'o'): 1}",baillaoube,Sainte-Foy-la-Grande-ter,{'b': 1},{},"{('â', 'a'): 1, ('ö', 'e'): 1}",,,,,
+bailhaouo,Laplume,baillaouo,Brax,{},{},"{('h', 'l'): 1}",baillaoua,Marmont-Pachas,{},{},"{('h', 'l'): 1, ('o', 'a'): 1}",,,,,
+baillaoua,Marmont-Pachas,baillaoua,Sauveterre-la-Lémance,{},{},{},bailhaouo,Laplume,{},{},"{('l', 'h'): 1, ('a', 'o'): 1}",,,,,
+baillaouo,Moirax,baillaouo,Brax,{},{},{},,,,,,,,,,
+ballaoua,Roquefort,ballaoua,Sainte-Colombe-en-Bruilhois,{},{},{},baillabe,Baigneaux,{'i': 1},{'a': 1},"{('o', 'b'): 1, ('u', 'e'): 1}",baillaouo,Monbalen,{'i': 1},{},"{('a', 'o'): 1}"
+ballaoua,Sainte-Colombe-en-Bruilhois,baillaouo,Tourtrès,{'i': 1},{},"{('a', 'o'): 1}",ballaoua,Roquefort,{},{},{},baillaoua,Sérignac-sur-Garonne,{'i': 1},{},{}
+baillaoua,Sérignac-sur-Garonne,baillaoueun,Saint-Pierre-de-Bat,"{'e': 1, 'u': 1}",{},"{('a', 'n'): 1}",ballaoua,Sainte-Colombe-en-Bruilhois,{},{'i': 1},{},baillaouo,Tombebœuf,{},{},"{('a', 'o'): 1}"
+baillaoua,La Croix-Blanche,baillaoue,Escoussans,{},{},"{('a', 'e'): 1}",baillaoua,Laroque-Timbaut-bis,{},{},{},baillaouo,Monbalen,{},{},"{('a', 'o'): 1}"
+baillaouo,La Sauvetat-de-Savères,baillabe,Faleyras,{},{'o': 1},"{('o', 'b'): 1, ('u', 'e'): 1}",baillaouo,Laroque-Timbaut,{},{},{},baillaoua,Laroque-Timbaut-bis,{},{},"{('o', 'a'): 1}"
+baillaoua,Laroque-Timbaut-bis,baillaoua,La Croix-Blanche,{},{},{},baillaouo,La Sauvetat-de-Savères,{},{},"{('a', 'o'): 1}",,,,,
+baillaouo,Laroque-Timbaut,baillaouo,La Sauvetat-de-Savères,{},{},{},bailhaouo,Saint-Pastour,{},{},"{('l', 'h'): 1}",baillaouo,Monbalen,{},{},{}
+baillaouo,Monbalen,ballaoua,Roquefort,{},{'i': 1},"{('o', 'a'): 1}",baillaoua,La Croix-Blanche,{},{},"{('o', 'a'): 1}",baillaouo,Laroque-Timbaut,{},{},{}
+baillaoua,Saint-Robert,baillaouo,Beauville,{},{},"{('a', 'o'): 1}",baïllaouo,Sauvagnas,{},{},"{('i', 'ï'): 1, ('a', 'o'): 1}",,,,,
+baïllaouo,Sauvagnas,baillaoua,Saint-Robert,{},{},"{('ï', 'i'): 1, ('o', 'a'): 1}",baillaouo,Engayrac,{},{},"{('ï', 'i'): 1}",baillaouo,Fongrave,{},{},"{('ï', 'i'): 1}"
+baillaouo,Fongrave,baïllaouo,Saint-Martin-de-Beauville,{},{},"{('i', 'ï'): 1}",baïllaouo,Sauvagnas,{},{},"{('i', 'ï'): 1}",,,,,
+baillao,Monclar-bis,baillaoueun,Saint-Pierre-de-Bat,"{'u': 2, 'e': 1, 'n': 1}",{},{},baillaoué,Monclar,"{'u': 1, 'é': 1}",{},{},,,,,
+baillaoué,Monclar,bailléoübe,Soulignac,{'ü': 1},{},"{('a', 'é'): 1, ('u', 'b'): 1, ('é', 'e'): 1}",baillao,Monclar-bis,{},"{'u': 1, 'é': 1}",{},,,,,
+baillao,Montastruc,bailhaouo,Saint-Pastour,"{'o': 1, 'u': 1}",{},"{('l', 'h'): 1}",baillabe,Faleyras,{'b': 1},{},"{('o', 'e'): 1}",baillaouo,Saint-Étienne-de-Fougères,"{'u': 1, 'o': 1}",{},{}
+baillaouo,Saint-Étienne-de-Fougères,baillao,Montastruc,{},"{'u': 1, 'o': 1}",{},bailléoübe,Soulignac,{'ü': 1},{},"{('a', 'é'): 1, ('u', 'b'): 1, ('o', 'e'): 1}",baillaouo,Tombebœuf,{},{},{}
+bailhaouo,Saint-Pastour,baillaouo,Laroque-Timbaut,{},{},"{('h', 'l'): 1}",baillao,Montastruc,{},"{'o': 1, 'u': 1}","{('h', 'l'): 1}",baillaouo,Tombebœuf,{},{},"{('h', 'l'): 1}"
+baillaouo,Tombebœuf,baillaouo,Saint-Étienne-de-Fougères,{},{},{},baillaoua,Sérignac-sur-Garonne,{},{},"{('o', 'a'): 1}",bailhaouo,Saint-Pastour,{},{},"{('l', 'h'): 1}"
+baillaouo,Tourtrès,baillaoue,Villebramar,{},{},"{('o', 'e'): 1}",ballaoua,Sainte-Colombe-en-Bruilhois,{},{'i': 1},"{('o', 'a'): 1}",,,,,
+baillaoue,Villebramar,baillaouo,Gavaudun,{},{},"{('e', 'o'): 1}",baillaouo,Tourtrès,{},{},"{('e', 'o'): 1}",ballao,Lacaussade,{},"{'i': 1, 'u': 1, 'e': 1}",{}
+baillaouo,Bonnenouvelle,baillabe,Baigneaux,{},{'o': 1},"{('o', 'b'): 1, ('u', 'e'): 1}",baillaouo,Gavaudun,{},{},{},,,,,
+baillaouo,Gavaudun,baillaouo,Bonnenouvelle,{},{},{},baillaoue,Villebramar,{},{},"{('o', 'e'): 1}",ballaouo,La Sauvetat-sur-Lède,{},{'i': 1},{}
+ballaouo,La Sauvetat-sur-Lède,baillaoueu,Targon-bis,"{'i': 1, 'e': 1}",{},"{('o', 'u'): 1}",baillaouo,Gavaudun,{'i': 1},{},{},,,,,
+baillaouo,Lacapelle-Biron,baillaoueu,Targon-bis,{'e': 1},{},"{('o', 'u'): 1}",ballao,Lacaussade,{},"{'i': 1, 'o': 1, 'u': 1}",{},,,,,
+ballao,Lacaussade,baillaouo,Lacapelle-Biron,"{'i': 1, 'o': 1, 'u': 1}",{},{},baillaoue,Villebramar,"{'i': 1, 'u': 1, 'e': 1}",{},{},,,,,
+bailláouo,Laussou,baillaoue,Cazalis,{},{},"{('á', 'a'): 1, ('o', 'e'): 1}",baillaouo,Monflanquin-bis,{},{},"{('á', 'a'): 1}",,,,,
+baillaouo,Monflanquin-bis,baillaouo,Saint-Maurice-de-Lestapel,{},{},{},bayavo,Monflanquin-Lamothe,{},"{'l': 2, 'u': 1}","{('i', 'y'): 1, ('o', 'v'): 1}",bailláouo,Laussou,{},{},"{('a', 'á'): 1}"
+bayavo,Monflanquin-Lamothe,baillaouo,Monflanquin-bis,"{'i': 1, 'l': 1, 'o': 1}",{},"{('y', 'l'): 1, ('v', 'u'): 1}",,,,,,,,,,
+baillaoua,Monségur,bailléoueu,Duhort-Bachen,{'e': 1},{},"{('a', 'é'): 1, ('a', 'u'): 1}",baillaouo,Montagnac-sur-Lède,{},{},"{('a', 'o'): 1}",,,,,
+baillaouo,Montagnac-sur-Lède,bailléoue,Aire-sur-l'Adour,{},{},"{('a', 'é'): 1, ('o', 'e'): 1}",baillaoua,Monségur,{},{},"{('o', 'a'): 1}",,,,,
+bouillébe,Paulhiac,baillaoua,Salles,{'a': 1},{'u': 1},"{('o', 'a'): 1, ('é', 'o'): 1, ('b', 'u'): 1, ('e', 'a'): 1}",baillèbe,Saint-Étienne-de-Lisse,{},{'u': 1},"{('o', 'a'): 1, ('é', 'è'): 1}",,,,,
+baillaouo,Saint-Aubin,baïllèoue,Bazas-bis,{},{},"{('i', 'ï'): 1, ('a', 'è'): 1, ('o', 'e'): 1}",baillaoua,Salles,{},{},"{('o', 'a'): 1}",,,,,
+baillaoua,Salles,baillaouo,Saint-Aubin,{},{},"{('a', 'o'): 1}",bouillébe,Paulhiac,{'o': 1},{'a': 1},"{('a', 'u'): 1, ('a', 'é'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",,,,,
+baillaoue,Savignac-sur-Leyze,baillèbe,Vignonet,{},{'u': 1},"{('a', 'è'): 1, ('o', 'b'): 1}",baillaoue,Auradou,{},{},{},,,,,
+baillaoue,Auradou,baillaoue,Savignac-sur-Leyze,{},{},{},baillèbe,Eugénie-les-Bains,{},{'u': 1},"{('a', 'è'): 1, ('o', 'b'): 1}",,,,,
+baillabo,Dausse,boulibé,Frespech,{},{'a': 1},"{('a', 'o'): 1, ('i', 'u'): 1, ('l', 'i'): 1, ('o', 'é'): 1}",,,,,,,,,,
+boulibé,Frespech,baillabo,Dausse,{'l': 1},{},"{('o', 'a'): 1, ('u', 'i'): 1, ('i', 'a'): 1, ('é', 'o'): 1}",,,,,,,,,,
+baillaoué,Hautefage-la-Tour,baïllaoué,Massoulès,{},{},"{('i', 'ï'): 1}",,,,,,,,,,
+baïllaoué,Massoulès,baillaoué,Hautefage-la-Tour,{},{},"{('ï', 'i'): 1}",,,,,,,,,,
+baillaoué,Saint-Sylvestre-sur-Lot,baillaouo,Cuzorn,{},{},"{('é', 'o'): 1}",baillaoué,Bazens,{},{},{},,,,,
+vaillaoué,Trémons,baillèbe,Saint-Félix-de-Foncaude,{},{'é': 1},"{('v', 'b'): 1, ('a', 'è'): 1, ('o', 'b'): 1, ('u', 'e'): 1}",baillaoué,Trentels,{},{},"{('v', 'b'): 1}",baillaoué,Bazens,{},{},"{('v', 'b'): 1}"
+baillaoué,Trentels,vaillaoué,Trémons,{},{},"{('b', 'v'): 1}",bailléoueu,Castaignos-Souslens,{'e': 1},{},"{('a', 'é'): 1, ('é', 'u'): 1}",baillaoué,Bourran,{},{},{}
+baillaoué,Bazens,baillaoué,Saint-Sylvestre-sur-Lot,{},{},{},vaillaoué,Trémons,{},{},"{('b', 'v'): 1}",,,,,
+baillaoué,Bourran,baillaoué,Trentels,{},{},{},baillaoué,Clermont-Dessous,{},{},{},,,,,
+baillaoué,Clermont-Dessous,baillaoué,Bourran,{},{},{},,,,,,,,,,
+baillaouo,Galapian,,,,,,,,,,,,,,,
+baillaouo,Lusinhan-Grand,,,,,,,,,,,,,,,
+baillaouo,Nicole,,,,,,,,,,,,,,,
+baillaouo,Port-Sainte-Marie,bailléeu,Castel-Sarrazin,{},{'o': 1},"{('a', 'é'): 1, ('o', 'e'): 1}",,,,,,,,,,
+baillaouo,Saint-Médard,baillaouo,Lacépède,{},{},{},baillèouo,Philondenx,{},{},"{('a', 'è'): 1}",baillaouo,Cours,{},{},{}
+baillaouo,Saint-Salvy,baillaoua,Saint-Sardos,{},{},"{('o', 'a'): 1}",baillaouo,Laugnac,{},{},{},,,,,
+baillaouo,Cours,baillaouo,Saint-Médard,{},{},{},,,,,,,,,,
+baillâouo,Granges-sur-Lot,baillaouo,Laugnac,{},{},"{('â', 'a'): 1}",,,,,,,,,,
+baillaouo,Lacépède,baillaouo,Saint-Médard,{},{},{},baillaouo,Laugnac,{},{},{},,,,,
+baillaouo,Laugnac,baillaouo,Saint-Salvy,{},{},{},baillâouo,Granges-sur-Lot,{},{},"{('a', 'â'): 1}",baillaouo,Lacépède,{},{},{}
+baillaouo,Lusignan-Petit,baillâouo,Prayssas-bis,{},{},"{('a', 'â'): 1}",,,,,,,,,,
+baillaouä,Madaillan,baillaoue,Castelculier,{},{},"{('ä', 'e'): 1}",bailhaoua,Montpezat,{},{},"{('l', 'h'): 1, ('ä', 'a'): 1}",,,,,
+bailhaoua,Montpezat,baillaouä,Madaillan,{},{},"{('h', 'l'): 1, ('a', 'ä'): 1}",baillâouo,Prayssas-bis,{},{},"{('h', 'l'): 1, ('a', 'â'): 1, ('a', 'o'): 1}",,,,,
+baillâouo,Prayssas-bis,baillaouo,Prayssas,{},{},"{('â', 'a'): 1}",baillaouo,Lusignan-Petit,{},{},"{('â', 'a'): 1}",bailhaoua,Montpezat,{},{},"{('l', 'h'): 1, ('â', 'a'): 1, ('o', 'a'): 1}"
+baillaouo,Prayssas,baillâouo,Prayssas-bis,{},{},"{('a', 'â'): 1}",,,,,,,,,,
+baillaoua,Saint-Sardos,baillaouo,Saint-Salvy,{},{},"{('a', 'o'): 1}",,,,,,,,,,
+baillaoue,Castelculier,baillaouä,Madaillan,{},{},"{('e', 'ä'): 1}",,,,,,,,,,
+baillayo,Clermont-Soubiran,,,,,,,,,,,,,,,
+vaillaou,Grayssas,baillaouo,Puymirol-bis,{'o': 1},{},"{('v', 'b'): 1}",,,,,,,,,,
+baillaouo,Puymirol-bis,vaillaou,Grayssas,{},{'o': 1},"{('b', 'v'): 1}",,,,,,,,,,
+baillaoue,Puymirol,baillaouo,Saint-Caprais-de-Lerm,{},{},"{('e', 'o'): 1}",,,,,,,,,,
+baillaouo,Saint-Caprais-de-Lerm,baillaoue,Puymirol,{},{},"{('o', 'e'): 1}",,,,,,,,,,
+baillaoué,Saint-Jean-de-Thurac,,,,,,,,,,,,,,,
+baillaouo,Allez-et-Cazeneuve,bailleoueu,Nassiet,{'e': 1},{},"{('a', 'e'): 1, ('o', 'u'): 1}",,,,,,,,,,
+baillao,Dolmayrac,,,,,,,,,,,,,,,
+baillèc,Le-Temple-sur-Lot,baillao,Anthé,{},{},"{('è', 'a'): 1, ('c', 'o'): 1}",baillao,Sainte-Livrade-sur-Lot-bis,{},{},"{('è', 'a'): 1, ('c', 'o'): 1}",,,,,
+baillao,Sainte-Livrade-sur-Lot-bis,baillabe,Lévignacq,{'b': 1},{},"{('o', 'e'): 1}",baillèc,Le-Temple-sur-Lot,{},{},"{('a', 'è'): 1, ('o', 'c'): 1}",baillaouo,Sainte-Livrade-sur-Lot,"{'u': 1, 'o': 1}",{},{}
+baillaouo,Sainte-Livrade-sur-Lot,baillabo,Bourlens,{},{'u': 1},"{('o', 'b'): 1}",baillao,Sainte-Livrade-sur-Lot-bis,{},"{'u': 1, 'o': 1}",{},,,,,
+baillao,Anthé,baillèc,Le-Temple-sur-Lot,{},{},"{('a', 'è'): 1, ('o', 'c'): 1}",baillabo,Bourlens,{'b': 1},{},{},,,,,
+baillabo,Bourlens,baillèoue,Léon,{'è': 1},{},"{('a', 'o'): 1, ('b', 'u'): 1, ('o', 'e'): 1}",baillaouo,Sainte-Livrade-sur-Lot,{'o': 1},{},"{('b', 'u'): 1}",baillao,Anthé,{},{'b': 1},{}
+baillaouo,Cazideroque,baillâouo,Tartas,{},{},"{('a', 'â'): 1}",ballaouo,Courbiac,{},{'i': 1},{},,,,,
+ballaouo,Courbiac,baillaouo,Cazideroque,{'i': 1},{},{},baillabo,Masquières,{'i': 1},{'u': 1},"{('o', 'b'): 1}",,,,,
+baillabo,Masquières,ballaouo,Courbiac,{'o': 1},{'i': 1},"{('b', 'u'): 1}",,,,,,,,,,
+baillabo,Montayral,baillabo,Perricard,{},{},{},,,,,,,,,,
+baillabo,Perricard,baillaouo,Meilhan,{'o': 1},{},"{('b', 'u'): 1}",baillabo,Montayral,{},{},{},,,,,
+baillao,Saint-Georges,,,,,,,,,,,,,,,
+baillaou,Saint-Vite,,,,,,,,,,,,,,,
+baïllao,Thézac,,,,,,,,,,,,,,,

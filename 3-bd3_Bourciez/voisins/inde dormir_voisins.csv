@@ -1,0 +1,1634 @@
+Mot,Commune,Voisin_1,Commune_1,Insertions_1,Suppressions_1,Substitutions_1,Voisin_2,Commune_2,Insertions_2,Suppressions_2,Substitutions_2,Voisin_3,Commune_3,Insertions_3,Suppressions_3,Substitutions_3
+énta,Andernos-les-Bains,ta,Bazas-bis,{},"{'é': 1, 'n': 1}",{},ènta,Auros-bis,{},{},"{('é', 'è'): 1}",énta,Audenge-bis,{},{},{}
+énta,Arès,énta,Savignac,{},{},{},énté,Ailas,{},{},"{('a', 'é'): 1}",ta,Coimères,{},"{'é': 1, 'n': 1}",{}
+énta,Audenge-bis,énta,Andernos-les-Bains,{},{},{},eunta,Le Porge,{'e': 1},{},"{('é', 'u'): 1}",énta,Saint-Étienne-de-Lisse,{},{},{}
+énta,Audenge,eunta,Lignan-de-Bazas,{'e': 1},{},"{('é', 'u'): 1}",eun̈ta,Belin-Béliet,"{'e': 1, '̈': 1}",{},"{('é', 'u'): 1}",,,,,
+énté,Biganos,éndé,Blanquefort-bis,{},{},"{('t', 'd'): 1}",,,,,,,,,,
+énta,Lacanau-de-Mios,éndé,Eysines,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}",eunnta,Carbon-Blanc-bis,"{'e': 1, 'u': 1}",{},"{('é', 'n'): 1}",,,,,
+énté,Lanton,éndé,Macau,{},{},"{('t', 'd'): 1}",enta,Castelnau-de-Médoc,{},{},"{('é', 'e'): 1, ('é', 'a'): 1}",énta,Saint-Loubès,{},{},"{('é', 'a'): 1}"
+enta,Lège,én,Pompogne,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",eunta,Saint-Sulpice-et-Cameyrac,{'u': 1},{},{},,,,,
+énta,Mios,énté,Ailas,{},{},"{('a', 'é'): 1}",ta,Saint-Maixant,{},"{'é': 1, 'n': 1}",{},,,,,
+énté,Ailas,énta,Arès,{},{},"{('é', 'a'): 1}",énta,Mios,{},{},"{('é', 'a'): 1}",ènta,Auros-bis,{},{},"{('é', 'è'): 1, ('é', 'a'): 1}"
+ènta,Auros-bis,énta,Andernos-les-Bains,{},{},"{('è', 'é'): 1}",énté,Ailas,{},{},"{('è', 'é'): 1, ('a', 'é'): 1}",én,Meylan,{},"{'t': 1, 'a': 1}","{('è', 'é'): 1}"
+enta,Auros,enda,Bordeaux,{},{},"{('t', 'd'): 1}",énta,Sainte-Foy-la-Grande-bis,{},{},"{('e', 'é'): 1}",énta,Brannens,{},{},"{('e', 'é'): 1}"
+ta,Barie,enta,Yvrac,"{'e': 1, 'n': 1}",{},{},,,,,,,,,,
+énta,Brannens,enta,Auros,{},{},"{('é', 'e'): 1}",énta,Castillon-de-Castets,{},{},{},,,,,
+énta,Castillon-de-Castets,énda,Saint-Médard-en-Jalles,{},{},"{('t', 'd'): 1}",én,Boé,{},"{'t': 1, 'a': 1}",{},énta,Brannens,{},{},{}
+ta,Coimères,énta,Arès,"{'é': 1, 'n': 1}",{},{},ta,Cudos,{},{},{},énta,Lados,"{'é': 1, 'n': 1}",{},{}
+énta,Lados,eunta,Gans,{'e': 1},{},"{('é', 'u'): 1}",enta,Puybarban,{},{},"{('é', 'e'): 1}",ta,Coimères,{},"{'é': 1, 'n': 1}",{}
+eunta,Pondaurat,énta,Blaignan,{},{'u': 1},"{('e', 'é'): 1}",énta,Bescat,{},{'u': 1},"{('e', 'é'): 1}",,,,,
+enta,Puybarban,énta,Lados,{},{},"{('e', 'é'): 1}",endaï,Le Bouscat,{'ï': 1},{},"{('t', 'd'): 1}",énta,Savignac,{},{},"{('e', 'é'): 1}"
+énta,Savignac,ta,Sigalens,{},"{'é': 1, 'n': 1}",{},énta,Arès,{},{},{},enta,Puybarban,{},{},"{('é', 'e'): 1}"
+ta,Sigalens,énta,Caudéran,"{'é': 1, 'n': 1}",{},{},énta,Savignac,"{'é': 1, 'n': 1}",{},{},énta,Bayon-sur-Gironde,"{'é': 1, 'n': 1}",{},{}
+ta,Bazas-bis,enta,Bazas,"{'e': 1, 'n': 1}",{},{},énta,Andernos-les-Bains,"{'é': 1, 'n': 1}",{},{},ta,Saint-Aubin,{},{},{}
+enta,Bazas,enta,Cazats,{},{},{},ta,Bazas-bis,{},"{'e': 1, 'n': 1}",{},,,,,
+ta,Bernos-Beaulac,enta,Birac,"{'e': 1, 'n': 1}",{},{},énta,Saumos,"{'é': 1, 'n': 1}",{},{},énta,Gajac,"{'é': 1, 'n': 1}",{},{}
+enta,Birac,eunta,Saint-Magne-de-Castillon,{'u': 1},{},{},ta,Bernos-Beaulac,{},"{'e': 1, 'n': 1}",{},enta,Cazats,{},{},{}
+enta,Cazats,ta,Cudos,{},"{'e': 1, 'n': 1}",{},enta,Bazas,{},{},{},enta,Birac,{},{},{}
+ta,Cudos,ta,Coimères,{},{},{},enta,Cazats,"{'e': 1, 'n': 1}",{},{},eunta,Gans,"{'e': 1, 'u': 1, 'n': 1}",{},{}
+énta,Gajac,enta,Belvès-de-Castillon,{},{},"{('é', 'e'): 1}",eunta,Gans,{'e': 1},{},"{('é', 'u'): 1}",ta,Bernos-Beaulac,{},"{'é': 1, 'n': 1}",{}
+eunta,Gans,énta,Gajac,{},{'u': 1},"{('e', 'é'): 1}",énta,Lados,{},{'u': 1},"{('e', 'é'): 1}",ta,Cudos,{},"{'e': 1, 'u': 1, 'n': 1}",{}
+eunta,Le Nizan,énta,Prignac-et-Marcamps,{},{'u': 1},"{('e', 'é'): 1}",éntay,Gauriac,{'y': 1},{'u': 1},"{('e', 'é'): 1}",énta,Saint-Antoine-sur-l'Isle,{},{'u': 1},"{('e', 'é'): 1}"
+eunta,Lignan-de-Bazas,énta,Audenge,{},{'u': 1},"{('e', 'é'): 1}",énté,Lansac,{},{'u': 1},"{('e', 'é'): 1, ('a', 'é'): 1}",ënta,Béliet,{},{'u': 1},"{('e', 'ë'): 1}"
+enta,Saint-Côme,énta,Bonnetan,{},{},"{('e', 'é'): 1}",enté,Saint-Trojan,{},{},"{('a', 'é'): 1}",ënta,Béliet,{},{},"{('e', 'ë'): 1}"
+ënta,Béliet,eun̈ta,Belin-Béliet,"{'e': 1, '̈': 1}",{},"{('ë', 'u'): 1}",eunta,Lignan-de-Bazas,{'e': 1},{},"{('ë', 'u'): 1}",enta,Saint-Côme,{},{},"{('ë', 'e'): 1}"
+eun̈ta,Belin-Béliet,enta,Cadillac-en-Fronsadais,{},"{'u': 1, '̈': 1}",{},énta,Audenge,{},"{'u': 1, '̈': 1}","{('e', 'é'): 1}",ënta,Béliet,{},"{'u': 1, '̈': 1}","{('e', 'ë'): 1}"
+enta,Joué,enta,Le Barp,{},{},{},enta,Tabanac,{},{},{},,,,,
+enta,Le Barp,énta,Cabara,{},{},"{('e', 'é'): 1}",enta,Joué,{},{},{},,,,,
+eunta,Lugos,enta,Saint-Magne,{},{'u': 1},{},én̈ta,Salles-bis,{},{},"{('e', 'é'): 1, ('u', 'n'): 1, ('n', '̈'): 1}",,,,,
+enta,Saint-Magne,éndé,Salles,{},{},"{('e', 'é'): 1, ('t', 'd'): 1, ('a', 'é'): 1}",eunta,Lugos,{'u': 1},{},{},enta,Saint-Romain-la-Virvée,{},{},{}
+én̈ta,Salles-bis,eunta,Lugos,{'e': 1},{'̈': 1},"{('é', 'u'): 1}",enta,Génissac,{},{'̈': 1},"{('é', 'e'): 1}",énnta̱,Osse-en-Aspe,{'̱': 1},{},"{('̈', 'n'): 1}"
+éndé,Salles,enta,Saint-Magne,{},{},"{('é', 'e'): 1, ('d', 't'): 1, ('é', 'a'): 1}",ta,Saint-Quentin-de-Baron,{},"{'d': 1, 'é': 1}","{('é', 't'): 1, ('n', 'a'): 1}",,,,,
+éndé,Blanquefort-bis,énta,Langoiran,{},{},"{('d', 't'): 1, ('é', 'a'): 1}",énté,Biganos,{},{},"{('d', 't'): 1}",éndé,Blanquefort,{},{},{}
+éndé,Blanquefort,éndé,Blanquefort-bis,{},{},{},enta,Ychoux,{},{},"{('é', 'e'): 1, ('d', 't'): 1, ('é', 'a'): 1}",endé,La Réole,{},{},"{('é', 'e'): 1}"
+ëndé,Caychac,énta,Omet,{},{},"{('ë', 'é'): 1, ('d', 't'): 1, ('é', 'a'): 1}",éndé,Eysines,{},{},"{('ë', 'é'): 1}",énta,Giscos,{},{},"{('ë', 'é'): 1, ('d', 't'): 1, ('é', 'a'): 1}"
+éndé,Eysines,ëndé,Caychac,{},{},"{('é', 'ë'): 1}",énta,Lacanau-de-Mios,{},{},"{('d', 't'): 1, ('é', 'a'): 1}",endé,Le Haillan,{},{},"{('é', 'e'): 1}"
+endé,Le Haillan,éndé,Le Pian-Médoc,{},{},"{('e', 'é'): 1}",én,Bénesse-Maremne,{},"{'d': 1, 'é': 1}","{('e', 'é'): 1}",éndé,Eysines,{},{},"{('e', 'é'): 1}"
+éndé,Le Pian-Médoc,én,Josse,{},"{'d': 1, 'é': 1}",{},endé,Le Haillan,{},{},"{('é', 'e'): 1}",én,Montgaillard,{},"{'d': 1, 'é': 1}",{}
+énde,Le Taillan-Médoc,énta,Sainte-Croix-du-Mont,{},{},"{('d', 't'): 1, ('e', 'a'): 1}",énta,Bassens,{},{},"{('d', 't'): 1, ('e', 'a'): 1}",ta,Landerrouat,{},"{'d': 1, 'e': 1}","{('é', 't'): 1, ('n', 'a'): 1}"
+énta,Ludon-Médoc,én,Agnac,{},"{'t': 1, 'a': 1}",{},éndé,Macau,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}",,,,,
+éndé,Macau,énta,Ludon-Médoc,{},{},"{('d', 't'): 1, ('é', 'a'): 1}",énté,Lanton,{},{},"{('d', 't'): 1}",én,Lauzun,{},"{'d': 1, 'é': 1}",{}
+enté,Parempuyre,enta,Arcins,{},{},"{('é', 'a'): 1}",enta,Arsac,{},{},"{('é', 'a'): 1}",,,,,
+enta,Saint-Aubin-de-Médoc,én,Feugarolles,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",endé,Béquin,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}",euntà,Labarde,{'u': 1},{},"{('a', 'à'): 1}"
+énda,Saint-Médard-en-Jalles,unta,Margaux,{},{},"{('é', 'u'): 1, ('d', 't'): 1}",énta,Castillon-de-Castets,{},{},"{('d', 't'): 1}",eunta,Moulis-en-Médoc-bis,{'e': 1},{},"{('é', 'u'): 1, ('d', 't'): 1}"
+énda,Bègles,énta,Castelnaud-de-Gratecambe,{},{},"{('d', 't'): 1}",énta,Lugon-et-l'Île-du-Carnay,{},{},"{('d', 't'): 1}",énnta,Moulis-en-Médoc,{'n': 1},{},"{('d', 't'): 1}"
+enda,Bordeaux,enta,Auros,{},{},"{('d', 't'): 1}",,,,,,,,,,
+énnta,Bruges,ta,Bégadan,{},"{'é': 1, 'n': 2}",{},énta,Caudéran,{},{'n': 1},{},énta,Ribarrouy,{},{'n': 1},{}
+énta,Caudéran,énnta,Bruges,{'n': 1},{},{},ta,Sigalens,{},"{'é': 1, 'n': 1}",{},énta,Bayon-sur-Gironde,{},{},{}
+enda,Chartrons,énta,Sainte-Colombe,{},{},"{('e', 'é'): 1, ('d', 't'): 1}",entá,Mont-Disse,{},{},"{('d', 't'): 1, ('a', 'á'): 1}",énta,Salaunes,{},{},"{('e', 'é'): 1, ('d', 't'): 1}"
+endaï,Le Bouscat,enta,Puybarban,{},{'ï': 1},"{('d', 't'): 1}",énta,Castillon-la-Bataille-bis,{},{'ï': 1},"{('e', 'é'): 1, ('d', 't'): 1}",énta,Bayon-sur-Gironde,{},{'ï': 1},"{('e', 'é'): 1, ('d', 't'): 1}"
+énta,Bayon-sur-Gironde,énta,Caudéran,{},{},{},ta,Sigalens,{},"{'é': 1, 'n': 1}",{},endaï,Le Bouscat,{'ï': 1},{},"{('é', 'e'): 1, ('t', 'd'): 1}"
+énta,Bourg-bis,éndé,Castres-Gironde,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}",enta,Castillon-la-Bataille,{},{},"{('é', 'e'): 1}",enda,Bahus-Soubiran,{},{},"{('é', 'e'): 1, ('t', 'd'): 1}"
+én̈da,Bourg,énta,Comps,{},{'d': 1},"{('̈', 't'): 1}",énta,Rivière-Saas-et-Gourby,{},{'d': 1},"{('̈', 't'): 1}",énté,Baron,{},{'a': 1},"{('̈', 't'): 1, ('d', 'é'): 1}"
+énta,Comps,éntay,Gauriac,{'y': 1},{},{},énta,Os-Marsillon,{},{},{},én̈da,Bourg,{'̈': 1},{},"{('t', 'd'): 1}"
+éntay,Gauriac,eunta,Le Nizan,{'e': 1},{'y': 1},"{('é', 'u'): 1}",énta,Comps,{},{'y': 1},{},ta,Baurech,{},"{'é': 1, 'n': 1, 'y': 1}",{}
+énté,Lansac,eunta,Lignan-de-Bazas,{'e': 1},{},"{('é', 'u'): 1, ('é', 'a'): 1}",enta,Marcamps,{},{},"{('é', 'e'): 1, ('é', 'a'): 1}",énta,Saint-Loubouer,{},{},"{('é', 'a'): 1}"
+enta,Marcamps,énta,Prignac-et-Marcamps,{},{},"{('e', 'é'): 1}",énté,Lansac,{},{},"{('e', 'é'): 1, ('a', 'é'): 1}",,,,,
+énta,Prignac-et-Marcamps,enta,Marcamps,{},{},"{('é', 'e'): 1}",eunta,Le Nizan,{'e': 1},{},"{('é', 'u'): 1}",énta,Renung,{},{},{}
+enté,Saint-Seurin-de-Bourg,énta,Saint-Pandelon,{},{},"{('e', 'é'): 1, ('é', 'a'): 1}",énta,Samonac,{},{},"{('e', 'é'): 1, ('é', 'a'): 1}",énté,Baron,{},{},"{('e', 'é'): 1}"
+enté,Saint-Trojan,enta,Saint-Côme,{},{},"{('é', 'a'): 1}",énté,Tauriac,{},{},"{('e', 'é'): 1}",énta,Samonac,{},{},"{('e', 'é'): 1, ('é', 'a'): 1}"
+énta,Samonac,enté,Saint-Seurin-de-Bourg,{},{},"{('é', 'e'): 1, ('a', 'é'): 1}",énta,Fronsac,{},{},{},enté,Saint-Trojan,{},{},"{('é', 'e'): 1, ('a', 'é'): 1}"
+énté,Tauriac,enté,Saint-Trojan,{},{},"{('é', 'e'): 1}",enta,Camarsac,{},{},"{('é', 'e'): 1, ('é', 'a'): 1}",énté,Baron,{},{},{}
+énté,Baron,én̈da,Bourg,{'̈': 1},{},"{('t', 'd'): 1, ('é', 'a'): 1}",enté,Saint-Seurin-de-Bourg,{},{},"{('é', 'e'): 1}",énté,Tauriac,{},{},{}
+énté,Branne-bis,ta,Saint-Lon-les-Mines,{},"{'é': 1, 'n': 1}","{('é', 'a'): 1}",enta,Bonnegarde,{},{},"{('é', 'e'): 1, ('é', 'a'): 1}",énta,Camblanes-et-Meynac,{},{},"{('é', 'a'): 1}"
+énta,Branne,éndé,Hure,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}",éndé,Gironde-sur-Dropt-bis,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}",enta,Carignan-de-Bordeaux,{},{},"{('é', 'e'): 1}"
+ta,Cabara-bis,énté,Le Tourne,"{'é': 1, 'n': 1}",{},"{('a', 'é'): 1}",énta,Linxe,"{'é': 1, 'n': 1}",{},{},éndā,Dax-Saint-Vincent,"{'é': 1, 'n': 1, '̄': 1}",{},"{('t', 'd'): 1}"
+énta,Cabara,énda,Saillans,{},{},"{('t', 'd'): 1}",enta,Le Barp,{},{},"{('é', 'e'): 1}",énta,Pujols,{},{},{}
+énta,Daignac,enta,Génissac,{},{},"{('é', 'e'): 1}",én,Aramits,{},"{'t': 1, 'a': 1}",{},,,,,
+enta,Génissac,én̈ta,Salles-bis,{'̈': 1},{},"{('e', 'é'): 1}",énta,Daignac,{},{},"{('e', 'é'): 1}",enta,Losse,{},{},{}
+enta,Grézillac,énta,Pardies,{},{},"{('e', 'é'): 1}",énta,Jugazan,{},{},"{('e', 'é'): 1}",,,,,
+énta,Jugazan,enta,Grézillac,{},{},"{('é', 'e'): 1}",énté,Civrac,{},{},"{('a', 'é'): 1}",enta,Gaillan-en-Médoc,{},{},"{('é', 'e'): 1}"
+énta,Moulon,énta,Horsarrieu,{},{},{},ta,Bascons,{},"{'é': 1, 'n': 1}",{},enta,Naujan-et-Postiac,{},{},"{('é', 'e'): 1}"
+enta,Naujan-et-Postiac,eunta,Grignols-bis,{'u': 1},{},{},ta,Cazères-sur-l'Adour,{},"{'e': 1, 'n': 1}",{},énta,Moulon,{},{},"{('e', 'é'): 1}"
+énta,Nérigean,ta,Saint-Cricq-Chalosse,{},"{'é': 1, 'n': 1}",{},enta,Poudenx,{},{},"{('é', 'e'): 1}",enta,Saint-Germain-du-Puch,{},{},"{('é', 'e'): 1}"
+enta,Saint-Germain-du-Puch,enda,Uzeste,{},{},"{('t', 'd'): 1}",énta,Laurède,{},{},"{('e', 'é'): 1}",énta,Nérigean,{},{},"{('e', 'é'): 1}"
+ta,Saint-Quentin-de-Baron,éndé,Salles,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}",ta,Sedzère,{},{},{},enta,Arengosse,"{'e': 1, 'n': 1}",{},{}
+ta,Tizac-de-Curton,ta,Arjuzanx,{},{},{},,,,,,,,,,
+énta,Béguey,én,Précilhon,{},"{'t': 1, 'a': 1}",{},eunta,Sendets,{'e': 1},{},"{('é', 'u'): 1}",éndé,Gabarnac,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}"
+ta,Cadillac,énté,Cardan,"{'é': 1, 'n': 1}",{},"{('a', 'é'): 1}",éndé,Camiran,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}",ta,Capian,{},{},{}
+ta,Capian,énta,Saint-Michel-de-Fronsac,"{'é': 1, 'n': 1}",{},{},ta,Cadillac,{},{},{},ta,Sindères,{},{},{}
+énté,Cardan,enta,Lerm-et-Musset,{},{},"{('é', 'e'): 1, ('é', 'a'): 1}",ta,Cadillac,{},"{'é': 1, 'n': 1}","{('é', 'a'): 1}",énta,Donzac,{},{},"{('é', 'a'): 1}"
+énta,Donzac,éndé,Saint-Médard-d'Eyrans,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}",éndé,Gabarnac,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}",énté,Cardan,{},{},"{('a', 'é'): 1}"
+éndé,Gabarnac,énta,Donzac,{},{},"{('d', 't'): 1, ('é', 'a'): 1}",énta,Béguey,{},{},"{('d', 't'): 1, ('é', 'a'): 1}",eunta,Marions,{'e': 1},{},"{('é', 'u'): 1, ('d', 't'): 1, ('é', 'a'): 1}"
+énndé,Langoiran-bis,énta,Montauban-Est,{},{'é': 1},"{('n', 't'): 1, ('d', 'a'): 1}",én,Villeneuve-de-Marsan,{},"{'n': 1, 'd': 1, 'é': 1}",{},eindé,Gironde-sur-Dropt,{},{},"{('é', 'e'): 1, ('n', 'i'): 1}"
+énta,Langoiran,éndé,Blanquefort-bis,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}",énta,Cescau,{},{},{},,,,,
+éndé,Lestiac-sur-Garonne,endé,Solférino,{},{},"{('é', 'e'): 1}",éndé,Morizès,{},{},{},,,,,
+énta,Loupiac,ende,Biaudos,{},{},"{('é', 'e'): 1, ('t', 'd'): 1, ('a', 'e'): 1}",endé,Gujan,{},{},"{('é', 'e'): 1, ('t', 'd'): 1, ('a', 'é'): 1}",énta,Monprimblanc,{},{},{}
+énta,Monprimblanc,én ta,Navarrenx-bis,{' ': 1},{},{},éndé,Saint-Hilaire-de-la-Noaille,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}",énta,Loupiac,{},{},{}
+énta,Omet,énnta,Paillet,{'n': 1},{},{},ëndé,Caychac,{},{},"{('é', 'ë'): 1, ('t', 'd'): 1, ('a', 'é'): 1}",endé,La Teste-de-Buch,{},{},"{('é', 'e'): 1, ('t', 'd'): 1, ('a', 'é'): 1}"
+énnta,Paillet,ennta,Rions,{},{},"{('é', 'e'): 1}",énta,Omet,{},{'n': 1},{},éndé,Le Teich,{},{'a': 1},"{('n', 'd'): 1, ('t', 'é'): 1}"
+ennta,Rions,énnta,Paillet,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+énta,Sainte-Croix-du-Mont,endé,Captieux-bis,{},{},"{('é', 'e'): 1, ('t', 'd'): 1, ('a', 'é'): 1}",énde,Le Taillan-Médoc,{},{},"{('t', 'd'): 1, ('a', 'e'): 1}",énta,Mazères,{},{},{}
+éndéy,Villenave-de-Rions,ta,Beychac-et-Caillau,{},"{'d': 1, 'é': 1, 'y': 1}","{('é', 't'): 1, ('n', 'a'): 1}",endé,Captieux-bis,{},{'y': 1},"{('é', 'e'): 1}",ta,Arbanats,{},"{'d': 1, 'é': 1, 'y': 1}","{('é', 't'): 1, ('n', 'a'): 1}"
+endé,Captieux-bis,éndéy,Villenave-de-Rions,{'y': 1},{},"{('e', 'é'): 1}",énta,Sainte-Croix-du-Mont,{},{},"{('e', 'é'): 1, ('d', 't'): 1, ('é', 'a'): 1}",enta,Captieux,{},{},"{('d', 't'): 1, ('é', 'a'): 1}"
+enta,Captieux,ta,Léogeats,{},"{'e': 1, 'n': 1}",{},ta,Langon,{},"{'e': 1, 'n': 1}",{},endé,Captieux-bis,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}"
+énta,Escaudes,énta,Bouliac,{},{},{},ta,Cérons,{},"{'é': 1, 'n': 1}",{},én,Montsoué,{},"{'t': 1, 'a': 1}",{}
+énta,Giscos,éndé,Bieujac,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}",ëndé,Caychac,{},{},"{('é', 'ë'): 1, ('t', 'd'): 1, ('a', 'é'): 1}",enta,Saint-Pardon-de-Conques,{},{},"{('é', 'e'): 1}"
+énta,Saint-Michel-de-Castelnau,énta,Cenon,{},{},{},ta,Saint-Émilion,{},"{'é': 1, 'n': 1}",{},ta,Toulenne,{},"{'é': 1, 'n': 1}",{}
+én̈ta,Ambarès-et-Lagrave,éndé,La Sauvetat-du-Dropt,{},{'a': 1},"{('̈', 'd'): 1, ('t', 'é'): 1}",énta,Taller,{},{'̈': 1},{},,,,,
+endé,Ambès,ta,Martignas-sur-Jalle,{},"{'d': 1, 'é': 1}","{('e', 't'): 1, ('n', 'a'): 1}",én,Fieux,{},"{'d': 1, 'é': 1}","{('e', 'é'): 1}",ta,Beychac-et-Caillau,{},"{'d': 1, 'é': 1}","{('e', 't'): 1, ('n', 'a'): 1}"
+énta,Bassens,énde,Le Taillan-Médoc,{},{},"{('t', 'd'): 1, ('a', 'e'): 1}",ta,Beychac-et-Caillau,{},"{'é': 1, 'n': 1}",{},én,Villeneuve-de-Duras,{},"{'t': 1, 'a': 1}",{}
+ta,Beychac-et-Caillau,énta,Bassens,"{'é': 1, 'n': 1}",{},{},éndéy,Villenave-de-Rions,"{'é': 1, 'n': 1, 'd': 1}",{},"{('t', 'é'): 1, ('a', 'y'): 1}",endé,Ambès,"{'e': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}"
+énta,Bouliac,taï,Podensac,{'ï': 1},"{'é': 1, 'n': 1}",{},énta,Escaudes,{},{},{},eunnta,Carbon-Blanc-bis,"{'e': 1, 'u': 1}",{},"{('é', 'n'): 1}"
+eunnta,Carbon-Blanc-bis,énta,Bouliac,{},"{'u': 1, 'n': 1}","{('e', 'é'): 1}",énta,Lacanau-de-Mios,{},"{'u': 1, 'n': 1}","{('e', 'é'): 1}",én,Boussès,{},"{'u': 1, 'n': 1, 't': 1, 'a': 1}","{('e', 'é'): 1}"
+ënta,Carbon-Blanc,énta,Pessac,{},{},"{('ë', 'é'): 1}",ta,Libourne,{},"{'ë': 1, 'n': 1}",{},enta,Lormont,{},{},"{('ë', 'e'): 1}"
+énta,Cenon,eunta,Floirac,{'e': 1},{},"{('é', 'u'): 1}",énta,Saint-Michel-de-Castelnau,{},{},{},,,,,
+eunta,Floirac,enta,Saint-Sulpice-de-Faleyrens,{},{'u': 1},{},énta,Cenon,{},{'u': 1},"{('e', 'é'): 1}",enta,Lormont,{},{'u': 1},{}
+enta,Lormont,én,Houeillès-bis,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",ënta,Carbon-Blanc,{},{},"{('e', 'ë'): 1}",eunta,Floirac,{'u': 1},{},{}
+en̄ta,Montussan,énta,Saint-Loubès,{},{'̄': 1},"{('e', 'é'): 1}",eunta,Cussac-Fort-Médoc,{'u': 1},{'̄': 1},{},én,Bruch-bis,{},"{'̄': 1, 't': 1, 'a': 1}","{('e', 'é'): 1}"
+énta,Saint-Loubès,énté,Lanton,{},{},"{('a', 'é'): 1}",en̄ta,Montussan,{'̄': 1},{},"{('é', 'e'): 1}",én,Lauzun-tet,{},"{'t': 1, 'a': 1}",{}
+énta,Saint-Louis-de-Montferrand,ta,Virelade,{},"{'é': 1, 'n': 1}",{},eunta,Saint-Sulpice-et-Cameyrac,{'e': 1},{},"{('é', 'u'): 1}",,,,,
+eunta,Saint-Sulpice-et-Cameyrac,enta,Saint-Vincent-de-Paul,{},{'u': 1},{},enta,Lège,{},{'u': 1},{},énta,Saint-Louis-de-Montferrand,{},{'u': 1},"{('e', 'é'): 1}"
+enta,Saint-Vincent-de-Paul,ta,Flaujagues,{},"{'e': 1, 'n': 1}",{},eunta,Saint-Sulpice-et-Cameyrac,{'u': 1},{},{},,,,,
+enta,Sainte-Eulalie,ta,Saint-Martin-de-Sescas,{},"{'e': 1, 'n': 1}",{},enta,Juillac,{},{},{},,,,,
+eunta,Tresses-bis,ta,Peujard,{},"{'e': 1, 'u': 1, 'n': 1}",{},taï,Pessac-sur-Dordogne,{'ï': 1},"{'e': 1, 'u': 1, 'n': 1}",{},,,,,
+énnta,Tresses,énta,Rauzan,{},{'n': 1},{},énta,Saint-Pey-de-Castets,{},{'n': 1},{},ta,Cubzac-les-Ponts,{},"{'é': 1, 'n': 2}",{}
+enta,Yvrac,enta,Arcins,{},{},{},ta,Barie,{},"{'e': 1, 'n': 1}",{},énta,Bon-Encontre,{},{},"{('e', 'é'): 1}"
+enta,Arcins,enté,Parempuyre,{},{},"{('a', 'é'): 1}",enta,Yvrac,{},{},{},ta,Virsac,{},"{'e': 1, 'n': 1}",{}
+enta,Arsac-bis,énta,Cantenac,{},{},"{('e', 'é'): 1}",ta,Saint-Gervais,{},"{'e': 1, 'n': 1}",{},eunta,Lamarque,{'u': 1},{},{}
+enta,Arsac,enta,Castelnau-de-Médoc,{},{},{},enté,Parempuyre,{},{},"{('a', 'é'): 1}",énta,Cantenac,{},{},"{('e', 'é'): 1}"
+énta,Cantenac,enta,Salignac,{},{},"{('é', 'e'): 1}",enta,Arsac-bis,{},{},"{('é', 'e'): 1}",enta,Arsac,{},{},"{('é', 'e'): 1}"
+enta,Castelnau-de-Médoc,énté,Lanton,{},{},"{('e', 'é'): 1, ('a', 'é'): 1}",enta,Arsac,{},{},{},eunta,Cussac-Fort-Médoc,{'u': 1},{},{}
+eunta,Cussac-Fort-Médoc,en̄ta,Montussan,{},{},"{('u', 'n'): 1, ('n', '̄'): 1}",enta,Castelnau-de-Médoc,{},{'u': 1},{},eunta,Lacanau,{},{},{}
+euntà,Labarde,enta,Saint-Aubin-de-Médoc,{},{'u': 1},"{('à', 'a'): 1}",eunta,Lacanau,{},{},"{('à', 'a'): 1}",enta,Caudrot,{},{'u': 1},"{('à', 'a'): 1}"
+eunta,Lacanau,euntà,Labarde,{},{},"{('a', 'à'): 1}",eunta,Cussac-Fort-Médoc,{},{},{},eunta,Lamarque,{},{},{}
+eunta,Lamarque,enta,Arsac-bis,{},{'u': 1},{},énnta,Saint-André-du-Bois,{},{},"{('e', 'é'): 1, ('u', 'n'): 1}",eunta,Lacanau,{},{},{}
+eunta,Le Porge,énta,Audenge-bis,{},{'u': 1},"{('e', 'é'): 1}",ta,Saint-Germain-de-Grave,{},"{'e': 1, 'u': 1, 'n': 1}",{},eunta,Le Temple,{},{},{}
+eunta,Le Temple,ta,Verdelais,{},"{'e': 1, 'u': 1, 'n': 1}",{},eunta,Le Porge,{},{},{},,,,,
+enta,Listrac-Médoc,énta,Villeton,{},{},"{('e', 'é'): 1}",ta,Pujols-bis,{},"{'e': 1, 'n': 1}",{},,,,,
+unta,Margaux,énta,Artigues,{},{},"{('u', 'é'): 1}",énda,Saint-Médard-en-Jalles,{},{},"{('u', 'é'): 1, ('t', 'd'): 1}",enta,Saint-Front-sur-Lémance-Bonaguil,{},{},"{('u', 'e'): 1}"
+eunta,Moulis-en-Médoc-bis,énda,Saint-Médard-en-Jalles,{},{'u': 1},"{('e', 'é'): 1, ('t', 'd'): 1}",énta,Sainte-Foy-la-Grande-ter,{},{'u': 1},"{('e', 'é'): 1}",enta,Estillac,{},{'u': 1},{}
+énnta,Moulis-en-Médoc,énda,Bègles,{},{'t': 1},"{('n', 'd'): 1}",enda,Gornac,{},{'t': 1},"{('é', 'e'): 1, ('n', 'd'): 1}",,,,,
+énta,Sainte-Hélène,täy,Cazalis,{},{'a': 1},"{('é', 't'): 1, ('n', 'ä'): 1, ('t', 'y'): 1}",,,,,,,,,,
+énta,Salaunes,enta,Soussans,{},{},"{('é', 'e'): 1}",enda,Chartrons,{},{},"{('é', 'e'): 1, ('t', 'd'): 1}",énta,Castillon-la-Bataille-bis,{},{},{}
+énta,Saumos,ta,Bernos-Beaulac,{},"{'é': 1, 'n': 1}",{},enta,Soussans,{},{},"{('é', 'e'): 1}",enta,Belvès-de-Castillon,{},{},"{('é', 'e'): 1}"
+enta,Soussans,énta,Saumos,{},{},"{('e', 'é'): 1}",eunta,Saint-Pey-d'Armens,{'u': 1},{},{},énta,Salaunes,{},{},"{('e', 'é'): 1}"
+enta,Belvès-de-Castillon,énta,Castillon-la-Bataille-bis,{},{},"{('e', 'é'): 1}",énta,Gajac,{},{},"{('e', 'é'): 1}",énta,Saumos,{},{},"{('e', 'é'): 1}"
+énta,Castillon-la-Bataille-bis,endaï,Le Bouscat,{'ï': 1},{},"{('é', 'e'): 1, ('t', 'd'): 1}",enta,Belvès-de-Castillon,{},{},"{('é', 'e'): 1}",énta,Salaunes,{},{},{}
+enta,Castillon-la-Bataille,énta,Bourg-bis,{},{},"{('e', 'é'): 1}",énda,Puisseguin,{},{},"{('e', 'é'): 1, ('t', 'd'): 1}",énta,Classun,{},{},"{('e', 'é'): 1}"
+énta,Gardegan,énta,Lucmau,{},{},{},enta,Villandraut-bis,{},{},"{('é', 'e'): 1}",,,,,
+énta,Saint-Étienne-de-Lisse,ta,Paulhiac,{},"{'é': 1, 'n': 1}",{},énta,Audenge-bis,{},{},{},en̈ta,Saint-Genès-de-Castillon,{'̈': 1},{},"{('é', 'e'): 1}"
+en̈ta,Saint-Genès-de-Castillon,énta,Saint-Étienne-de-Lisse,{},{'̈': 1},"{('e', 'é'): 1}",ta,Balizac,{},"{'e': 1, 'n': 1, '̈': 1}",{},eunta,Saint-Laurent-des-Combes,{'u': 1},{'̈': 1},{}
+eunta,Saint-Laurent-des-Combes,énda,Saint-Symphorien-bis,{},{'u': 1},"{('e', 'é'): 1, ('t', 'd'): 1}",enta,Aire-sur-l'Adour,{},{'u': 1},{},en̈ta,Saint-Genès-de-Castillon,{},{},"{('u', 'n'): 1, ('n', '̈'): 1}"
+eunta,Saint-Magne-de-Castillon,eunta,Saint-Pey-d'Armens,{},{},{},enta,Birac,{},{'u': 1},{},,,,,
+eunta,Saint-Pey-d'Armens,enta,Soussans,{},{'u': 1},{},eunta,Saint-Magne-de-Castillon,{},{},{},énndé,Saint-Philippe-d'Aiguille,{},{},"{('e', 'é'): 1, ('u', 'n'): 1, ('t', 'd'): 1, ('a', 'é'): 1}"
+énndé,Saint-Philippe-d'Aiguille,énta,Sainte-Terre,{},{'é': 1},"{('n', 't'): 1, ('d', 'a'): 1}",eunta,Saint-Pey-d'Armens,{},{},"{('é', 'e'): 1, ('n', 'u'): 1, ('d', 't'): 1, ('é', 'a'): 1}",énta,Eugénie-les-Bains,{},{'é': 1},"{('n', 't'): 1, ('d', 'a'): 1}"
+énta,Sainte-Colombe,énta,Mouhous,{},{},{},enda,Chartrons,{},{},"{('é', 'e'): 1, ('t', 'd'): 1}",énta,Sainte-Terre,{},{},{}
+énta,Sainte-Terre,énta,Sainte-Colombe,{},{},{},énndé,Saint-Philippe-d'Aiguille,{'n': 1},{},"{('t', 'd'): 1, ('a', 'é'): 1}",enta,Vignonet,{},{},"{('é', 'e'): 1}"
+enta,Vignonet,énta,Sainte-Terre,{},{},"{('e', 'é'): 1}",enda,Savignac-sur-Leyze,{},{},"{('t', 'd'): 1}",,,,,
+énta,Saint-Antoine-sur-l'Isle,énta,Saint-Agnet,{},{},{},eunta,Le Nizan,{'e': 1},{},"{('é', 'u'): 1}",ta,Baurech,{},"{'é': 1, 'n': 1}",{}
+ta,Baurech,énta,Saint-Antoine-sur-l'Isle,"{'é': 1, 'n': 1}",{},{},éntay,Gauriac,"{'é': 1, 'n': 1, 'y': 1}",{},{},enta,Camarsac,"{'e': 1, 'n': 1}",{},{}
+énta,Bonnetan,enta,Camarsac,{},{},"{('é', 'e'): 1}",enta,Saint-Côme,{},{},"{('é', 'e'): 1}",enta,Sarron,{},{},"{('é', 'e'): 1}"
+enta,Camarsac,énté,Tauriac,{},{},"{('e', 'é'): 1, ('a', 'é'): 1}",énta,Bonnetan,{},{},"{('e', 'é'): 1}",ta,Baurech,{},"{'e': 1, 'n': 1}",{}
+énta,Cambes,énta,Cénac,{},{},{},énta,Vielle-Tursan,{},{},{},énta,Camblanes-et-Meynac,{},{},{}
+énta,Camblanes-et-Meynac,énté,Branne-bis,{},{},"{('a', 'é'): 1}",énta,Cambes,{},{},{},enta,Carignan-de-Bordeaux,{},{},"{('é', 'e'): 1}"
+enta,Carignan-de-Bordeaux,enta,Amou,{},{},{},énta,Branne,{},{},"{('e', 'é'): 1}",énta,Camblanes-et-Meynac,{},{},"{('e', 'é'): 1}"
+énta,Cénac,énta,Cambes,{},{},{},énta,Bassercles,{},{},{},,,,,
+éndé,Créon,énta,Brassempouy,{},{},"{('d', 't'): 1, ('é', 'a'): 1}",,,,,,,,,,
+énta,Haux,enta,Castelnau-Chalosse,{},{},"{('é', 'e'): 1}",ta,Geloux,{},"{'é': 1, 'n': 1}",{},,,,,
+éndé,Latresne,enta,Castel-Sarrazin,{},{},"{('é', 'e'): 1, ('d', 't'): 1, ('é', 'a'): 1}",énta,Donzacq,{},{},"{('d', 't'): 1, ('é', 'a'): 1}",ta,Campagne,{},"{'d': 1, 'é': 1}","{('é', 't'): 1, ('n', 'a'): 1}"
+énté,Le Tourne,én,Tournon-d'Agenais,{},"{'t': 1, 'é': 1}",{},ta,Cabara-bis,{},"{'é': 1, 'n': 1}","{('é', 'a'): 1}",enta,Sallebœuf,{},{},"{('é', 'e'): 1, ('é', 'a'): 1}"
+endé,Lignan-de-Bordeaux,éndé,Bommes,{},{},"{('e', 'é'): 1}",énta,Pompignac,{},{},"{('e', 'é'): 1, ('d', 't'): 1, ('é', 'a'): 1}",endé,Madirac,{},{},{}
+endé,Madirac,éndé,Quinsac,{},{},"{('e', 'é'): 1}",endé,Lignan-de-Bordeaux,{},{},{},,,,,
+énta,Pompignac,endé,Lignan-de-Bordeaux,{},{},"{('é', 'e'): 1, ('t', 'd'): 1, ('a', 'é'): 1}",én̈,Sainte-Eulalie,{},{'a': 1},"{('t', '̈'): 1}",éndé,Quinsac,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}"
+éndé,Quinsac,enda,Uza,{},{},"{('é', 'e'): 1, ('é', 'a'): 1}",endé,Madirac,{},{},"{('é', 'e'): 1}",énta,Pompignac,{},{},"{('d', 't'): 1, ('é', 'a'): 1}"
+éndé,Sadirac,enta,Saint-Caprais-de-Bordeaux,{},{},"{('é', 'e'): 1, ('d', 't'): 1, ('é', 'a'): 1}",,,,,,,,,,
+enta,Saint-Caprais-de-Bordeaux,enta,Sallebœuf,{},{},{},ta,Bénesse-lès-Dax,{},"{'e': 1, 'n': 1}",{},éndé,Sadirac,{},{},"{('e', 'é'): 1, ('t', 'd'): 1, ('a', 'é'): 1}"
+enta,Sallebœuf,énté,Le Tourne,{},{},"{('e', 'é'): 1, ('a', 'é'): 1}",enta,Saint-Caprais-de-Bordeaux,{},{},{},én,Bias,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}"
+enta,Tabanac,enta,Joué,{},{},{},enta,Narrosse,{},{},{},,,,,
+énnta,Asques,énta,Fronsac-bis,{},{'n': 1},{},enta,La Lande-de-Fronsac,{},{'n': 1},"{('é', 'e'): 1}",,,,,
+enta,Cadillac-en-Fronsadais,énta,Fronsac-bis,{},{},"{('e', 'é'): 1}",eun̈ta,Belin-Béliet,"{'u': 1, '̈': 1}",{},{},énta,Fronsac,{},{},"{('e', 'é'): 1}"
+énta,Fronsac-bis,énta,Mées,{},{},{},enta,Cadillac-en-Fronsadais,{},{},"{('é', 'e'): 1}",énnta,Asques,{'n': 1},{},{}
+énta,Fronsac,énta,Samonac,{},{},{},enta,La Lande-de-Fronsac,{},{},"{('é', 'e'): 1}",enta,Cadillac-en-Fronsadais,{},{},"{('é', 'e'): 1}"
+enta,La Lande-de-Fronsac,énta,Fronsac,{},{},"{('e', 'é'): 1}",én,Dévillac,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",énnta,Asques,{'é': 1},{},"{('e', 'n'): 1}"
+énta,Lugon-et-l'Île-du-Carnay,énda,Bègles,{},{},"{('t', 'd'): 1}",énda,Saillans,{},{},"{('t', 'd'): 1}",én,Tourliac,{},"{'t': 1, 'a': 1}",{}
+énda,Saillans,énta,Lugon-et-l'Île-du-Carnay,{},{},"{('d', 't'): 1}",énta,Cabara,{},{},"{('d', 't'): 1}",énta,Saint-Paul-lès-Dax,{},{},"{('d', 't'): 1}"
+enta,Saint-Germain-de-la-Rivière,enta,Saint-Vincent-de-Paul,{},{},{},enté,Martillac,{},{},"{('a', 'é'): 1}",énta,Saint-Michel-de-Fronsac,{},{},"{('e', 'é'): 1}"
+énta,Saint-Michel-de-Fronsac,enta,Saint-Germain-de-la-Rivière,{},{},"{('é', 'e'): 1}",ta,Capian,{},"{'é': 1, 'n': 1}",{},,,,,
+enta,Saint-Romain-la-Virvée,enta,Saint-Magne,{},{},{},énnté,Vérac,{'n': 1},{},"{('e', 'é'): 1, ('a', 'é'): 1}",,,,,
+énnté,Vérac,enta,Saint-Romain-la-Virvée,{},{'n': 1},"{('é', 'e'): 1, ('é', 'a'): 1}",én,Lescun,{},"{'n': 1, 't': 1, 'é': 1}",{},énta,Villegouge,{},{'n': 1},"{('é', 'a'): 1}"
+énta,Villegouge,enta,Campin,{},{},"{('é', 'e'): 1}",énnté,Vérac,{'n': 1},{},"{('a', 'é'): 1}",,,,,
+enta,Campin,énta,Villegouge,{},{},"{('e', 'é'): 1}",enta,Cours-les-Bains,{},{},{},,,,,
+enta,Cours-les-Bains,ta,Castandet,{},"{'e': 1, 'n': 1}",{},énta,Lagrange,{},{},"{('e', 'é'): 1}",enta,Campin,{},{},{}
+eunta,Grignols-bis,eunta,Grignols,{},{},{},enta,Naujan-et-Postiac,{},{'u': 1},{},enta,Tercis-les-Bains,{},{'u': 1},{}
+eunta,Grignols,enta,Cette-Eygun,{},{'u': 1},{},eunta,Grignols-bis,{},{},{},ta,Yzosse,{},"{'e': 1, 'u': 1, 'n': 1}",{}
+eunta,Lavazan,enta,Arx,{},{'u': 1},{},éndé,Saucats,{},{'u': 1},"{('e', 'é'): 1, ('t', 'd'): 1, ('a', 'é'): 1}",én,Bedous,{},"{'u': 1, 't': 1, 'a': 1}","{('e', 'é'): 1}"
+enta,Lerm-et-Musset,ento,Izeste,{},{},"{('a', 'o'): 1}",énté,Cardan,{},{},"{('e', 'é'): 1, ('a', 'é'): 1}",eunta,Marions,{'u': 1},{},{}
+eunta,Marions,éndé,Gabarnac,{},{'u': 1},"{('e', 'é'): 1, ('t', 'd'): 1, ('a', 'é'): 1}",enta,Lerm-et-Musset,{},{'u': 1},{},,,,,
+eunta,Sendets,énta,Béguey,{},{'u': 1},"{('e', 'é'): 1}",én,Oloron-ouest,{},"{'u': 1, 't': 1, 'a': 1}","{('e', 'é'): 1}",,,,,
+ta,Bégadan,énta,Blaignan,"{'é': 1, 'n': 1}",{},{},énnta,Bruges,"{'é': 1, 'n': 2}",{},{},en,Garlin-bis,{},{},"{('t', 'e'): 1, ('a', 'n'): 1}"
+énta,Blaignan,eunta,Pondaurat,{'e': 1},{},"{('é', 'u'): 1}",ta,Bégadan,{},"{'é': 1, 'n': 1}",{},,,,,
+énté,Civrac,énta,Jugazan,{},{},"{('é', 'a'): 1}",énda,Brocas,{},{},"{('t', 'd'): 1, ('é', 'a'): 1}",énta,Sorbets,{},{},"{('é', 'a'): 1}"
+enta,Gaillan-en-Médoc,enta,Louvie-Soubiron,{},{},{},énta,Jugazan,{},{},"{('e', 'é'): 1}",ta,Samadet,{},"{'e': 1, 'n': 1}",{}
+énta,Lesparre-Médoc,enta,Labrit,{},{},"{('é', 'e'): 1}",enta,Naujac-sur-Mer,{},{},"{('é', 'e'): 1}",én,Lescar,{},"{'t': 1, 'a': 1}",{}
+enta,Naujac-sur-Mer,énta,Lesparre-Médoc,{},{},"{('e', 'é'): 1}",ta,Lannecaube,{},"{'e': 1, 'n': 1}",{},,,,,
+énta,Ordonnac,ta,Urgons,{},"{'é': 1, 'n': 1}",{},enta,Serres-Gaston,{},{},"{('é', 'e'): 1}",eunnta,Saint-Christoly-Médoc,"{'e': 1, 'u': 1}",{},"{('é', 'n'): 1}"
+en̂ta,Queyrac,ta,Hinx,{},"{'e': 1, 'n': 1, '̂': 1}",{},eunnta,Saint-Christoly-Médoc,{'u': 1},{},"{('̂', 'n'): 1}",enta,Sainte-Colombe,{},{'̂': 1},{}
+eunnta,Saint-Christoly-Médoc,en̂ta,Queyrac,{},{'u': 1},"{('n', '̂'): 1}",enta,Valeyrac,{},"{'u': 1, 'n': 1}",{},énta,Ordonnac,{},"{'u': 1, 'n': 1}","{('e', 'é'): 1}"
+eunnta,Saint-Germain-d'Esteuil,enta,Serreslous-et-Arribans,{},"{'u': 1, 'n': 1}",{},énda,Artassenx,{},"{'u': 1, 't': 1}","{('e', 'é'): 1, ('n', 'd'): 1}",énda,Canenx-et-Réaut,{},"{'u': 1, 't': 1}","{('e', 'é'): 1, ('n', 'd'): 1}"
+eunta,Saint-Seurin-de-Cadourne,éndaï,Cère,{'ï': 1},{'u': 1},"{('e', 'é'): 1, ('t', 'd'): 1}",en,Poey-de-Lescar,{},"{'u': 1, 't': 1, 'a': 1}",{},,,,,
+enta,Saint-Yzans-de-Médoc,énta,Isle-Saint-Georges,{},{},"{('e', 'é'): 1}",énta,Andoins,{},{},"{('e', 'é'): 1}",ta,Mont-de-Marsan-bis,{},"{'e': 1, 'n': 1}",{}
+enta,Valeyrac,eunnta,Saint-Christoly-Médoc,"{'u': 1, 'n': 1}",{},{},ta,Saint-Avit,{},"{'e': 1, 'n': 1}",{},én,Lasseube-bis,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}"
+enta,Vendays-Montalivet,énta,Lacommande,{},{},"{('e', 'é'): 1}",éndé,Beautiran,{},{},"{('e', 'é'): 1, ('t', 'd'): 1, ('a', 'é'): 1}",,,,,
+éndé,Beautiran,ta,Saint-Martin-d'Oney,{},"{'d': 1, 'é': 1}","{('é', 't'): 1, ('n', 'a'): 1}",ta,Mimizan,{},"{'d': 1, 'é': 1}","{('é', 't'): 1, ('n', 'a'): 1}",enta,Vendays-Montalivet,{},{},"{('é', 'e'): 1, ('d', 't'): 1, ('é', 'a'): 1}"
+enté,Cabanac-et-Villagrains,ta,Préchac,{},"{'e': 1, 'n': 1}","{('é', 'a'): 1}",éndé,Castres-Gironde,{},{},"{('e', 'é'): 1, ('t', 'd'): 1}",énta,Louer,{},{},"{('e', 'é'): 1, ('é', 'a'): 1}"
+éndé,Cadaujac,ta,Saint-Pierre-du-Mont,{},"{'d': 1, 'é': 1}","{('é', 't'): 1, ('n', 'a'): 1}",ta,Gousse,{},"{'d': 1, 'é': 1}","{('é', 't'): 1, ('n', 'a'): 1}",ta,Cassen,{},"{'d': 1, 'é': 1}","{('é', 't'): 1, ('n', 'a'): 1}"
+éndé,Castres-Gironde,enté,Cabanac-et-Villagrains,{},{},"{('é', 'e'): 1, ('d', 't'): 1}",énta,Bourg-bis,{},{},"{('d', 't'): 1, ('é', 'a'): 1}",éndaï,Garrey,{'a': 1},{},"{('é', 'ï'): 1}"
+énta,Isle-Saint-Georges,énta,Nousse,{},{},{},enta,Saint-Yzans-de-Médoc,{},{},"{('é', 'e'): 1}",ta,Ozourt,{},"{'é': 1, 'n': 1}",{}
+éndé,La Brède-bis,énta,Poyanne,{},{},"{('d', 't'): 1, ('é', 'a'): 1}",éndé,Louchats,{},{},{},énta,Onard,{},{},"{('d', 't'): 1, ('é', 'a'): 1}"
+énté,La Brède,ta,Ousse-Suzan,{},"{'é': 1, 'n': 1}","{('é', 'a'): 1}",én̈té,Léognan,{'̈': 1},{},{},,,,,
+én̈té,Léognan,ta,Bénéjacq,{},"{'é': 1, 'n': 1, '̈': 1}","{('é', 'a'): 1}",énté,La Brède,{},{'̈': 1},{},ta,Serres-Morlaàs,{},"{'é': 1, 'n': 1, '̈': 1}","{('é', 'a'): 1}"
+enté,Martillac,enta,Saint-Germain-de-la-Rivière,{},{},"{('é', 'a'): 1}",ta,Saugnac-et-Cambran,{},"{'e': 1, 'n': 1}","{('é', 'a'): 1}",éndé,Saint-Médard-d'Eyrans,{},{},"{('e', 'é'): 1, ('t', 'd'): 1}"
+éndé,Saint-Médard-d'Eyrans,endy,Saint-Morillon,{},{},"{('é', 'e'): 1, ('é', 'y'): 1}",énta,Donzac,{},{},"{('d', 't'): 1, ('é', 'a'): 1}",enté,Martillac,{},{},"{('é', 'e'): 1, ('d', 't'): 1}"
+endy,Saint-Morillon,énte,Saucède,{},{},"{('e', 'é'): 1, ('d', 't'): 1, ('y', 'e'): 1}",éndé,Saint-Médard-d'Eyrans,{},{},"{('e', 'é'): 1, ('y', 'é'): 1}",éndé,Blaignac,{},{},"{('e', 'é'): 1, ('y', 'é'): 1}"
+ende,Saint-Selve,éndé,Saucats,{},{},"{('e', 'é'): 2}",enta,Gurmençon,{},{},"{('d', 't'): 1, ('e', 'a'): 1}",éndé,Blaignac,{},{},"{('e', 'é'): 2}"
+éndé,Saucats,eunta,Lavazan,{'e': 1},{},"{('é', 'u'): 1, ('d', 't'): 1, ('é', 'a'): 1}",ende,Saint-Selve,{},{},"{('é', 'e'): 2}",éndé,Bagas,{},{},{}
+éndé,Bagas,énta,Saubusse,{},{},"{('d', 't'): 1, ('é', 'a'): 1}",énta,Estigarde,{},{},"{('d', 't'): 1, ('é', 'a'): 1}",éndé,Saucats,{},{},{}
+éndé,Blaignac,ende,Saint-Selve,{},{},"{('é', 'e'): 2}",endy,Saint-Morillon,{},{},"{('é', 'e'): 1, ('é', 'y'): 1}",énta,Siest,{},{},"{('d', 't'): 1, ('é', 'a'): 1}"
+éndé,Camiran-bis,ta,Ygos-Saint-Saturnin,{},"{'d': 1, 'é': 1}","{('é', 't'): 1, ('n', 'a'): 1}",énta,Arthez-d'Asson,{},{},"{('d', 't'): 1, ('é', 'a'): 1}",ta,Onesse-Laharie,{},"{'d': 1, 'é': 1}","{('é', 't'): 1, ('n', 'a'): 1}"
+éndé,Camiran,ta,Cadillac,{},"{'d': 1, 'é': 1}","{('é', 't'): 1, ('n', 'a'): 1}",énta,Louvie-Juzon,{},{},"{('d', 't'): 1, ('é', 'a'): 1}",ta,Baigts,{},"{'d': 1, 'é': 1}","{('é', 't'): 1, ('n', 'a'): 1}"
+ènde,Casseuil,énta,Puyol-Cazalet,{},{},"{('è', 'é'): 1, ('d', 't'): 1, ('e', 'a'): 1}",endé,Fontet,{},{},"{('è', 'e'): 1, ('e', 'é'): 1}",én,Bayonne-Nord-Ouest,{},"{'d': 1, 'e': 1}","{('è', 'é'): 1}"
+endé,Fontet,ènde,Casseuil,{},{},"{('e', 'è'): 1, ('é', 'e'): 1}",ta,Biscarosse-bis,{},"{'d': 1, 'é': 1}","{('e', 't'): 1, ('n', 'a'): 1}",ta,Doazit,{},"{'d': 1, 'é': 1}","{('e', 't'): 1, ('n', 'a'): 1}"
+éndé,Gironde-sur-Dropt-bis,énta,Branne,{},{},"{('d', 't'): 1, ('é', 'a'): 1}",ta,Gaas,{},"{'d': 1, 'é': 1}","{('é', 't'): 1, ('n', 'a'): 1}",ta,Sorde-l'Abbaye,{},"{'d': 1, 'é': 1}","{('é', 't'): 1, ('n', 'a'): 1}"
+eindé,Gironde-sur-Dropt,én ta,Pouliacq,{},{},"{('e', 'é'): 1, ('i', 'n'): 1, ('n', ' '): 1, ('d', 't'): 1, ('é', 'a'): 1}",énndé,Langoiran-bis,{},{},"{('e', 'é'): 1, ('i', 'n'): 1}",ta,Moustey,{},"{'n': 1, 'd': 1, 'é': 1}","{('e', 't'): 1, ('i', 'a'): 1}"
+éndé,Hure,ta,Estibeaux,{},"{'d': 1, 'é': 1}","{('é', 't'): 1, ('n', 'a'): 1}",énta,Branne,{},{},"{('d', 't'): 1, ('é', 'a'): 1}",ta,Cagnotte,{},"{'d': 1, 'é': 1}","{('é', 't'): 1, ('n', 'a'): 1}"
+éndé,La Réole-bis,énta,Saugnacq-et-Muret,{},{},"{('d', 't'): 1, ('é', 'a'): 1}",ta,Sévignacq,{},"{'d': 1, 'é': 1}","{('é', 't'): 1, ('n', 'a'): 1}",ta,Mimbaste,{},"{'d': 1, 'é': 1}","{('é', 't'): 1, ('n', 'a'): 1}"
+endé,La Réole,ta,Castillon,{},"{'d': 1, 'é': 1}","{('e', 't'): 1, ('n', 'a'): 1}",éndé,Blanquefort,{},{},"{('e', 'é'): 1}",ta,Mouscardès,{},"{'d': 1, 'é': 1}","{('e', 't'): 1, ('n', 'a'): 1}"
+éndé,Lamothe-Landerron,éndé,Loupiac-de-la-Réole,{},{},{},énta,Labeyrie,{},{},"{('d', 't'): 1, ('é', 'a'): 1}",ta,Tilh,{},"{'d': 1, 'é': 1}","{('é', 't'): 1, ('n', 'a'): 1}"
+éndé,Loupiac-de-la-Réole,en ta,Artix,{' ': 1},{},"{('é', 'e'): 1, ('d', 't'): 1, ('é', 'a'): 1}",éndé,Lamothe-Landerron,{},{},{},,,,,
+éndé,Mongauzy,ta,Balansun,{},"{'d': 1, 'é': 1}","{('é', 't'): 1, ('n', 'a'): 1}",ta,Arue,{},"{'d': 1, 'é': 1}","{('é', 't'): 1, ('n', 'a'): 1}",,,,,
+éndé,Morizès,éndé,Lestiac-sur-Garonne,{},{},{},ta,Arouille,{},"{'d': 1, 'é': 1}","{('é', 't'): 1, ('n', 'a'): 1}",,,,,
+éndé,Noaillac,ta,Arveyres,{},"{'d': 1, 'é': 1}","{('é', 't'): 1, ('n', 'a'): 1}",én,Uzan,{},"{'d': 1, 'é': 1}",{},ta,Lugaut,{},"{'d': 1, 'é': 1}","{('é', 't'): 1, ('n', 'a'): 1}"
+éndé,Pompéjac,éndé,Arcachon-bis,{},{},{},ta,Roquefort,{},"{'d': 1, 'é': 1}","{('é', 't'): 1, ('n', 'a'): 1}",énta,Morlanne,{},{},"{('d', 't'): 1, ('é', 'a'): 1}"
+éndé,Saint-Hilaire-de-la-Noaille-bis,éndé,Saint-Hilaire-de-la-Noaille,{},{},{},enta,Civrac-sur-Dordogne,{},{},"{('é', 'e'): 1, ('d', 't'): 1, ('é', 'a'): 1}",,,,,
+éndé,Saint-Hilaire-de-la-Noaille,énta,Monprimblanc,{},{},"{('d', 't'): 1, ('é', 'a'): 1}",éndé,Saint-Hilaire-de-la-Noaille-bis,{},{},{},,,,,
+éndé,Arcachon-bis,éndé,Pompéjac,{},{},{},éndé,Arcachon,{},{},{},,,,,
+éndé,Arcachon,éndé,Arcachon-bis,{},{},{},endy,La Teste-de-Buch-bis,{},{},"{('é', 'e'): 1, ('é', 'y'): 1}",,,,,
+éndé,Cazaux,endé,Gujan,{},{},"{('é', 'e'): 1}",en to,Saint-Girons-en-Béarn,{' ': 1},{},"{('é', 'e'): 1, ('d', 't'): 1, ('é', 'o'): 1}",tay,Lue,{},{'é': 1},"{('é', 't'): 1, ('n', 'a'): 1, ('d', 'y'): 1}"
+endé,Gujan,énta,Loupiac,{},{},"{('e', 'é'): 1, ('d', 't'): 1, ('é', 'a'): 1}",éndé,Cazaux,{},{},"{('e', 'é'): 1}",endy,La Teste-de-Buch-bis,{},{},"{('é', 'y'): 1}"
+endy,La Teste-de-Buch-bis,éndé,Arcachon,{},{},"{('e', 'é'): 1, ('y', 'é'): 1}",endé,Gujan,{},{},"{('y', 'é'): 1}",,,,,
+èndé,La Teste-de-Buch-ter,én,Saint-Laurent-de-Gosse,{},"{'d': 1, 'é': 1}","{('è', 'é'): 1}",ta,Bonnut,{},"{'d': 1, 'é': 1}","{('è', 't'): 1, ('n', 'a'): 1}",én,Aurice,{},"{'d': 1, 'é': 1}","{('è', 'é'): 1}"
+endé,La Teste-de-Buch,énta,Omet,{},{},"{('e', 'é'): 1, ('d', 't'): 1, ('é', 'a'): 1}",éndé,Bieujac,{},{},"{('e', 'é'): 1}",éndé,Le Teich,{},{},"{('e', 'é'): 1}"
+éndé,Le Teich,éndé,Mestras,{},{},{},énnta,Paillet,{'n': 1},{},"{('d', 't'): 1, ('é', 'a'): 1}",endé,La Teste-de-Buch,{},{},"{('é', 'e'): 1}"
+éndé,Mestras,enta,Eysses,{},{},"{('é', 'e'): 1, ('d', 't'): 1, ('é', 'a'): 1}",éndé,Le Teich,{},{},{},éndé,Bommes,{},{},{}
+éndé,Bieujac,endé,La Teste-de-Buch,{},{},"{('é', 'e'): 1}",énta,Giscos,{},{},"{('d', 't'): 1, ('é', 'a'): 1}",endy,Castets-en-Dorthe,{},{},"{('é', 'e'): 1, ('é', 'y'): 1}"
+éndé,Bommes,endy,Castets-en-Dorthe,{},{},"{('é', 'e'): 1, ('é', 'y'): 1}",endé,Lignan-de-Bordeaux,{},{},"{('é', 'e'): 1}",éndé,Mestras,{},{},{}
+endy,Castets-en-Dorthe,enta,Saint-Maurice-sur-Adour,{},{},"{('d', 't'): 1, ('y', 'a'): 1}",éndé,Bommes,{},{},"{('e', 'é'): 1, ('y', 'é'): 1}",éndé,Bieujac,{},{},"{('e', 'é'): 1, ('y', 'é'): 1}"
+éndé,Fargues,endé,Langon-bis,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+endé,Langon-bis,éndé,Fargues,{},{},"{('e', 'é'): 1}",én,Fargues,{},"{'d': 1, 'é': 1}","{('e', 'é'): 1}",,,,,
+ta,Langon,enta,Captieux,"{'e': 1, 'n': 1}",{},{},énta,Larrivière-Saint-Savin,"{'é': 1, 'n': 1}",{},{},ta,Budos,{},{},{}
+ta,Léogeats,entà,Saint-Pierre-de-Mons,"{'e': 1, 'n': 1}",{},"{('a', 'à'): 1}",enta,Captieux,"{'e': 1, 'n': 1}",{},{},énta,Mazères,"{'é': 1, 'n': 1}",{},{}
+énta,Mazères,énta,Sainte-Croix-du-Mont,{},{},{},ta,Roaillan,{},"{'é': 1, 'n': 1}",{},ta,Léogeats,{},"{'é': 1, 'n': 1}",{}
+ta,Roaillan,énta,Mazères,"{'é': 1, 'n': 1}",{},{},énta,Sarraziet,"{'é': 1, 'n': 1}",{},{},,,,,
+enta,Saint-Pardon-de-Conques,énta,Giscos,{},{},"{('e', 'é'): 1}",éndé,Capbreton,{},{},"{('e', 'é'): 1, ('t', 'd'): 1, ('a', 'é'): 1}",ta,Sauternes,{},"{'e': 1, 'n': 1}",{}
+entà,Saint-Pierre-de-Mons,én,Labenne,{},"{'t': 1, 'à': 1}","{('e', 'é'): 1}",ta,Léogeats,{},"{'e': 1, 'n': 1}","{('à', 'a'): 1}",ta,Sauternes,{},"{'e': 1, 'n': 1}","{('à', 'a'): 1}"
+ta,Sauternes,en,Saint-Sever,{},{},"{('t', 'e'): 1, ('a', 'n'): 1}",enta,Saint-Pardon-de-Conques,"{'e': 1, 'n': 1}",{},{},entà,Saint-Pierre-de-Mons,"{'e': 1, 'n': 1}",{},"{('a', 'à'): 1}"
+ta,Toulenne,ta,Fichous-Riumayou,{},{},{},énta,Saint-Michel-de-Castelnau,"{'é': 1, 'n': 1}",{},{},én,Soustons,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}"
+ta,Arveyres,én,Tosse,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}",éndé,Noaillac,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}",ta,Cabidos,{},{},{}
+enta,Civrac-sur-Dordogne,éndé,Saint-Hilaire-de-la-Noaille-bis,{},{},"{('e', 'é'): 1, ('t', 'd'): 1, ('a', 'é'): 1}",ta,Saint-Estèphe,{},"{'e': 1, 'n': 1}",{},,,,,
+ta,Izon,én,Orx,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}",énta,Cissac-Médoc,"{'é': 1, 'n': 1}",{},{},énta,Saubrigues,"{'é': 1, 'n': 1}",{},{}
+ta,Libourne-bis,ta,Libourne,{},{},{},én,Saubion,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}",enta,Pomerol,"{'e': 1, 'n': 1}",{},{}
+ta,Libourne,ënta,Carbon-Blanc,"{'ë': 1, 'n': 1}",{},{},ta,Libourne-bis,{},{},{},tà,Vayres,{},{},"{('a', 'à'): 1}"
+enta,Pomerol,ta,Libourne-bis,{},"{'e': 1, 'n': 1}",{},ta,Pauillac,{},"{'e': 1, 'n': 1}",{},tà,Vayres,{},"{'e': 1, 'n': 1}","{('a', 'à'): 1}"
+ta,Saint-Émilion,énta,Saint-Michel-de-Castelnau,"{'é': 1, 'n': 1}",{},{},enta,Saint-Sulpice-de-Faleyrens,"{'e': 1, 'n': 1}",{},{},enta,Roquebrune,"{'e': 1, 'n': 1}",{},{}
+enta,Saint-Sulpice-de-Faleyrens,ta,Saint-Émilion,{},"{'e': 1, 'n': 1}",{},eunta,Floirac,{'u': 1},{},{},tà,Vayres,{},"{'e': 1, 'n': 1}","{('a', 'à'): 1}"
+tà,Vayres,enta,Saint-Sulpice-de-Faleyrens,"{'e': 1, 'n': 1}",{},"{('à', 'a'): 1}",ta,Libourne,{},{},"{('à', 'a'): 1}",enta,Pomerol,"{'e': 1, 'n': 1}",{},"{('à', 'a'): 1}"
+ta,Landerrouet-sur-Ségur,énta,Argelouse,"{'é': 1, 'n': 1}",{},{},énta,Angresse,"{'é': 1, 'n': 1}",{},{},ta,Monségur,{},{},{}
+ta,Monségur,énta,Callen,"{'é': 1, 'n': 1}",{},{},énta,Saint-Jean-de-Marsacq,"{'é': 1, 'n': 1}",{},{},ta,Landerrouet-sur-Ségur,{},{},{}
+enta,Roquebrune,én,Soorts-Hossegor,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",ta,Saint-Émilion,{},"{'e': 1, 'n': 1}",{},ta,Pauillac,{},"{'e': 1, 'n': 1}",{}
+énta,Cissac-Médoc,ta,Izon,{},"{'é': 1, 'n': 1}",{},endé,Messanges,{},{},"{('é', 'e'): 1, ('t', 'd'): 1, ('a', 'é'): 1}",ta,Pauillac,{},"{'é': 1, 'n': 1}",{}
+ta,Pauillac,enta,Pomerol,"{'e': 1, 'n': 1}",{},{},énta,Cissac-Médoc,"{'é': 1, 'n': 1}",{},{},enta,Roquebrune,"{'e': 1, 'n': 1}",{},{}
+ta,Saint-Estèphe,enta,Civrac-sur-Dordogne,"{'e': 1, 'n': 1}",{},{},énta,Lay-Lamidou,"{'é': 1, 'n': 1}",{},{},énta,Saint-Julien-Beychevelle,"{'é': 1, 'n': 1}",{},{}
+énta,Saint-Julien-Beychevelle,énta,Saint-Vincent-de-Tyrosse,{},{},{},én,Sore,{},"{'t': 1, 'a': 1}",{},ta,Saint-Estèphe,{},"{'é': 1, 'n': 1}",{}
+ta,Saint-Sauveur,en,Saint-Yaguen,{},{},"{('t', 'e'): 1, ('a', 'n'): 1}",ta,Vertheuil,{},{},{},,,,,
+ta,Vertheuil,én,Auriac-sur-Dropt,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}",ta,Saint-Sauveur,{},{},{},ta,Cazaugitat,{},{},{}
+ta,Cazaugitat,en,Saint-Sernin,{},{},"{('t', 'e'): 1, ('a', 'n'): 1}",ta,Vertheuil,{},{},{},,,,,
+ta,Landerrouat,ta,Massugas,{},{},{},énde,Le Taillan-Médoc,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'e'): 1}",ta,Listrac-de-Durèze,{},{},{}
+ta,Listrac-de-Durèze,ta,Landerrouat,{},{},{},endé,Soumensac,"{'e': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}",éndé,Monheurt,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}"
+ta,Massugas,ta,Landerrouat,{},{},{},enta,Pellegrue,"{'e': 1, 'n': 1}",{},{},,,,,
+enta,Pellegrue,éndé,Puch-d'Agenais,{},{},"{('e', 'é'): 1, ('t', 'd'): 1, ('a', 'é'): 1}",énn,Lamontjoie,{},{'a': 1},"{('e', 'é'): 1, ('t', 'n'): 1}",ta,Massugas,{},"{'e': 1, 'n': 1}",{}
+tay,Canéjan,ta,Cestas,{},{'y': 1},{},énta,Illats,"{'é': 1, 'n': 1}",{'y': 1},{},éndé,Durance,{'é': 1},{},"{('t', 'n'): 1, ('a', 'd'): 1, ('y', 'é'): 1}"
+ta,Cestas,enta,Villenave-d'Ornon,"{'e': 1, 'n': 1}",{},{},tay,Canéjan,{'y': 1},{},{},en,Allons,{},{},"{('t', 'e'): 1, ('a', 'n'): 1}"
+ta,Gradignan,enta,Landiras,"{'e': 1, 'n': 1}",{},{},enta,Villenave-d'Ornon,"{'e': 1, 'n': 1}",{},{},ta,Mérignac,{},{},{}
+ta,Martignas-sur-Jalle,ta,Saint-Jean-d'Illac,{},{},{},endé,Ambès,"{'e': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}",ta,Mérignac,{},{},{}
+ta,Mérignac,ta,Martignas-sur-Jalle,{},{},{},ta,Barsac,{},{},{},ta,Gradignan,{},{},{}
+énta,Pessac,ta,Talence,{},"{'é': 1, 'n': 1}",{},ënta,Carbon-Blanc,{},{},"{('é', 'ë'): 1}",ta,Saint-Jean-d'Illac,{},"{'é': 1, 'n': 1}",{}
+ta,Saint-Jean-d'Illac,énta,Pujols-sur-Ciron,"{'é': 1, 'n': 1}",{},{},ta,Martignas-sur-Jalle,{},{},{},énta,Pessac,"{'é': 1, 'n': 1}",{},{}
+ta,Talence,énta,Audaux,"{'é': 1, 'n': 1}",{},{},énta,Pessac,"{'é': 1, 'n': 1}",{},{},enta,Villenave-d'Ornon,"{'e': 1, 'n': 1}",{},{}
+enta,Villenave-d'Ornon,ta,Gradignan,{},"{'e': 1, 'n': 1}",{},ta,Cestas,{},"{'e': 1, 'n': 1}",{},ta,Talence,{},"{'e': 1, 'n': 1}",{}
+ta,Arbanats,ta,Barsac,{},{},{},éndéy,Villenave-de-Rions,"{'é': 1, 'n': 1, 'd': 1}",{},"{('t', 'é'): 1, ('a', 'y'): 1}",ta,Budos,{},{},{}
+ta,Barsac,ta,Mérignac,{},{},{},ta,Arbanats,{},{},{},ta,Budos-bis,{},{},{}
+ta,Budos-bis,ta,Cérons,{},{},{},enta,Portets,"{'e': 1, 'n': 1}",{},{},ta,Barsac,{},{},{}
+ta,Budos,ta,Arbanats,{},{},{},ta,Langon,{},{},{},ta,Guillos,{},{},{}
+ta,Cérons,énta,Escaudes,"{'é': 1, 'n': 1}",{},{},ta,Budos-bis,{},{},{},ta,Guillos,{},{},{}
+ta,Guillos,éndé,Montaut,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}",ta,Cérons,{},{},{},ta,Budos,{},{},{}
+énta,Illats,tay,Canéjan,{'y': 1},"{'é': 1, 'n': 1}",{},enta,Landiras,{},{},"{('é', 'e'): 1}",taï,Podensac,{'ï': 1},"{'é': 1, 'n': 1}",{}
+enta,Landiras,énta,Illats,{},{},"{('e', 'é'): 1}",ta,Gradignan,{},"{'e': 1, 'n': 1}",{},enta,Portets,{},{},{}
+taï,Podensac,enta,Portets,"{'e': 1, 'n': 1}",{'ï': 1},{},énta,Bouliac,"{'é': 1, 'n': 1}",{'ï': 1},{},énta,Illats,"{'é': 1, 'n': 1}",{'ï': 1},{}
+enta,Portets,ta,Budos-bis,{},"{'e': 1, 'n': 1}",{},taï,Podensac,{'ï': 1},"{'e': 1, 'n': 1}",{},enta,Landiras,{},{},{}
+enta,Preignac,éndé,Nomdieu,{},{},"{('e', 'é'): 1, ('t', 'd'): 1, ('a', 'é'): 1}",en ta,Araux,{' ': 1},{},{},,,,,
+énta,Pujols-sur-Ciron,en,Francescas,{},"{'t': 1, 'a': 1}","{('é', 'e'): 1}",ta,Saint-Jean-d'Illac,{},"{'é': 1, 'n': 1}",{},en,Houeillès,{},"{'t': 1, 'a': 1}","{('é', 'e'): 1}"
+ta,Saint-Michel-de-Rieufret,éndé,Bourgougnague,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}",enta,Aubie-et-Espessas,"{'e': 1, 'n': 1}",{},{},ta,Sainte-Radegonde,{},{},{}
+ta,Virelade,ta,Saint-Vincent-de-Pertignas,{},{},{},énta,Saint-Louis-de-Montferrand,"{'é': 1, 'n': 1}",{},{},énta,Doulezon,"{'é': 1, 'n': 1}",{},{}
+énta,Doulezon,ta,Virelade,{},"{'é': 1, 'n': 1}",{},én,Sauméjan,{},"{'t': 1, 'a': 1}",{},éndé,Laperche,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}"
+ta,Flaujagues,éntay,Gensac,"{'é': 1, 'n': 1, 'y': 1}",{},{},enta,Saint-Vincent-de-Paul,"{'e': 1, 'n': 1}",{},{},endé,Saint-Pierre de Nogaret,"{'e': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}"
+éntay,Gensac,enta,Juillac,{},{'y': 1},"{('é', 'e'): 1}",ta,Flaujagues,{},"{'é': 1, 'n': 1, 'y': 1}",{},,,,,
+enta,Juillac,enta,Sainte-Eulalie,{},{},{},éntay,Gensac,{'y': 1},{},"{('e', 'é'): 1}",én,Sainte-Bazeille,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}"
+entay,Mouliets,énta,Sainte-Maure-de-Peyriac,{},{'y': 1},"{('e', 'é'): 1}",ta,Saint-Macaire,{},"{'e': 1, 'n': 1, 'y': 1}",{},taï,Pessac-sur-Dordogne,{},"{'e': 1, 'n': 1}","{('y', 'ï'): 1}"
+taï,Pessac-sur-Dordogne,entay,Mouliets,"{'e': 1, 'n': 1}",{},"{('ï', 'y'): 1}",eunta,Tresses-bis,"{'e': 1, 'u': 1, 'n': 1}",{'ï': 1},{},én,Montignac-de-Lauzun,{},{'ï': 1},"{('t', 'é'): 1, ('a', 'n'): 1}"
+ta,Pujols-bis,enta,Listrac-Médoc,"{'e': 1, 'n': 1}",{},{},,,,,,,,,,
+énta,Pujols,énta,Saint-Jean-de-Blaignac,{},{},{},,,,,,,,,,
+énta,Rauzan,éndé,Saint-Colomb-de-Lauzun,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}",énnta,Tresses,{'n': 1},{},{},én,Sérignac-Péboudou,{},"{'t': 1, 'a': 1}",{}
+énta,Saint-Jean-de-Blaignac,én,Saint-Nazaire,{},"{'t': 1, 'a': 1}",{},énta,Pujols,{},{},{},,,,,
+énta,Saint-Pey-de-Castets,énnta,Tresses,{'n': 1},{},{},én,Longueville,{},"{'t': 1, 'a': 1}",{},ta,Sainte-Radegonde,{},"{'é': 1, 'n': 1}",{}
+ta,Saint-Vincent-de-Pertignas,én,Fauguerolles,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}",ta,Virelade,{},{},{},ta,Sainte-Radegonde,{},{},{}
+ta,Sainte-Radegonde,ta,Saint-Michel-de-Rieufret,{},{},{},énta,Saint-Pey-de-Castets,"{'é': 1, 'n': 1}",{},{},ta,Saint-Vincent-de-Pertignas,{},{},{}
+enta,Aubie-et-Espessas,ta,Saint-Michel-de-Rieufret,{},"{'e': 1, 'n': 1}",{},én,Barbaste,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",ta,Cubzac-les-Ponts,{},"{'e': 1, 'n': 1}",{}
+ta,Cubzac-les-Ponts,én,Méneau,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}",énnta,Tresses,"{'é': 1, 'n': 2}",{},{},enta,Aubie-et-Espessas,"{'e': 1, 'n': 1}",{},{}
+ta,Peujard,eunta,Tresses-bis,"{'e': 1, 'u': 1, 'n': 1}",{},{},ta,Saint-André-de-Cubzac,{},{},{},én,Vianne,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}"
+ta,Saint-André-de-Cubzac,ta,Peujard,{},{},{},en,Xaintrailles,{},{},"{('t', 'e'): 1, ('a', 'n'): 1}",,,,,
+ta,Saint-Antoine,én,Saint-Pardoux-du-Breuil,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}",éndé,Gontaud-de-Nogaret-bis,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}",,,,,
+ta,Saint-Gervais,enta,Arsac-bis,"{'e': 1, 'n': 1}",{},{},enta,Benon,"{'e': 1, 'n': 1}",{},{},tay,Saint-Laurent-d'Arce,{'y': 1},{},{}
+tay,Saint-Laurent-d'Arce,ta,Le Pian-sur-Garonne,{},{'y': 1},{},ta,Saint-Gervais,{},{'y': 1},{},,,,,
+enta,Salignac,enta,Benon,{},{},{},énta,Cantenac,{},{},"{('e', 'é'): 1}",ta,Virsac,{},"{'e': 1, 'n': 1}",{}
+ta,Virsac,enta,Salignac,"{'e': 1, 'n': 1}",{},{},enta,Arcins,"{'e': 1, 'n': 1}",{},{},énta,Colayrac-Saint-Cirq,"{'é': 1, 'n': 1}",{},{}
+enta,Benon,ta,Saint-Gervais,{},"{'e': 1, 'n': 1}",{},enta,Salignac,{},{},{},ta,Carcans,{},"{'e': 1, 'n': 1}",{}
+ta,Carcans,én,Foulayronnes,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}",ta,Hourtin,{},{},{},enta,Benon,"{'e': 1, 'n': 1}",{},{}
+ta,Hourtin,ta,Carcans,{},{},{},énta,Saint-Quentin-de-Caplong,"{'é': 1, 'n': 1}",{},{},,,,,
+enta,Saint-Laurent-Médoc,ta,Le Pian-sur-Garonne,{},"{'e': 1, 'n': 1}",{},éndé,Taillebourg,{},{},"{('e', 'é'): 1, ('t', 'd'): 1, ('a', 'é'): 1}",enta,Caudrot,{},{},{}
+enta,Caudrot,enta,Saint-Laurent-Médoc,{},{},{},euntà,Labarde,{'u': 1},{},"{('a', 'à'): 1}",énnta,Saint-André-du-Bois,{'é': 1},{},"{('e', 'n'): 1}"
+ta,Le Pian-sur-Garonne,tay,Saint-Laurent-d'Arce,{'y': 1},{},{},enta,Saint-Laurent-Médoc,"{'e': 1, 'n': 1}",{},{},énnta,Saint-André-du-Bois,"{'é': 1, 'n': 2}",{},{}
+énnta,Saint-André-du-Bois,eunta,Lamarque,{},{},"{('é', 'e'): 1, ('n', 'u'): 1}",ta,Le Pian-sur-Garonne,{},"{'é': 1, 'n': 2}",{},enta,Caudrot,{},{'n': 1},"{('é', 'e'): 1}"
+ta,Saint-Germain-de-Grave,eunta,Le Porge,"{'e': 1, 'u': 1, 'n': 1}",{},{},én,Saint-Sauveur-de-Meilhan,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}",ta,Saint-Laurent-du-Bois,{},{},{}
+ta,Saint-Laurent-du-Bois,ta,Saint-Germain-de-Grave,{},{},{},,,,,,,,,,
+ta,Saint-Macaire,entay,Mouliets,"{'e': 1, 'n': 1, 'y': 1}",{},{},én,Poudenas,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}",ta,Saint-Martin-de-Sescas,{},{},{}
+ta,Saint-Maixant,énta,Mios,"{'é': 1, 'n': 1}",{},{},ta,Saint-Martin-de-Sescas,{},{},{},,,,,
+ta,Saint-Martin-de-Sescas,ta,Saint-Maixant,{},{},{},enta,Sainte-Eulalie,"{'e': 1, 'n': 1}",{},{},ta,Saint-Macaire,{},{},{}
+ta,Saint-Pierre-d'Aurillac,én,Peyrière,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}",énda,Espiens,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1}",en,Sos,{},{},"{('t', 'e'): 1, ('a', 'n'): 1}"
+ta,Verdelais,eunta,Le Temple,"{'e': 1, 'u': 1, 'n': 1}",{},{},énta,Grayan-bis,"{'é': 1, 'n': 1}",{},{},ta,Balizac,{},{},{}
+ta,Balizac,en̈ta,Saint-Genès-de-Castillon,"{'e': 1, 'n': 1, '̈': 1}",{},{},ta,Verdelais,{},{},{},énda,Grayan,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1}"
+enta,Hostens,enda,Le Verdon-sur-Mer,{},{},"{('t', 'd'): 1}",ta,Le Tuzan,{},"{'e': 1, 'n': 1}",{},,,,,
+ta,Le Tuzan,enta,Hostens,"{'e': 1, 'n': 1}",{},{},en,Montardon,{},{},"{('t', 'e'): 1, ('a', 'n'): 1}",éndé,Louchats,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}"
+éndé,Louchats,éndé,La Brède-bis,{},{},{},énda,Origne,{},{},"{('é', 'a'): 1}",ta,Le Tuzan,{},"{'d': 1, 'é': 1}","{('é', 't'): 1, ('n', 'a'): 1}"
+énda,Origne,ta,Uchacq,{},"{'n': 1, 'd': 1}","{('é', 't'): 1}",énta,Saint-Léger-de-Balson,{},{},"{('d', 't'): 1}",éndé,Louchats,{},{},"{('a', 'é'): 1}"
+énta,Saint-Léger-de-Balson,énda,Origne,{},{},"{('t', 'd'): 1}",tayy,Clermont,{},{},"{('é', 't'): 1, ('n', 'a'): 1, ('t', 'y'): 1, ('a', 'y'): 1}",énda,Saint-Symphorien-bis,{},{},"{('t', 'd'): 1}"
+énda,Saint-Symphorien-bis,énta,Saint-Léger-de-Balson,{},{},"{('d', 't'): 1}",eunta,Saint-Laurent-des-Combes,{'e': 1},{},"{('é', 'u'): 1, ('d', 't'): 1}",énta,Montagnac-sur-Auvignon,{},{},"{('d', 't'): 1}"
+tà,Saint-Symphorien,en,Castelnau-sur-Gupie,{},{},"{('t', 'e'): 1, ('à', 'n'): 1}",,,,,,,,,,
+énta,Grayan-bis,ta,Verdelais,{},"{'é': 1, 'n': 1}",{},énda,Grayan,{},{},"{('t', 'd'): 1}",,,,,
+énda,Grayan,én,Nérac-bis,{},"{'d': 1, 'a': 1}",{},ta,Balizac,{},"{'n': 1, 'd': 1}","{('é', 't'): 1}",énta,Grayan-bis,{},{},"{('d', 't'): 1}"
+énda,Jau-Dignac-et-Loirac,ta,Lourquen,{},"{'n': 1, 'd': 1}","{('é', 't'): 1}",enda,Le Verdon-sur-Mer,{},{},"{('é', 'e'): 1}",,,,,
+enda,Le Verdon-sur-Mer,énda,Jau-Dignac-et-Loirac,{},{},"{('e', 'é'): 1}",enta,Hostens,{},{},"{('d', 't'): 1}",enda,Saint-Vivien-de-Médoc,{},{},{}
+enda,Saint-Vivien-de-Médoc,enda,Le Verdon-sur-Mer,{},{},{},,,,,,,,,,
+enta,Soulac-sur-Mer,én,Mauvezin-sur-Gupie,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",,,,,,,,,,
+enda,Talais,én,Calonges,{},"{'d': 1, 'a': 1}","{('e', 'é'): 1}",,,,,,,,,,
+enda,Vensac,enda,La Roquille,{},{},{},dà,Appelles,{},"{'e': 1, 'n': 1}","{('a', 'à'): 1}",,,,,
+dà,Appelles,enda,Vensac,"{'e': 1, 'n': 1}",{},"{('à', 'a'): 1}",enta,Caplong,"{'e': 1, 'n': 1}",{},"{('d', 't'): 1, ('à', 'a'): 1}",,,,,
+enta,Caplong,endé,Puymiclan,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}",dà,Appelles,{},"{'t': 1, 'a': 1}","{('e', 'd'): 1, ('n', 'à'): 1}",,,,,
+enta,Eynesse,én,Sénestis,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",enda,La Roquille,{},{},"{('t', 'd'): 1}",,,,,
+enda,La Roquille,én,Lachapelle,{},"{'d': 1, 'a': 1}","{('e', 'é'): 1}",enda,Vensac,{},{},{},enta,Eynesse,{},{},"{('d', 't'): 1}"
+ta,Les Lèves-et-Thoumeyragues,enta,Samazan,"{'e': 1, 'n': 1}",{},{},énta,Riocaud,"{'é': 1, 'n': 1}",{},{},ta,Ligueux,{},{},{}
+ta,Ligueux,énta,Lagruère,"{'é': 1, 'n': 1}",{},{},ta,Les Lèves-et-Thoumeyragues,{},{},{},énta,Pineuilh,"{'é': 1, 'n': 1}",{},{}
+énta,Pineuilh,ta,Ligueux,{},"{'é': 1, 'n': 1}",{},,,,,,,,,,
+énta,Riocaud,ta,Les Lèves-et-Thoumeyragues,{},"{'é': 1, 'n': 1}",{},entay,Saint-Avit-de-Soulège,{'y': 1},{},"{('é', 'e'): 1}",,,,,
+entay,Saint-Avit-de-Soulège,énta,Riocaud,{},{'y': 1},"{('e', 'é'): 1}",,,,,,,,,,
+éntà,Saint-Avit-Saint-Nazaire,én,Monsempron-Libos,{},"{'t': 1, 'à': 1}",{},énta,Agen,{},{},"{('à', 'a'): 1}",,,,,
+énta,Saint-Quentin-de-Caplong,ta,Hourtin,{},"{'é': 1, 'n': 1}",{},énta,Le Passage,{},{},{},,,,,
+énta,Sainte-Foy-la-Grande-bis,enta,Auros,{},{},"{('é', 'e'): 1}",énta,Sainte-Foy-la-Grande-ter,{},{},{},,,,,
+énta,Sainte-Foy-la-Grande-ter,eunta,Moulis-en-Médoc-bis,{'e': 1},{},"{('é', 'u'): 1}",énta,Sainte-Foy-la-Grande-bis,{},{},{},énta,Laplume-bis,{},{},{}
+énta,Sainte-Foy-la-Grande,éna,Blasimon,{},{'t': 1},{},,,,,,,,,,
+éna,Blasimon,énta,Sainte-Foy-la-Grande,{'t': 1},{},{},ta,Castelviel,{},{'n': 1},"{('é', 't'): 1}",,,,,
+ta,Castelviel,énta,Caudecoste,"{'é': 1, 'n': 1}",{},{},éna,Blasimon,{'é': 1},{},"{('t', 'n'): 1}",,,,,
+énta,Cleyrac,,,,,,,,,,,,,,,
+énta,Coirac,énta,Sauveterre-Saint-Denis,{},{},{},énta,Cancon-bis,{},{},{},énta,Engayrac,{},{},{}
+enda,Gornac,énnta,Moulis-en-Médoc,{'n': 1},{},"{('e', 'é'): 1, ('d', 't'): 1}",,,,,,,,,,
+énda,Mérignas,enda,Saint-Sulpice-de-Pommiers,{},{},"{('é', 'e'): 1}",éntah,Blanquefort-sur-Briolance-La-Sauvetat,{'h': 1},{},"{('d', 't'): 1}",,,,,
+énta,Mourens,ta,Ruch,{},"{'é': 1, 'n': 1}",{},,,,,,,,,,
+ta,Ruch,énta,Mourens,"{'é': 1, 'n': 1}",{},{},enta,Saint-Brice,"{'e': 1, 'n': 1}",{},{},,,,,
+enta,Saint-Brice,énta,Ferrensac,{},{},"{('e', 'é'): 1}",ta,Ruch,{},"{'e': 1, 'n': 1}",{},,,,,
+enda,Saint-Félix-de-Foncaude,én,Trémons,{},"{'d': 1, 'a': 1}","{('e', 'é'): 1}",en,Fumel-bis,{},"{'d': 1, 'a': 1}",{},,,,,
+énda,Saint-Léger-de-Vignague,én,Saint-Nicolas-de-la-Balerme,{},"{'d': 1, 'a': 1}",{},enda,Saint-Sulpice-de-Pommiers,{},{},"{('é', 'e'): 1}",en,Blanquefort-sur-Briolance,{},"{'d': 1, 'a': 1}","{('é', 'e'): 1}"
+enda,Saint-Sulpice-de-Pommiers,énda,Saint-Léger-de-Vignague,{},{},"{('e', 'é'): 1}",énda,Mérignas,{},{},"{('e', 'é'): 1}",tay,Sauveterre-de-Guyenne-bis,{},{'a': 1},"{('e', 't'): 1, ('n', 'a'): 1, ('d', 'y'): 1}"
+tay,Sauveterre-de-Guyenne-bis,enda,Saint-Sulpice-de-Pommiers,"{'e': 1, 'n': 1}",{'y': 1},"{('t', 'd'): 1}",,,,,,,,,,
+énta,Sauveterre-de-Guyenne-ter,énta,Arbis,{},{},{},,,,,,,,,,
+énna,Sauveterre-de-Guyenne,enta,Castang,{},{},"{('é', 'e'): 1, ('n', 't'): 1}",ta,Escoussans,{},{'n': 2},"{('é', 't'): 1}",,,,,
+énta,Arbis,énta,Sauveterre-de-Guyenne-ter,{},{},{},énta,Baigneaux,{},{},{},,,,,
+énta,Baigneaux,énta,Roquefort,{},{},{},énta,Bonnenouvelle,{},{},{},énta,Arbis,{},{},{}
+ta,Escoussans,énna,Sauveterre-de-Guyenne,"{'é': 1, 'n': 1}",{},"{('t', 'n'): 1}",en,La Croix-Blanche,{},{},"{('t', 'e'): 1, ('a', 'n'): 1}",,,,,
+énda,Faleyras,ta,Montastruc,{},"{'n': 1, 'd': 1}","{('é', 't'): 1}",énta,La Sauvetat-de-Savères,{},{},"{('d', 't'): 1}",énta,Frontenac,{},{},"{('d', 't'): 1}"
+énta,Frontenac,énta,Saint-Martin-de-Beauville,{},{},{},énta,Romagne,{},{},{},énda,Faleyras,{},{},"{('t', 'd'): 1}"
+enda,Ladaux,énta,Lugasson,{},{},"{('e', 'é'): 1, ('d', 't'): 1}",ta,Soulignac,{},"{'n': 1, 'd': 1}","{('e', 't'): 1}",,,,,
+énta,Lugasson,enda,Ladaux,{},{},"{('é', 'e'): 1, ('t', 'd'): 1}",énta,Romagne,{},{},{},,,,,
+énta,Romagne,énta,Frontenac,{},{},{},énta,Tayrac,{},{},{},énta,Lugasson,{},{},{}
+énta,Saint-Pierre-de-Bat,én,Monclar-bis,{},"{'t': 1, 'a': 1}",{},én,Sérignac-sur-Garonne,{},"{'t': 1, 'a': 1}",{},,,,,
+ta,Soulignac,enda,Ladaux,"{'e': 1, 'n': 1}",{},"{('t', 'd'): 1}",én,Monclar,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}",enta,Saint-Étienne-de-Fougères,"{'e': 1, 'n': 1}",{},{}
+ta,Targon-bis,enta,La Sauvetat-sur-Lède,"{'e': 1, 'n': 1}",{},{},enta,Lacapelle-Biron,"{'e': 1, 'n': 1}",{},{},,,,,
+ta,Targon,énta,Pailloles,"{'é': 1, 'n': 1}",{},{},täy,Cazalis,{'ä': 1},{},"{('a', 'y'): 1}",,,,,
+täy,Cazalis,én̈,Laussou,{},{},"{('t', 'é'): 1, ('ä', 'n'): 1, ('y', '̈'): 1}",énta,Sainte-Hélène,"{'é': 1, 'n': 1}",{'y': 1},"{('ä', 'a'): 1}",ta,Targon,{},{'y': 1},"{('ä', 'a'): 1}"
+énta,Lucmau,énta,Gardegan,{},{},{},ta,Gours,{},"{'é': 1, 'n': 1}",{},,,,,
+tay,Noaillan,ta,Préchac-bis,{},{'y': 1},{},,,,,,,,,,
+ta,Préchac-bis,tay,Noaillan,{'y': 1},{},{},énta,Francs,"{'é': 1, 'n': 1}",{},{},,,,,
+ta,Préchac,énta,Puynormand,"{'é': 1, 'n': 1}",{},{},enté,Cabanac-et-Villagrains,"{'e': 1, 'n': 1}",{},"{('a', 'é'): 1}",enda,Uzeste,"{'e': 1, 'n': 1}",{},"{('t', 'd'): 1}"
+enda,Uzeste,ta,Préchac,{},"{'n': 1, 'd': 1}","{('e', 't'): 1}",enta,Saint-Germain-du-Puch,{},{},"{('d', 't'): 1}",enta,Villandraut-bis,{},{},"{('d', 't'): 1}"
+enta,Villandraut-bis,enda,Uzeste,{},{},"{('t', 'd'): 1}",énta,Gardegan,{},{},"{('e', 'é'): 1}",ta,Saint-Christophe-des-Bardes,{},"{'e': 1, 'n': 1}",{}
+ta,Villandraut,énta,Francs,"{'é': 1, 'n': 1}",{},{},énta,Duhort-Bachen,"{'é': 1, 'n': 1}",{},{},énda,Puisseguin,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1}"
+énta,Francs,ta,Préchac-bis,{},"{'é': 1, 'n': 1}",{},ta,Villandraut,{},"{'é': 1, 'n': 1}",{},ta,Gours,{},"{'é': 1, 'n': 1}",{}
+ta,Gours,ta,Saint-Christophe-des-Bardes,{},{},{},énta,Lucmau,"{'é': 1, 'n': 1}",{},{},énta,Francs,"{'é': 1, 'n': 1}",{},{}
+énda,Puisseguin,enta,Castillon-la-Bataille,{},{},"{('é', 'e'): 1, ('d', 't'): 1}",énta,Puynormand,{},{},"{('d', 't'): 1}",ta,Villandraut,{},"{'n': 1, 'd': 1}","{('é', 't'): 1}"
+énta,Puynormand,énda,Puisseguin,{},{},"{('t', 'd'): 1}",ta,Préchac,{},"{'é': 1, 'n': 1}",{},ta,Saint-Christophe-des-Bardes,{},"{'é': 1, 'n': 1}",{}
+ta,Saint-Christophe-des-Bardes,enta,Villandraut-bis,"{'e': 1, 'n': 1}",{},{},ta,Gours,{},{},{},énta,Puynormand,"{'é': 1, 'n': 1}",{},{}
+enta,Aire-sur-l'Adour,eunta,Saint-Laurent-des-Combes,{'u': 1},{},{},énta,Buanes,{},{},"{('e', 'é'): 1}",enta,Montagnac-sur-Lède,{},{},{}
+enda,Bahus-Soubiran,énta,Bourg-bis,{},{},"{('e', 'é'): 1, ('d', 't'): 1}",énta,Classun,{},{},"{('e', 'é'): 1, ('d', 't'): 1}",énta,Buanes,{},{},"{('e', 'é'): 1, ('d', 't'): 1}"
+énta,Buanes,enta,Aire-sur-l'Adour,{},{},"{('é', 'e'): 1}",ta,Gamarde-les-Bains,{},"{'é': 1, 'n': 1}",{},enda,Bahus-Soubiran,{},{},"{('é', 'e'): 1, ('t', 'd'): 1}"
+énta,Classun,enda,Bahus-Soubiran,{},{},"{('é', 'e'): 1, ('t', 'd'): 1}",enta,Castillon-la-Bataille,{},{},"{('é', 'e'): 1}",énta,Duhort-Bachen,{},{},{}
+énta,Duhort-Bachen,ta,Villandraut,{},"{'é': 1, 'n': 1}",{},én,Monségur,{},"{'t': 1, 'a': 1}",{},énta,Classun,{},{},{}
+énta,Eugénie-les-Bains,én,Auradou,{},"{'t': 1, 'a': 1}",{},énndé,Saint-Philippe-d'Aiguille,{'n': 1},{},"{('t', 'd'): 1, ('a', 'é'): 1}",,,,,
+enta,Latrille,enta,Maillères,{},{},{},éntà,Lussagnet,{},{},"{('e', 'é'): 1, ('a', 'à'): 1}",,,,,
+énta,Renung,énta,Prignac-et-Marcamps,{},{},{},énta,Saint-Agnet,{},{},{},énta,Saint-Loubouer,{},{},{}
+énta,Saint-Agnet,énta,Renung,{},{},{},énta,Saint-Antoine-sur-l'Isle,{},{},{},enta,Sarron,{},{},"{('é', 'e'): 1}"
+énta,Saint-Loubouer,enta,Sarron,{},{},"{('é', 'e'): 1}",énté,Lansac,{},{},"{('a', 'é'): 1}",énta,Renung,{},{},{}
+enta,Sarron,énta,Bonnetan,{},{},"{('e', 'é'): 1}",énta,Saint-Loubouer,{},{},"{('e', 'é'): 1}",énta,Saint-Agnet,{},{},"{('e', 'é'): 1}"
+énta,Vielle-Tursan,énta,Cambes,{},{},{},énta,Amou-bis,{},{},{},enta,Amou,{},{},"{('é', 'e'): 1}"
+énta,Amou-bis,énta,Vielle-Tursan,{},{},{},,,,,,,,,,
+enta,Amou,énta,Argagnon,{},{},"{('e', 'é'): 1}",enta,Carignan-de-Bordeaux,{},{},{},énta,Vielle-Tursan,{},{},"{('e', 'é'): 1}"
+énta,Bassercles,énta,Cénac,{},{},{},enta,Bonnegarde,{},{},"{('é', 'e'): 1}",én,Tartas-bis,{},"{'t': 1, 'a': 1}",{}
+enta,Bonnegarde,énté,Branne-bis,{},{},"{('e', 'é'): 1, ('a', 'é'): 1}",énta,Brassempouy,{},{},"{('e', 'é'): 1}",énta,Bassercles,{},{},"{('e', 'é'): 1}"
+énta,Brassempouy,enta,Bonnegarde,{},{},"{('é', 'e'): 1}",éndé,Créon,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}",énta,Souprosse,{},{},{}
+enta,Castaignos-Souslens,én,Trentels,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",,,,,,,,,,
+enta,Castel-Sarrazin,éndé,Latresne,{},{},"{('e', 'é'): 1, ('t', 'd'): 1, ('a', 'é'): 1}",énda,Port-Sainte-Marie,{},{},"{('e', 'é'): 1, ('t', 'd'): 1}",,,,,
+enta,Castelnau-Chalosse,en,Casteide-Doat,{},"{'t': 1, 'a': 1}",{},énta,Haux,{},{},"{('e', 'é'): 1}",,,,,
+énta,Donzacq,éndé,Latresne,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}",énta,Marpaps,{},{},{},énta,Gaujacq,{},{},{}
+énta,Gaujacq,ta,Laglorieuse,{},"{'é': 1, 'n': 1}",{},énnta,Campet,{'n': 1},{},{},énta,Donzacq,{},{},{}
+énta,Marpaps,énta,Donzacq,{},{},{},,,,,,,,,,
+énta,Nassiet,éndé,Allez-et-Cazeneuve,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}",énta,Saint-Hilaire-de-Lusignan,{},{},{},,,,,
+énta,Pomarez,énta,Astaffort-bis,{},{},{},ta,Castets,{},"{'é': 1, 'n': 1}",{},,,,,
+ta,Castets,énta,Pomarez,"{'é': 1, 'n': 1}",{},{},,,,,,,,,,
+éntà,Léon,en,Bourlens,{},"{'t': 1, 'à': 1}","{('é', 'e'): 1}",,,,,,,,,,
+énta,Lévignacq,én,Sainte-Livrade-sur-Lot-bis,{},"{'t': 1, 'a': 1}",{},,,,,,,,,,
+énta,Linxe,ta,Cabara-bis,{},"{'é': 1, 'n': 1}",{},enta,Lit-et-Mixe,{},{},"{('é', 'e'): 1}",,,,,
+enta,Lit-et-Mixe,enta,Saint-Michel-Escalus,{},{},{},énta,Linxe,{},{},"{('e', 'é'): 1}",,,,,
+ta,Saint-Julien-en-Born,énta,Taller,"{'é': 1, 'n': 1}",{},{},én,Savignac-de-Duras,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}",enta,Saint-Michel-Escalus,"{'e': 1, 'n': 1}",{},{}
+enta,Saint-Michel-Escalus,ta,Saint-Julien-en-Born,{},"{'e': 1, 'n': 1}",{},enta,Lit-et-Mixe,{},{},{},énta,Vielle-Saint-Girons,{},{},"{('e', 'é'): 1}"
+énta,Taller,én̈ta,Ambarès-et-Lagrave,{'̈': 1},{},{},ta,Saint-Julien-en-Born,{},"{'é': 1, 'n': 1}",{},enda,Uza,{},{},"{('é', 'e'): 1, ('t', 'd'): 1}"
+enda,Uza,énta,Vielle-Saint-Girons,{},{},"{('e', 'é'): 1, ('d', 't'): 1}",éndé,Quinsac,{},{},"{('e', 'é'): 1, ('a', 'é'): 1}",énta,Taller,{},{},"{('e', 'é'): 1, ('d', 't'): 1}"
+énta,Vielle-Saint-Girons,enda,Uza,{},{},"{('é', 'e'): 1, ('t', 'd'): 1}",enta,Saint-Michel-Escalus,{},{},"{('é', 'e'): 1}",,,,,
+ta,Bénesse-lès-Dax,enta,Saint-Caprais-de-Bordeaux,"{'e': 1, 'n': 1}",{},{},éndā,Dax-Saint-Vincent,"{'é': 1, 'n': 1, '̄': 1}",{},"{('t', 'd'): 1}",,,,,
+ta,Candresse,énta,Orion,"{'é': 1, 'n': 1}",{},{},éndā,Dax-Saint-Vincent,"{'é': 1, 'n': 1, '̄': 1}",{},"{('t', 'd'): 1}",,,,,
+éndā,Dax-Saint-Vincent,ta,Cabara-bis,{},"{'n': 1, 'd': 1, '̄': 1}","{('é', 't'): 1}",ta,Candresse,{},"{'n': 1, 'd': 1, '̄': 1}","{('é', 't'): 1}",ta,Bénesse-lès-Dax,{},"{'n': 1, 'd': 1, '̄': 1}","{('é', 't'): 1}"
+enta,Dax,enta,Saint-Antoine-de-Ficalba,{},{},{},ta,Herm,{},"{'e': 1, 'n': 1}",{},,,,,
+ta,Herm,enta,Heugas,"{'e': 1, 'n': 1}",{},{},én,Rayet,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}",enta,Dax,"{'e': 1, 'n': 1}",{},{}
+enta,Heugas,én,Sembas,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",ta,Herm,{},"{'e': 1, 'n': 1}",{},,,,,
+énta,Mées,enta,Narrosse,{},{},"{('é', 'e'): 1}",énta,Fronsac-bis,{},{},{},énta,Oeyreluy,{},{},{}
+enta,Narrosse,enta,Tabanac,{},{},{},énta,Mées,{},{},"{('e', 'é'): 1}",énta,Oeyreluy,{},{},"{('e', 'é'): 1}"
+énta,Oeyreluy,énta,Mées,{},{},{},enta,Narrosse,{},{},"{('é', 'e'): 1}",,,,,
+énta,Rivière-Saas-et-Gourby,én̈da,Bourg,{'̈': 1},{},"{('t', 'd'): 1}",enta,Sablar,{},{},"{('é', 'e'): 1}",énta,Saint-Pandelon,{},{},{}
+enta,Sablar,énta,Rivière-Saas-et-Gourby,{},{},"{('e', 'é'): 1}",éndé,Coudures,{},{},"{('e', 'é'): 1, ('t', 'd'): 1, ('a', 'é'): 1}",,,,,
+énta,Saint-Pandelon,énta,Doudrac,{},{},{},enté,Saint-Seurin-de-Bourg,{},{},"{('é', 'e'): 1, ('a', 'é'): 1}",énta,Rivière-Saas-et-Gourby,{},{},{}
+énta,Saint-Paul-lès-Dax,énda,Saillans,{},{},"{('t', 'd'): 1}",éndé,Saint-Germain,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}",,,,,
+enta,Saint-Vincent-de-Paul,ta,Saugnac-et-Cambran,{},"{'e': 1, 'n': 1}",{},enta,Saint-Germain-de-la-Rivière,{},{},{},enta,Herré,{},{},{}
+énta,Saubusse,énta,Gabarret,{},{},{},éndé,Bagas,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}",énta,Siest,{},{},{}
+ta,Saugnac-et-Cambran,enté,Martillac,"{'e': 1, 'n': 1}",{},"{('a', 'é'): 1}",enta,Saint-Vincent-de-Paul,"{'e': 1, 'n': 1}",{},{},énta,Siest,"{'é': 1, 'n': 1}",{},{}
+énta,Siest,éndé,Blaignac,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}",ta,Saugnac-et-Cambran,{},"{'é': 1, 'n': 1}",{},énta,Saubusse,{},{},{}
+enta,Tercis-les-Bains,eunta,Grignols-bis,{'u': 1},{},{},énta,Cuqueron,{},{},"{('e', 'é'): 1}",enta,Créon-d'Armagnac,{},{},{}
+ta,Téthieu,én,Abos,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}",enta,Saint-Julien-d'Armagnac,"{'e': 1, 'n': 1}",{},{},énta,Betbezer-d'Armagnac,"{'é': 1, 'n': 1}",{},{}
+ta,Yzosse,enta,Arx,"{'e': 1, 'n': 1}",{},{},eunta,Grignols,"{'e': 1, 'u': 1, 'n': 1}",{},{},enta,Créon-d'Armagnac,"{'e': 1, 'n': 1}",{},{}
+enta,Arx,ta,Baudignan,{},"{'e': 1, 'n': 1}",{},eunta,Lavazan,{'u': 1},{},{},ta,Yzosse,{},"{'e': 1, 'n': 1}",{}
+ta,Baudignan,ta,Sainte-Meille,{},{},{},enta,Arx,"{'e': 1, 'n': 1}",{},{},énta,Betbezer-d'Armagnac,"{'é': 1, 'n': 1}",{},{}
+énta,Betbezer-d'Armagnac,ta,Téthieu,{},"{'é': 1, 'n': 1}",{},ta,Baudignan,{},"{'é': 1, 'n': 1}",{},enta,Créon-d'Armagnac,{},{},"{('é', 'e'): 1}"
+enta,Créon-d'Armagnac,ta,Yzosse,{},"{'e': 1, 'n': 1}",{},enta,Tercis-les-Bains,{},{},{},énta,Betbezer-d'Armagnac,{},{},"{('e', 'é'): 1}"
+énta,Estigarde,éndé,Bagas,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}",énta,Gabarret,{},{},{},éndé,Borce,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}"
+énta,Gabarret,énta,Estigarde,{},{},{},énta,Saubusse,{},{},{},enta,Herré,{},{},"{('é', 'e'): 1}"
+enta,Herré,enta,Saint-Vincent-de-Paul,{},{},{},énta,Lagrange,{},{},"{('e', 'é'): 1}",énta,Gabarret,{},{},"{('e', 'é'): 1}"
+énta,Lagrange,enta,Cours-les-Bains,{},{},"{('é', 'e'): 1}",én,Escot,{},"{'t': 1, 'a': 1}",{},enta,Herré,{},{},"{('é', 'e'): 1}"
+enta,Losse,énda,Etsaut,{},{},"{('e', 'é'): 1, ('t', 'd'): 1}",enta,Génissac,{},{},{},enta,Arette,{},{},{}
+énta,Mauvezin-d'Armagnac,entra,Castet,{'r': 1},{},"{('é', 'e'): 1}",énta,Bidache,{},{},{},ta,Nerbis,{},"{'é': 1, 'n': 1}",{}
+enta,Parleboscq,ta,Buziet,{},"{'e': 1, 'n': 1}",{},énta,Cardesse,{},{},"{('e', 'é'): 1}",,,,,
+énta,Rimbez-et-Baudiets,enta,Saint-Julien-d'Armagnac,{},{},"{('é', 'e'): 1}",ta,Bordères,{},"{'é': 1, 'n': 1}",{},énta,Castelnau-Tursan,{},{},{}
+enta,Saint-Julien-d'Armagnac,ta,Téthieu,{},"{'e': 1, 'n': 1}",{},énta,Rimbez-et-Baudiets,{},{},"{('e', 'é'): 1}",ta,Sainte-Meille,{},"{'e': 1, 'n': 1}",{}
+ta,Sainte-Meille,ta,Geüs-d'Oloron,{},{},{},ta,Baudignan,{},{},{},enta,Saint-Julien-d'Armagnac,"{'e': 1, 'n': 1}",{},{}
+ta,Arboucave,ta,Lauret,{},{},{},enta,Bats,"{'e': 1, 'n': 1}",{},{},ta,Lacajunte,{},{},{}
+enta,Bats,ta,Arboucave,{},"{'e': 1, 'n': 1}",{},énta,Géronce,{},{},"{('e', 'é'): 1}",énta,Castelnau-Tursan,{},{},"{('e', 'é'): 1}"
+énta,Castelnau-Tursan,énta,Rimbez-et-Baudiets,{},{},{},enta,Bats,{},{},"{('é', 'e'): 1}",,,,,
+énta,Geaune-bis,enta,Geaune,{},{},"{('é', 'e'): 1}",énta,Escou,{},{},{},,,,,
+enta,Geaune,énta,Geaune-bis,{},{},"{('e', 'é'): 1}",ta,Lacajunte,{},"{'e': 1, 'n': 1}",{},,,,,
+ta,Lacajunte,énta,Escout,"{'é': 1, 'n': 1}",{},{},ta,Arboucave,{},{},{},enta,Geaune,"{'e': 1, 'n': 1}",{},{}
+ta,Lauret,énta,Asasp-Arros-bis,"{'é': 1, 'n': 1}",{},{},ta,Arboucave,{},{},{},enta,Mauries,"{'e': 1, 'n': 1}",{},{}
+enta,Mauries,én,Eysus,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",enta,Miramont-Sensacq,{},{},{},ta,Lauret,{},"{'e': 1, 'n': 1}",{}
+enta,Miramont-Sensacq,enta,Mauries,{},{},{},enta,Goès,{},{},{},ta,Asasp-Arros,{},"{'e': 1, 'n': 1}",{}
+enta,Philondenx,én,Saint-Médard,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",énta,Bassussarry,{},{},"{('e', 'é'): 1}",,,,,
+éntà,Pimbo,énta,Bergouey,{},{},"{('à', 'a'): 1}",ta,Oeyregave,{},"{'é': 1, 'n': 1}","{('à', 'a'): 1}",,,,,
+énta,Puyol-Cazalet,ènde,Casseuil,{},{},"{('é', 'è'): 1, ('t', 'd'): 1, ('a', 'e'): 1}",én,Saint-Pierre-d'Irube,{},"{'t': 1, 'a': 1}",{},,,,,
+ta,Samadet,enta,Gaillan-en-Médoc,"{'e': 1, 'n': 1}",{},{},énta,Sorbets,"{'é': 1, 'n': 1}",{},{},énta,Estialescq,"{'é': 1, 'n': 1}",{},{}
+énta,Sorbets,ta,Samadet,{},"{'é': 1, 'n': 1}",{},énté,Civrac,{},{},"{('a', 'é'): 1}",énda,Artassenx,{},{},"{('t', 'd'): 1}"
+ta,Urgons,énda,Artassenx,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1}",énta,Ordonnac,"{'é': 1, 'n': 1}",{},{},énta,Lasseube,"{'é': 1, 'n': 1}",{},{}
+énda,Artassenx,eunnta,Saint-Germain-d'Esteuil,"{'e': 1, 'n': 1}",{},"{('é', 'u'): 1, ('d', 't'): 1}",ta,Urgons,{},"{'n': 1, 'd': 1}","{('é', 't'): 1}",énta,Sorbets,{},{},"{('d', 't'): 1}"
+ta,Bascons,énta,Moulon,"{'é': 1, 'n': 1}",{},{},én,Caubios-Loos,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}",én,Lahourcade,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}"
+ta,Benquet,énta,Ogeu-les-Bains,"{'é': 1, 'n': 1}",{},{},enta,Lasseubetat,"{'e': 1, 'n': 1}",{},{},,,,,
+ta,Bordères,énta,Rimbez-et-Baudiets,"{'é': 1, 'n': 1}",{},{},én,Lucq-de-Béarn,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}",énta,Notre-Dame,"{'é': 1, 'n': 1}",{},{}
+ta,Castandet,ta,Cazères-sur-l'Adour,{},{},{},enta,Cours-les-Bains,"{'e': 1, 'n': 1}",{},{},ta,Grenade-sur-l'Adour,{},{},{}
+ta,Cazères-sur-l'Adour,enta,Naujan-et-Postiac,"{'e': 1, 'n': 1}",{},{},ta,Castandet,{},{},{},ta,Grenade-sur-l'Adour-bis,{},{},{}
+ta,Grenade-sur-l'Adour-bis,ta,Morganx,{},{},{},ta,Cazères-sur-l'Adour,{},{},{},,,,,
+ta,Grenade-sur-l'Adour,ta,Castandet,{},{},{},énta,Baliracq-Maumusson,"{'é': 1, 'n': 1}",{},{},ta,Urt,{},{},{}
+énta,Le Vignau,éntà,Lussagnet,{},{},"{('a', 'à'): 1}",énta,Arrosès,{},{},{},,,,,
+éntà,Lussagnet,enta,Latrille,{},{},"{('é', 'e'): 1, ('à', 'a'): 1}",énta,Le Vignau,{},{},"{('à', 'a'): 1}",énta,Maurrin,{},{},"{('à', 'a'): 1}"
+énta,Maurrin,én,Portet,{},"{'t': 1, 'a': 1}",{},éntà,Lussagnet,{},{},"{('a', 'à'): 1}",,,,,
+ta,Aubagnan,énta,Cazalis,"{'é': 1, 'n': 1}",{},{},én,Notre-Dame-bis,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}",enta,Castelner,"{'e': 1, 'n': 1}",{},{}
+enta,Castelner,éntaÿ,Lespielle,{'ÿ': 1},{},"{('e', 'é'): 1}",énta,Cadillon,{},{},"{('e', 'é'): 1}",ta,Aubagnan,{},"{'e': 1, 'n': 1}",{}
+énta,Cazalis,ta,Aubagnan,{},"{'é': 1, 'n': 1}",{},énta,Lalongue,{},{},{},,,,,
+énta,Hagetmau-bis,ta,Labastide-Chalosse,{},"{'é': 1, 'n': 1}",{},én,Aussevielle,{},"{'t': 1, 'a': 1}",{},en,Séméacq-Blachon,{},"{'t': 1, 'a': 1}","{('é', 'e'): 1}"
+énta,Hagetmau,énta,Horsarrieu,{},{},{},enta,Peyre,{},{},"{('é', 'e'): 1}",,,,,
+énta,Horsarrieu,énta,Bougarber,{},{},{},énta,Moulon,{},{},{},énta,Hagetmau,{},{},{}
+ta,Labastide-Chalosse,énta,Momuy,"{'é': 1, 'n': 1}",{},{},énta,Hagetmau-bis,"{'é': 1, 'n': 1}",{},{},,,,,
+enta,Lacrabe,énta,Monségur,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+énta,Mant,en,Artiguelouve,{},"{'t': 1, 'a': 1}","{('é', 'e'): 1}",énta,Momuy,{},{},{},ta,Morganx,{},"{'é': 1, 'n': 1}",{}
+énta,Momuy,énta,Mant,{},{},{},ta,Labastide-Chalosse,{},"{'é': 1, 'n': 1}",{},énta,Monségur,{},{},{}
+énta,Monségur,enta,Lacrabe,{},{},"{('é', 'e'): 1}",enta,Peyre,{},{},"{('é', 'e'): 1}",énta,Momuy,{},{},{}
+ta,Morganx,enta,Peyre,"{'e': 1, 'n': 1}",{},{},ta,Grenade-sur-l'Adour-bis,{},{},{},énta,Mant,"{'é': 1, 'n': 1}",{},{}
+enta,Peyre,énta,Hagetmau,{},{},"{('e', 'é'): 1}",ta,Morganx,{},"{'e': 1, 'n': 1}",{},énta,Monségur,{},{},"{('e', 'é'): 1}"
+enta,Poudenx,énta,Nérigean,{},{},"{('e', 'é'): 1}",ta,Saint-Cricq-Chalosse,{},"{'e': 1, 'n': 1}",{},,,,,
+ta,Saint-Cricq-Chalosse,enta,Poudenx,"{'e': 1, 'n': 1}",{},{},énta,Nérigean,"{'é': 1, 'n': 1}",{},{},enta,Sainte-Colombe,"{'e': 1, 'n': 1}",{},{}
+enta,Sainte-Colombe,ta,Saint-Cricq-Chalosse,{},"{'e': 1, 'n': 1}",{},en̂ta,Queyrac,{'̂': 1},{},{},,,,,
+enta,Serres-Gaston,énta,Ordonnac,{},{},"{('e', 'é'): 1}",enta,Serreslous-et-Arribans,{},{},{},énta,Mézos,{},{},"{('e', 'é'): 1}"
+enta,Serreslous-et-Arribans,enta,Serres-Gaston,{},{},{},eunnta,Saint-Germain-d'Esteuil,"{'u': 1, 'n': 1}",{},{},entay,Bélis,{'y': 1},{},{}
+entay,Bélis,enta,Momas,{},{'y': 1},{},énta,Aureilhan,{},{'y': 1},"{('e', 'é'): 1}",enta,Serreslous-et-Arribans,{},{'y': 1},{}
+énda,Brocas,énté,Civrac,{},{},"{('d', 't'): 1, ('a', 'é'): 1}",enta,Garein,{},{},"{('é', 'e'): 1, ('d', 't'): 1}",énda,Canenx-et-Réaut,{},{},{}
+énda,Canenx-et-Réaut,eunnta,Saint-Germain-d'Esteuil,"{'e': 1, 'n': 1}",{},"{('é', 'u'): 1, ('d', 't'): 1}",énda,Brocas,{},{},{},éndaï,Cère,{'ï': 1},{},{}
+éndaï,Cère,enta,Labrit,{},{'ï': 1},"{('é', 'e'): 1, ('d', 't'): 1}",eunta,Saint-Seurin-de-Cadourne,{'e': 1},{'ï': 1},"{('é', 'u'): 1, ('d', 't'): 1}",énda,Canenx-et-Réaut,{},{'ï': 1},{}
+enta,Garein,én,Coslédaà-Lube-Boast,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",enta,Labrit,{},{},{},énda,Brocas,{},{},"{('e', 'é'): 1, ('t', 'd'): 1}"
+enta,Labrit,enta,Garein,{},{},{},énta,Lesparre-Médoc,{},{},"{('e', 'é'): 1}",éndaï,Cère,{'ï': 1},{},"{('e', 'é'): 1, ('t', 'd'): 1}"
+enta,Maillères,enta,Latrille,{},{},{},,,,,,,,,,
+ta,Vert,énta,Sauvagnon,"{'é': 1, 'n': 1}",{},{},,,,,,,,,,
+énta,Aureilhan,entay,Bélis,{'y': 1},{},"{('é', 'e'): 1}",énta,Mézos,{},{},{},,,,,
+énta,Mézos,enta,Serres-Gaston,{},{},"{('é', 'e'): 1}",énta,Aureilhan,{},{},{},,,,,
+enta,Mimizan-bis,ta,Mazerolles,{},"{'e': 1, 'n': 1}",{},ta,Pontenx-les-Forges,{},"{'e': 1, 'n': 1}",{},ta,Mimizan,{},"{'e': 1, 'n': 1}",{}
+ta,Mimizan,éndé,Beautiran,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}",enta,Mimizan-bis,"{'e': 1, 'n': 1}",{},{},,,,,
+ta,Pontenx-les-Forges,enta,Mimizan-bis,"{'e': 1, 'n': 1}",{},{},ta,Saint-Paul-en-Born,{},{},{},,,,,
+ta,Saint-Paul-en-Born,ta,Pontenx-les-Forges,{},{},{},enta,Uzein,"{'e': 1, 'n': 1}",{},{},,,,,
+ta,Bostens,,,,,,,,,,,,,,,
+ta,Bretagne-de-Marsan,énta,Sedze-Maubecq,"{'é': 1, 'n': 1}",{},{},én,Préchacq-les-Bains,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}",ta,Campagne,{},{},{}
+ta,Campagne,ta,Bretagne-de-Marsan,{},{},{},éndé,Latresne,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}",énnta,Campet,"{'é': 1, 'n': 2}",{},{}
+énnta,Campet,énta,Gaujacq,{},{'n': 1},{},ta,Gaillères,{},"{'é': 1, 'n': 2}",{},ta,Campagne,{},"{'é': 1, 'n': 2}",{}
+ta,Gaillères,énnta,Campet,"{'é': 1, 'n': 2}",{},{},ta,Haut-Mauco,{},{},{},enta,Abère,"{'e': 1, 'n': 1}",{},{}
+ta,Geloux,énta,Haux,"{'é': 1, 'n': 1}",{},{},en,Ponson-Debat-Pouts,{},{},"{('t', 'e'): 1, ('a', 'n'): 1}",,,,,
+ta,Haut-Mauco,ta,Gaillères,{},{},{},ta,Laglorieuse,{},{},{},enta,Montaner,"{'e': 1, 'n': 1}",{},{}
+ta,Laglorieuse,ta,Haut-Mauco,{},{},{},énta,Gaujacq,"{'é': 1, 'n': 1}",{},{},,,,,
+ta,Lucbardez-et-Bargues,énte,Montaner-bis,"{'é': 1, 'n': 1}",{},"{('a', 'e'): 1}",enta,Pontiacq-Viellepinte,"{'e': 1, 'n': 1}",{},{},,,,,
+ta,Mazerolles,enta,Mimizan-bis,"{'e': 1, 'n': 1}",{},{},énta,Montfort-en-Chalosse-bis,"{'é': 1, 'n': 1}",{},{},,,,,
+ta,Mont-de-Marsan-bis,ta,Montfort-en-Chalosse,{},{},{},enta,Saint-Yzans-de-Médoc,"{'e': 1, 'n': 1}",{},{},,,,,
+ta,Mont-de-Marsan,ta,Saint-Avit,{},{},{},énta,Goos,"{'é': 1, 'n': 1}",{},{},ta,Saint-Pierre-du-Mont,{},{},{}
+ta,Saint-Avit,enta,Valeyrac,"{'e': 1, 'n': 1}",{},{},ta,Mont-de-Marsan,{},{},{},ta,Saint-Martin-d'Oney,{},{},{}
+ta,Saint-Martin-d'Oney,ta,Saint-Perdon,{},{},{},éndé,Beautiran,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}",ta,Saint-Avit,{},{},{}
+ta,Saint-Perdon,én,Escoubès,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}",ta,Saint-Martin-d'Oney,{},{},{},ta,Saint-Pierre-du-Mont,{},{},{}
+ta,Saint-Pierre-du-Mont,ta,Mont-de-Marsan,{},{},{},éndé,Cadaujac,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}",ta,Saint-Perdon,{},{},{}
+ta,Uchacq,tayy,Clermont,{'y': 2},{},{},énda,Origne,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1}",énta,Bernadets,"{'é': 1, 'n': 1}",{},{}
+ta,Cassen,enta,Barinque,"{'e': 1, 'n': 1}",{},{},éndé,Cadaujac,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}",éndaï,Garrey,"{'é': 1, 'n': 1, 'ï': 1}",{},"{('t', 'd'): 1}"
+tayy,Clermont,énta,Saint-Léger-de-Balson,"{'é': 1, 'n': 1}",{'y': 2},{},ta,Uchacq,{},{'y': 2},{},ta,Gamarde-les-Bains,{},{'y': 2},{}
+ta,Gamarde-les-Bains,énta,Buanes,"{'é': 1, 'n': 1}",{},{},tayy,Clermont,{'y': 2},{},{},éndaï,Garrey,"{'é': 1, 'n': 1, 'ï': 1}",{},"{('t', 'd'): 1}"
+éndaï,Garrey,éndé,Castres-Gironde,{},{'ï': 1},"{('a', 'é'): 1}",ta,Gamarde-les-Bains,{},"{'n': 1, 'd': 1, 'ï': 1}","{('é', 't'): 1}",ta,Cassen,{},"{'n': 1, 'd': 1, 'ï': 1}","{('é', 't'): 1}"
+énta,Goos,ta,Mont-de-Marsan,{},"{'é': 1, 'n': 1}",{},ta,Hinx,{},"{'é': 1, 'n': 1}",{},ta,Gousse,{},"{'é': 1, 'n': 1}",{}
+ta,Gousse,éndé,Cadaujac,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}",énta,Goos,"{'é': 1, 'n': 1}",{},{},énta,Louer,"{'é': 1, 'n': 1}",{},{}
+ta,Hinx,énta,Goos,"{'é': 1, 'n': 1}",{},{},en̂ta,Queyrac,"{'e': 1, 'n': 1, '̂': 1}",{},{},énta,Laurède,"{'é': 1, 'n': 1}",{},{}
+énta,Laurède,enta,Saint-Germain-du-Puch,{},{},"{('é', 'e'): 1}",énta,Louer,{},{},{},ta,Hinx,{},"{'é': 1, 'n': 1}",{}
+énta,Louer,énta,Laurède,{},{},{},enté,Cabanac-et-Villagrains,{},{},"{('é', 'e'): 1, ('a', 'é'): 1}",ta,Gousse,{},"{'é': 1, 'n': 1}",{}
+ta,Lourquen,énda,Jau-Dignac-et-Loirac,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1}",én,Morlaàs,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}",én,Morlaàs-bis,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}"
+énta,Montfort-en-Chalosse-bis,ta,Mazerolles,{},"{'é': 1, 'n': 1}",{},énta,Buros,{},{},{},ta,Montfort-en-Chalosse,{},"{'é': 1, 'n': 1}",{}
+ta,Montfort-en-Chalosse,énta,Espéchède,"{'é': 1, 'n': 1}",{},{},ta,Mont-de-Marsan-bis,{},{},{},énta,Montfort-en-Chalosse-bis,"{'é': 1, 'n': 1}",{},{}
+énta,Nousse,énta,Isle-Saint-Georges,{},{},{},énta,Onard,{},{},{},,,,,
+énta,Onard,éndé,La Brède-bis,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}",én,Lombia,{},"{'t': 1, 'a': 1}",{},énta,Nousse,{},{},{}
+ta,Ozourt,énta,Isle-Saint-Georges,"{'é': 1, 'n': 1}",{},{},énta,Gabaston,"{'é': 1, 'n': 1}",{},{},énta,Poyanne,"{'é': 1, 'n': 1}",{},{}
+énta,Poyanne,éndé,La Brède-bis,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}",ta,Ozourt,{},"{'é': 1, 'n': 1}",{},,,,,
+énta,Poyartin,ta,Saint-Geours-d'Auribat,{},"{'é': 1, 'n': 1}",{},,,,,,,,,,
+én,Préchacq-les-Bains,ta,Bretagne-de-Marsan,{},{},"{('é', 't'): 1, ('n', 'a'): 1}",,,,,,,,,,
+ta,Saint-Geours-d'Auribat,énta,Poyartin,"{'é': 1, 'n': 1}",{},{},,,,,,,,,,
+en,Saint-Jean-de-Lier,énta,Ouillon,"{'t': 1, 'a': 1}",{},"{('e', 'é'): 1}",én,Saint-Armou,{},{},"{('e', 'é'): 1}",,,,,
+ta,Sort-en-Chalosse,énta,Vicq-d'Auribat,"{'é': 1, 'n': 1}",{},{},,,,,,,,,,
+énta,Vicq-d'Auribat,ta,Saubole,{},"{'é': 1, 'n': 1}",{},ta,Sort-en-Chalosse,{},"{'é': 1, 'n': 1}",{},,,,,
+enta,Arengosse,ta,Arjuzanx,{},"{'e': 1, 'n': 1}",{},ta,Saint-Quentin-de-Baron,{},"{'e': 1, 'n': 1}",{},énta,Angaïs,{},{},"{('e', 'é'): 1}"
+ta,Arjuzanx,énda,Garrosse,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1}",ta,Tizac-de-Curton,{},{},{},enta,Arengosse,"{'e': 1, 'n': 1}",{},{}
+énda,Garrosse,ta,Morcenx-bourg,{},"{'n': 1, 'd': 1}","{('é', 't'): 1}",ta,Arjuzanx,{},"{'n': 1, 'd': 1}","{('é', 't'): 1}",,,,,
+énta,Lesperon,ta,Morcenx,{},"{'é': 1, 'n': 1}",{},ta,Morcenx-bourg,{},"{'é': 1, 'n': 1}",{},énta,Nay-bis,{},{},{}
+ta,Morcenx-bourg,énta,Lesperon,"{'é': 1, 'n': 1}",{},{},énda,Garrosse,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1}",,,,,
+ta,Morcenx-gare,én,Montaut,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}",,,,,,,,,,
+ta,Morcenx,énta,Lesperon,"{'é': 1, 'n': 1}",{},{},,,,,,,,,,
+ta,Onesse-Laharie,ta,Sindères,{},{},{},éndé,Camiran-bis,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}",enta,Asson,"{'e': 1, 'n': 1}",{},{}
+ta,Ousse-Suzan,énté,La Brède,"{'é': 1, 'n': 1}",{},"{('a', 'é'): 1}",ta,Sindères,{},{},{},,,,,
+ta,Sindères,ta,Ousse-Suzan,{},{},{},ta,Capian,{},{},{},ta,Onesse-Laharie,{},{},{}
+ta,Ygos-Saint-Saturnin,éndé,Camiran-bis,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}",ta,Baigts,{},{},{},,,,,
+ta,Baigts,ta,Ygos-Saint-Saturnin,{},{},{},éndé,Camiran,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}",énta,Rébénacq,"{'é': 1, 'n': 1}",{},{}
+ta,Bergouey,éntay,Sainte-Colome,"{'é': 1, 'n': 1, 'y': 1}",{},{},énto,Baliros,"{'é': 1, 'n': 1}",{},"{('a', 'o'): 1}",,,,,
+ta,Caupenne,ta,Saint-Aubin,{},{},{},ta,Hauriet,{},{},{},en,Gelos,{},{},"{('t', 'e'): 1, ('a', 'n'): 1}"
+ta,Doazit,endé,Fontet,"{'e': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}",énta,Toulouzette,"{'é': 1, 'n': 1}",{},{},énta,Pau-Ouest-bis,"{'é': 1, 'n': 1}",{},{}
+ta,Hauriet,ta,Caupenne,{},{},{},ta,Lahosse,{},{},{},énte,Jurançon,"{'é': 1, 'n': 1}",{},"{('a', 'e'): 1}"
+ta,Lahosse,tay,Larbey,{'y': 1},{},{},ta,Hauriet,{},{},{},,,,,
+tay,Larbey,ta,Lahosse,{},{'y': 1},{},ta,Bourdettes,{},{'y': 1},{},ta,Maylis,{},{'y': 1},{}
+ta,Maylis,ta,Haut-de-Bosdarros,{},{},{},tay,Larbey,{'y': 1},{},{},,,,,
+ta,Mugron-bis,ta,Nerbis,{},{},{},énta,Came,"{'é': 1, 'n': 1}",{},{},én,Saint-Faust,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}"
+enta,Mugron,ta,Narcastet,{},"{'e': 1, 'n': 1}",{},tá,Buzy,{},"{'e': 1, 'n': 1}","{('a', 'á'): 1}",ta,Nerbis,{},"{'e': 1, 'n': 1}",{}
+ta,Nerbis,énta,Mauvezin-d'Armagnac,"{'é': 1, 'n': 1}",{},{},ta,Mugron-bis,{},{},{},enta,Mugron,"{'e': 1, 'n': 1}",{},{}
+ta,Saint-Aubin,ta,Caupenne,{},{},{},énta,Toulouzette,"{'é': 1, 'n': 1}",{},{},,,,,
+énta,Toulouzette,ta,Doazit,{},"{'é': 1, 'n': 1}",{},ta,Biscarosse-bis,{},"{'é': 1, 'n': 1}",{},ta,Saint-Aubin,{},"{'é': 1, 'n': 1}",{}
+ta,Biscarosse-bis,endé,Fontet,"{'e': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}",énta,Toulouzette,"{'é': 1, 'n': 1}",{},{},,,,,
+ta,Biscarosse,énta,Doumy,"{'é': 1, 'n': 1}",{},{},énta,Gastes,"{'é': 1, 'n': 1}",{},{},,,,,
+énta,Gastes,én ta,Pontacq,{' ': 1},{},{},ta,Biscarosse,{},"{'é': 1, 'n': 1}",{},,,,,
+tà,Parentis-en-Born,enta,Misson,"{'e': 1, 'n': 1}",{},"{('à', 'a'): 1}",énta,Sainte-Eulalie-en-Born,"{'é': 1, 'n': 1}",{},"{('à', 'a'): 1}",,,,,
+énta,Sainte-Eulalie-en-Born,tà,Parentis-en-Born,{},"{'é': 1, 'n': 1}","{('a', 'à'): 1}",ta,Bélus,{},"{'é': 1, 'n': 1}",{},,,,,
+ta,Sanguinet,enta,Ychoux,"{'e': 1, 'n': 1}",{},{},én̈,Nay,{'é': 1},{},"{('t', 'n'): 1, ('a', '̈'): 1}",,,,,
+enta,Ychoux,éndé,Blanquefort,{},{},"{('e', 'é'): 1, ('t', 'd'): 1, ('a', 'é'): 1}",ta,Sanguinet,{},"{'e': 1, 'n': 1}",{},ta,Bélus,{},"{'e': 1, 'n': 1}",{}
+ta,Bélus,énta,Sainte-Eulalie-en-Born,"{'é': 1, 'n': 1}",{},{},enta,Ychoux,"{'e': 1, 'n': 1}",{},{},,,,,
+enta,Cauneille,ta,Peyrehorade,{},"{'e': 1, 'n': 1}",{},,,,,,,,,,
+ta,Hastingues,én te ,Navailles-Angos,"{'é': 1, 'n': 1, ' ': 1, 'e': 1}",{},"{('a', ' '): 1}",ta,Port-de-Lanne,{},{},{},,,,,
+ta,Oeyregave,éntà,Pimbo,"{'é': 1, 'n': 1}",{},"{('a', 'à'): 1}",ta,Orthevielle,{},{},{},,,,,
+ta,Orist,énta,Saint-Étienne-d'Orthe,"{'é': 1, 'n': 1}",{},{},ta,Orthevielle,{},{},{},ta,Peyrehorade-bis,{},{},{}
+ta,Orthevielle,ta,Orist,{},{},{},ta,Oeyregave,{},{},{},ta,Pey,{},{},{}
+ta,Pey,ta,Port-de-Lanne,{},{},{},ta,Orthevielle,{},{},{},,,,,
+ta,Peyrehorade-bis,ta,Peyrehorade,{},{},{},ta,Gomer,{},{},{},ta,Orist,{},{},{}
+ta,Peyrehorade,enta,Cauneille,"{'e': 1, 'n': 1}",{},{},ta,Peyrehorade-bis,{},{},{},ta,Port-de-Lanne,{},{},{}
+ta,Port-de-Lanne,ta,Pey,{},{},{},ta,Hastingues,{},{},{},ta,Peyrehorade,{},{},{}
+ta,Saint-Cricq-du-Gave,énta,Bidache-bis,"{'é': 1, 'n': 1}",{},{},énta,Saint-Étienne-d'Orthe,"{'é': 1, 'n': 1}",{},{},,,,,
+énta,Saint-Étienne-d'Orthe,ta,Saint-Cricq-du-Gave,{},"{'é': 1, 'n': 1}",{},ta,Orist,{},"{'é': 1, 'n': 1}",{},énta,Hours,{},{},{}
+ta,Saint-Lon-les-Mines,énté,Branne-bis,"{'é': 1, 'n': 1}",{},"{('a', 'é'): 1}",ta,Sorde-l'Abbaye,{},{},{},,,,,
+ta,Sorde-l'Abbaye,ta,Saint-Lon-les-Mines,{},{},{},éndé,Gironde-sur-Dropt-bis,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}",ta,Belhade,{},{},{}
+ta,Belhade,ta,Sorde-l'Abbaye,{},{},{},,,,,,,,,,
+enta,Biganon,énta,Viven,{},{},"{('e', 'é'): 1}",énta,Liposthey,{},{},"{('e', 'é'): 1}",,,,,
+énta,Liposthey,énta,Mano,{},{},{},ta,Pissos,{},"{'é': 1, 'n': 1}",{},enta,Biganon,{},{},"{('é', 'e'): 1}"
+énta,Mano,éndé,Antagnac,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}",énta,Liposthey,{},{},{},ta,Moustey,{},"{'é': 1, 'n': 1}",{}
+ta,Moustey,eindé,Gironde-sur-Dropt,"{'e': 1, 'i': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}",énta,Mano,"{'é': 1, 'n': 1}",{},{},,,,,
+ta,Pissos-bis,ta,Pissos,{},{},{},én,Saint-Gein,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}",,,,,
+ta,Pissos,énta,Liposthey,"{'é': 1, 'n': 1}",{},{},ta,Pissos-bis,{},{},{},ta,Richet,{},{},{}
+ta,Richet,enta,Thèze-bis,"{'e': 1, 'n': 1}",{},{},ta,Saugnacq-et-Muret-bis,{},{},{},ta,Pissos,{},{},{}
+ta,Saugnacq-et-Muret-bis,ta,Richet,{},{},{},énta,Saugnacq-et-Muret,"{'é': 1, 'n': 1}",{},{},ta,Thèze,{},{},{}
+énta,Saugnacq-et-Muret,ta,Saugnacq-et-Muret-bis,{},"{'é': 1, 'n': 1}",{},éndé,La Réole-bis,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}",ta,Cagnotte,{},"{'é': 1, 'n': 1}",{}
+ta,Cagnotte,éndé,Hure,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}",ta,Arnos,{},{},{},énta,Saugnacq-et-Muret,"{'é': 1, 'n': 1}",{},{}
+ta,Estibeaux,ta,Gaas,{},{},{},éndé,Hure,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}",ta,Mimbaste,{},{},{}
+ta,Gaas,éndé,Gironde-sur-Dropt-bis,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}",ta,Estibeaux,{},{},{},ta,Habas,{},{},{}
+ta,Habas,ta,Labatut,{},{},{},ta,Gaas,{},{},{},,,,,
+ta,Labatut,ta,Habas,{},{},{},ta,Mimbaste,{},{},{},,,,,
+ta,Mimbaste,éndé,La Réole-bis,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}",ta,Labatut,{},{},{},ta,Estibeaux,{},{},{}
+enta,Misson,tà,Parentis-en-Born,{},"{'e': 1, 'n': 1}","{('a', 'à'): 1}",ta,Mouscardès,{},"{'e': 1, 'n': 1}",{},,,,,
+ta,Mouscardès,endé,La Réole,"{'e': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}",enta,Misson,"{'e': 1, 'n': 1}",{},{},ta,Ossages,{},{},{}
+ta,Ossages,ta,Pouillon,{},{},{},ta,Mouscardès,{},{},{},,,,,
+ta,Pouillon,énta,Serres-Sainte-Marie,"{'é': 1, 'n': 1}",{},{},ta,Ossages,{},{},{},ta,Arzacq,{},{},{}
+ta,Tilh,éndé,Lamothe-Landerron,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}",énta,Labastide-Cézéracq,"{'é': 1, 'n': 1}",{},{},,,,,
+ta,Arouille,éndé,Morizès,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}",ta,Luglon,{},{},{},ta,Arue,{},{},{}
+ta,Arue,ta,Sabres,{},{},{},éndé,Mongauzy,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}",ta,Arouille,{},{},{}
+ta,Cachen,enta,Lencouacq,"{'e': 1, 'n': 1}",{},{},ta,Lue-bis,{},{},{},ta,Commensacq-bis,{},{},{}
+énta,Labastide-d'Armagnac,ta,Maillas,{},"{'é': 1, 'n': 1}",{},ta,Commensacq,{},"{'é': 1, 'n': 1}",{},,,,,
+enta,Lencouacq,ta,Lugaut,{},"{'e': 1, 'n': 1}",{},ta,Cachen,{},"{'e': 1, 'n': 1}",{},ta,Maillas,{},"{'e': 1, 'n': 1}",{}
+ta,Lugaut,éndé,Noaillac,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}",enta,Lencouacq,"{'e': 1, 'n': 1}",{},{},énta,Coublucq,"{'é': 1, 'n': 1}",{},{}
+ta,Maillas,énta,Labastide-d'Armagnac,"{'é': 1, 'n': 1}",{},{},ta,Garos,{},{},{},enta,Lencouacq,"{'e': 1, 'n': 1}",{},{}
+ta,Pouydesseaux,ta,Saint-Justin,{},{},{},énta,Saint-Gor,"{'é': 1, 'n': 1}",{},{},,,,,
+ta,Roquefort,éndé,Pompéjac,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}",ta,Sarbazan,{},{},{},énta,Saint-Gor,"{'é': 1, 'n': 1}",{},{}
+énta,Saint-Gor,ta,Pouydesseaux,{},"{'é': 1, 'n': 1}",{},enta,Mialos,{},{},"{('é', 'e'): 1}",ta,Roquefort,{},"{'é': 1, 'n': 1}",{}
+ta,Saint-Justin,enta,Escource-bis,"{'e': 1, 'n': 1}",{},{},ta,Pouydesseaux,{},{},{},ta,Lonçon,{},{},{}
+ta,Sarbazan,ta,Roquefort,{},{},{},,,,,,,,,,
+ta,Vielle-Soubiran,ta,Labouheyre,{},{},{},ta,Géus-d'Arzacq,{},{},{},ta,Commensacq-bis,{},{},{}
+ta,Commensacq-bis,ta,Commensacq,{},{},{},ta,Cachen,{},{},{},ta,Vielle-Soubiran,{},{},{}
+ta,Commensacq,énta,Labastide-d'Armagnac,"{'é': 1, 'n': 1}",{},{},ta,Commensacq-bis,{},{},{},én ta,Louvigny,"{'é': 1, 'n': 1, ' ': 1}",{},{}
+enta,Escource-bis,én ta,Montagut,{' ': 1},{},"{('e', 'é'): 1}",ta,Saint-Justin,{},"{'e': 1, 'n': 1}",{},ta,Escource,{},"{'e': 1, 'n': 1}",{}
+ta,Escource,ta,Larreule,{},{},{},ta,Labouheyre,{},{},{},enta,Escource-bis,"{'e': 1, 'n': 1}",{},{}
+ta,Labouheyre,ta,Escource,{},{},{},ta,Vielle-Soubiran,{},{},{},ta,Lue-bis,{},{},{}
+ta,Lue-bis,ta,Cachen,{},{},{},enta,Poursiugues-Boucoue,"{'e': 1, 'n': 1}",{},{},ta,Labouheyre,{},{},{}
+tay,Lue,éndé,Cazaux,{'é': 1},{},"{('t', 'n'): 1, ('a', 'd'): 1, ('y', 'é'): 1}",ento,Sainte-Suzanne,"{'e': 1, 'n': 1}",{'y': 1},"{('a', 'o'): 1}",,,,,
+ta,Luglon,ta,Arouille,{},{},{},endé,Solférino,"{'e': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}",ta,Sabres,{},{},{}
+ta,Sabres-bis,endé,Trensacq,"{'e': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}",,,,,,,,,,
+ta,Sabres,ta,Arue,{},{},{},ta,Luglon,{},{},{},,,,,
+endé,Solférino,ta,Luglon,{},"{'d': 1, 'é': 1}","{('e', 't'): 1, ('n', 'a'): 1}",éndé,Lestiac-sur-Garonne,{},{},"{('e', 'é'): 1}",endé,Trensacq,{},{},{}
+endé,Trensacq,endé,Solférino,{},{},{},én to,Lanneplaà,{' ': 1},{},"{('e', 'é'): 1, ('d', 't'): 1, ('é', 'o'): 1}",ta,Sabres-bis,{},"{'d': 1, 'é': 1}","{('e', 't'): 1, ('n', 'a'): 1}"
+en,Barthes,ende,Biaudos,"{'d': 1, 'e': 1}",{},{},en,Tarnos,{},{},{},én,Biarrotte,{},{},"{('e', 'é'): 1}"
+én,Biarrotte,en,Barthes,{},{},"{('é', 'e'): 1}",én ta,Sault-de-Navailles,"{' ': 1, 't': 1, 'a': 1}",{},{},,,,,
+ende,Biaudos,énta,Loupiac,{},{},"{('e', 'é'): 1, ('d', 't'): 1, ('e', 'a'): 1}",en,Barthes,{},"{'d': 1, 'e': 1}",{},,,,,
+en,Ondres,ta,Malaussanne,{},{},"{('e', 't'): 1, ('n', 'a'): 1}",én ta,Arance,"{' ': 1, 't': 1, 'a': 1}",{},"{('e', 'é'): 1}",,,,,
+én,Saint-André-de-Seignanx,ta,Mazerolles,{},{},"{('é', 't'): 1, ('n', 'a'): 1}",,,,,,,,,,
+en,Saint-Barthélemy,én,Saint-Laurent-de-Gosse,{},{},"{('e', 'é'): 1}",énta,Biron,"{'t': 1, 'a': 1}",{},"{('e', 'é'): 1}",,,,,
+én,Saint-Laurent-de-Gosse,en,Saint-Barthélemy,{},{},"{('é', 'e'): 1}",èndé,La Teste-de-Buch-ter,"{'d': 1, 'é': 1}",{},"{('é', 'è'): 1}",én,Saint-Martin-de-Seignanx-bis,{},{},{}
+én,Saint-Martin-de-Seignanx-bis,énta,Lagor,"{'t': 1, 'a': 1}",{},{},én ta,Bésingrand,"{' ': 1, 't': 1, 'a': 1}",{},{},én,Saint-Laurent-de-Gosse,{},{},{}
+én,Saint-Martin-de-Seignanx,en ta,Orthez,"{' ': 1, 't': 1, 'a': 1}",{},"{('é', 'e'): 1}",énta,Laà-Mondrans,"{'t': 1, 'a': 1}",{},{},,,,,
+en,Tarnos,en,Barthes,{},{},{},éntah,Lacq,"{'t': 1, 'a': 1, 'h': 1}",{},"{('e', 'é'): 1}",,,,,
+endé,Audignon,ento,Orthez-bis,{},{},"{('d', 't'): 1, ('é', 'o'): 1}",énta,Ramous,{},{},"{('e', 'é'): 1, ('d', 't'): 1, ('é', 'a'): 1}",,,,,
+én,Aurice,èndé,La Teste-de-Buch-ter,"{'d': 1, 'é': 1}",{},"{('é', 'è'): 1}",én,Banos,{},{},{},entas,Maslacq,"{'t': 1, 'a': 1, 's': 1}",{},"{('é', 'e'): 1}"
+én,Banos,én,Aurice,{},{},{},én,Cachon,{},{},{},,,,,
+én,Cachon,enta,Mont,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",énta,Loubieng,"{'t': 1, 'a': 1}",{},{},én,Banos,{},{},{}
+én,Cauna,,,,,,,,,,,,,,,
+éndé,Coudures,enta,Sablar,{},{},"{('é', 'e'): 1, ('d', 't'): 1, ('é', 'a'): 1}",én,Dumes,{},"{'d': 1, 'é': 1}",{},eun,Eyres-Moncube,{'e': 1},"{'d': 1, 'é': 1}","{('é', 'u'): 1}"
+én,Dumes,éndé,Coudures,"{'d': 1, 'é': 1}",{},{},enta,Ozenx,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",én ta,Noguères,"{' ': 1, 't': 1, 'a': 1}",{},{}
+eun,Eyres-Moncube,éntas,Mourenx-et-Abidos,"{'é': 1, 'n': 1}",{},"{('e', 't'): 1, ('u', 'a'): 1, ('n', 's'): 1}",éndé,Coudures,{'é': 1},{},"{('e', 'n'): 1, ('u', 'd'): 1, ('n', 'é'): 1}",,,,,
+én,Fargues,endé,Langon-bis,"{'d': 1, 'é': 1}",{},"{('é', 'e'): 1}",,,,,,,,,,
+énta,Larrivière-Saint-Savin,ta,Langon,{},"{'é': 1, 'n': 1}",{},én,Montgaillard,{},"{'t': 1, 'a': 1}",{},éndé,Montaut,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}"
+éndé,Montaut,én,Montsoué,{},"{'d': 1, 'é': 1}",{},ta,Guillos,{},"{'d': 1, 'é': 1}","{('é', 't'): 1, ('n', 'a'): 1}",énta,Larrivière-Saint-Savin,{},{},"{('d', 't'): 1, ('é', 'a'): 1}"
+én,Montgaillard,éndé,Le Pian-Médoc,"{'d': 1, 'é': 1}",{},{},én,Montsoué,{},{},{},énta,Larrivière-Saint-Savin,"{'t': 1, 'a': 1}",{},{}
+én,Montsoué,én,Montgaillard,{},{},{},énta,Escaudes,"{'t': 1, 'a': 1}",{},{},éndé,Montaut,"{'d': 1, 'é': 1}",{},{}
+enta,Saint-Maurice-sur-Adour,én̈,Sainte-Eulalie,{},{'a': 1},"{('e', 'é'): 1, ('t', '̈'): 1}",endy,Castets-en-Dorthe,{},{},"{('t', 'd'): 1, ('a', 'y'): 1}",en,Saint-Sever,{},"{'t': 1, 'a': 1}",{}
+en,Saint-Sever,enta,Saint-Maurice-sur-Adour,"{'t': 1, 'a': 1}",{},{},ta,Sauternes,{},{},"{('e', 't'): 1, ('n', 'a'): 1}",énta,Sarraziet,"{'t': 1, 'a': 1}",{},"{('e', 'é'): 1}"
+én̈,Sainte-Eulalie,énta,Pompignac,{'t': 1},{},"{('̈', 'a'): 1}",enta,Saint-Maurice-sur-Adour,{'t': 1},{},"{('é', 'e'): 1, ('̈', 'a'): 1}",énta,Sarraziet,{'t': 1},{},"{('̈', 'a'): 1}"
+énta,Sarraziet,ta,Roaillan,{},"{'é': 1, 'n': 1}",{},én̈,Sainte-Eulalie,{},{'a': 1},"{('t', '̈'): 1}",en,Saint-Sever,{},"{'t': 1, 'a': 1}","{('é', 'e'): 1}"
+én,Bénesse-Maremne,endé,Le Haillan,"{'d': 1, 'é': 1}",{},"{('é', 'e'): 1}",én,Josse,{},{},{},éndé,Capbreton,"{'d': 1, 'é': 1}",{},{}
+éndé,Capbreton,enta,Saint-Pardon-de-Conques,{},{},"{('é', 'e'): 1, ('d', 't'): 1, ('é', 'a'): 1}",én,Bénesse-Maremne,{},"{'d': 1, 'é': 1}",{},én,Labenne,{},"{'d': 1, 'é': 1}",{}
+én,Josse,én,Bénesse-Maremne,{},{},{},éndé,Le Pian-Médoc,"{'d': 1, 'é': 1}",{},{},én,Labenne,{},{},{}
+én,Labenne,én,Josse,{},{},{},entà,Saint-Pierre-de-Mons,"{'t': 1, 'à': 1}",{},"{('é', 'e'): 1}",éndé,Capbreton,"{'d': 1, 'é': 1}",{},{}
+én,Orx,éndé̱,Saint-Geours-de-Maremne,"{'d': 1, 'é': 1, '̱': 1}",{},{},ta,Izon,{},{},"{('é', 't'): 1, ('n', 'a'): 1}",énta,Saint-Jean-de-Marsacq,"{'t': 1, 'a': 1}",{},{}
+énta,Saint-Jean-de-Marsacq,ta,Monségur,{},"{'é': 1, 'n': 1}",{},énta,Saint-Martin-de-Hinx,{},{},{},én,Orx,{},"{'t': 1, 'a': 1}",{}
+énta,Saint-Martin-de-Hinx,énta,Luxey,{},{},{},énta,Saint-Vincent-de-Tyrosse,{},{},{},énta,Saint-Jean-de-Marsacq,{},{},{}
+énta,Saint-Vincent-de-Tyrosse,énta,Saint-Martin-de-Hinx,{},{},{},énta,Saint-Julien-Beychevelle,{},{},{},én,Sainte-Marie-de-Gosse,{},"{'t': 1, 'a': 1}",{}
+én,Sainte-Marie-de-Gosse,éndé,Le Leuy,"{'d': 1, 'é': 1}",{},{},endé,Seignosse,"{'d': 1, 'é': 1}",{},"{('é', 'e'): 1}",énta,Saint-Vincent-de-Tyrosse,"{'t': 1, 'a': 1}",{},{}
+én,Saubion,ta,Libourne-bis,{},{},"{('é', 't'): 1, ('n', 'a'): 1}",énta,Bastanès,"{'t': 1, 'a': 1}",{},{},énta,Saubrigues,"{'t': 1, 'a': 1}",{},{}
+énta,Saubrigues,ta,Izon,{},"{'é': 1, 'n': 1}",{},én,Saubion,{},"{'t': 1, 'a': 1}",{},énta,Argelouse,{},{},{}
+énta,Argelouse,ta,Landerrouet-sur-Ségur,{},"{'é': 1, 'n': 1}",{},énta,Saubrigues,{},{},{},,,,,
+énta,Callen,énta,Luxey,{},{},{},ta,Monségur,{},"{'é': 1, 'n': 1}",{},enta,Bugnein,{},{},"{('é', 'e'): 1}"
+éndé,Houaste,ta,Gurs,{},"{'d': 1, 'é': 1}","{('é', 't'): 1, ('n', 'a'): 1}",énta,Sauvelade,{},{},"{('d', 't'): 1, ('é', 'a'): 1}",én,Sore,{},"{'d': 1, 'é': 1}",{}
+énta,Luxey,én,Sore,{},"{'t': 1, 'a': 1}",{},énta,Saint-Martin-de-Hinx,{},{},{},énta,Callen,{},{},{}
+én,Sore,énta,Saint-Julien-Beychevelle,"{'t': 1, 'a': 1}",{},{},énta,Luxey,"{'t': 1, 'a': 1}",{},{},éndé,Houaste,"{'d': 1, 'é': 1}",{},{}
+énta,Angresse,ta,Landerrouet-sur-Ségur,{},"{'é': 1, 'n': 1}",{},énta,Jasses,{},{},{},énta,Charre,{},{},{}
+énta,Azur,en,Magescq,{},"{'t': 1, 'a': 1}","{('é', 'e'): 1}",,,,,,,,,,
+en,Magescq,énta,Azur,"{'t': 1, 'a': 1}",{},"{('e', 'é'): 1}",énta,Araujuzon,"{'t': 1, 'a': 1}",{},"{('e', 'é'): 1}",éndé̄,Messanges-bis,"{'d': 1, 'é': 1, '̄': 1}",{},"{('e', 'é'): 1}"
+éndé̄,Messanges-bis,én ta,Sarpourenx,{},{},"{('d', ' '): 1, ('é', 't'): 1, ('̄', 'a'): 1}",én,Castetnau-Camblong,{},"{'d': 1, 'é': 1, '̄': 1}",{},en,Magescq,{},"{'d': 1, 'é': 1, '̄': 1}","{('é', 'e'): 1}"
+endé,Messanges,énta,Cissac-Médoc,{},{},"{('e', 'é'): 1, ('d', 't'): 1, ('é', 'a'): 1}",éndé̱,Saint-Geours-de-Maremne,{'̱': 1},{},"{('e', 'é'): 1}",en,Moliets-et-Maa,{},"{'d': 1, 'é': 1}",{}
+en,Moliets-et-Maa,endé,Seignosse,"{'d': 1, 'é': 1}",{},{},énta,Audon,"{'t': 1, 'a': 1}",{},"{('e', 'é'): 1}",endé,Messanges,"{'d': 1, 'é': 1}",{},{}
+éndé̱,Saint-Geours-de-Maremne,endé,Messanges,{},{'̱': 1},"{('é', 'e'): 1}",én,Orx,{},"{'d': 1, 'é': 1, '̱': 1}",{},endé,Seignosse,{},{'̱': 1},"{('é', 'e'): 1}"
+endé,Seignosse,én,Sainte-Marie-de-Gosse,{},"{'d': 1, 'é': 1}","{('e', 'é'): 1}",en,Moliets-et-Maa,{},"{'d': 1, 'é': 1}",{},éndé̱,Saint-Geours-de-Maremne,{'̱': 1},{},"{('e', 'é'): 1}"
+én,Soorts-Hossegor,én,Soustons,{},{},{},enta,Roquebrune,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",éndé,Lamothe,"{'d': 1, 'é': 1}",{},{}
+én,Soustons,ta,Toulenne,{},{},"{('é', 't'): 1, ('n', 'a'): 1}",én,Soorts-Hossegor,{},{},{},én,Tosse,{},{},{}
+én,Tosse,énd,Vieux-Boucau-les-Bains,{'d': 1},{},{},ta,Arveyres,{},{},"{('é', 't'): 1, ('n', 'a'): 1}",én,Soustons,{},{},{}
+énd,Vieux-Boucau-les-Bains,énta,Vignes,{'t': 1},{},"{('d', 'a'): 1}",én,Tosse,{},{'d': 1},{},én,Gouts,{},{'d': 1},{}
+énta,Audon,en,Moliets-et-Maa,{},"{'t': 1, 'a': 1}","{('é', 'e'): 1}",éndé,Le Leuy,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}",éndé,Lamothe,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}"
+én,Carcarès-Sainte-Croix,én ta,Nabas,"{' ': 1, 't': 1, 'a': 1}",{},{},ento,Baigts-de-Béarn,"{'t': 1, 'o': 1}",{},"{('é', 'e'): 1}",én,Gouts,{},{},{}
+én,Gouts,én,Carcarès-Sainte-Croix,{},{},{},énd,Vieux-Boucau-les-Bains,{'d': 1},{},{},éndé,Lamothe,"{'d': 1, 'é': 1}",{},{}
+éndé,Lamothe,én,Soorts-Hossegor,{},"{'d': 1, 'é': 1}",{},énta,Audon,{},{},"{('d', 't'): 1, ('é', 'a'): 1}",én,Gouts,{},"{'d': 1, 'é': 1}",{}
+éndé,Le Leuy,énta,Audon,{},{},"{('d', 't'): 1, ('é', 'a'): 1}",én,Sainte-Marie-de-Gosse,{},"{'d': 1, 'é': 1}",{},én ta,Méritein,{' ': 1},{},"{('d', 't'): 1, ('é', 'a'): 1}"
+én,Meilhan,énta,Perricard,"{'t': 1, 'a': 1}",{},{},énta,Espiute,"{'t': 1, 'a': 1}",{},{},,,,,
+énta,Souprosse,énta,Brassempouy,{},{},{},én,Tartas-bis,{},"{'t': 1, 'a': 1}",{},,,,,
+én,Tartas-bis,énta,Bassercles,"{'t': 1, 'a': 1}",{},{},énta,Souprosse,"{'t': 1, 'a': 1}",{},{},,,,,
+en,Tartas-ville-haute-bis,enta,Tartas-ville-haute,"{'t': 1, 'a': 1}",{},{},,,,,,,,,,
+enta,Tartas-ville-haute,ta,Saint-Georges,{},"{'e': 1, 'n': 1}",{},én,Anzex,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",en,Tartas-ville-haute-bis,{},"{'t': 1, 'a': 1}",{}
+én,Tartas,én,Cazideroque,{},{},{},én ta,Caylus,"{' ': 1, 't': 1, 'a': 1}",{},{},ta,Saint-Pé-de-Léren,{},{},"{('é', 't'): 1, ('n', 'a'): 1}"
+énde,Bégaar,enta,Molières,{},{},"{('é', 'e'): 1, ('d', 't'): 1, ('e', 'a'): 1}",én,Fargues-sur-Ourbise,{},"{'d': 1, 'e': 1}",{},,,,,
+éndé,Beylongue,én,Rion-des-Landes-bis,{},"{'d': 1, 'é': 1}",{},énta,Boos,{},{},"{('d', 't'): 1, ('é', 'a'): 1}",,,,,
+énta,Boos,éndé,Beylongue,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}",enta,Arthez-d'Armagnac,{},{},"{('é', 'e'): 1}",énta,Carcen-Ponson,{},{},{}
+énta,Carcen-Ponson,én,Saint-Léon,{},"{'t': 1, 'a': 1}",{},enta,Puycornet,{},{},"{('é', 'e'): 1}",énta,Boos,{},{},{}
+én,Laluque,,,,,,,,,,,,,,,
+én,Lesgor,enta,Rion-des-Landes,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",én,Rion-des-Landes-bis,{},{},{},,,,,
+énta,Pontonx-sur-l'Adour,énta,Puygaillard-de-Quercy,{},{},{},ta,Montauban-Est-ter,{},"{'é': 1, 'n': 1}",{},én,Rion-des-Landes-bis,{},"{'t': 1, 'a': 1}",{}
+én,Rion-des-Landes-bis,én,Lesgor,{},{},{},éndé,Beylongue,"{'d': 1, 'é': 1}",{},{},énta,Pontonx-sur-l'Adour,"{'t': 1, 'a': 1}",{},{}
+enta,Rion-des-Landes,enta,Arthez-d'Armagnac,{},{},{},én,Lesgor,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",én,Lacquy,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}"
+en,Saint-Yaguen,én,Villenave,{},{},"{('e', 'é'): 1}",ta,Saint-Sauveur,{},{},"{('e', 't'): 1, ('n', 'a'): 1}",én,Bourdalat,{},{},"{('e', 'é'): 1}"
+én,Villenave,en ta,Laàs,"{' ': 1, 't': 1, 'a': 1}",{},"{('é', 'e'): 1}",en,Saint-Yaguen,{},{},"{('é', 'e'): 1}",endé,Hontanx,"{'d': 1, 'é': 1}",{},"{('é', 'e'): 1}"
+enta,Arthez-d'Armagnac,énta,Boos,{},{},"{('e', 'é'): 1}",enta,Rion-des-Landes,{},{},{},én,Bourdalat,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}"
+én,Bourdalat,en,Saint-Yaguen,{},{},"{('é', 'e'): 1}",én,Razimet,{},{},{},enta,Arthez-d'Armagnac,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}"
+endé,Hontanx,én,Villenave,{},"{'d': 1, 'é': 1}","{('e', 'é'): 1}",én,Lacquy,{},"{'d': 1, 'é': 1}","{('e', 'é'): 1}",,,,,
+én,Lacquy,enta,Rion-des-Landes,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",endé,Hontanx,"{'d': 1, 'é': 1}",{},"{('é', 'e'): 1}",,,,,
+én,Le Frêche,en,Montégut,{},{},"{('é', 'e'): 1}",en ta,Lapenche,"{' ': 1, 't': 1, 'a': 1}",{},"{('é', 'e'): 1}",enta,Montauban-Ouest,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}"
+en,Montégut,énta,Montauban-Fau,"{'t': 1, 'a': 1}",{},"{('e', 'é'): 1}",én ta,Athos-Aspis,"{' ': 1, 't': 1, 'a': 1}",{},"{('e', 'é'): 1}",én,Le Frêche,{},{},"{('e', 'é'): 1}"
+énta,Perquie,én ta,Montalzat,{' ': 1},{},{},,,,,,,,,,
+én,Pujo-le-Plan,énta,Montauban,"{'t': 1, 'a': 1}",{},{},en dé,Vigueron,"{' ': 1, 'd': 1, 'é': 1}",{},"{('é', 'e'): 1}",,,,,
+en,Saint-Cricq-Villeneuve,éndé,Lamothe-Cumont,"{'d': 1, 'é': 1}",{},"{('e', 'é'): 1}", en né,Beaumont-de-Lomagne-bis,"{' ': 2, 'n': 1, 'é': 1}",{},{},,,,,
+én,Saint-Gein,ta,Pissos-bis,{},{},"{('é', 't'): 1, ('n', 'a'): 1}",éndé,Antagnac,"{'d': 1, 'é': 1}",{},{},én,Sainte-Foy,{},{},{}
+én,Sainte-Foy,én,Saint-Gein,{},{},{},én ta,Montpezat-de-Quercy,"{' ': 1, 't': 1, 'a': 1}",{},{},,,,,
+én,Villeneuve-de-Marsan,énndé,Langoiran-bis,"{'n': 1, 'd': 1, 'é': 1}",{},{},én to,Bioule,"{' ': 1, 't': 1, 'o': 1}",{},{},éndé,Antagnac,"{'d': 1, 'é': 1}",{},{}
+éndé,Antagnac,én,Saint-Gein,{},"{'d': 1, 'é': 1}",{},énta,Mano,{},{},"{('d', 't'): 1, ('é', 'a'): 1}",én,Villeneuve-de-Marsan,{},"{'d': 1, 'é': 1}",{}
+enta,Argenton,én ta,Montricoux,{' ': 1},{},"{('e', 'é'): 1}",,,,,,,,,,
+en,Bouglon,én ta,Nègrepelisse-bis,"{' ': 1, 't': 1, 'a': 1}",{},"{('e', 'é'): 1}",én dé,Corbarieu,"{' ': 1, 'd': 1, 'é': 1}",{},"{('e', 'é'): 1}",,,,,
+éndé,Grézet-Cavagnan,éndé,Guérin,{},{},{},én,Labastide-Castel-Amouroux,{},"{'d': 1, 'é': 1}",{},éndé,Casteljaloux,{},{},{}
+éndé,Guérin,én,Caubeyres,{},"{'d': 1, 'é': 1}",{},éndé,Grézet-Cavagnan,{},{},{},,,,,
+én,Labastide-Castel-Amouroux,éndé,Grézet-Cavagnan,"{'d': 1, 'é': 1}",{},{},én ta,Barraute,"{' ': 1, 't': 1, 'a': 1}",{},{},en,Poussignac,{},{},"{('é', 'e'): 1}"
+en,Poussignac,énta,Salies-de-Béarn-bis,"{'t': 1, 'a': 1}",{},"{('e', 'é'): 1}",en,Ruffiac,{},{},{},én,Labastide-Castel-Amouroux,{},{},"{('e', 'é'): 1}"
+éndé,Romestaing,endé,Ruffiac_bis,{},{},"{('é', 'e'): 1}",ta,Saint-Vincent-d'Autéjac,{},"{'d': 1, 'é': 1}","{('é', 't'): 1, ('n', 'a'): 1}",én dé,Saint-Antonin-Noble-Val,{' ': 1},{},{}
+endé,Ruffiac_bis,én,Anzex,{},"{'d': 1, 'é': 1}","{('e', 'é'): 1}",éndé,Romestaing,{},{},"{('e', 'é'): 1}",endé,Leyritz-Moncassin,{},{},{}
+en,Ruffiac,en,Poussignac,{},{},{},endé,Saint-Gemme-Martaillac,"{'d': 1, 'é': 1}",{},{},én,Heuliès,{},{},"{('e', 'é'): 1}"
+endé,Saint-Gemme-Martaillac,en,Ruffiac,{},"{'d': 1, 'é': 1}",{},énta,Salles-Mongiscard,{},{},"{('e', 'é'): 1, ('d', 't'): 1, ('é', 'a'): 1}",én,Anzex,{},"{'d': 1, 'é': 1}","{('e', 'é'): 1}"
+én,Anzex,enta,Tartas-ville-haute,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",endé,Ruffiac_bis,"{'d': 1, 'é': 1}",{},"{('é', 'e'): 1}",endé,Saint-Gemme-Martaillac,"{'d': 1, 'é': 1}",{},"{('é', 'e'): 1}"
+én,Beauziac,en dé,Varen,"{' ': 1, 'd': 1, 'é': 1}",{},"{('é', 'e'): 1}",én,Casteljaloux-bis,{},{},{},endé,Leyritz-Moncassin,"{'d': 1, 'é': 1}",{},"{('é', 'e'): 1}"
+én,Casteljaloux-bis,én,Beauziac,{},{},{},èn,Damazan-bis,{},{},"{('é', 'è'): 1}",éndé,Casteljaloux,"{'d': 1, 'é': 1}",{},{}
+éndé,Casteljaloux,éndé,Grézet-Cavagnan,{},{},{},én,Heuliès,{},"{'d': 1, 'é': 1}",{},én,Casteljaloux-bis,{},"{'d': 1, 'é': 1}",{}
+én,Heuliès,éndé,Casteljaloux,"{'d': 1, 'é': 1}",{},{},en,Ruffiac,{},{},"{('é', 'e'): 1}",endé,Leyritz-Moncassin,"{'d': 1, 'é': 1}",{},"{('é', 'e'): 1}"
+endé,Leyritz-Moncassin,endé,Ruffiac_bis,{},{},{},én,Beauziac,{},"{'d': 1, 'é': 1}","{('e', 'é'): 1}",én,Heuliès,{},"{'d': 1, 'é': 1}","{('e', 'é'): 1}"
+én,Saint-Martin-Curton,én,Laparade,{},{},{},én dé,Esparsac,"{' ': 1, 'd': 1, 'é': 1}",{},{},,,,,
+éndé,Villefranche-du-Queyran,én dé,Sérignac,{' ': 1},{},{},en,Castelmoron-sur-Lot,{},"{'d': 1, 'é': 1}","{('é', 'e'): 1}",én,Brugnac,{},"{'d': 1, 'é': 1}",{}
+én,Brugnac,én,Castelmoron-sur-Lot-bis,{},{},{},éndé,Villefranche-du-Queyran,"{'d': 1, 'é': 1}",{},{},,,,,
+én,Castelmoron-sur-Lot-bis,endé,Marignac,"{'d': 1, 'é': 1}",{},"{('é', 'e'): 1}",én,Brugnac,{},{},{},en,Castelmoron-sur-Lot,{},{},"{('é', 'e'): 1}"
+en,Castelmoron-sur-Lot,éndé,Villefranche-du-Queyran,"{'d': 1, 'é': 1}",{},"{('e', 'é'): 1}",endé,Coulx,"{'d': 1, 'é': 1}",{},{},én,Castelmoron-sur-Lot-bis,{},{},"{('e', 'é'): 1}"
+endé,Coulx,en,Castelmoron-sur-Lot,{},"{'d': 1, 'é': 1}",{},éné,Maubec,{},{'d': 1},"{('e', 'é'): 1}",én,Grateloup,{},"{'d': 1, 'é': 1}","{('e', 'é'): 1}"
+én,Grateloup,éndé,Saint-Gayrand,"{'d': 1, 'é': 1}",{},{},én dé,Faudoas,"{' ': 1, 'd': 1, 'é': 1}",{},{},endé,Coulx,"{'d': 1, 'é': 1}",{},"{('é', 'e'): 1}"
+én,Labretonie,éndé,Ambrus,"{'d': 1, 'é': 1}",{},{},,,,,,,,,,
+én,Laparade,én,Saint-Martin-Curton,{},{},{},éndé,Saint-Gayrand,"{'d': 1, 'é': 1}",{},{},,,,,
+éndé,Saint-Gayrand,én,Laparade,{},"{'d': 1, 'é': 1}",{},én,Grateloup,{},"{'d': 1, 'é': 1}",{},én,Verteuil-d'Agenais,{},"{'d': 1, 'é': 1}",{}
+én,Verteuil-d'Agenais,éndé,Saint-Gayrand,"{'d': 1, 'é': 1}",{},{},éndé,Ambrus,"{'d': 1, 'é': 1}",{},{},,,,,
+éndé,Ambrus,én,Labretonie,{},"{'d': 1, 'é': 1}",{},én,Caubeyres,{},"{'d': 1, 'é': 1}",{},én,Verteuil-d'Agenais,{},"{'d': 1, 'é': 1}",{}
+én,Buzet-sur-Baïse,èn,Damazan-bis,{},{},"{('é', 'è'): 1}",én dé,Corbarieu-bis,"{' ': 1, 'd': 1, 'é': 1}",{},{},,,,,
+én,Caubeyres,éndé,Ambrus,"{'d': 1, 'é': 1}",{},{},éndé,Guérin,"{'d': 1, 'é': 1}",{},{},èn,Damazan-bis,{},{},"{('é', 'è'): 1}"
+èn,Damazan-bis,én,Casteljaloux-bis,{},{},"{('è', 'é'): 1}",én,Buzet-sur-Baïse,{},{},"{('è', 'é'): 1}",én,Caubeyres,{},{},"{('è', 'é'): 1}"
+éndé,Damazan,en,Esclottes,{},"{'d': 1, 'é': 1}","{('é', 'e'): 1}",èn,Moncrabeau-bis,{},"{'d': 1, 'é': 1}","{('é', 'è'): 1}",én,Saint-Léger,{},"{'d': 1, 'é': 1}",{}
+én,Fargues-sur-Ourbise,énde,Bégaar,"{'d': 1, 'e': 1}",{},{},éndé,Saint-Pierre-de-Buzet,"{'d': 1, 'é': 1}",{},{},éndé,Monheurt,"{'d': 1, 'é': 1}",{},{}
+éndé,Monheurt,ta,Listrac-de-Durèze,{},"{'d': 1, 'é': 1}","{('é', 't'): 1, ('n', 'a'): 1}",én,Fargues-sur-Ourbise,{},"{'d': 1, 'é': 1}",{},éndé,Puch-d'Agenais,{},{},{}
+éndé,Puch-d'Agenais,én,Moncrabeau,{},"{'d': 1, 'é': 1}",{},enta,Pellegrue,{},{},"{('é', 'e'): 1, ('d', 't'): 1, ('é', 'a'): 1}",éndé,Monheurt,{},{},{}
+én,Razimet,én,Bourdalat,{},{},{},én,Baleyssagues,{},{},{},én,Saint-Léon,{},{},{}
+én,Saint-Léger,éndé,Duras,"{'d': 1, 'é': 1}",{},{},éndé,Damazan,"{'d': 1, 'é': 1}",{},{},éndé,Saint-Pierre-de-Buzet,"{'d': 1, 'é': 1}",{},{}
+én,Saint-Léon,éndé,Saint-Pierre-de-Buzet,"{'d': 1, 'é': 1}",{},{},énta,Carcen-Ponson,"{'t': 1, 'a': 1}",{},{},én,Razimet,{},{},{}
+éndé,Saint-Pierre-de-Buzet,én,Fargues-sur-Ourbise,{},"{'d': 1, 'é': 1}",{},én,Saint-Léon,{},"{'d': 1, 'é': 1}",{},én,Saint-Léger,{},"{'d': 1, 'é': 1}",{}
+én,Auriac-sur-Dropt,én,Baleyssagues,{},{},{},ta,Vertheuil,{},{},"{('é', 't'): 1, ('n', 'a'): 1}",endé,Moustier,"{'d': 1, 'é': 1}",{},"{('é', 'e'): 1}"
+én,Baleyssagues,én,Razimet,{},{},{},én,Auriac-sur-Dropt,{},{},{},éndé,Duras,"{'d': 1, 'é': 1}",{},{}
+éndé,Duras,en,Esclottes,{},"{'d': 1, 'é': 1}","{('é', 'e'): 1}",én,Saint-Léger,{},"{'d': 1, 'é': 1}",{},én,Baleyssagues,{},"{'d': 1, 'é': 1}",{}
+en,Esclottes,éndé,La Sauvetat-du-Dropt,"{'d': 1, 'é': 1}",{},"{('e', 'é'): 1}",éndé,Damazan,"{'d': 1, 'é': 1}",{},"{('e', 'é'): 1}",éndé,Duras,"{'d': 1, 'é': 1}",{},"{('e', 'é'): 1}"
+éndé,La Sauvetat-du-Dropt,endé,Moustier,{},{},"{('é', 'e'): 1}",én̈ta,Ambarès-et-Lagrave,{'̈': 1},{},"{('d', 't'): 1, ('é', 'a'): 1}",en,Esclottes,{},"{'d': 1, 'é': 1}","{('é', 'e'): 1}"
+endé,Moustier,én,Saint-Astier,{},"{'d': 1, 'é': 1}","{('e', 'é'): 1}",éndé,La Sauvetat-du-Dropt,{},{},"{('e', 'é'): 1}",én,Auriac-sur-Dropt,{},"{'d': 1, 'é': 1}","{('e', 'é'): 1}"
+én,Saint-Astier,én,Savignac-de-Duras,{},{},{},endé,Moustier,"{'d': 1, 'é': 1}",{},"{('é', 'e'): 1}",en,Saint-Sernin,{},{},"{('é', 'e'): 1}"
+en,Saint-Sernin,ta,Cazaugitat,{},{},"{('e', 't'): 1, ('n', 'a'): 1}",ta,Narp-Ossenx,{},{},"{('e', 't'): 1, ('n', 'a'): 1}",én,Saint-Astier,{},{},"{('e', 'é'): 1}"
+én,Savignac-de-Duras,ta,Saint-Julien-en-Born,{},{},"{('é', 't'): 1, ('n', 'a'): 1}",én,Saint-Astier,{},{},{},énte,Orriule,"{'t': 1, 'e': 1}",{},{}
+endé,Soumensac,ta,Listrac-de-Durèze,{},"{'d': 1, 'é': 1}","{('e', 't'): 1, ('n', 'a'): 1}",én,Villeneuve-de-Duras,{},"{'d': 1, 'é': 1}","{('e', 'é'): 1}",,,,,
+én,Villeneuve-de-Duras,endé,Soumensac,"{'d': 1, 'é': 1}",{},"{('é', 'e'): 1}",énta,Bassens,"{'t': 1, 'a': 1}",{},{},en dé,Castelsarrasin,"{' ': 1, 'd': 1, 'é': 1}",{},"{('é', 'e'): 1}"
+én,Fieux,endé,Ambès,"{'d': 1, 'é': 1}",{},"{('é', 'e'): 1}",en,Francescas,{},{},"{('é', 'e'): 1}",en dé,Labastide-du-Temple,"{' ': 1, 'd': 1, 'é': 1}",{},"{('é', 'e'): 1}"
+en,Francescas,én,Fieux,{},{},"{('e', 'é'): 1}",énta,Pujols-sur-Ciron,"{'t': 1, 'a': 1}",{},"{('e', 'é'): 1}",,,,,
+énn,Lamontjoie,enta,Pellegrue,{'t': 1},{},"{('é', 'e'): 1, ('n', 'a'): 1}",én,Moncrabeau,{},{'n': 1},{},,,,,
+èn,Moncrabeau-bis,éndé,Damazan,"{'d': 1, 'é': 1}",{},"{('è', 'é'): 1}",én,Moncrabeau,{},{},"{('è', 'é'): 1}",,,,,
+én,Moncrabeau,énn,Lamontjoie,{'n': 1},{},{},éndé,Puch-d'Agenais,"{'d': 1, 'é': 1}",{},{},èn,Moncrabeau-bis,{},{},"{('é', 'è'): 1}"
+éndé,Nomdieu,én,Boussès,{},"{'d': 1, 'é': 1}",{},enta,Preignac,{},{},"{('é', 'e'): 1, ('d', 't'): 1, ('é', 'a'): 1}",en,Allons,{},"{'d': 1, 'é': 1}","{('é', 'e'): 1}"
+en,Allons,éndé,Nomdieu,"{'d': 1, 'é': 1}",{},"{('e', 'é'): 1}",ta,Cestas,{},{},"{('e', 't'): 1, ('n', 'a'): 1}",éndé,Durance,"{'d': 1, 'é': 1}",{},"{('e', 'é'): 1}"
+én,Boussès,eunnta,Carbon-Blanc-bis,"{'e': 1, 'n': 1, 't': 1, 'a': 1}",{},"{('é', 'u'): 1}",éndé,Nomdieu,"{'d': 1, 'é': 1}",{},{},éndé,Durance,"{'d': 1, 'é': 1}",{},{}
+éndé,Durance,tay,Canéjan,{},{'é': 1},"{('é', 't'): 1, ('n', 'a'): 1, ('d', 'y'): 1}",én,Boussès,{},"{'d': 1, 'é': 1}",{},en,Allons,{},"{'d': 1, 'é': 1}","{('é', 'e'): 1}"
+én,Houeillès-bis,en,Houeillès,{},{},"{('é', 'e'): 1}",enta,Lormont,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",,,,,
+en,Houeillès,énta,Pujols-sur-Ciron,"{'t': 1, 'a': 1}",{},"{('e', 'é'): 1}",én,Houeillès-bis,{},{},"{('e', 'é'): 1}",,,,,
+éndé,Pindères,ende,Lauzun-bis,{},{},"{('é', 'e'): 2}",én,Sauméjan,{},"{'d': 1, 'é': 1}",{},éndé,Armillac,{},{},{}
+én,Pompogne,enta,Lège,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",én,Agnac,{},{},{},én,Sauméjan,{},{},{}
+én,Sauméjan,énta,Doulezon,"{'t': 1, 'a': 1}",{},{},én,Pompogne,{},{},{},éndé,Pindères,"{'d': 1, 'é': 1}",{},{}
+én,Agnac,én,Pompogne,{},{},{},énta,Ludon-Médoc,"{'t': 1, 'a': 1}",{},{},éndé,Armillac,"{'d': 1, 'é': 1}",{},{}
+éndé,Armillac,én,Agnac,{},"{'d': 1, 'é': 1}",{},én,Lavergne,{},"{'d': 1, 'é': 1}",{},éndé,Pindères,{},{},{}
+éndé,Bourgougnague,én,Lauzun-ter,{},"{'d': 1, 'é': 1}",{},ta,Saint-Michel-de-Rieufret,{},"{'d': 1, 'é': 1}","{('é', 't'): 1, ('n', 'a'): 1}",éndé,Laperche,{},{},{}
+éndé,Laperche,énta,Doulezon,{},{},"{('d', 't'): 1, ('é', 'a'): 1}",ende,Lauzun-bis,{},{},"{('é', 'e'): 2}",éndé,Bourgougnague,{},{},{}
+ende,Lauzun-bis,éndé,Laperche,{},{},"{('e', 'é'): 2}",éndé,Pindères,{},{},"{('e', 'é'): 2}",én,Lavergne,{},"{'d': 1, 'e': 1}","{('e', 'é'): 1}"
+én,Lauzun-ter,én,Bruch,{},{},{},éndé,Bourgougnague,"{'d': 1, 'é': 1}",{},{},én,Lauzun-tet,{},{},{}
+én,Lauzun-tet,én,Lauzun,{},{},{},énta,Saint-Loubès,"{'t': 1, 'a': 1}",{},{},én,Lauzun-ter,{},{},{}
+én,Lauzun,éndé,Macau,"{'d': 1, 'é': 1}",{},{},én,Lauzun-tet,{},{},{},én,Lavergne,{},{},{}
+én,Lavergne,éndé,Armillac,"{'d': 1, 'é': 1}",{},{},én,Lauzun,{},{},{},ende,Lauzun-bis,"{'d': 1, 'e': 1}",{},"{('é', 'e'): 1}"
+én,Lévignac-de-Guyenne,en,Thouars-sur-Garonne,{},{},"{('é', 'e'): 1}",éndé,Miramont-de-Guyenne,"{'d': 1, 'é': 1}",{},{},én,Montignac-de-Lauzun,{},{},{}
+éndé,Miramont-de-Guyenne,én,Lévignac-de-Guyenne,{},"{'d': 1, 'é': 1}",{},én,Fréchou,{},"{'d': 1, 'é': 1}",{},én,Peyrière,{},"{'d': 1, 'é': 1}",{}
+én,Montignac-de-Lauzun,taï,Pessac-sur-Dordogne,{'t': 1},{},"{('é', 'a'): 1, ('n', 'ï'): 1}",én,Lévignac-de-Guyenne,{},{},{},én,Peyrière,{},{},{}
+én,Peyrière,éndé,Miramont-de-Guyenne,"{'d': 1, 'é': 1}",{},{},ta,Saint-Pierre-d'Aurillac,{},{},"{('é', 't'): 1, ('n', 'a'): 1}",én,Montignac-de-Lauzun,{},{},{}
+éndé,Puysserampion,én,Lavardac-bis,{},"{'d': 1, 'é': 1}",{},én,Virazeil,{},"{'d': 1, 'é': 1}",{},éndé,Roumagne,{},{},{}
+éndé,Roumagne,éndé,Puysserampion,{},{},{},,,,,,,,,,
+éndé,Saint-Colomb-de-Lauzun,én,Marmande,{},"{'d': 1, 'é': 1}",{},énta,Rauzan,{},{},"{('d', 't'): 1, ('é', 'a'): 1}",,,,,
+én,Saint-Nazaire,énta,Saint-Jean-de-Blaignac,"{'t': 1, 'a': 1}",{},{},én,Sérignac-Péboudou,{},{},{},,,,,
+én,Ségalas,én,Sérignac-Péboudou,{},{},{},ta,Lavardac,{},{},"{('é', 't'): 1, ('n', 'a'): 1}",,,,,
+én,Sérignac-Péboudou,énta,Rauzan,"{'t': 1, 'a': 1}",{},{},én,Ségalas,{},{},{},én,Saint-Nazaire,{},{},{}
+én,Barbaste,enta,Aubie-et-Espessas,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",én,Bruch,{},{},{},én,Saint-Laurent,{},{},{}
+endé,Béquin,enta,Saint-Aubin-de-Médoc,{},{},"{('d', 't'): 1, ('é', 'a'): 1}",én,Pompiey,{},"{'d': 1, 'é': 1}","{('e', 'é'): 1}",én,Bruch-bis,{},"{'d': 1, 'é': 1}","{('e', 'é'): 1}"
+én,Bruch-bis,en̄ta,Montussan,"{'̄': 1, 't': 1, 'a': 1}",{},"{('é', 'e'): 1}",endé,Béquin,"{'d': 1, 'é': 1}",{},"{('é', 'e'): 1}",én,Bruch,{},{},{}
+én,Bruch,én,Barbaste,{},{},{},én,Lauzun-ter,{},{},{},én,Bruch-bis,{},{},{}
+én,Feugarolles,én,Montesquieu,{},{},{},enta,Saint-Aubin-de-Médoc,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",én,Lavardac-bis,{},{},{}
+én,Lavardac-bis,én,Feugarolles,{},{},{},éndé,Puysserampion,"{'d': 1, 'é': 1}",{},{},,,,,
+ta,Lavardac,én,Ségalas,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}",én,Méneau,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}",én,Mongaillard,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}"
+én,Méneau,ta,Lavardac,{},{},"{('é', 't'): 1, ('n', 'a'): 1}",ta,Cubzac-les-Ponts,{},{},"{('é', 't'): 1, ('n', 'a'): 1}",én,Saint-Laurent,{},{},{}
+én,Mongaillard,ta,Lavardac,{},{},"{('é', 't'): 1, ('n', 'a'): 1}",én,Montesquieu,{},{},{},,,,,
+én,Montesquieu,én,Pompiey,{},{},{},én,Feugarolles,{},{},{},én,Mongaillard,{},{},{}
+én,Pompiey,endé,Béquin,"{'d': 1, 'é': 1}",{},"{('é', 'e'): 1}",én,Montesquieu,{},{},{},én,Saint-Laurent,{},{},{}
+én,Saint-Laurent,én,Méneau,{},{},{},én,Barbaste,{},{},{},én,Pompiey,{},{},{}
+en,Thouars-sur-Garonne,én,Lévignac-de-Guyenne,{},{},"{('e', 'é'): 1}",én,Vianne,{},{},"{('e', 'é'): 1}",,,,,
+én,Vianne,en,Thouars-sur-Garonne,{},{},"{('é', 'e'): 1}",ta,Peujard,{},{},"{('é', 't'): 1, ('n', 'a'): 1}",éndé,Birac-sur-Trec,"{'d': 1, 'é': 1}",{},{}
+en,Xaintrailles,ta,Saint-André-de-Cubzac,{},{},"{('e', 't'): 1, ('n', 'a'): 1}",éndé,Beaupuy,"{'d': 1, 'é': 1}",{},"{('e', 'é'): 1}",éndé,Birac-sur-Trec,"{'d': 1, 'é': 1}",{},"{('e', 'é'): 1}"
+endé,Agmé,éndé,Beaupuy,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+éndé,Beaupuy,en,Xaintrailles,{},"{'d': 1, 'é': 1}","{('é', 'e'): 1}",endé,Agmé,{},{},"{('é', 'e'): 1}",,,,,
+éndé,Birac-sur-Trec,én,Vianne,{},"{'d': 1, 'é': 1}",{},en,Xaintrailles,{},"{'d': 1, 'é': 1}","{('é', 'e'): 1}",,,,,
+én,Fauguerolles,ta,Saint-Vincent-de-Pertignas,{},{},"{('é', 't'): 1, ('n', 'a'): 1}",enta,Marmande-bis,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",,,,,
+éndé,Gontaud-de-Nogaret-bis,ta,Saint-Antoine,{},"{'d': 1, 'é': 1}","{('é', 't'): 1, ('n', 'a'): 1}",én,Gontaud-de-Nogaret,{},"{'d': 1, 'é': 1}",{},éndé,Hautesvignes,{},{},{}
+én,Gontaud-de-Nogaret,éndé,Gontaud-de-Nogaret-bis,"{'d': 1, 'é': 1}",{},{},enta,Marmande-bis,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",,,,,
+éndé,Hautesvignes,én,Marmande-ter,{},"{'d': 1, 'é': 1}",{},en,Caumont-sur-Garonne,{},"{'d': 1, 'é': 1}","{('é', 'e'): 1}",éndé,Gontaud-de-Nogaret-bis,{},{},{}
+én,Longueville,énta,Saint-Pey-de-Castets,"{'t': 1, 'a': 1}",{},{},én,Marmande,{},{},{},enta,Marmande-bis,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}"
+enta,Marmande-bis,én,Fauguerolles,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",én,Longueville,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",én,Gontaud-de-Nogaret,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}"
+én,Marmande-ter,éndé,Hautesvignes,"{'d': 1, 'é': 1}",{},{},én,Marmande,{},{},{},,,,,
+én,Marmande,én,Longueville,{},{},{},éndé,Saint-Colomb-de-Lauzun,"{'d': 1, 'é': 1}",{},{},én,Marmande-ter,{},{},{}
+én,Saint-Pardoux-du-Breuil,ta,Saint-Antoine,{},{},"{('é', 't'): 1, ('n', 'a'): 1}",,,,,,,,,,
+endé,Saint-Pierre de Nogaret,ta,Flaujagues,{},"{'d': 1, 'é': 1}","{('e', 't'): 1, ('n', 'a'): 1}",én,Sainte-Bazeille,{},"{'d': 1, 'é': 1}","{('e', 'é'): 1}",,,,,
+én,Sainte-Bazeille,enta,Juillac,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",endé,Saint-Pierre de Nogaret,"{'d': 1, 'é': 1}",{},"{('é', 'e'): 1}",,,,,
+éndé,Taillebourg,enta,Saint-Laurent-Médoc,{},{},"{('é', 'e'): 1, ('d', 't'): 1, ('é', 'a'): 1}",énta,Aubiac,{},{},"{('d', 't'): 1, ('é', 'a'): 1}",én,Virazeil,{},"{'d': 1, 'é': 1}",{}
+én,Virazeil,éndé,Puysserampion,"{'d': 1, 'é': 1}",{},{},éndé,Taillebourg,"{'d': 1, 'é': 1}",{},{},,,,,
+én,Cocumont,én,Couthures-sur-Garonne,{},{},{},endé,Jusix,"{'d': 1, 'é': 1}",{},"{('é', 'e'): 1}",,,,,
+én,Couthures-sur-Garonne,én,Cocumont,{},{},{},endé,Montpouillan,"{'d': 1, 'é': 1}",{},"{('é', 'e'): 1}",én,Lisse,{},{},{}
+éndé,Gaujac,énta,Réaup-Lisse,{},{},"{('d', 't'): 1, ('é', 'a'): 1}",endé,Jusix,{},{},"{('é', 'e'): 1}",éndé,Lannes,{},{},{}
+endé,Jusix,éndé,Gaujac,{},{},"{('e', 'é'): 1}",én,Cocumont,{},"{'d': 1, 'é': 1}","{('e', 'é'): 1}",,,,,
+éndé,Meilhan-sur-Garonne,endé,Montpouillan,{},{},"{('é', 'e'): 1}",én,Saint-Sauveur-de-Meilhan,{},"{'d': 1, 'é': 1}",{},,,,,
+endé,Montpouillan,én,Couthures-sur-Garonne,{},"{'d': 1, 'é': 1}","{('e', 'é'): 1}",éndé,Meilhan-sur-Garonne,{},{},"{('e', 'é'): 1}",én,Gueyze,{},"{'d': 1, 'é': 1}","{('e', 'é'): 1}"
+én,Saint-Sauveur-de-Meilhan,ta,Saint-Germain-de-Grave,{},{},"{('é', 't'): 1, ('n', 'a'): 1}",én,Gueyze,{},{},{},éndé,Meilhan-sur-Garonne,"{'d': 1, 'é': 1}",{},{}
+én,Gueyze,én,Saint-Sauveur-de-Meilhan,{},{},{},enta,Mézin,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",endé,Montpouillan,"{'d': 1, 'é': 1}",{},"{('é', 'e'): 1}"
+éndé,Lannes,éndé,Gaujac,{},{},{},én,Lisse,{},"{'d': 1, 'é': 1}",{},,,,,
+én,Lisse,én,Couthures-sur-Garonne,{},{},{},enta,Mézin,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",éndé,Lannes,"{'d': 1, 'é': 1}",{},{}
+én,Meylan,enta,Mézin,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",ènta,Auros-bis,"{'t': 1, 'a': 1}",{},"{('é', 'è'): 1}",,,,,
+enta,Mézin,én,Gueyze,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",én,Meylan,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",én,Lisse,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}"
+én,Poudenas,ta,Saint-Macaire,{},{},"{('é', 't'): 1, ('n', 'a'): 1}",én,Andiran,{},{},{},,,,,
+énta,Réaup-Lisse,éndé,Gaujac,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}",én,Saint-Pé-Saint-Simon,{},"{'t': 1, 'a': 1}",{},,,,,
+én,Saint-Pé-Saint-Simon,énta,Réaup-Lisse,"{'t': 1, 'a': 1}",{},{},,,,,,,,,,
+énta,Sainte-Maure-de-Peyriac,én,Andiran,{},"{'t': 1, 'a': 1}",{},entay,Mouliets,{'y': 1},{},"{('é', 'e'): 1}",en,Sos,{},"{'t': 1, 'a': 1}","{('é', 'e'): 1}"
+en,Sos,énta,Sainte-Maure-de-Peyriac,"{'t': 1, 'a': 1}",{},"{('e', 'é'): 1}",ta,Saint-Pierre-d'Aurillac,{},{},"{('e', 't'): 1, ('n', 'a'): 1}",en,Villeneuve-de-Mézin,{},{},{}
+en,Villeneuve-de-Mézin,én,Calignac,{},{},"{('e', 'é'): 1}",en,Sos,{},{},{},,,,,
+én,Andiran,én,Poudenas,{},{},{},énta,Sainte-Maure-de-Peyriac,"{'t': 1, 'a': 1}",{},{},én,Calignac,{},{},{}
+én,Calignac,en,Villeneuve-de-Mézin,{},{},"{('é', 'e'): 1}",én,Andiran,{},{},{},,,,,
+én,Fréchou,éndé,Miramont-de-Guyenne,"{'d': 1, 'é': 1}",{},{},énda,Espiens,"{'d': 1, 'a': 1}",{},{},,,,,
+énda,Espiens,ta,Saint-Pierre-d'Aurillac,{},"{'n': 1, 'd': 1}","{('é', 't'): 1}",én,Fréchou,{},"{'d': 1, 'a': 1}",{},énn,Moncaut,{},{'a': 1},"{('d', 'n'): 1}"
+énn,Moncaut,énda,Espiens,{'d': 1},{},"{('n', 'a'): 1}",,,,,,,,,,
+énta,Montagnac-sur-Auvignon,énda,Saint-Symphorien-bis,{},{},"{('t', 'd'): 1}",én,Nérac-bis,{},"{'t': 1, 'a': 1}",{},,,,,
+én,Nérac-bis,énta,Montagnac-sur-Auvignon,"{'t': 1, 'a': 1}",{},{},énda,Grayan,"{'d': 1, 'a': 1}",{},{},én,Nérac,{},{},{}
+én,Nérac-ter,én,Cambes,{},{},{},én,Nérac,{},{},{},,,,,
+én,Nérac,én,Nérac-ter,{},{},{},én,Nérac-bis,{},{},{},,,,,
+én,Saumont,,,,,,,,,,,,,,,
+én,Cambes,en,Castelnau-sur-Gupie,{},{},"{('é', 'e'): 1}",én,Nérac-ter,{},{},{},,,,,
+en,Castelnau-sur-Gupie,tà,Saint-Symphorien,{},{},"{('e', 't'): 1, ('n', 'à'): 1}",én,Cambes,{},{},"{('e', 'é'): 1}",,,,,
+éndé,Caubon-Saint-Sauveur,en,Escassefort,{},"{'d': 1, 'é': 1}","{('é', 'e'): 1}",,,,,,,,,,
+en,Escassefort,éndé,Caubon-Saint-Sauveur,"{'d': 1, 'é': 1}",{},"{('e', 'é'): 1}",en,Lagupie,{},{},{},,,,,
+én,Lachapelle,enda,La Roquille,"{'d': 1, 'a': 1}",{},"{('é', 'e'): 1}",,,,,,,,,,
+en,Lagupie,en,Escassefort,{},{},{},énta,Monteton,"{'t': 1, 'a': 1}",{},"{('e', 'é'): 1}",,,,,
+én,Mauvezin-sur-Gupie,enta,Soulac-sur-Mer,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",énta,Monteton,"{'t': 1, 'a': 1}",{},{},,,,,
+énta,Monteton,én,Mauvezin-sur-Gupie,{},"{'t': 1, 'a': 1}",{},en,Lagupie,{},"{'t': 1, 'a': 1}","{('é', 'e'): 1}",,,,,
+én,Montignac-Toupinerie,,,,,,,,,,,,,,,
+endé,Puymiclan,én,Saint-Avit,{},"{'d': 1, 'é': 1}","{('e', 'é'): 1}",enta,Caplong,{},{},"{('d', 't'): 1, ('é', 'a'): 1}",,,,,
+én,Saint-Avit,enda,Tonneins_bis,"{'d': 1, 'a': 1}",{},"{('é', 'e'): 1}",endé,Puymiclan,"{'d': 1, 'é': 1}",{},"{('é', 'e'): 1}",én,Saint-Barthélemy-d'Agenais,{},{},{}
+én,Saint-Barthélemy-d'Agenais,én,Saint-Avit,{},{},{},,,,,,,,,,
+én,Saint-Martin-Petit,en,Tonneins_ter,{},{},"{('é', 'e'): 1}",én,Lafitte-sur-Lot,{},{},{},,,,,
+én,Saint-Pierre-sur-Dropt,énta,Unet,"{'t': 1, 'a': 1}",{},{},enta,Seyches,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",én,Lafitte-sur-Lot,{},{},{}
+enta,Seyches,én,Saint-Pierre-sur-Dropt,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",én,Clairac,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",,,,,
+én,Clairac,enta,Seyches,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",,,,,,,,,,
+éndé,Fauillet,én,Lafitte-sur-Lot,{},"{'d': 1, 'é': 1}",{},,,,,,,,,,
+én,Lafitte-sur-Lot,én,Saint-Martin-Petit,{},{},{},én,Saint-Pierre-sur-Dropt,{},{},{},éndé,Fauillet,"{'d': 1, 'é': 1}",{},{}
+enda,Tonneins_bis,en,Tonneins_ter,{},"{'d': 1, 'a': 1}",{},én,Saint-Avit,{},"{'d': 1, 'a': 1}","{('e', 'é'): 1}",én,Tonneins,{},"{'d': 1, 'a': 1}","{('e', 'é'): 1}"
+en,Tonneins_ter,én,Saint-Martin-Petit,{},{},"{('e', 'é'): 1}",enda,Tonneins_bis,"{'d': 1, 'a': 1}",{},{},énta,Unet,"{'t': 1, 'a': 1}",{},"{('e', 'é'): 1}"
+én,Tonneins,énta,Unet,"{'t': 1, 'a': 1}",{},{},enda,Tonneins_bis,"{'d': 1, 'a': 1}",{},"{('é', 'e'): 1}",,,,,
+énta,Unet,én,Tonneins,{},"{'t': 1, 'a': 1}",{},én,Saint-Pierre-sur-Dropt,{},"{'t': 1, 'a': 1}",{},en,Tonneins_ter,{},"{'t': 1, 'a': 1}","{('é', 'e'): 1}"
+énta,Varès,,,,,,,,,,,,,,,
+én,Calonges,enda,Talais,"{'d': 1, 'a': 1}",{},"{('é', 'e'): 1}",,,,,,,,,,
+en,Caumont-sur-Garonne,éndé,Hautesvignes,"{'d': 1, 'é': 1}",{},"{('e', 'é'): 1}",én,Fourques,{},{},"{('e', 'é'): 1}",,,,,
+én,Fourques,en,Caumont-sur-Garonne,{},{},"{('é', 'e'): 1}",en,Le Mas-d'Agenais-bis,{},{},"{('é', 'e'): 1}",,,,,
+énta,Lagruère,én,Lamarque,{},"{'t': 1, 'a': 1}",{},ta,Ligueux,{},"{'é': 1, 'n': 1}",{},,,,,
+én,Lamarque,énta,Lagruère,"{'t': 1, 'a': 1}",{},{},en,Le Mas-d'Agenais-bis,{},{},"{('é', 'e'): 1}",,,,,
+en,Le Mas-d'Agenais-bis,én,Fourques,{},{},"{('e', 'é'): 1}",én,Lamarque,{},{},"{('e', 'é'): 1}",,,,,
+énta,Le Mas-d'Agenais,énta,Sainte-Marthe,{},{},{},,,,,,,,,,
+énta,Sainte-Marthe,énta,Le Mas-d'Agenais,{},{},{},,,,,,,,,,
+enta,Samazan,ta,Les Lèves-et-Thoumeyragues,{},"{'e': 1, 'n': 1}",{},,,,,,,,,,
+én,Sénestis,énta,Villeton,"{'t': 1, 'a': 1}",{},{},enta,Eynesse,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",,,,,
+énta,Villeton,enta,Listrac-Médoc,{},{},"{('é', 'e'): 1}",én,Sénestis,{},"{'t': 1, 'a': 1}",{},énta,Agen-bis,{},{},{}
+énta,Agen-bis,énta,Villeton,{},{},{},,,,,,,,,,
+énta,Agen-ter,énta,Dolmayrac,{},{},{},énta,Bon-Encontre,{},{},{},énta,Agen,{},{},{}
+énta,Agen,énta,Artigues,{},{},{},éntà,Saint-Avit-Saint-Nazaire,{},{},"{('a', 'à'): 1}",énta,Agen-ter,{},{},{}
+énta,Artigues,én,Boé,{},"{'t': 1, 'a': 1}",{},unta,Margaux,{},{},"{('é', 'u'): 1}",énta,Agen,{},{},{}
+én,Boé,énta,Castillon-de-Castets,"{'t': 1, 'a': 1}",{},{},énta,Artigues,"{'t': 1, 'a': 1}",{},{},énta,Bon-Encontre,"{'t': 1, 'a': 1}",{},{}
+énta,Bon-Encontre,enta,Yvrac,{},{},"{('é', 'e'): 1}",én,Boé,{},"{'t': 1, 'a': 1}",{},énta,Agen-ter,{},{},{}
+énta,Colayrac-Saint-Cirq,ta,Virsac,{},"{'é': 1, 'n': 1}",{},énta,Dolmayrac,{},{},{},én,Foulayronnes,{},"{'t': 1, 'a': 1}",{}
+énta,Dolmayrac,énta,Colayrac-Saint-Cirq,{},{},{},énta,Agen-ter,{},{},{},énta,Le Passage,{},{},{}
+én,Foulayronnes,énta,Le Passage,"{'t': 1, 'a': 1}",{},{},ta,Carcans,{},{},"{('é', 't'): 1, ('n', 'a'): 1}",énta,Colayrac-Saint-Cirq,"{'t': 1, 'a': 1}",{},{}
+énta,Le Passage,énta,Saint-Quentin-de-Caplong,{},{},{},én,Foulayronnes,{},"{'t': 1, 'a': 1}",{},énta,Dolmayrac,{},{},{}
+énta,Pont-du-Casse,,,,,,,,,,,,,,,
+énta,Saint-Hilaire-de-Lusignan,énta,Nassiet,{},{},{},,,,,,,,,,
+énta,Astaffort-bis,énta,Pomarez,{},{},{},,,,,,,,,,
+énta,Astaffort,énta,Caudecoste,{},{},{},,,,,,,,,,
+énta,Caudecoste,énta,Astaffort,{},{},{},ta,Castelviel,{},"{'é': 1, 'n': 1}",{},,,,,
+énta,Cuq,énta,Condezaygues,{},{},{},en,Fals,{},"{'t': 1, 'a': 1}","{('é', 'e'): 1}",én,Saint-Nicolas-de-la-Balerme,{},"{'t': 1, 'a': 1}",{}
+en,Fals,énta,Cuq,"{'t': 1, 'a': 1}",{},"{('e', 'é'): 1}",,,,,,,,,,
+en,Layrac,énta,Saint-Quentin-du-Dropt,"{'t': 1, 'a': 1}",{},"{('e', 'é'): 1}",én,Saint-Nicolas-de-la-Balerme,{},{},"{('e', 'é'): 1}",,,,,
+én,Saint-Nicolas-de-la-Balerme,en,Layrac,{},{},"{('é', 'e'): 1}",énda,Saint-Léger-de-Vignague,"{'d': 1, 'a': 1}",{},{},énta,Cuq,"{'t': 1, 'a': 1}",{},{}
+énta,Sauveterre-Saint-Denis,énta,Cauzac,{},{},{},énta,Coirac,{},{},{},énta,Beauville,{},{},{}
+énta,Beauville,enta,Saint-Robert,{},{},"{('é', 'e'): 1}",énta,Sauveterre-Saint-Denis,{},{},{},,,,,
+én,Blaymont,enta,Boudy-de-Beauregard,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",énta,Cauzac,"{'t': 1, 'a': 1}",{},{},,,,,
+énta,Cauzac,én,Blaymont,{},"{'t': 1, 'a': 1}",{},énta,Sauveterre-Saint-Denis,{},{},{},enta,Dondas,{},{},"{('é', 'e'): 1}"
+enta,Dondas,énta,Cauzac,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+énta,Engayrac,én,Sauvagnas,{},"{'t': 1, 'a': 1}",{},énta,Coirac,{},{},{},enta,Gandaille,{},{},"{('é', 'e'): 1}"
+enta,Gandaille,énta,Saint-Maurin,{},{},"{('e', 'é'): 1}",énta,Saint-Martin-de-Beauville,{},{},"{('e', 'é'): 1}",énta,Engayrac,{},{},"{('e', 'é'): 1}"
+énta,Saint-Martin-de-Beauville,enta,Gandaille,{},{},"{('é', 'e'): 1}",énta,Frontenac,{},{},{},énta,Fongrave,{},{},{}
+énta,Saint-Maurin,énta,Tayrac,{},{},{},enta,Gandaille,{},{},"{('é', 'e'): 1}",énta,Cancon-bis,{},{},{}
+énta,Tayrac,énta,Romagne,{},{},{},énta,Saint-Maurin,{},{},{},énta,Beaugas,{},{},{}
+énta,Beaugas,enta,Boudy-de-Beauregard,{},{},"{('é', 'e'): 1}",énta,Tayrac,{},{},{},,,,,
+enta,Boudy-de-Beauregard,énta,Cancon-bis,{},{},"{('e', 'é'): 1}",én,Blaymont,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",énta,Beaugas,{},{},"{('e', 'é'): 1}"
+énta,Cancon-bis,énta,Coirac,{},{},{},enta,Boudy-de-Beauregard,{},{},"{('é', 'e'): 1}",énta,Saint-Maurin,{},{},{}
+en,Cancon,énta,Lougratte,"{'t': 1, 'a': 1}",{},"{('e', 'é'): 1}",énta,Casseneuil,"{'t': 1, 'a': 1}",{},"{('e', 'é'): 1}",,,,,
+énta,Casseneuil,en,Lalandusse,{},"{'t': 1, 'a': 1}","{('é', 'e'): 1}",éna,Monviel,{},{'t': 1},{},en,Cancon,{},"{'t': 1, 'a': 1}","{('é', 'e'): 1}"
+énta,Castelnaud-de-Gratecambe,énda,Bègles,{},{},"{('t', 'd'): 1}",,,,,,,,,,
+éna,Monviel,énta,Casseneuil,{'t': 1},{},{},enta,Moulinet,{'t': 1},{},"{('é', 'e'): 1}",,,,,
+enta,Moulinet,éna,Monviel,{},{'t': 1},"{('e', 'é'): 1}",,,,,,,,,,
+énta,Pailloles,ta,Targon,{},"{'é': 1, 'n': 1}",{},énta,Saint-Maurice-de-Lestapel,{},{},{},,,,,
+énta,Saint-Maurice-de-Lestapel,én,Monflanquin-bis,{},"{'t': 1, 'a': 1}",{},énta,Pailloles,{},{},{},,,,,
+énta,Cahuzac,énta,Saint-Eutrope-de-Born,{},{},{},,,,,,,,,,
+enta,Castang,énna,Sauveterre-de-Guyenne,{},{},"{('e', 'é'): 1, ('t', 'n'): 1}",,,,,,,,,,
+énta,Castillonnès,énta,Ferrensac,{},{},{},en,Lalandusse,{},"{'t': 1, 'a': 1}","{('é', 'e'): 1}",,,,,
+enta,Cavarc,énta,Ferrensac,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+énta,Ferrensac,énta,Castillonnès,{},{},{},enta,Saint-Brice,{},{},"{('é', 'e'): 1}",enta,Cavarc,{},{},"{('é', 'e'): 1}"
+en,Lalandusse,énta,Casseneuil,"{'t': 1, 'a': 1}",{},"{('e', 'é'): 1}",énta,Castillonnès,"{'t': 1, 'a': 1}",{},"{('e', 'é'): 1}",,,,,
+énta,Lougratte,en,Cancon,{},"{'t': 1, 'a': 1}","{('é', 'e'): 1}",énta,Montauriol,{},{},{},,,,,
+énta,Montauriol,énta,Lougratte,{},{},{},,,,,,,,,,
+énta,Saint-Quentin-du-Dropt,en,Layrac,{},"{'t': 1, 'a': 1}","{('é', 'e'): 1}",éntah,Blanquefort-sur-Briolance-La-Sauvetat,{'h': 1},{},{},,,,,
+éntah,Blanquefort-sur-Briolance-La-Sauvetat,énda,Mérignas,{},{'h': 1},"{('t', 'd'): 1}",énta,Saint-Quentin-du-Dropt,{},{'h': 1},{},,,,,
+en,Blanquefort-sur-Briolance,énta,Condezaygues,"{'t': 1, 'a': 1}",{},"{('e', 'é'): 1}",énda,Saint-Léger-de-Vignague,"{'d': 1, 'a': 1}",{},"{('e', 'é'): 1}",én,Fumel,{},{},"{('e', 'é'): 1}"
+énta,Condezaygues,enta,Cuzorn,{},{},"{('é', 'e'): 1}",énta,Cuq,{},{},{},en,Blanquefort-sur-Briolance,{},"{'t': 1, 'a': 1}","{('é', 'e'): 1}"
+enta,Cuzorn,enta,Saint-Sylvestre-sur-Lot,{},{},{},énta,Condezaygues,{},{},"{('e', 'é'): 1}",en,Fumel-bis,{},"{'t': 1, 'a': 1}",{}
+en,Fumel-bis,enda,Saint-Félix-de-Foncaude,"{'d': 1, 'a': 1}",{},{},enta,Cuzorn,"{'t': 1, 'a': 1}",{},{},én,Fumel,{},{},"{('e', 'é'): 1}"
+én,Fumel,en,Fumel-bis,{},{},"{('é', 'e'): 1}",en,Blanquefort-sur-Briolance,{},{},"{('é', 'e'): 1}",,,,,
+én,Monsempron-Libos,éntà,Saint-Avit-Saint-Nazaire,"{'t': 1, 'à': 1}",{},{},enta,Saint-Front-sur-Lémance-Bonaguil,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",,,,,
+enta,Saint-Front-sur-Lémance-Bonaguil,unta,Margaux,{},{},"{('e', 'u'): 1}",én,Monsempron-Libos,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",,,,,
+enta,Saint-Front-sur-Lémance,énta,Brax,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+énta,Sauveterre-la-Lémance,enta,Marmont-Pachas,{},{},"{('é', 'e'): 1}",énta,Aubiac,{},{},{},,,,,
+énta,Aubiac,éndé,Taillebourg,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}",énta,Sauveterre-la-Lémance,{},{},{},,,,,
+énta,Brax,énta,Moirax,{},{},{},énta,Laplume,{},{},{},enta,Saint-Front-sur-Lémance,{},{},"{('é', 'e'): 1}"
+enta,Estillac,eunta,Moulis-en-Médoc-bis,{'u': 1},{},{},énta,Laplume-bis,{},{},"{('e', 'é'): 1}",,,,,
+énta,Laplume-bis,enta,Estillac,{},{},"{('é', 'e'): 1}",énta,Sainte-Foy-la-Grande-ter,{},{},{},,,,,
+énta,Laplume,énta,Brax,{},{},{},enta,Marmont-Pachas,{},{},"{('é', 'e'): 1}",,,,,
+enta,Marmont-Pachas,énta,Sauveterre-la-Lémance,{},{},"{('e', 'é'): 1}",énta,Laplume,{},{},"{('e', 'é'): 1}",,,,,
+énta,Moirax,énta,Brax,{},{},{},,,,,,,,,,
+énta,Roquefort,én,Sainte-Colombe-en-Bruilhois,{},"{'t': 1, 'a': 1}",{},énta,Baigneaux,{},{},{},énta,Monbalen,{},{},{}
+én,Sainte-Colombe-en-Bruilhois,én,Tourtrès,{},{},{},énta,Roquefort,"{'t': 1, 'a': 1}",{},{},én,Sérignac-sur-Garonne,{},{},{}
+én,Sérignac-sur-Garonne,énta,Saint-Pierre-de-Bat,"{'t': 1, 'a': 1}",{},{},én,Sainte-Colombe-en-Bruilhois,{},{},{},én,Tombebœuf,{},{},{}
+en,La Croix-Blanche,ta,Escoussans,{},{},"{('e', 't'): 1, ('n', 'a'): 1}",énta,Laroque-Timbaut-bis,"{'t': 1, 'a': 1}",{},"{('e', 'é'): 1}",énta,Monbalen,"{'t': 1, 'a': 1}",{},"{('e', 'é'): 1}"
+énta,La Sauvetat-de-Savères,énda,Faleyras,{},{},"{('t', 'd'): 1}",én,Laroque-Timbaut,{},"{'t': 1, 'a': 1}",{},énta,Laroque-Timbaut-bis,{},{},{}
+énta,Laroque-Timbaut-bis,en,La Croix-Blanche,{},"{'t': 1, 'a': 1}","{('é', 'e'): 1}",énta,La Sauvetat-de-Savères,{},{},{},,,,,
+én,Laroque-Timbaut,énta,La Sauvetat-de-Savères,"{'t': 1, 'a': 1}",{},{},énta,Saint-Pastour,"{'t': 1, 'a': 1}",{},{},énta,Monbalen,"{'t': 1, 'a': 1}",{},{}
+énta,Monbalen,énta,Roquefort,{},{},{},en,La Croix-Blanche,{},"{'t': 1, 'a': 1}","{('é', 'e'): 1}",én,Laroque-Timbaut,{},"{'t': 1, 'a': 1}",{}
+enta,Saint-Robert,énta,Beauville,{},{},"{('e', 'é'): 1}",én,Sauvagnas,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",,,,,
+én,Sauvagnas,enta,Saint-Robert,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",énta,Engayrac,"{'t': 1, 'a': 1}",{},{},énta,Fongrave,"{'t': 1, 'a': 1}",{},{}
+énta,Fongrave,énta,Saint-Martin-de-Beauville,{},{},{},én,Sauvagnas,{},"{'t': 1, 'a': 1}",{},,,,,
+én,Monclar-bis,énta,Saint-Pierre-de-Bat,"{'t': 1, 'a': 1}",{},{},én,Monclar,{},{},{},,,,,
+én,Monclar,ta,Soulignac,{},{},"{('é', 't'): 1, ('n', 'a'): 1}",én,Monclar-bis,{},{},{},,,,,
+ta,Montastruc,énta,Saint-Pastour,"{'é': 1, 'n': 1}",{},{},énda,Faleyras,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1}",enta,Saint-Étienne-de-Fougères,"{'e': 1, 'n': 1}",{},{}
+enta,Saint-Étienne-de-Fougères,ta,Montastruc,{},"{'e': 1, 'n': 1}",{},ta,Soulignac,{},"{'e': 1, 'n': 1}",{},én,Tombebœuf,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}"
+énta,Saint-Pastour,én,Laroque-Timbaut,{},"{'t': 1, 'a': 1}",{},ta,Montastruc,{},"{'é': 1, 'n': 1}",{},én,Tombebœuf,{},"{'t': 1, 'a': 1}",{}
+én,Tombebœuf,enta,Saint-Étienne-de-Fougères,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",én,Sérignac-sur-Garonne,{},{},{},énta,Saint-Pastour,"{'t': 1, 'a': 1}",{},{}
+én,Tourtrès,énta,Villebramar,"{'t': 1, 'a': 1}",{},{},én,Sainte-Colombe-en-Bruilhois,{},{},{},,,,,
+énta,Villebramar,enta,Gavaudun,{},{},"{('é', 'e'): 1}",én,Tourtrès,{},"{'t': 1, 'a': 1}",{},enda,Lacaussade,{},{},"{('é', 'e'): 1, ('t', 'd'): 1}"
+énta,Bonnenouvelle,énta,Baigneaux,{},{},{},enta,Gavaudun,{},{},"{('é', 'e'): 1}",,,,,
+enta,Gavaudun,énta,Bonnenouvelle,{},{},"{('e', 'é'): 1}",énta,Villebramar,{},{},"{('e', 'é'): 1}",enta,La Sauvetat-sur-Lède,{},{},{}
+enta,La Sauvetat-sur-Lède,ta,Targon-bis,{},"{'e': 1, 'n': 1}",{},enta,Gavaudun,{},{},{},,,,,
+enta,Lacapelle-Biron,ta,Targon-bis,{},"{'e': 1, 'n': 1}",{},enda,Lacaussade,{},{},"{('t', 'd'): 1}",,,,,
+enda,Lacaussade,enta,Lacapelle-Biron,{},{},"{('d', 't'): 1}",énta,Villebramar,{},{},"{('e', 'é'): 1, ('d', 't'): 1}",,,,,
+én̈,Laussou,täy,Cazalis,{},{},"{('é', 't'): 1, ('n', 'ä'): 1, ('̈', 'y'): 1}",én,Monflanquin-bis,{},{'̈': 1},{},,,,,
+én,Monflanquin-bis,énta,Saint-Maurice-de-Lestapel,"{'t': 1, 'a': 1}",{},{},ta,Monflanquin-Lamothe,{},{},"{('é', 't'): 1, ('n', 'a'): 1}",én̈,Laussou,{'̈': 1},{},{}
+ta,Monflanquin-Lamothe,én,Monflanquin-bis,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}",,,,,,,,,,
+én,Monségur,énta,Duhort-Bachen,"{'t': 1, 'a': 1}",{},{},enta,Montagnac-sur-Lède,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",,,,,
+enta,Montagnac-sur-Lède,enta,Aire-sur-l'Adour,{},{},{},én,Monségur,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",,,,,
+ta,Paulhiac,énda,Salles,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1}",énta,Saint-Étienne-de-Lisse,"{'é': 1, 'n': 1}",{},{},,,,,
+ta,Saint-Aubin,ta,Bazas-bis,{},{},{},énda,Salles,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1}",,,,,
+énda,Salles,ta,Saint-Aubin,{},"{'n': 1, 'd': 1}","{('é', 't'): 1}",ta,Paulhiac,{},"{'n': 1, 'd': 1}","{('é', 't'): 1}",,,,,
+enda,Savignac-sur-Leyze,enta,Vignonet,{},{},"{('d', 't'): 1}",én,Auradou,{},"{'d': 1, 'a': 1}","{('e', 'é'): 1}",,,,,
+én,Auradou,enda,Savignac-sur-Leyze,"{'d': 1, 'a': 1}",{},"{('é', 'e'): 1}",énta,Eugénie-les-Bains,"{'t': 1, 'a': 1}",{},{},,,,,
+énda,Dausse,enta,Frespech,{},{},"{('é', 'e'): 1, ('d', 't'): 1}",,,,,,,,,,
+enta,Frespech,énda,Dausse,{},{},"{('e', 'é'): 1, ('t', 'd'): 1}",,,,,,,,,,
+en,Hautefage-la-Tour,en,Massoulès,{},{},{},,,,,,,,,,
+en,Massoulès,en,Hautefage-la-Tour,{},{},{},,,,,,,,,,
+enta,Saint-Sylvestre-sur-Lot,enta,Cuzorn,{},{},{},én,Bazens,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",,,,,
+én,Trémons,enda,Saint-Félix-de-Foncaude,"{'d': 1, 'a': 1}",{},"{('é', 'e'): 1}",én,Trentels,{},{},{},én,Bazens,{},{},{}
+én,Trentels,én,Trémons,{},{},{},enta,Castaignos-Souslens,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",énta,Bourran,"{'t': 1, 'a': 1}",{},{}
+én,Bazens,enta,Saint-Sylvestre-sur-Lot,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",én,Trémons,{},{},{},,,,,
+énta,Bourran,én,Trentels,{},"{'t': 1, 'a': 1}",{},én,Clermont-Dessous,{},"{'t': 1, 'a': 1}",{},,,,,
+én,Clermont-Dessous,énta,Bourran,"{'t': 1, 'a': 1}",{},{},,,,,,,,,,
+én,Galapian,,,,,,,,,,,,,,,
+éndé,Lusinhan-Grand,,,,,,,,,,,,,,,
+én,Nicole,,,,,,,,,,,,,,,
+énda,Port-Sainte-Marie,enta,Castel-Sarrazin,{},{},"{('é', 'e'): 1, ('d', 't'): 1}",,,,,,,,,,
+én,Saint-Médard,én,Lacépède,{},{},{},enta,Philondenx,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",énta,Cours,"{'t': 1, 'a': 1}",{},{}
+én,Saint-Salvy,én,Saint-Sardos,{},{},{},énda,Laugnac,"{'d': 1, 'a': 1}",{},{},,,,,
+énta,Cours,énn,Eaux-Bonnes,{},{'a': 1},"{('t', 'n'): 1}",én,Saint-Médard,{},"{'t': 1, 'a': 1}",{},,,,,
+en,Granges-sur-Lot,énda,Laugnac,"{'d': 1, 'a': 1}",{},"{('e', 'é'): 1}",,,,,,,,,,
+én,Lacépède,én,Saint-Médard,{},{},{},énda,Laugnac,"{'d': 1, 'a': 1}",{},{},,,,,
+énda,Laugnac,én,Saint-Salvy,{},"{'d': 1, 'a': 1}",{},en,Granges-sur-Lot,{},"{'d': 1, 'a': 1}","{('é', 'e'): 1}",én,Lacépède,{},"{'d': 1, 'a': 1}",{}
+éndé,Lusignan-Petit,én,Prayssas-bis,{},"{'d': 1, 'é': 1}",{},,,,,,,,,,
+énta,Madaillan,én,Castelculier,{},"{'t': 1, 'a': 1}",{},éndé,Montpezat,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}",,,,,
+éndé,Montpezat,énta,Madaillan,{},{},"{('d', 't'): 1, ('é', 'a'): 1}",én,Prayssas-bis,{},"{'d': 1, 'é': 1}",{},,,,,
+én,Prayssas-bis,én,Prayssas,{},{},{},éndé,Lusignan-Petit,"{'d': 1, 'é': 1}",{},{},éndé,Montpezat,"{'d': 1, 'é': 1}",{},{}
+én,Prayssas,én,Prayssas-bis,{},{},{},,,,,,,,,,
+én,Saint-Sardos,én,Saint-Salvy,{},{},{},,,,,,,,,,
+én,Castelculier,énta,Madaillan,"{'t': 1, 'a': 1}",{},{},,,,,,,,,,
+endé,Clermont-Soubiran,,,,,,,,,,,,,,,
+énda,Grayssas,endé,Puymirol-bis,{},{},"{('é', 'e'): 1, ('a', 'é'): 1}",,,,,,,,,,
+endé,Puymirol-bis,énda,Grayssas,{},{},"{('e', 'é'): 1, ('é', 'a'): 1}",,,,,,,,,,
+éndé,Puymirol,éndé,Saint-Caprais-de-Lerm,{},{},{},,,,,,,,,,
+éndé,Saint-Caprais-de-Lerm,éndé,Puymirol,{},{},{},,,,,,,,,,
+én,Saint-Jean-de-Thurac,,,,,,,,,,,,,,,
+éndé,Allez-et-Cazeneuve,énta,Nassiet,{},{},"{('d', 't'): 1, ('é', 'a'): 1}",,,,,,,,,,
+en,Dolmayrac,,,,,,,,,,,,,,,
+en,Le-Temple-sur-Lot,éndé,Anthé,"{'d': 1, 'é': 1}",{},"{('e', 'é'): 1}",én,Sainte-Livrade-sur-Lot-bis,{},{},"{('e', 'é'): 1}",,,,,
+én,Sainte-Livrade-sur-Lot-bis,énta,Lévignacq,"{'t': 1, 'a': 1}",{},{},en,Le-Temple-sur-Lot,{},{},"{('é', 'e'): 1}",én,Sainte-Livrade-sur-Lot,{},{},{}
+én,Sainte-Livrade-sur-Lot,en,Bourlens,{},{},"{('é', 'e'): 1}",én,Sainte-Livrade-sur-Lot-bis,{},{},{},,,,,
+éndé,Anthé,en,Le-Temple-sur-Lot,{},"{'d': 1, 'é': 1}","{('é', 'e'): 1}",en,Bourlens,{},"{'d': 1, 'é': 1}","{('é', 'e'): 1}",,,,,
+en,Bourlens,éntà,Léon,"{'t': 1, 'à': 1}",{},"{('e', 'é'): 1}",én,Sainte-Livrade-sur-Lot,{},{},"{('e', 'é'): 1}",éndé,Anthé,"{'d': 1, 'é': 1}",{},"{('e', 'é'): 1}"
+én,Cazideroque,én,Tartas,{},{},{},én,Courbiac,{},{},{},,,,,
+én,Courbiac,én,Cazideroque,{},{},{},ta,Léren,{},{},"{('é', 't'): 1, ('n', 'a'): 1}",én,Masquières,{},{},{}
+én,Masquières,énta,Andrein,"{'t': 1, 'a': 1}",{},{},én,Courbiac,{},{},{},,,,,
+én,Montayral,énta,Perricard,"{'t': 1, 'a': 1}",{},{},,,,,,,,,,
+énta,Perricard,én,Meilhan,{},"{'t': 1, 'a': 1}",{},én,Montayral,{},"{'t': 1, 'a': 1}",{},,,,,
+en,Saint-Georges,,,,,,,,,,,,,,,
+éndé,Saint-Vite,,,,,,,,,,,,,,,
+én,Thézac,,,,,,,,,,,,,,,
+én,Tournon-d'Agenais,énté,Le Tourne,"{'t': 1, 'é': 1}",{},{},én,Bias,{},{},{},,,,,
+én,Bias,én,Tournon-d'Agenais,{},{},{},enta,Sallebœuf,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",énta,Courbiac,"{'t': 1, 'a': 1}",{},{}
+énta,Courbiac,én,Bias,{},"{'t': 1, 'a': 1}",{},,,,,,,,,,
+enta,Eysses,éndé,Mestras,{},{},"{('e', 'é'): 1, ('t', 'd'): 1, ('a', 'é'): 1}",énta,Lédat,{},{},"{('e', 'é'): 1}",,,,,
+énta,Lédat,enta,Eysses,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+énta,Pujols,énta,Cabara,{},{},{},enta,Saint-Antoine-de-Ficalba,{},{},"{('é', 'e'): 1}",éndé,Saint-Germain,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}"
+enta,Saint-Antoine-de-Ficalba,énta,Pujols,{},{},"{('e', 'é'): 1}",enta,Dax,{},{},{},ennta,Sainte-Colombe-de-Villeneuve,{'n': 1},{},{}
+éndé,Saint-Germain,énta,Saint-Paul-lès-Dax,{},{},"{('d', 't'): 1, ('é', 'a'): 1}",énta,Pujols,{},{},"{('d', 't'): 1, ('é', 'a'): 1}",ennta,Sainte-Colombe-de-Villeneuve,{'n': 1},{},"{('é', 'e'): 1, ('d', 't'): 1, ('é', 'a'): 1}"
+ennta,Sainte-Colombe-de-Villeneuve,enta,Saint-Antoine-de-Ficalba,{},{'n': 1},{},én,Rives,{},"{'n': 1, 't': 1, 'a': 1}","{('e', 'é'): 1}",éndé,Saint-Germain,{},{'a': 1},"{('e', 'é'): 1, ('n', 'd'): 1, ('t', 'é'): 1}"
+én,Sembas,énta,Villeneuve-sur-Lot-ter,"{'t': 1, 'a': 1}",{},{},enta,Heugas,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",,,,,
+énta,Villeneuve-sur-Lot-ter,én,Saint-Étienne-de-Villeréal,{},"{'t': 1, 'a': 1}",{},én,Sembas,{},"{'t': 1, 'a': 1}",{},,,,,
+énta,Villeneuve-sur-Lot,én,Parranquet,{},"{'t': 1, 'a': 1}",{},énta,Bournel,{},{},{},,,,,
+énta,Bournel,énta,Villeneuve-sur-Lot,{},{},{},,,,,,,,,,
+én,Dévillac,enta,La Lande-de-Fronsac,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",énta,Doudrac,"{'t': 1, 'a': 1}",{},{},,,,,
+énta,Doudrac,én,Dévillac,{},"{'t': 1, 'a': 1}",{},énta,Saint-Pandelon,{},{},{},én,Montaut,{},"{'t': 1, 'a': 1}",{}
+énta,Mazières-Naresse,én,Montaut,{},"{'t': 1, 'a': 1}",{},,,,,,,,,,
+én,Montaut,énta,Doudrac,"{'t': 1, 'a': 1}",{},{},énta,Mazières-Naresse,"{'t': 1, 'a': 1}",{},{},,,,,
+én,Parranquet,énta,Villeneuve-sur-Lot,"{'t': 1, 'a': 1}",{},{},,,,,,,,,,
+én,Rayet,ta,Herm,{},{},"{('é', 't'): 1, ('n', 'a'): 1}",én,Saint-Étienne-de-Villeréal,{},{},{},én,Rives,{},{},{}
+én,Rives,ennta,Sainte-Colombe-de-Villeneuve,"{'n': 1, 't': 1, 'a': 1}",{},"{('é', 'e'): 1}",én,Rayet,{},{},{},,,,,
+én,Saint-Étienne-de-Villeréal,énta,Villeneuve-sur-Lot-ter,"{'t': 1, 'a': 1}",{},{},én,Rayet,{},{},{},,,,,
+énta,Saint-Eutrope-de-Born,énta,Cahuzac,{},{},{},,,,,,,,,,
+enta,Saint-Martin-de-Villeréal,,,,,,,,,,,,,,,
+én,Tourliac,énta,Lugon-et-l'Île-du-Carnay,"{'t': 1, 'a': 1}",{},{},énta,Villeréal-bis,"{'t': 1, 'a': 1}",{},{},,,,,
+énta,Villeréal-bis,én,Tourliac,{},"{'t': 1, 'a': 1}",{},énta,Villeréal,{},{},{},,,,,
+énta,Villeréal,énta,Villeréal-bis,{},{},{},,,,,,,,,,
+én,Accous-bis,énté,Accous,"{'t': 1, 'é': 1}",{},{},én,Aydius,{},{},{},,,,,
+énté,Accous,én,Accous-bis,{},"{'t': 1, 'é': 1}",{},,,,,,,,,,
+én,Aydius,én,Accous-bis,{},{},{},,,,,,,,,,
+én,Bedous,enta,Cette-Eygun,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",eunta,Lavazan,"{'e': 1, 't': 1, 'a': 1}",{},"{('é', 'u'): 1}",éndé,Borce,"{'d': 1, 'é': 1}",{},{}
+éndé,Borce,én,Bedous,{},"{'d': 1, 'é': 1}",{},énta,Estigarde,{},{},"{('d', 't'): 1, ('é', 'a'): 1}",én,Escot,{},"{'d': 1, 'é': 1}",{}
+enta,Cette-Eygun,én,Escot,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",eunta,Grignols,{'u': 1},{},{},én,Bedous,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}"
+én,Escot,énta,Lagrange,"{'t': 1, 'a': 1}",{},{},enta,Cette-Eygun,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",éndé,Borce,"{'d': 1, 'é': 1}",{},{}
+énda,Etsaut,én,Urdos,{},"{'d': 1, 'a': 1}",{},enta,Losse,{},{},"{('é', 'e'): 1, ('d', 't'): 1}",,,,,
+enta,Lées-Athas,enta,Issor,{},{},{},en,Ance,{},"{'t': 1, 'a': 1}",{},,,,,
+én,Lescun,énnté,Vérac,"{'n': 1, 't': 1, 'é': 1}",{},{},énnta̱,Osse-en-Aspe,"{'n': 1, 't': 1, 'a': 1, '̱': 1}",{},{},endé,Lourdios-Ichère,"{'d': 1, 'é': 1}",{},"{('é', 'e'): 1}"
+endé,Lourdios-Ichère,én,Lescun,{},"{'d': 1, 'é': 1}","{('e', 'é'): 1}",én,Sarrance,{},"{'d': 1, 'é': 1}","{('e', 'é'): 1}",,,,,
+énnta̱,Osse-en-Aspe,én,Lescun,{},"{'n': 1, 't': 1, 'a': 1, '̱': 1}",{},én̈ta,Salles-bis,{},{'̱': 1},"{('n', '̈'): 1}",én,Urdos,{},"{'n': 1, 't': 1, 'a': 1, '̱': 1}",{}
+én,Sarrance,énta,Lanne-en-Barétous,"{'t': 1, 'a': 1}",{},{},endé,Lourdios-Ichère,"{'d': 1, 'é': 1}",{},"{('é', 'e'): 1}",en,Ance,{},{},"{('é', 'e'): 1}"
+én,Urdos,énnta̱,Osse-en-Aspe,"{'n': 1, 't': 1, 'a': 1, '̱': 1}",{},{},énda,Etsaut,"{'d': 1, 'a': 1}",{},{},en,Ance,{},{},"{('é', 'e'): 1}"
+en,Ance,én,Urdos,{},{},"{('e', 'é'): 1}",enta,Lées-Athas,"{'t': 1, 'a': 1}",{},{},én,Sarrance,{},{},"{('e', 'é'): 1}"
+én,Aramits,énta,Daignac,"{'t': 1, 'a': 1}",{},{},enta,Arette,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",,,,,
+enta,Arette,enta,Losse,{},{},{},én,Aramits,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",,,,,
+én,Féas,enta,Issor,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",én,Arudy,{},{},{},,,,,
+enta,Issor,enta,Lées-Athas,{},{},{},én,Féas,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",énta,Lanne-en-Barétous,{},{},"{('e', 'é'): 1}"
+énta,Lanne-en-Barétous,én,Sarrance,{},"{'t': 1, 'a': 1}",{},enta,Issor,{},{},"{('é', 'e'): 1}",,,,,
+énta,Arudy-bis,én,Arudy,{},"{'t': 1, 'a': 1}",{},,,,,,,,,,
+én,Arudy,én,Féas,{},{},{},énta,Arudy-bis,"{'t': 1, 'a': 1}",{},{},,,,,
+énta,Bescat,eunta,Pondaurat,{'e': 1},{},"{('é', 'u'): 1}",,,,,,,,,,
+tá,Buzy,enta,Mugron,"{'e': 1, 'n': 1}",{},"{('á', 'a'): 1}",,,,,,,,,,
+entra,Castet,énta,Mauvezin-d'Armagnac,{},{'r': 1},"{('e', 'é'): 1}",,,,,,,,,,
+ento,Izeste,énta,Louvie-Juzon,{},{},"{('e', 'é'): 1, ('o', 'a'): 1}",enta,Lerm-et-Musset,{},{},"{('o', 'a'): 1}",,,,,
+énta,Louvie-Juzon,éndé,Camiran,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}",ento,Izeste,{},{},"{('é', 'e'): 1, ('a', 'o'): 1}",énta,Rébénacq,{},{},{}
+én,Lys,én,Capbis,{},{},{},énta,Mifaget,"{'t': 1, 'a': 1}",{},{},én,Bidos,{},{},{}
+énta,Mifaget,én,Lys,{},"{'t': 1, 'a': 1}",{},énta,Rébénacq,{},{},{},,,,,
+énta,Rébénacq,ta,Baigts,{},"{'é': 1, 'n': 1}",{},énta,Louvie-Juzon,{},{},{},énta,Mifaget,{},{},{}
+éntay,Sainte-Colome,enta,Sévignacq-Meyracq,{},{'y': 1},"{('é', 'e'): 1}",ta,Bergouey,{},"{'é': 1, 'n': 1, 'y': 1}",{},én,Bidos,{},"{'t': 1, 'a': 1, 'y': 1}",{}
+enta,Sévignacq-Meyracq,éntay,Sainte-Colome,{'y': 1},{},"{('e', 'é'): 1}",,,,,,,,,,
+én,Bidos,éntay,Sainte-Colome,"{'t': 1, 'a': 1, 'y': 1}",{},{},én,Lys,{},{},{},,,,,
+ta,Buziet,enta,Parleboscq,"{'e': 1, 'n': 1}",{},{},,,,,,,,,,
+énta,Cardesse,énta,Escou,{},{},{},enta,Parleboscq,{},{},"{('é', 'e'): 1}",énta,Lurbe-Saint-Christau,{},{},{}
+énta,Escou,énta,Geaune-bis,{},{},{},énta,Cardesse,{},{},{},énta,Escout,{},{},{}
+énta,Escout,én,Eysus,{},"{'t': 1, 'a': 1}",{},ta,Lacajunte,{},"{'é': 1, 'n': 1}",{},énta,Escou,{},{},{}
+én,Eysus,enta,Ledeuix,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",enta,Mauries,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",énta,Escout,"{'t': 1, 'a': 1}",{},{}
+enta,Goès,enta,Miramont-Sensacq,{},{},{},enta,Ledeuix,{},{},{},én,Herrère,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}"
+én,Herrère,enta,Goès,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",,,,,,,,,,
+enta,Ledeuix,enta,Goès,{},{},{},én,Eysus,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",énta,Lurbe-Saint-Christau,{},{},"{('e', 'é'): 1}"
+énta,Lurbe-Saint-Christau,énta,Cardesse,{},{},{},enta,Ledeuix,{},{},"{('é', 'e'): 1}",,,,,
+én,Notre-Dame-bis,ta,Aubagnan,{},{},"{('é', 't'): 1, ('n', 'a'): 1}",én,Maspie-Lalonquère-Juillacq,{},{},{},,,,,
+énta,Notre-Dame,entá,Oloron-ouest-bis,{},{},"{('é', 'e'): 1, ('a', 'á'): 1}",ta,Bordères,{},"{'é': 1, 'n': 1}",{},énta,Oloron-est,{},{},{}
+énta,Ogeu-les-Bains,ta,Benquet,{},"{'é': 1, 'n': 1}",{},énta,Oloron-est,{},{},{},,,,,
+énta,Oloron-est,én,Monein-bis,{},"{'t': 1, 'a': 1}",{},énta,Ogeu-les-Bains,{},{},{},énta,Notre-Dame,{},{},{}
+entá,Oloron-ouest-bis,énta,Notre-Dame,{},{},"{('e', 'é'): 1, ('á', 'a'): 1}",,,,,,,,,,
+én,Oloron-ouest,eunta,Sendets,"{'e': 1, 't': 1, 'a': 1}",{},"{('é', 'u'): 1}",én,Précilhon,{},{},{},énta,Poey-d'Oloron,"{'t': 1, 'a': 1}",{},{}
+énta,Poey-d'Oloron,énta,Aren,{},{},{},én,Oloron-ouest,{},"{'t': 1, 'a': 1}",{},én,Agnos,{},"{'t': 1, 'a': 1}",{}
+én,Précilhon,én,Oloron-ouest,{},{},{},énta,Béguey,"{'t': 1, 'a': 1}",{},{},énte,Saucède,"{'t': 1, 'e': 1}",{},{}
+énte,Saucède,én,Précilhon,{},"{'t': 1, 'e': 1}",{},endy,Saint-Morillon,{},{},"{('é', 'e'): 1, ('t', 'd'): 1, ('e', 'y'): 1}",én,Agnos,{},"{'t': 1, 'e': 1}",{}
+én,Agnos,énte,Saucède,"{'t': 1, 'e': 1}",{},{},en,Saint-Goin,{},{},"{('é', 'e'): 1}",énta,Poey-d'Oloron,"{'t': 1, 'a': 1}",{},{}
+énta,Aren,ta,Asasp-Arros,{},"{'é': 1, 'n': 1}",{},énta,Poey-d'Oloron,{},{},{},en,Saint-Goin,{},"{'t': 1, 'a': 1}","{('é', 'e'): 1}"
+énta,Asasp-Arros-bis,énta,Géronce,{},{},{},ta,Lauret,{},"{'é': 1, 'n': 1}",{},ta,Asasp-Arros,{},"{'é': 1, 'n': 1}",{}
+ta,Asasp-Arros,enta,Miramont-Sensacq,"{'e': 1, 'n': 1}",{},{},énta,Aren,"{'é': 1, 'n': 1}",{},{},énta,Asasp-Arros-bis,"{'é': 1, 'n': 1}",{},{}
+énta,Géronce,enta,Bats,{},{},"{('é', 'e'): 1}",énta,Asasp-Arros-bis,{},{},{},ta,Geüs-d'Oloron,{},"{'é': 1, 'n': 1}",{}
+ta,Geüs-d'Oloron,enta,Gurmençon,"{'e': 1, 'n': 1}",{},{},ta,Sainte-Meille,{},{},{},énta,Géronce,"{'é': 1, 'n': 1}",{},{}
+enta,Gurmençon,ende,Saint-Selve,{},{},"{('t', 'd'): 1, ('a', 'e'): 1}",ta,Geüs-d'Oloron,{},"{'e': 1, 'n': 1}",{},en,Saint-Goin,{},"{'t': 1, 'a': 1}",{}
+en,Saint-Goin,én,Agnos,{},{},"{('e', 'é'): 1}",enta,Gurmençon,"{'t': 1, 'a': 1}",{},{},énta,Aren,"{'t': 1, 'a': 1}",{},"{('e', 'é'): 1}"
+en,Anglet,en,Bayonne-Saint-André,{},{},{},ta,Bilhères,{},{},"{('e', 't'): 1, ('n', 'a'): 1}",énta,Bassussarry,"{'t': 1, 'a': 1}",{},"{('e', 'é'): 1}"
+énta,Bassussarry,en,Anglet,{},"{'t': 1, 'a': 1}","{('é', 'e'): 1}",enta,Philondenx,{},{},"{('é', 'e'): 1}",en,Bayonne-Nord-Ouest-bis,{},"{'t': 1, 'a': 1}","{('é', 'e'): 1}"
+en,Bayonne-Nord-Ouest-bis,én,Boucau,{},{},"{('e', 'é'): 1}",én,Bayonne-Nord-Ouest,{},{},"{('e', 'é'): 1}",énta,Bassussarry,"{'t': 1, 'a': 1}",{},"{('e', 'é'): 1}"
+én,Bayonne-Nord-Ouest,en,Bayonne-Nord-Ouest-bis,{},{},"{('é', 'e'): 1}",ènde,Casseuil,"{'d': 1, 'e': 1}",{},"{('é', 'è'): 1}",enta,Biarritz,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}"
+en,Bayonne-Saint-André,én,Bayonne-Saint-Esprit,{},{},"{('e', 'é'): 1}",énta,Bielle,"{'t': 1, 'a': 1}",{},"{('e', 'é'): 1}",en,Anglet,{},{},{}
+én,Bayonne-Saint-Esprit,enta,Espoey,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",en,Bayonne-Saint-André,{},{},"{('é', 'e'): 1}",enta,Biarritz,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}"
+enta,Biarritz,én,Bayonne-Nord-Ouest,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",énta,Bosdarros,{},{},"{('e', 'é'): 1}",én,Bayonne-Saint-Esprit,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}"
+én,Boucau,én,Saint-Pierre-d'Irube,{},{},{},en,Bayonne-Nord-Ouest-bis,{},{},"{('é', 'e'): 1}",,,,,
+én,Saint-Pierre-d'Irube,énta,Puyol-Cazalet,"{'t': 1, 'a': 1}",{},{},én,Boucau,{},{},{},én,Arancou,{},{},{}
+én,Arancou,én,Saint-Pierre-d'Irube,{},{},{},,,,,,,,,,
+énta,Bergouey,éntà,Pimbo,{},{},"{('a', 'à'): 1}",,,,,,,,,,
+énta,Bidache-bis,ta,Saint-Cricq-du-Gave,{},"{'é': 1, 'n': 1}",{},,,,,,,,,,
+énta,Bidache,énta,Mauvezin-d'Armagnac,{},{},{},énta,Came,{},{},{},,,,,
+énta,Came,ta,Mugron-bis,{},"{'é': 1, 'n': 1}",{},énta,Bidache,{},{},{},én,Laruns,{},"{'t': 1, 'a': 1}",{}
+éntâ,Guiche,én,Sames,{},"{'t': 1, 'â': 1}",{},éntas,Laruns-bis,{'a': 1},{},"{('â', 's'): 1}",,,,,
+én,Sames,énta,Viellenave,"{'t': 1, 'a': 1}",{},{},éntâ,Guiche,"{'t': 1, 'â': 1}",{},{},énta,Aste-Béon,"{'t': 1, 'a': 1}",{},{}
+énta,Viellenave,én,Sames,{},"{'t': 1, 'a': 1}",{},énta,Maure,{},{},{},,,,,
+énta,Aste-Béon,én,Monségur,{},"{'t': 1, 'a': 1}",{},én,Sames,{},"{'t': 1, 'a': 1}",{},,,,,
+éntad,Béost,énta,Bielle,{},{'d': 1},{},én ta,Ger,{' ': 1},{'d': 1},{},én,Laruns,{},"{'t': 1, 'a': 1, 'd': 1}",{}
+énta,Bielle,en,Bayonne-Saint-André,{},"{'t': 1, 'a': 1}","{('é', 'e'): 1}",éntad,Béost,{'d': 1},{},{},ta,Bilhères,{},"{'é': 1, 'n': 1}",{}
+ta,Bilhères,en,Anglet,{},{},"{('t', 'e'): 1, ('a', 'n'): 1}",énta,Bielle,"{'é': 1, 'n': 1}",{},{},énn,Eaux-Bonnes,{'é': 1},{},"{('t', 'n'): 1, ('a', 'n'): 1}"
+énn,Eaux-Bonnes,énta,Gère-Bélesten,{'t': 1},{},"{('n', 'a'): 1}",énta,Cours,{'t': 1},{},"{('n', 'a'): 1}",ta,Bilhères,{},{'n': 1},"{('é', 't'): 1, ('n', 'a'): 1}"
+énta,Gère-Bélesten,énn,Eaux-Bonnes,{},{'a': 1},"{('t', 'n'): 1}",éntas,Laruns-bis,{'s': 1},{},{},,,,,
+éntas,Laruns-bis,éntâ,Guiche,{},{'s': 1},"{('a', 'â'): 1}",énta,Gère-Bélesten,{},{'s': 1},{},én,Laruns,{},"{'t': 1, 'a': 1, 's': 1}",{}
+én,Laruns,éntad,Béost,"{'t': 1, 'a': 1, 'd': 1}",{},{},énta,Came,"{'t': 1, 'a': 1}",{},{},éntas,Laruns-bis,"{'t': 1, 'a': 1, 's': 1}",{},{}
+enta,Louvie-Soubiron,enta,Gaillan-en-Médoc,{},{},{},,,,,,,,,,
+én,Aubertin,énta,Lacommande,"{'t': 1, 'a': 1}",{},{},énta,Estialescq,"{'t': 1, 'a': 1}",{},{},,,,,
+énta,Estialescq,én,Aubertin,{},"{'t': 1, 'a': 1}",{},ta,Samadet,{},"{'é': 1, 'n': 1}",{},énta,Lasseube,{},{},{}
+énta,Lacommande,enta,Vendays-Montalivet,{},{},"{('é', 'e'): 1}",én,Aubertin,{},"{'t': 1, 'a': 1}",{},én,Lasseube-bis,{},"{'t': 1, 'a': 1}",{}
+én,Lasseube-bis,énta,Lasseube,"{'t': 1, 'a': 1}",{},{},enta,Valeyrac,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",énta,Lacommande,"{'t': 1, 'a': 1}",{},{}
+énta,Lasseube,ta,Urgons,{},"{'é': 1, 'n': 1}",{},én,Lasseube-bis,{},"{'t': 1, 'a': 1}",{},énta,Estialescq,{},{},{}
+enta,Lasseubetat,ta,Benquet,{},"{'e': 1, 'n': 1}",{},én,Monein-bis,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",én,Lahourcade,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}"
+én,Abos,én,Lucq-de-Béarn,{},{},{},ta,Téthieu,{},{},"{('é', 't'): 1, ('n', 'a'): 1}",énta,Cuqueron,"{'t': 1, 'a': 1}",{},{}
+énta,Cuqueron,enta,Tercis-les-Bains,{},{},"{('é', 'e'): 1}",én,Lahourcade,{},"{'t': 1, 'a': 1}",{},én,Abos,{},"{'t': 1, 'a': 1}",{}
+én,Lahourcade,énta,Cuqueron,"{'t': 1, 'a': 1}",{},{},ta,Bascons,{},{},"{('é', 't'): 1, ('n', 'a'): 1}",enta,Lasseubetat,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}"
+én,Lucq-de-Béarn,ta,Bordères,{},{},"{('é', 't'): 1, ('n', 'a'): 1}",én,Abos,{},{},{},én,Monein-bis,{},{},{}
+én,Monein-bis,enta,Lasseubetat,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",énta,Oloron-est,"{'t': 1, 'a': 1}",{},{},én,Lucq-de-Béarn,{},{},{}
+én,Monein,,,,,,,,,,,,,,,
+énta,Parbayse,énta,Pardies,{},{},{},,,,,,,,,,
+énta,Pardies,enta,Grézillac,{},{},"{('é', 'e'): 1}",énta,Parbayse,{},{},{},enta,Escurès,{},{},"{('é', 'e'): 1}"
+ta,Tarsacq,én,Mascaraàs-Haron,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}",enta,Gestas,"{'e': 1, 'n': 1}",{},{},énta,Osserain,"{'é': 1, 'n': 1}",{},{}
+enta,Gestas,ta,Tarsacq,{},"{'e': 1, 'n': 1}",{},enta,Anoye,{},{},{},,,,,
+énta,Labets-Biscay,énta,Castetpugon,{},{},{},énta,Osserain,{},{},{},,,,,
+énta,Osserain,énte,La Bastide-Clairence-bis,{},{},"{('a', 'e'): 1}",ta,Tarsacq,{},"{'é': 1, 'n': 1}",{},énta,Labets-Biscay,{},{},{}
+énta,Montory,énta,Diusse,{},{},{},énte,La Bastide-Clairence-bis,{},{},"{('a', 'e'): 1}",én,Conchez-de-Béarn,{},"{'t': 1, 'a': 1}",{}
+énte,La Bastide-Clairence-bis,énta,Montory,{},{},"{('e', 'a'): 1}",én,Saint-Jean-Poudge,{},"{'t': 1, 'e': 1}",{},énta,Osserain,{},{},"{('e', 'a'): 1}"
+énta,La Bastide-Clairence,ta,Urt,{},"{'é': 1, 'n': 1}",{},,,,,,,,,,
+ta,Urt,énta,La Bastide-Clairence,"{'é': 1, 'n': 1}",{},{},ta,Grenade-sur-l'Adour,{},{},{},enta,Aubous,"{'e': 1, 'n': 1}",{},{}
+enta,Aubous,én̄,Boueilh-Boueilho-Lasque,{},{'a': 1},"{('e', 'é'): 1, ('t', '̄'): 1}",ta,Urt,{},"{'e': 1, 'n': 1}",{},,,,,
+én,Aydie,,,,,,,,,,,,,,,
+énta,Baliracq-Maumusson,ta,Grenade-sur-l'Adour,{},"{'é': 1, 'n': 1}",{},én̄,Boueilh-Boueilho-Lasque,{},{'a': 1},"{('t', '̄'): 1}",,,,,
+én̄,Boueilh-Boueilho-Lasque,enta,Aubous,{'t': 1},{},"{('é', 'e'): 1, ('̄', 'a'): 1}",énta,Baliracq-Maumusson,{'t': 1},{},"{('̄', 'a'): 1}",,,,,
+enda,Burosse-Mendousse,én,Conchez-de-Béarn,{},"{'d': 1, 'a': 1}","{('e', 'é'): 1}",,,,,,,,,,
+énta,Castetpugon,énta,Labets-Biscay,{},{},{},én,Conchez-de-Béarn,{},"{'t': 1, 'a': 1}",{},,,,,
+én,Conchez-de-Béarn,enda,Burosse-Mendousse,"{'d': 1, 'a': 1}",{},"{('é', 'e'): 1}",énta,Montory,"{'t': 1, 'a': 1}",{},{},énta,Castetpugon,"{'t': 1, 'a': 1}",{},{}
+énta,Diusse,en,Garlin-bis,{},"{'t': 1, 'a': 1}","{('é', 'e'): 1}",énta,Montory,{},{},{},,,,,
+en,Garlin-bis,ta,Bégadan,{},{},"{('e', 't'): 1, ('n', 'a'): 1}",énta,Diusse,"{'t': 1, 'a': 1}",{},"{('e', 'é'): 1}",én,Garlin,{},{},"{('e', 'é'): 1}"
+én,Garlin,en,Garlin-bis,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+én,Mascaraàs-Haron,enta,Moncla,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",ta,Tarsacq,{},{},"{('é', 't'): 1, ('n', 'a'): 1}",én,Saint-Jean-Poudge,{},{},{}
+enta,Moncla,én,Bassillon-Vauzé,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",én,Mascaraàs-Haron,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",én,Portet,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}"
+entá,Mont-Disse,enda,Chartrons,{},{},"{('t', 'd'): 1, ('á', 'a'): 1}",énta,Mouhous,{},{},"{('e', 'é'): 1, ('á', 'a'): 1}",énta,Ribarrouy,{},{},"{('e', 'é'): 1, ('á', 'a'): 1}"
+énta,Mouhous,entá,Mont-Disse,{},{},"{('é', 'e'): 1, ('a', 'á'): 1}",énta,Sainte-Colombe,{},{},{},én,Portet,{},"{'t': 1, 'a': 1}",{}
+én,Portet,énta,Mouhous,"{'t': 1, 'a': 1}",{},{},énta,Maurrin,"{'t': 1, 'a': 1}",{},{},enta,Moncla,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}"
+énta,Ribarrouy,én,Saint-Jean-Poudge,{},"{'t': 1, 'a': 1}",{},énnta,Bruges,{'n': 1},{},{},entá,Mont-Disse,{},{},"{('é', 'e'): 1, ('a', 'á'): 1}"
+én,Saint-Jean-Poudge,énte,La Bastide-Clairence-bis,"{'t': 1, 'e': 1}",{},{},énta,Ribarrouy,"{'t': 1, 'a': 1}",{},{},én,Mascaraàs-Haron,{},{},{}
+énta,Tadousse-Ussau,ta,Arricau-Bordes,{},"{'é': 1, 'n': 1}",{},én,Vialer,{},"{'t': 1, 'a': 1}",{},én,Taron,{},"{'t': 1, 'a': 1}",{}
+én,Taron,enta,Anoye,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",én,Bétracq,{},{},{},énta,Tadousse-Ussau,"{'t': 1, 'a': 1}",{},{}
+én,Vialer,énta,Tadousse-Ussau,"{'t': 1, 'a': 1}",{},{},enta,Anoye,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",,,,,
+enta,Anoye,enta,Gestas,{},{},{},én,Taron,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",én,Vialer,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}"
+ta,Arricau-Bordes,énta,Tadousse-Ussau,"{'é': 1, 'n': 1}",{},{},entà,Aurions-Idernes,"{'e': 1, 'n': 1}",{},"{('a', 'à'): 1}",,,,,
+énta,Arrosès,énta,Le Vignau,{},{},{},én,Bassillon-Vauzé,{},"{'t': 1, 'a': 1}",{},,,,,
+entà,Aurions-Idernes,ta,Arricau-Bordes,{},"{'e': 1, 'n': 1}","{('à', 'a'): 1}",én,Bétracq,{},"{'t': 1, 'à': 1}","{('e', 'é'): 1}",,,,,
+én,Bassillon-Vauzé,én,Bétracq,{},{},{},enta,Moncla,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",énta,Arrosès,"{'t': 1, 'a': 1}",{},{}
+én,Bétracq,én,Taron,{},{},{},én,Bassillon-Vauzé,{},{},{},entà,Aurions-Idernes,"{'t': 1, 'à': 1}",{},"{('é', 'e'): 1}"
+énta,Cadillon,enta,Castelner,{},{},"{('é', 'e'): 1}",enta,Castillon,{},{},"{('é', 'e'): 1}",,,,,
+enta,Castillon,én,Gerderest,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",énta,Cadillon,{},{},"{('e', 'é'): 1}",,,,,
+én,Coslédaà-Lube-Boast,én,Crouseilles,{},{},{},enta,Garein,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",enta,Escurès,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}"
+én,Crouseilles,én,Lasserre,{},{},{},én,Coslédaà-Lube-Boast,{},{},{},en,Gayon,{},{},"{('é', 'e'): 1}"
+enta,Escurès,én,Coslédaà-Lube-Boast,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",énta,Pardies,{},{},"{('e', 'é'): 1}",,,,,
+en,Gayon,ta,Lembeye,{},{},"{('e', 't'): 1, ('n', 'a'): 1}",én,Crouseilles,{},{},"{('e', 'é'): 1}",,,,,
+én,Gerderest,enta,Castillon,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",ta,Lannecaube,{},{},"{('é', 't'): 1, ('n', 'a'): 1}",énta,Lalongue,"{'t': 1, 'a': 1}",{},{}
+énta,Lalongue,énta,Lembeye-bis,{},{},{},énta,Cazalis,{},{},{},én,Gerderest,{},"{'t': 1, 'a': 1}",{}
+ta,Lannecaube,enta,Naujac-sur-Mer,"{'e': 1, 'n': 1}",{},{},én,Lasserre,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}",én,Gerderest,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}"
+én,Lasserre,ta,Lannecaube,{},{},"{('é', 't'): 1, ('n', 'a'): 1}",én,Crouseilles,{},{},{},ta,Lembeye,{},{},"{('é', 't'): 1, ('n', 'a'): 1}"
+énta,Lembeye-bis,ta,Lembeye,{},"{'é': 1, 'n': 1}",{},énta,Lalongue,{},{},{},,,,,
+ta,Lembeye,en,Gayon,{},{},"{('t', 'e'): 1, ('a', 'n'): 1}",énta,Lembeye-bis,"{'é': 1, 'n': 1}",{},{},én,Lasserre,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}"
+éntaÿ,Lespielle,enta,Castelner,{},{'ÿ': 1},"{('é', 'e'): 1}",énta,Luc-Armau,{},{'ÿ': 1},{},,,,,
+énta,Luc-Armau,éntaÿ,Lespielle,{'ÿ': 1},{},{},enta,Lucarré,{},{},"{('é', 'e'): 1}",,,,,
+enta,Lucarré,énta,Luc-Armau,{},{},"{('e', 'é'): 1}",én,Maspie-Lalonquère-Juillacq,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",,,,,
+ta,Lussagnet-Lusson,én,Maspie-Lalonquère-Juillacq,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}",,,,,,,,,,
+én,Maspie-Lalonquère-Juillacq,enta,Lucarré,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",én,Notre-Dame-bis,{},{},{},ta,Lussagnet-Lusson,{},{},"{('é', 't'): 1, ('n', 'a'): 1}"
+ta,Momy,énte,Monassut-Audiracq,"{'é': 1, 'n': 1}",{},"{('a', 'e'): 1}",én,Billère,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}",,,,,
+énte,Monassut-Audiracq,ta,Momy,{},"{'é': 1, 'n': 1}","{('e', 'a'): 1}",,,,,,,,,,
+énta,Moncaup,énta,Beyrie-en-Béarn,{},{},{},énta,Monpezat,{},{},{},énta,Arbus,{},{},{}
+énta,Monpezat,énta,Moncaup,{},{},{},én,Peyrelongue-Abos,{},"{'t': 1, 'a': 1}",{},,,,,
+én,Peyrelongue-Abos,ta,Samsons-Lion,{},{},"{('é', 't'): 1, ('n', 'a'): 1}",énta,Monpezat,"{'t': 1, 'a': 1}",{},{},,,,,
+ta,Samsons-Lion,én,Peyrelongue-Abos,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}",enta,Simacourbe,"{'e': 1, 'n': 1}",{},{},,,,,
+en,Séméacq-Blachon,énta,Hagetmau-bis,"{'t': 1, 'a': 1}",{},"{('e', 'é'): 1}",énta,Arbus,"{'t': 1, 'a': 1}",{},"{('e', 'é'): 1}",,,,,
+enta,Simacourbe,ta,Samsons-Lion,{},"{'e': 1, 'n': 1}",{},énta,Arbus,{},{},"{('e', 'é'): 1}",,,,,
+énta,Arbus,en,Séméacq-Blachon,{},"{'t': 1, 'a': 1}","{('é', 'e'): 1}",énta,Moncaup,{},{},{},enta,Simacourbe,{},{},"{('é', 'e'): 1}"
+en,Artiguelouve,én,Aussevielle,{},{},"{('e', 'é'): 1}",énta,Mant,"{'t': 1, 'a': 1}",{},"{('e', 'é'): 1}",,,,,
+én,Aussevielle,énta,Hagetmau-bis,"{'t': 1, 'a': 1}",{},{},en,Artiguelouve,{},{},"{('é', 'e'): 1}",énta,Beyrie-en-Béarn,"{'t': 1, 'a': 1}",{},{}
+énta,Beyrie-en-Béarn,én,Billère,{},"{'t': 1, 'a': 1}",{},énta,Moncaup,{},{},{},én,Aussevielle,{},"{'t': 1, 'a': 1}",{}
+én,Billère,ta,Momy,{},{},"{('é', 't'): 1, ('n', 'a'): 1}",énta,Beyrie-en-Béarn,"{'t': 1, 'a': 1}",{},{},,,,,
+énta,Bougarber,én,Caubios-Loos,{},"{'t': 1, 'a': 1}",{},énta,Horsarrieu,{},{},{},én,Lescar-bis,{},"{'t': 1, 'a': 1}",{}
+én,Caubios-Loos,ta,Bascons,{},{},"{('é', 't'): 1, ('n', 'a'): 1}",énta,Bougarber,"{'t': 1, 'a': 1}",{},{},,,,,
+énta,Denguin,én,Lescar-bis,{},"{'t': 1, 'a': 1}",{},,,,,,,,,,
+én,Lescar-bis,énta,Bougarber,"{'t': 1, 'a': 1}",{},{},énta,Denguin,"{'t': 1, 'a': 1}",{},{},,,,,
+én,Lescar,énta,Lesparre-Médoc,"{'t': 1, 'a': 1}",{},{},,,,,,,,,,
+én,Lons,en,Poey-de-Lescar,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+enta,Momas,entay,Bélis,{'y': 1},{},{},en,Poey-de-Lescar,{},"{'t': 1, 'a': 1}",{},,,,,
+en,Poey-de-Lescar,enta,Momas,"{'t': 1, 'a': 1}",{},{},eunta,Saint-Seurin-de-Cadourne,"{'u': 1, 't': 1, 'a': 1}",{},{},én,Lons,{},{},"{('e', 'é'): 1}"
+énta,Sauvagnon,ta,Vert,{},"{'é': 1, 'n': 1}",{},,,,,,,,,,
+énta,Siros,énta,Aast,{},{},{},,,,,,,,,,
+enta,Uzein,énta,Aast,{},{},"{('e', 'é'): 1}",ta,Saint-Paul-en-Born,{},"{'e': 1, 'n': 1}",{},,,,,
+énta,Aast,énta,Siros,{},{},{},enta,Uzein,{},{},"{('é', 'e'): 1}",en,Bentayou-Sérée,{},"{'t': 1, 'a': 1}","{('é', 'e'): 1}"
+énta,Baleix,énta,Ponson-Dessus,{},{},{},énta,Castéra-Loubix,{},{},{},énta,Bédeille,{},{},{}
+énta,Bédeille,énta,Baleix,{},{},{},en,Bentayou-Sérée,{},"{'t': 1, 'a': 1}","{('é', 'e'): 1}",,,,,
+en,Bentayou-Sérée,én,Labatut,{},{},"{('e', 'é'): 1}",énta,Aast,"{'t': 1, 'a': 1}",{},"{('e', 'é'): 1}",énta,Bédeille,"{'t': 1, 'a': 1}",{},"{('e', 'é'): 1}"
+en,Casteide-Doat,énta,Castéra-Loubix,"{'t': 1, 'a': 1}",{},"{('e', 'é'): 1}",enta,Castelnau-Chalosse,"{'t': 1, 'a': 1}",{},{},énta,Lamayou,"{'t': 1, 'a': 1}",{},"{('e', 'é'): 1}"
+énta,Castéra-Loubix,énta,Baleix,{},{},{},en,Casteide-Doat,{},"{'t': 1, 'a': 1}","{('é', 'e'): 1}",én,Labatut,{},"{'t': 1, 'a': 1}",{}
+én,Labatut,en,Bentayou-Sérée,{},{},"{('é', 'e'): 1}",énta,Castéra-Loubix,"{'t': 1, 'a': 1}",{},{},,,,,
+énta,Lamayou,en,Casteide-Doat,{},"{'t': 1, 'a': 1}","{('é', 'e'): 1}",,,,,,,,,,
+énta,Maure,énta,Viellenave,{},{},{},én,Monségur,{},"{'t': 1, 'a': 1}",{},,,,,
+én,Monségur,énta,Aste-Béon,"{'t': 1, 'a': 1}",{},{},énta,Maure,"{'t': 1, 'a': 1}",{},{},,,,,
+énte,Montaner-bis,ta,Lucbardez-et-Bargues,{},"{'é': 1, 'n': 1}","{('e', 'a'): 1}",enta,Montaner,{},{},"{('é', 'e'): 1, ('e', 'a'): 1}",,,,,
+enta,Montaner,énte,Montaner-bis,{},{},"{('e', 'é'): 1, ('a', 'e'): 1}",ta,Haut-Mauco,{},"{'e': 1, 'n': 1}",{},en,Ponson-Debat-Pouts,{},"{'t': 1, 'a': 1}",{}
+en,Ponson-Debat-Pouts,ta,Geloux,{},{},"{('e', 't'): 1, ('n', 'a'): 1}",énta,Ponson-Dessus,"{'t': 1, 'a': 1}",{},"{('e', 'é'): 1}",enta,Montaner,"{'t': 1, 'a': 1}",{},{}
+énta,Ponson-Dessus,en,Ponson-Debat-Pouts,{},"{'t': 1, 'a': 1}","{('é', 'e'): 1}",énta,Baleix,{},{},{},,,,,
+enta,Pontiacq-Viellepinte,enta,Abère,{},{},{},ta,Lucbardez-et-Bargues,{},"{'e': 1, 'n': 1}",{},,,,,
+énta,Sedze-Maubecq,ta,Bretagne-de-Marsan,{},"{'é': 1, 'n': 1}",{},enta,Abère,{},{},"{('é', 'e'): 1}",,,,,
+enta,Abère,ta,Gaillères,{},"{'e': 1, 'n': 1}",{},enta,Pontiacq-Viellepinte,{},{},{},énta,Sedze-Maubecq,{},{},"{('e', 'é'): 1}"
+énta,Andoins,enta,Saint-Yzans-de-Médoc,{},{},"{('é', 'e'): 1}",enta,Anos,{},{},"{('é', 'e'): 1}",,,,,
+enta,Anos,énta,Andoins,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+enta,Arrien,ta,Eslourenties-Daban,{},"{'e': 1, 'n': 1}",{},enta,Barinque,{},{},{},,,,,
+enta,Barinque,enta,Arrien,{},{},{},ta,Cassen,{},"{'e': 1, 'n': 1}",{},énta,Bernadets,{},{},"{('e', 'é'): 1}"
+énta,Bernadets,ta,Uchacq,{},"{'é': 1, 'n': 1}",{},enta,Barinque,{},{},"{('é', 'e'): 1}",,,,,
+énta,Buros,énta,Montfort-en-Chalosse-bis,{},{},{},én,Escoubès,{},"{'t': 1, 'a': 1}",{},én,Lespourcy,{},"{'t': 1, 'a': 1}",{}
+én,Escoubès,énta,Buros,"{'t': 1, 'a': 1}",{},{},ta,Saint-Perdon,{},{},"{('é', 't'): 1, ('n', 'a'): 1}",ta,Eslourenties-Daban,{},{},"{('é', 't'): 1, ('n', 'a'): 1}"
+ta,Eslourenties-Daban,én,Escoubès,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}",enta,Arrien,"{'e': 1, 'n': 1}",{},{},en,Higuères-Souye,{},{},"{('t', 'e'): 1, ('a', 'n'): 1}"
+énta,Espéchède,énta,Gabaston,{},{},{},ta,Montfort-en-Chalosse,{},"{'é': 1, 'n': 1}",{},én,Lespourcy,{},"{'t': 1, 'a': 1}",{}
+énta,Gabaston,ta,Ozourt,{},"{'é': 1, 'n': 1}",{},énta,Espéchède,{},{},{},,,,,
+en,Higuères-Souye,ta,Eslourenties-Daban,{},{},"{('e', 't'): 1, ('n', 'a'): 1}",én,Lespourcy,{},{},"{('e', 'é'): 1}",,,,,
+én,Lespourcy,énta,Espéchède,"{'t': 1, 'a': 1}",{},{},énta,Buros,"{'t': 1, 'a': 1}",{},{},en,Higuères-Souye,{},{},"{('é', 'e'): 1}"
+én,Lombia,énta,Onard,"{'t': 1, 'a': 1}",{},{},en,Montardon,{},{},"{('é', 'e'): 1}",,,,,
+énta,Maucor,ta,Riupeyrous,{},"{'é': 1, 'n': 1}",{},én,Morlaàs-bis,{},"{'t': 1, 'a': 1}",{},,,,,
+en,Montardon,ta,Le Tuzan,{},{},"{('e', 't'): 1, ('n', 'a'): 1}",én,Morlaàs-bis,{},{},"{('e', 'é'): 1}",én,Lombia,{},{},"{('e', 'é'): 1}"
+én,Morlaàs-bis,en,Montardon,{},{},"{('é', 'e'): 1}",ta,Lourquen,{},{},"{('é', 't'): 1, ('n', 'a'): 1}",énta,Maucor,"{'t': 1, 'a': 1}",{},{}
+én,Morlaàs,ta,Lourquen,{},{},"{('é', 't'): 1, ('n', 'a'): 1}",énta,Ouillon,"{'t': 1, 'a': 1}",{},{},ta,Riupeyrous,{},{},"{('é', 't'): 1, ('n', 'a'): 1}"
+énta,Ouillon,én,Morlaàs,{},"{'t': 1, 'a': 1}",{},en,Saint-Jean-de-Lier,{},"{'t': 1, 'a': 1}","{('é', 'e'): 1}",,,,,
+ta,Riupeyrous,énta,Maucor,"{'é': 1, 'n': 1}",{},{},én,Morlaàs,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}",,,,,
+én,Saint-Armou,en,Saint-Jean-de-Lier,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+én,Saint-Castin,én,Saint-Jammes,{},{},{},énta,Saint-Laurent-Bretagne,"{'t': 1, 'a': 1}",{},{},,,,,
+én,Saint-Jammes,én,Saint-Castin,{},{},{},ta,Saubole,{},{},"{('é', 't'): 1, ('n', 'a'): 1}",,,,,
+énta,Saint-Laurent-Bretagne,ta,Saubole,{},"{'é': 1, 'n': 1}",{},én,Saint-Castin,{},"{'t': 1, 'a': 1}",{},,,,,
+ta,Saubole,énta,Saint-Laurent-Bretagne,"{'é': 1, 'n': 1}",{},{},énta,Vicq-d'Auribat,"{'é': 1, 'n': 1}",{},{},én,Saint-Jammes,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}"
+ta,Sedzère,ta,Saint-Quentin-de-Baron,{},{},{},énta,Sendets,"{'é': 1, 'n': 1}",{},{},,,,,
+énta,Sendets,ta,Sedzère,{},"{'é': 1, 'n': 1}",{},en,Serres-Castet,{},"{'t': 1, 'a': 1}","{('é', 'e'): 1}",,,,,
+en,Serres-Castet,énta,Sendets,"{'t': 1, 'a': 1}",{},"{('e', 'é'): 1}",,,,,,,,,,
+ta,Serres-Morlaàs,én̈té,Léognan,"{'é': 1, 'n': 1, '̈': 1}",{},"{('a', 'é'): 1}",enta,Urost,"{'e': 1, 'n': 1}",{},{},,,,,
+enta,Urost,énta,Boeil-Bezing,{},{},"{('e', 'é'): 1}",ta,Serres-Morlaàs,{},"{'e': 1, 'n': 1}",{},,,,,
+énta,Angaïs,enta,Arengosse,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+ta,Bénéjacq,én̈té,Léognan,"{'é': 1, 'n': 1, '̈': 1}",{},"{('a', 'é'): 1}",enta,Beuste,"{'e': 1, 'n': 1}",{},{},,,,,
+enta,Beuste,ta,Bénéjacq,{},"{'e': 1, 'n': 1}",{},en,Lestelle-Bétharram,{},"{'t': 1, 'a': 1}",{},,,,,
+énta,Boeil-Bezing,én,Bordères,{},"{'t': 1, 'a': 1}",{},enta,Urost,{},{},"{('é', 'e'): 1}",én,Bordes,{},"{'t': 1, 'a': 1}",{}
+én,Bordères,ta,Mirepeix,{},{},"{('é', 't'): 1, ('n', 'a'): 1}",énta,Boeil-Bezing,"{'t': 1, 'a': 1}",{},{},énta,Coarraze,"{'t': 1, 'a': 1}",{},{}
+én,Bordes,énta,Boeil-Bezing,"{'t': 1, 'a': 1}",{},{},énta,Coarraze,"{'t': 1, 'a': 1}",{},{},,,,,
+énta,Coarraze,én,Bordères,{},"{'t': 1, 'a': 1}",{},én,Bordes,{},"{'t': 1, 'a': 1}",{},,,,,
+én,Igon,énta,Nay-bis,"{'t': 1, 'a': 1}",{},{},ta,Mirepeix,{},{},"{('é', 't'): 1, ('n', 'a'): 1}",,,,,
+én,Lagos,én,Montaut,{},{},{},en,Lestelle-Bétharram,{},{},"{('é', 'e'): 1}",,,,,
+en,Lestelle-Bétharram,enta,Beuste,"{'t': 1, 'a': 1}",{},{},ta,Mirepeix,{},{},"{('e', 't'): 1, ('n', 'a'): 1}",én,Lagos,{},{},"{('e', 'é'): 1}"
+ta,Mirepeix,en,Lestelle-Bétharram,{},{},"{('t', 'e'): 1, ('a', 'n'): 1}",én,Bordères,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}",én,Igon,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}"
+én,Montaut,ta,Morcenx-gare,{},{},"{('é', 't'): 1, ('n', 'a'): 1}",én,Lagos,{},{},{},énta,Nay-bis,"{'t': 1, 'a': 1}",{},{}
+énta,Nay-bis,én,Igon,{},"{'t': 1, 'a': 1}",{},énta,Lesperon,{},{},{},én,Montaut,{},"{'t': 1, 'a': 1}",{}
+én̈,Nay,ta,Sanguinet,{},{'̈': 1},"{('é', 't'): 1, ('n', 'a'): 1}",én,Saint-Vincent,{},{'̈': 1},{},,,,,
+én,Saint-Vincent,én̈,Nay,{'̈': 1},{},{},,,,,,,,,,
+enta,Arros-de-Nay,,,,,,,,,,,,,,,
+énta,Arthez-d'Asson,éndé,Camiran-bis,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}",enta,Asson,{},{},"{('é', 'e'): 1}",,,,,
+enta,Asson,ta,Onesse-Laharie,{},"{'e': 1, 'n': 1}",{},énta,Arthez-d'Asson,{},{},"{('e', 'é'): 1}",tà,Pardies-Piétat,{},"{'e': 1, 'n': 1}","{('a', 'à'): 1}"
+énto,Baliros,ta,Bergouey,{},"{'é': 1, 'n': 1}","{('o', 'a'): 1}",,,,,,,,,,
+ta,Bourdettes,tay,Larbey,{'y': 1},{},{},énta,Bruges,"{'é': 1, 'n': 1}",{},{},,,,,
+énta,Bruges,ta,Bourdettes,{},"{'é': 1, 'n': 1}",{},,,,,,,,,,
+én,Capbis,én,Lys,{},{},{},,,,,,,,,,
+tà,Pardies-Piétat,enta,Asson,"{'e': 1, 'n': 1}",{},"{('à', 'a'): 1}",,,,,,,,,,
+ta,Saint-Abit,ta,Artigueloutan,{},{},{},,,,,,,,,,
+ta,Aressy,,,,,,,,,,,,,,,
+ta,Artigueloutan,ta,Saint-Abit,{},{},{},,,,,,,,,,
+enta,Assat,,,,,,,,,,,,,,,
+én,Bizanos,,,,,,,,,,,,,,,
+én,Idron,,,,,,,,,,,,,,,
+ta,Lée,ta,Meillon,{},{},{},,,,,,,,,,
+ta,Meillon,en,Nousty,{},{},"{('t', 'e'): 1, ('a', 'n'): 1}",ta,Lée,{},{},{},,,,,
+en,Nousty,ta,Ousse,{},{},"{('e', 't'): 1, ('n', 'a'): 1}",ta,Meillon,{},{},"{('e', 't'): 1, ('n', 'a'): 1}",,,,,
+ta,Ousse,en,Nousty,{},{},"{('t', 'e'): 1, ('a', 'n'): 1}",,,,,,,,,,
+énta,Pau-Ouest-bis,énta,Bosdarros,{},{},{},ta,Doazit,{},"{'é': 1, 'n': 1}",{},en,Gelos,{},"{'t': 1, 'a': 1}","{('é', 'e'): 1}"
+énta,Pau-Ouest,én,Gan,{},"{'t': 1, 'a': 1}",{},én,Barzun,{},"{'t': 1, 'a': 1}",{},énta,Bosdarros,{},{},{}
+énta,Bosdarros,enta,Biarritz,{},{},"{('é', 'e'): 1}",énta,Pau-Ouest-bis,{},{},{},énta,Pau-Ouest,{},{},{}
+én,Gan,énta,Uzos,"{'t': 1, 'a': 1}",{},{},énta,Pau-Ouest,"{'t': 1, 'a': 1}",{},{},en,Gelos,{},{},"{('é', 'e'): 1}"
+en,Gelos,ta,Caupenne,{},{},"{('e', 't'): 1, ('n', 'a'): 1}",én,Gan,{},{},"{('e', 'é'): 1}",énta,Pau-Ouest-bis,"{'t': 1, 'a': 1}",{},"{('e', 'é'): 1}"
+ta,Haut-de-Bosdarros,ta,Maylis,{},{},{},énta,Mazères-Lezons,"{'é': 1, 'n': 1}",{},{},énte,Jurançon,"{'é': 1, 'n': 1}",{},"{('a', 'e'): 1}"
+énte,Jurançon,én,Laroin,{},"{'t': 1, 'e': 1}",{},ta,Hauriet,{},"{'é': 1, 'n': 1}","{('e', 'a'): 1}",ta,Haut-de-Bosdarros,{},"{'é': 1, 'n': 1}","{('e', 'a'): 1}"
+én,Laroin,én,Rontignon,{},{},{},énte,Jurançon,"{'t': 1, 'e': 1}",{},{},ta,Narcastet,{},{},"{('é', 't'): 1, ('n', 'a'): 1}"
+énta,Mazères-Lezons,ta,Narcastet,{},"{'é': 1, 'n': 1}",{},ta,Haut-de-Bosdarros,{},"{'é': 1, 'n': 1}",{},,,,,
+ta,Narcastet,énta,Mazères-Lezons,"{'é': 1, 'n': 1}",{},{},enta,Mugron,"{'e': 1, 'n': 1}",{},{},én,Laroin,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}"
+én,Rontignon,énta,Uzos,"{'t': 1, 'a': 1}",{},{},én,Laroin,{},{},{},én,Saint-Faust,{},{},{}
+én,Saint-Faust,ta,Mugron-bis,{},{},"{('é', 't'): 1, ('n', 'a'): 1}",én ta,Ger,"{' ': 1, 't': 1, 'a': 1}",{},{},én,Rontignon,{},{},{}
+énta,Uzos,én,Barzun,{},"{'t': 1, 'a': 1}",{},én,Gan,{},"{'t': 1, 'a': 1}",{},én,Rontignon,{},"{'t': 1, 'a': 1}",{}
+én,Barzun,énta,Pau-Ouest,"{'t': 1, 'a': 1}",{},{},énta,Uzos,"{'t': 1, 'a': 1}",{},{},enta,Espoey,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}"
+enta,Espoey,én ta,Ger,{' ': 1},{},"{('e', 'é'): 1}",én,Bayonne-Saint-Esprit,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",én,Barzun,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}"
+én ta,Ger,éntad,Béost,{'d': 1},{' ': 1},{},enta,Espoey,{},{' ': 1},"{('é', 'e'): 1}",én,Saint-Faust,{},"{' ': 1, 't': 1, 'a': 1}",{}
+ta,Gomer,ta,Peyrehorade-bis,{},{},{},énta,Hours,"{'é': 1, 'n': 1}",{},{},,,,,
+énta,Hours,énta,Saint-Étienne-d'Orthe,{},{},{},ta,Gomer,{},"{'é': 1, 'n': 1}",{},,,,,
+énta,Labatmale,énta,Lourenties,{},{},{},éntá,Livron,{},{},"{('a', 'á'): 1}",,,,,
+énte,Limendous,éntá,Livron,{},{},"{('e', 'á'): 1}",,,,,,,,,,
+éntá,Livron,énta,Labatmale,{},{},"{('á', 'a'): 1}",énte,Limendous,{},{},"{('á', 'e'): 1}",,,,,
+énta,Lourenties,énta,Labatmale,{},{},{},enta,Lucgarier,{},{},"{('é', 'e'): 1}",,,,,
+enta,Lucgarier,énta,Lourenties,{},{},"{('e', 'é'): 1}",tä,Pontacq-bis,{},"{'e': 1, 'n': 1}","{('a', 'ä'): 1}",,,,,
+tä,Pontacq-bis,enta,Lucgarier,"{'e': 1, 'n': 1}",{},"{('ä', 'a'): 1}",,,,,,,,,,
+én ta,Pontacq,énta,Gastes,{},{' ': 1},{},en ta,Bournos,{},{},"{('é', 'e'): 1}",,,,,
+ta,Soumoulou,ta,Argelos,{},{},{},,,,,,,,,,
+ta,Argelos,ta,Soumoulou,{},{},{},,,,,,,,,,
+enta,Astis,énto,Aubin,{},{},"{('e', 'é'): 1, ('a', 'o'): 1}",,,,,,,,,,
+énto,Aubin,enta,Astis,{},{},"{('é', 'e'): 1, ('o', 'a'): 1}",enta,Claracq,{},{},"{('é', 'e'): 1, ('o', 'a'): 1}",,,,,
+énte,Auga,,,,,,,,,,,,,,,
+én ta,Auriac,ta,Carrère,{},"{'é': 1, 'n': 1, ' ': 1}",{},,,,,,,,,,
+en ta,Bournos,én ta,Pontacq,{},{},"{('e', 'é'): 1}",enta,Claracq,{},{' ': 1},{},,,,,
+ta,Carrère,én ta,Auriac,"{'é': 1, 'n': 1, ' ': 1}",{},{},enta,Claracq,"{'e': 1, 'n': 1}",{},{},,,,,
+enta,Claracq,en ta,Bournos,{' ': 1},{},{},énto,Aubin,{},{},"{('e', 'é'): 1, ('a', 'o'): 1}",ta,Carrère,{},"{'e': 1, 'n': 1}",{}
+énta,Doumy,ta,Biscarosse,{},"{'é': 1, 'n': 1}",{},ta,Rivehaute,{},"{'é': 1, 'n': 1}",{},,,,,
+ta,Garlède-Mondebat,enta,Lalonquette,"{'e': 1, 'n': 1}",{},{},,,,,,,,,,
+enta,Lalonquette,enta,Lasclaveries,{},{},{},ta,Garlède-Mondebat,{},"{'e': 1, 'n': 1}",{},,,,,
+enta,Lasclaveries,enta,Lalonquette,{},{},{},,,,,,,,,,
+énte,Lème,én te ,Navailles-Angos,{' ': 2},{},{},,,,,,,,,,
+én ta,Miossens-Lanusse,én te ,Navailles-Angos,{'e': 1},{},"{('a', ' '): 1}",,,,,,,,,,
+én te ,Navailles-Angos,ta,Hastingues,{},"{'é': 1, 'n': 1, ' ': 2}","{('e', 'a'): 1}",én ta,Miossens-Lanusse,{},{' ': 1},"{('e', 'a'): 1}",énte,Lème,{},{' ': 2},{}
+én ta,Pouliacq,én ta,Autevielle,{},{},{},eindé,Gironde-sur-Dropt,{'e': 1},{'a': 1},"{('é', 'i'): 1, (' ', 'd'): 1, ('t', 'é'): 1}",,,,,
+ta,Sévignacq,éndé,La Réole-bis,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}",enta,Thèze-bis,"{'e': 1, 'n': 1}",{},{},,,,,
+enta,Thèze-bis,ta,Sévignacq,{},"{'e': 1, 'n': 1}",{},ta,Richet,{},"{'e': 1, 'n': 1}",{},,,,,
+ta,Thèze,énta,Viven,"{'é': 1, 'n': 1}",{},{},ta,Saugnacq-et-Muret-bis,{},{},{},ta,Arnos,{},{},{}
+énta,Viven,én ta,Arthez-de-Béarn-bis,{' ': 1},{},{},enta,Biganon,{},{},"{('é', 'e'): 1}",ta,Thèze,{},"{'é': 1, 'n': 1}",{}
+énta,Argagnon,ta,Arnos,{},"{'é': 1, 'n': 1}",{},enta,Amou,{},{},"{('é', 'e'): 1}",énta,Arthez-de-Béarn,{},{},{}
+ta,Arnos,ta,Cagnotte,{},{},{},énta,Argagnon,"{'é': 1, 'n': 1}",{},{},ta,Thèze,{},{},{}
+én ta,Arthez-de-Béarn-bis,énta,Viven,{},{' ': 1},{},énta,Arthez-de-Béarn,{},{' ': 1},{},,,,,
+énta,Arthez-de-Béarn,én ta,Arthez-de-Béarn-bis,{' ': 1},{},{},énta,Argagnon,{},{},{},,,,,
+en ta,Artix,en ta,Lacadée,{},{},{},éndé,Loupiac-de-la-Réole,{},{'a': 1},"{('e', 'é'): 1, (' ', 'd'): 1, ('t', 'é'): 1}",,,,,
+én te,Audejos,en ta,Doazon,{},{},"{('é', 'e'): 1, ('e', 'a'): 1}",ta,Casteide-Cami,{},"{'é': 1, 'n': 1, ' ': 1}","{('e', 'a'): 1}",,,,,
+énta,Boumourt,ta,Casteide-Cami,{},"{'é': 1, 'n': 1}",{},en ta,Hagetaubin,{' ': 1},{},"{('é', 'e'): 1}",ta,Labastide-Monréjeau,{},"{'é': 1, 'n': 1}",{}
+ta,Casteide-Cami,én te,Audejos,"{'é': 1, 'n': 1, ' ': 1}",{},"{('a', 'e'): 1}",énta,Boumourt,"{'é': 1, 'n': 1}",{},{},ta,Casteide-Candau,{},{},{}
+ta,Casteide-Candau,énta,Saint-Médard,"{'é': 1, 'n': 1}",{},{},ta,Casteide-Cami,{},{},{},,,,,
+ta,Castillon,énta,Cescau,"{'é': 1, 'n': 1}",{},{},endé,La Réole,"{'e': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}",én ta,Urdès,"{'é': 1, 'n': 1, ' ': 1}",{},{}
+énta,Cescau,énta,Langoiran,{},{},{},ta,Castillon,{},"{'é': 1, 'n': 1}",{},en ta,Doazon,{' ': 1},{},"{('é', 'e'): 1}"
+en ta,Doazon,én te,Audejos,{},{},"{('e', 'é'): 1, ('a', 'e'): 1}",énta,Cescau,{},{' ': 1},"{('e', 'é'): 1}",en ta,Hagetaubin,{},{},{}
+en ta,Hagetaubin,énta,Boumourt,{},{' ': 1},"{('e', 'é'): 1}",en ta,Doazon,{},{},{},éṉta,Viellenave-d'Arthez,{},{},"{('e', 'é'): 1, (' ', '̱'): 1}"
+énta,Labastide-Cézéracq,ta,Tilh,{},"{'é': 1, 'n': 1}",{},énta,Labeyrie,{},{},{},ta,Arzacq-bis,{},"{'é': 1, 'n': 1}",{}
+ta,Labastide-Monréjeau,énta,Boumourt,"{'é': 1, 'n': 1}",{},{},tay,Arget,{'y': 1},{},{},énta,Saint-Médard,"{'é': 1, 'n': 1}",{},{}
+énta,Labeyrie,éndé,Lamothe-Landerron,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}",en ta,Lacadée,{' ': 1},{},"{('é', 'e'): 1}",énta,Labastide-Cézéracq,{},{},{}
+en ta,Lacadée,énta,Labeyrie,{},{' ': 1},"{('e', 'é'): 1}",en ta,Artix,{},{},{},énta,Mesplède,{},{' ': 1},"{('e', 'é'): 1}"
+énta,Mesplède,énta,Saint-Médard,{},{},{},en ta,Lacadée,{' ': 1},{},"{('é', 'e'): 1}",,,,,
+énta,Saint-Médard,énta,Mesplède,{},{},{},ta,Casteide-Candau,{},"{'é': 1, 'n': 1}",{},ta,Labastide-Monréjeau,{},"{'é': 1, 'n': 1}",{}
+énta,Serres-Sainte-Marie,én ta,Urdès,{' ': 1},{},{},ta,Pouillon,{},"{'é': 1, 'n': 1}",{},ta,Arzacq-bis,{},"{'é': 1, 'n': 1}",{}
+én ta,Urdès,ta,Castillon,{},"{'é': 1, 'n': 1, ' ': 1}",{},énta,Serres-Sainte-Marie,{},{' ': 1},{},éṉta,Viellenave-d'Arthez,{},{},"{(' ', '̱'): 1}"
+éṉta,Viellenave-d'Arthez,tay,Arget,{'y': 1},"{'é': 1, 'n': 1, '̱': 1}",{},en ta,Hagetaubin,{},{},"{('é', 'e'): 1, ('̱', ' '): 1}",én ta,Urdès,{},{},"{('̱', ' '): 1}"
+tay,Arget,ta,Labastide-Monréjeau,{},{'y': 1},{},éṉta,Viellenave-d'Arthez,"{'é': 1, 'n': 1, '̱': 1}",{'y': 1},{},ta,Arzacq-bis,{},{'y': 1},{}
+ta,Arzacq-bis,énta,Serres-Sainte-Marie,"{'é': 1, 'n': 1}",{},{},énta,Labastide-Cézéracq,"{'é': 1, 'n': 1}",{},{},tay,Arget,{'y': 1},{},{}
+ta,Arzacq,ta,Pouillon,{},{},{},,,,,,,,,,
+énta,Bouillon,,,,,,,,,,,,,,,
+ta,Cabidos,ta,Arveyres,{},{},{},énta,Coublucq,"{'é': 1, 'n': 1}",{},{},ta,Fichous-Riumayou,{},{},{}
+énta,Coublucq,ta,Cabidos,{},"{'é': 1, 'n': 1}",{},ta,Lugaut,{},"{'é': 1, 'n': 1}",{},ta,Garos,{},"{'é': 1, 'n': 1}",{}
+ta,Fichous-Riumayou,ta,Toulenne,{},{},{},ta,Cabidos,{},{},{},,,,,
+ta,Garos,ta,Maillas,{},{},{},énta,Coublucq,"{'é': 1, 'n': 1}",{},{},,,,,
+ta,Géus-d'Arzacq,ta,Vielle-Soubiran,{},{},{},ta,Larreule,{},{},{},,,,,
+ta,Larreule,ta,Géus-d'Arzacq,{},{},{},ta,Escource,{},{},{},ta,Lonçon,{},{},{}
+ta,Lonçon,ta,Saint-Justin,{},{},{},ta,Larreule,{},{},{},,,,,
+én ta,Louvigny,enta,Méracq,{},{' ': 1},"{('é', 'e'): 1}",ta,Commensacq,{},"{'é': 1, 'n': 1, ' ': 1}",{},,,,,
+ta,Malaussanne,en,Ondres,{},{},"{('t', 'e'): 1, ('a', 'n'): 1}",ta,Mazerolles,{},{},{},,,,,
+ta,Mazerolles,én,Saint-André-de-Seignanx,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}",enta,Méracq,"{'e': 1, 'n': 1}",{},{},ta,Malaussanne,{},{},{}
+enta,Méracq,ta,Mazerolles,{},"{'e': 1, 'n': 1}",{},én ta,Louvigny,{' ': 1},{},"{('e', 'é'): 1}",,,,,
+enta,Mialos,énta,Saint-Gor,{},{},"{('e', 'é'): 1}",én ta,Montagut,{' ': 1},{},"{('e', 'é'): 1}",énta,Morlanne,{},{},"{('e', 'é'): 1}"
+én ta,Montagut,enta,Mialos,{},{' ': 1},"{('é', 'e'): 1}",enta,Escource-bis,{},{' ': 1},"{('é', 'e'): 1}",énta,Pomps,{},{' ': 1},{}
+énta,Morlanne,énta,Piets-Plasence-Moustrou,{},{},{},éndé,Pompéjac,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}",enta,Mialos,{},{},"{('é', 'e'): 1}"
+énta,Piets-Plasence-Moustrou,én ta,Navarrenx,{' ': 1},{},{},énta,Morlanne,{},{},{},énta,Pomps,{},{},{}
+énta,Pomps,énta,Séby,{},{},{},énta,Piets-Plasence-Moustrou,{},{},{},én ta,Montagut,{' ': 1},{},{}
+enta,Poursiugues-Boucoue,ta,Lue-bis,{},"{'e': 1, 'n': 1}",{},én,Uzan,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",énta,Séby,{},{},"{('e', 'é'): 1}"
+énta,Séby,ento,Baigts-de-Béarn,{},{},"{('é', 'e'): 1, ('a', 'o'): 1}",énta,Pomps,{},{},{},enta,Poursiugues-Boucoue,{},{},"{('é', 'e'): 1}"
+én,Uzan,éndé,Noaillac,"{'d': 1, 'é': 1}",{},{},énta,Vignes,"{'t': 1, 'a': 1}",{},{},enta,Poursiugues-Boucoue,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}"
+énta,Vignes,én,Uzan,{},"{'t': 1, 'a': 1}",{},énd,Vieux-Boucau-les-Bains,{},{'a': 1},"{('t', 'd'): 1}",ento,Baigts-de-Béarn,{},{},"{('é', 'e'): 1, ('a', 'o'): 1}"
+ento,Baigts-de-Béarn,én,Carcarès-Sainte-Croix,{},"{'t': 1, 'o': 1}","{('e', 'é'): 1}",énta,Séby,{},{},"{('e', 'é'): 1, ('o', 'a'): 1}",énta,Vignes,{},{},"{('e', 'é'): 1, ('o', 'a'): 1}"
+ta,Balansun,éndé,Mongauzy,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}",ta,Bonnut,{},{},{},,,,,
+ta,Bonnut,èndé,La Teste-de-Buch-ter,"{'è': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}",ta,Balansun,{},{},{},,,,,
+ta,Castétis,,,,,,,,,,,,,,,
+én to,Lanneplaà,endé,Trensacq,{},{'o': 1},"{('é', 'e'): 1, (' ', 'd'): 1, ('t', 'é'): 1}",,,,,,,,,,
+ento,Orthez-bis,endé,Audignon,{},{},"{('t', 'd'): 1, ('o', 'é'): 1}",,,,,,,,,,
+en ta,Orthez,én ta,Lagor-bis,{},{},"{('e', 'é'): 1}",én,Saint-Martin-de-Seignanx,{},"{' ': 1, 't': 1, 'a': 1}","{('e', 'é'): 1}",en ta,Puyoô,{},{},{}
+en ta,Puyoô,en ta,Orthez,{},{},{},énta,Gouze,{},{' ': 1},"{('e', 'é'): 1}",,,,,
+énta,Ramous,endé,Audignon,{},{},"{('é', 'e'): 1, ('t', 'd'): 1, ('a', 'é'): 1}",én te,Saint-Boès,{' ': 1},{},"{('a', 'e'): 1}",,,,,
+én te,Saint-Boès,énta,Ramous,{},{' ': 1},"{('e', 'a'): 1}",,,,,,,,,,
+en to,Saint-Girons-en-Béarn,éndé,Cazaux,{},{'o': 1},"{('e', 'é'): 1, (' ', 'd'): 1, ('t', 'é'): 1}",ento,Sainte-Suzanne,{},{' ': 1},{},,,,,
+ento,Sainte-Suzanne,tay,Lue,{},{'o': 1},"{('e', 't'): 1, ('n', 'a'): 1, ('t', 'y'): 1}",en to,Saint-Girons-en-Béarn,{' ': 1},{},{},én ta,Sallespisse,{' ': 1},{},"{('e', 'é'): 1, ('o', 'a'): 1}"
+én ta,Sallespisse,ento,Sainte-Suzanne,{},{' ': 1},"{('é', 'e'): 1, ('a', 'o'): 1}",,,,,,,,,,
+én ta,Sault-de-Navailles,én,Biarrotte,{},"{' ': 1, 't': 1, 'a': 1}",{},,,,,,,,,,
+én ta,Arance,en,Ondres,{},"{' ': 1, 't': 1, 'a': 1}","{('é', 'e'): 1}",,,,,,,,,,
+én ta,Bésingrand,én,Saint-Martin-de-Seignanx-bis,{},"{' ': 1, 't': 1, 'a': 1}",{},énta,Castetner,{},{' ': 1},{},énta,Biron,{},{' ': 1},{}
+énta,Biron,énta,Gouze,{},{},{},en,Saint-Barthélemy,{},"{'t': 1, 'a': 1}","{('é', 'e'): 1}",én ta,Bésingrand,{' ': 1},{},{}
+énta,Castetner,én ta,Bésingrand,{' ': 1},{},{},énta,Lendresse,{},{},{},énta,Gouze,{},{},{}
+énta,Gouze,en ta,Puyoô,{' ': 1},{},"{('é', 'e'): 1}",énta,Biron,{},{},{},énta,Castetner,{},{},{}
+énta,Laà-Mondrans,én,Saint-Martin-de-Seignanx,{},"{'t': 1, 'a': 1}",{},én ta,Lagor-bis,{' ': 1},{},{},éntah,Lacq,{'h': 1},{},{}
+éntah,Lacq,en,Tarnos,{},"{'t': 1, 'a': 1, 'h': 1}","{('é', 'e'): 1}",énta,Laà-Mondrans,{},{'h': 1},{},,,,,
+én ta,Lagor-bis,énta,Laà-Mondrans,{},{' ': 1},{},en ta,Orthez,{},{},"{('é', 'e'): 1}",,,,,
+énta,Lagor,énta,Lendresse,{},{},{},én,Saint-Martin-de-Seignanx-bis,{},"{'t': 1, 'a': 1}",{},entas,Maslacq,{'s': 1},{},"{('é', 'e'): 1}"
+énta,Lendresse,énta,Castetner,{},{},{},énta,Lagor,{},{},{},,,,,
+énta,Loubieng,én,Cachon,{},"{'t': 1, 'a': 1}",{},entas,Maslacq,{'s': 1},{},"{('é', 'e'): 1}",,,,,
+entas,Maslacq,énta,Lagor,{},{'s': 1},"{('e', 'é'): 1}",én,Aurice,{},"{'t': 1, 'a': 1, 's': 1}","{('e', 'é'): 1}",énta,Loubieng,{},{'s': 1},"{('e', 'é'): 1}"
+enta,Mont,én,Cachon,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",,,,,,,,,,
+énta,Montestrucq,éntas,Mourenx-et-Abidos,{'s': 1},{},{},,,,,,,,,,
+éntas,Mourenx-et-Abidos,énta,Montestrucq,{},{'s': 1},{},eun,Eyres-Moncube,{'e': 1},"{'t': 1, 'a': 1, 's': 1}","{('é', 'u'): 1}",én ta,Noguères,{' ': 1},{'s': 1},{}
+én ta,Noguères,én,Dumes,{},"{' ': 1, 't': 1, 'a': 1}",{},éntas,Mourenx-et-Abidos,{'s': 1},{' ': 1},{},,,,,
+énta,Os-Marsillon,énta,Comps,{},{},{},enta,Ozenx,{},{},"{('é', 'e'): 1}",,,,,
+enta,Ozenx,én,Dumes,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",énta,Os-Marsillon,{},{},"{('e', 'é'): 1}",,,,,
+én ta,Sarpourenx,enta,Vielleségure,{},{' ': 1},"{('é', 'e'): 1}",éndé̄,Messanges-bis,{},{},"{(' ', 'd'): 1, ('t', 'é'): 1, ('a', '̄'): 1}",,,,,
+énta,Sauvelade,éndé,Houaste,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}",enta,Vielleségure,{},{},"{('é', 'e'): 1}",,,,,
+enta,Vielleségure,énta,Sauvelade,{},{},"{('e', 'é'): 1}",enta,Dognen,{},{},{},én ta,Sarpourenx,{' ': 1},{},"{('e', 'é'): 1}"
+énta,Angous,énta,Araujuzon,{},{},{},,,,,,,,,,
+énta,Araujuzon,en,Magescq,{},"{'t': 1, 'a': 1}","{('é', 'e'): 1}",énta,Angous,{},{},{},,,,,
+en ta,Araux,énta,Audaux,{},{' ': 1},"{('e', 'é'): 1}",enta,Preignac,{},{' ': 1},{},,,,,
+énta,Audaux,énta,Bastanès,{},{},{},ta,Talence,{},"{'é': 1, 'n': 1}",{},en ta,Araux,{' ': 1},{},"{('é', 'e'): 1}"
+énta,Bastanès,én,Saubion,{},"{'t': 1, 'a': 1}",{},énta,Audaux,{},{},{},,,,,
+enta,Bugnein,énta,Callen,{},{},"{('e', 'é'): 1}",énta,Charre,{},{},"{('e', 'é'): 1}",ta,Gurs,{},"{'e': 1, 'n': 1}",{}
+én,Castetnau-Camblong,éndé̄,Messanges-bis,"{'d': 1, 'é': 1, '̄': 1}",{},{},enta,Dognen,"{'t': 1, 'a': 1}",{},"{('é', 'e'): 1}",énta,Charre,"{'t': 1, 'a': 1}",{},{}
+énta,Charre,enta,Bugnein,{},{},"{('é', 'e'): 1}",énta,Angresse,{},{},{},én,Castetnau-Camblong,{},"{'t': 1, 'a': 1}",{}
+enta,Dognen,enta,Vielleségure,{},{},{},ta,Gurs,{},"{'e': 1, 'n': 1}",{},én,Castetnau-Camblong,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}"
+ta,Gurs,enta,Dognen,"{'e': 1, 'n': 1}",{},{},éndé,Houaste,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}",enta,Bugnein,"{'e': 1, 'n': 1}",{},{}
+énta,Jasses,énta,Angresse,{},{},{},,,,,,,,,,
+énta,Lay-Lamidou,ta,Saint-Estèphe,{},"{'é': 1, 'n': 1}",{},én ta,Navarrenx-bis,{' ': 1},{},{},én ta,Méritein,{' ': 1},{},{}
+én ta,Méritein,éndé,Le Leuy,{},{'a': 1},"{(' ', 'd'): 1, ('t', 'é'): 1}",énta,Lay-Lamidou,{},{' ': 1},{},én ta,Nabas,{},{},{}
+én ta,Nabas,én ta,Navarrenx,{},{},{},én,Carcarès-Sainte-Croix,{},"{' ': 1, 't': 1, 'a': 1}",{},én ta,Méritein,{},{},{}
+én ta,Navarrenx-bis,énta,Lay-Lamidou,{},{' ': 1},{},énta,Monprimblanc,{},{' ': 1},{},én ta,Navarrenx,{},{},{}
+én ta,Navarrenx,én ta,Navarrenx-bis,{},{},{},énta,Piets-Plasence-Moustrou,{},{' ': 1},{},én ta,Nabas,{},{},{}
+en ta,Ogenne-Camptort,énta,Préchacq-Josbaig,{},{' ': 1},"{('e', 'é'): 1}",,,,,,,,,,
+énta,Préchacq-Josbaig,en ta,Ogenne-Camptort,{' ': 1},{},"{('é', 'e'): 1}",ta,Rivehaute,{},"{'é': 1, 'n': 1}",{},,,,,
+en ta,Préchacq-Navarrenx,ta,Rivehaute,{},"{'e': 1, 'n': 1, ' ': 1}",{},,,,,,,,,,
+ta,Rivehaute,en ta,Préchacq-Navarrenx,"{'e': 1, 'n': 1, ' ': 1}",{},{},énta,Doumy,"{'é': 1, 'n': 1}",{},{},énta,Préchacq-Josbaig,"{'é': 1, 'n': 1}",{},{}
+én ta,Sus-Susmiou,énta,Viellenave-de-Navarrenx,{},{' ': 1},{},,,,,,,,,,
+énta,Viellenave-de-Navarrenx,én ta,Sus-Susmiou,{' ': 1},{},{},én ta,Auterrive,{' ': 1},{},{},,,,,
+én ta,Auterrive,énta,Viellenave-de-Navarrenx,{},{' ': 1},{},,,,,,,,,,
+ente,Bellocq,én ta,Cassaber,{' ': 1},{},"{('e', 'é'): 1, ('e', 'a'): 1}",én ta,Carresse,{' ': 1},{},"{('e', 'é'): 1, ('e', 'a'): 1}",,,,,
+ta,Bérenx,én ta,Carresse,"{'é': 1, 'n': 1, ' ': 1}",{},{},,,,,,,,,,
+én ta,Carresse,énta,Lahontan,{},{' ': 1},{},ente,Bellocq,{},{' ': 1},"{('é', 'e'): 1, ('a', 'e'): 1}",ta,Bérenx,{},"{'é': 1, 'n': 1, ' ': 1}",{}
+én ta,Cassaber,énta,Castagnède,{},{' ': 1},{},ente,Bellocq,{},{' ': 1},"{('é', 'e'): 1, ('a', 'e'): 1}",énta,Lahontan,{},{' ': 1},{}
+énta,Castagnède,enté,Escos,{},{},"{('é', 'e'): 1, ('a', 'é'): 1}",én ta,Ginals,{' ': 1},{},{},én ta,Cassaber,{' ': 1},{},{}
+enté,Escos,énta,Castagnède,{},{},"{('e', 'é'): 1, ('é', 'a'): 1}",,,,,,,,,,
+éntœ,Labastide-Villefranche,énta,Lahontan,{},{},"{('œ', 'a'): 1}",,,,,,,,,,
+énta,Lahontan,én ta,Cassaber,{' ': 1},{},{},én ta,Carresse,{' ': 1},{},{},éntœ,Labastide-Villefranche,{},{},"{('a', 'œ'): 1}"
+ta,Léren,én,Courbiac,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}",ta,Saint-Pé-de-Léren,{},{},{},én ta,Saint-Dos,"{'é': 1, 'n': 1, ' ': 1}",{},{}
+én ta,Saint-Dos,énta,Salies-de-Béarn,{},{' ': 1},{},ta,Léren,{},"{'é': 1, 'n': 1, ' ': 1}",{},,,,,
+ta,Saint-Pé-de-Léren,ta,Léren,{},{},{},én,Tartas,{},{},"{('t', 'é'): 1, ('a', 'n'): 1}",énta,Abitain,"{'é': 1, 'n': 1}",{},{}
+énta,Salies-de-Béarn-bis,énta,Salles-Mongiscard,{},{},{},en,Poussignac,{},"{'t': 1, 'a': 1}","{('é', 'e'): 1}",énta,Salies-de-Béarn,{},{},{}
+énta,Salies-de-Béarn,énta,Burgaronne,{},{},{},én ta,Saint-Dos,{' ': 1},{},{},énta,Salies-de-Béarn-bis,{},{},{}
+énta,Salles-Mongiscard,endé,Saint-Gemme-Martaillac,{},{},"{('é', 'e'): 1, ('t', 'd'): 1, ('a', 'é'): 1}",énta,Salies-de-Béarn-bis,{},{},{},énta,Abitain,{},{},{}
+énta,Abitain,énta,Salles-Mongiscard,{},{},{},ta,Saint-Pé-de-Léren,{},"{'é': 1, 'n': 1}",{},,,,,
+énta,Andrein,én,Masquières,{},"{'t': 1, 'a': 1}",{},,,,,,,,,,
+én ta,Athos-Aspis,en,Montégut,{},"{' ': 1, 't': 1, 'a': 1}","{('é', 'e'): 1}",én ta,Autevielle,{},{},{},,,,,
+én ta,Autevielle,én ta,Athos-Aspis,{},{},{},én ta,Pouliacq,{},{},{},,,,,
+én ta,Barraute,én,Labastide-Castel-Amouroux,{},"{' ': 1, 't': 1, 'a': 1}",{},énta,Burgaronne,{},{' ': 1},{},,,,,
+énta,Burgaronne,énta,Salies-de-Béarn,{},{},{},én ta,Barraute,{' ': 1},{},{},,,,,
+én ta,Castetbon,énta,Espiute,{},{' ': 1},{},,,,,,,,,,
+énta,Espiute,én ta,Castetbon,{' ': 1},{},{},én,Meilhan,{},"{'t': 1, 'a': 1}",{},énta,L'Hôpital-d'Orion,{},{},{}
+énta,Guinarthe-Parenties,en ta,Laàs,{' ': 1},{},"{('é', 'e'): 1}",énta,L'Hôpital-d'Orion,{},{},{},,,,,
+énta,L'Hôpital-d'Orion,énta,Espiute,{},{},{},énta,Guinarthe-Parenties,{},{},{},,,,,
+en ta,Laàs,én,Villenave,{},"{' ': 1, 't': 1, 'a': 1}","{('e', 'é'): 1}",énta,Guinarthe-Parenties,{},{' ': 1},"{('e', 'é'): 1}",,,,,
+enta,Montfort,ta,Narp-Ossenx,{},"{'e': 1, 'n': 1}",{},,,,,,,,,,
+ta,Narp-Ossenx,en,Saint-Sernin,{},{},"{('t', 'e'): 1, ('a', 'n'): 1}",enta,Montfort,"{'e': 1, 'n': 1}",{},{},énte,Orriule,"{'é': 1, 'n': 1}",{},"{('a', 'e'): 1}"
+énta,Oràas,énta,Orion,{},{},{},,,,,,,,,,
+énta,Orion,énta,Oràas,{},{},{},ta,Candresse,{},"{'é': 1, 'n': 1}",{},énte,Orriule,{},{},"{('a', 'e'): 1}"
+énte,Orriule,énta,Orion,{},{},"{('e', 'a'): 1}",én,Savignac-de-Duras,{},"{'t': 1, 'e': 1}",{},ta,Narp-Ossenx,{},"{'é': 1, 'n': 1}","{('e', 'a'): 1}"
+énta,Saint-Gladie-Arrive-Munein,,,,,,,,,,,,,,,
+ta,Sauveterre-de-Béarn-bis,,,,,,,,,,,,,,,
+én ta,Sauveterre-de-Béarn,,,,,,,,,,,,,,,
+ta,Tabaille-Usquain,,,,,,,,,,,,,,,
+énta,Caussade,,,,,,,,,,,,,,,
+en ta,Cayriech,ta,Mirabel,{},"{'e': 1, 'n': 1, ' ': 1}",{},,,,,,,,,,
+én ta,Lavaurette,ta,Monteils,{},"{'é': 1, 'n': 1, ' ': 1}",{},ta,Mirabel,{},"{'é': 1, 'n': 1, ' ': 1}",{},,,,,
+ta,Mirabel,énta,Saint-Cirq,"{'é': 1, 'n': 1}",{},{},en ta,Cayriech,"{'e': 1, 'n': 1, ' ': 1}",{},{},én ta,Lavaurette,"{'é': 1, 'n': 1, ' ': 1}",{},{}
+ta,Monteils,én ta,Lavaurette,"{'é': 1, 'n': 1, ' ': 1}",{},{},ta,Réalville,{},{},{},,,,,
+ta,Réalville,ta,Monteils,{},{},{},,,,,,,,,,
+énta,Saint-Cirq,ta,Mirabel,{},"{'é': 1, 'n': 1}",{},,,,,,,,,,
+ta,Saint-Georges,ta,Saint-Vincent-d'Autéjac,{},{},{},enta,Tartas-ville-haute,"{'e': 1, 'n': 1}",{},{},,,,,
+ta,Saint-Vincent-d'Autéjac,éndé,Romestaing,"{'é': 1, 'n': 1}",{},"{('t', 'd'): 1, ('a', 'é'): 1}",ta,Saint-Georges,{},{},{},énta,Septfonds,"{'é': 1, 'n': 1}",{},{}
+énta,Septfonds,én dé,Saint-Nauphary,{' ': 1},{},"{('t', 'd'): 1, ('a', 'é'): 1}",ta,Saint-Vincent-d'Autéjac,{},"{'é': 1, 'n': 1}",{},,,,,
+én ta,Caylus,én,Tartas,{},"{' ': 1, 't': 1, 'a': 1}",{},,,,,,,,,,
+ta,Espinas,ta,Loze,{},{},{},,,,,,,,,,
+énta,Lacapelle-Livron,tà,Montauban-Est-bis,{},"{'é': 1, 'n': 1}","{('a', 'à'): 1}",,,,,,,,,,
+ta,Loze,ta,Espinas,{},{},{},,,,,,,,,,
+enta,Saint-Projet,ta,L'Honor-de-Cos,{},"{'e': 1, 'n': 1}",{},,,,,,,,,,
+enta,L'Honor-de-Cos-Loubéjac,ta,L'Honor-de-Cos,{},"{'e': 1, 'n': 1}",{},,,,,,,,,,
+ta,L'Honor-de-Cos,enta,Saint-Projet,"{'e': 1, 'n': 1}",{},{},enta,L'Honor-de-Cos-Loubéjac,"{'e': 1, 'n': 1}",{},{},,,,,
+én ta,Lafrançaise,ta,Montastruc,{},"{'é': 1, 'n': 1, ' ': 1}",{},ta,Labarthe,{},"{'é': 1, 'n': 1, ' ': 1}",{},,,,,
+ta,Montastruc,én ta,Lafrançaise,"{'é': 1, 'n': 1, ' ': 1}",{},{},,,,,,,,,,
+én,Piquecos,énta,Auty,"{'t': 1, 'a': 1}",{},{},,,,,,,,,,
+énta,Auty,ta,Labarthe,{},"{'é': 1, 'n': 1}",{},én,Piquecos,{},"{'t': 1, 'a': 1}",{},,,,,
+ta,Labarthe,énta,Auty,"{'é': 1, 'n': 1}",{},{},én ta,Lafrançaise,"{'é': 1, 'n': 1, ' ': 1}",{},{},,,,,
+énta,Molières-bis,ta,Lamothe-Capdeville,{},"{'é': 1, 'n': 1}",{},,,,,,,,,,
+enta,Molières,enta,Puycornet,{},{},{},énde,Bégaar,{},{},"{('e', 'é'): 1, ('t', 'd'): 1, ('a', 'e'): 1}",,,,,
+enta,Puycornet,énta,Carcen-Ponson,{},{},"{('e', 'é'): 1}",enta,Molières,{},{},{},enta,Bruniquel,{},{},{}
+enta,Bruniquel,enta,Puycornet,{},{},{},,,,,,,,,,
+énta,Génébrières,én ta,Monclar-de-Quercy,{' ': 1},{},{},,,,,,,,,,
+én ta,Monclar-de-Quercy,én ta,Montauban-bis,{},{},{},énta,Puygaillard-de-Quercy,{},{' ': 1},{},énta,Génébrières,{},{' ': 1},{}
+énta,Puygaillard-de-Quercy,én ta,Monclar-de-Quercy,{' ': 1},{},{},énta,Pontonx-sur-l'Adour,{},{},{},,,,,
+ta,Lamothe-Capdeville,énta,Molières-bis,"{'é': 1, 'n': 1}",{},{},,,,,,,,,,
+én ta,Montauban-bis,ta,Montauban-Est-ter,{},"{'é': 1, 'n': 1, ' ': 1}",{},én ta,Monclar-de-Quercy,{},{},{},tà,Montauban-Est-bis,{},"{'é': 1, 'n': 1, ' ': 1}","{('a', 'à'): 1}"
+tà,Montauban-Est-bis,én ta,Montauban-bis,"{'é': 1, 'n': 1, ' ': 1}",{},"{('à', 'a'): 1}",énta,Lacapelle-Livron,"{'é': 1, 'n': 1}",{},"{('à', 'a'): 1}",,,,,
+ta,Montauban-Est-ter,énta,Pontonx-sur-l'Adour,"{'é': 1, 'n': 1}",{},{},én ta,Montauban-bis,"{'é': 1, 'n': 1, ' ': 1}",{},{},,,,,
+énta,Montauban-Est,ta,Montauban-Ouest-bis,{},"{'é': 1, 'n': 1}",{},énndé,Langoiran-bis,{'n': 1},{},"{('t', 'd'): 1, ('a', 'é'): 1}",énta,Montauban-Fau,{},{},{}
+énta,Montauban-Fau,énta,Montauban-Est,{},{},{},en,Montégut,{},"{'t': 1, 'a': 1}","{('é', 'e'): 1}",enta,Montauban-Ouest,{},{},"{('é', 'e'): 1}"
+ta,Montauban-Ouest-bis,en ta,Albias,"{'e': 1, 'n': 1, ' ': 1}",{},{},énta,Montauban-Est,"{'é': 1, 'n': 1}",{},{},enta,Montauban-Ouest,"{'e': 1, 'n': 1}",{},{}
+enta,Montauban-Ouest,én,Le Frêche,{},"{'t': 1, 'a': 1}","{('e', 'é'): 1}",ta,Montauban-Ouest-bis,{},"{'e': 1, 'n': 1}",{},énta,Montauban-Fau,{},{},"{('e', 'é'): 1}"
+énta,Montauban,én,Pujo-le-Plan,{},"{'t': 1, 'a': 1}",{},,,,,,,,,,
+ento,Villemade,en dé,Le Causé,{' ': 1},{},"{('t', 'd'): 1, ('o', 'é'): 1}",,,,,,,,,,
+én ta,Labastide-de-Penne,énto,Puylaroque,{},{' ': 1},"{('a', 'o'): 1}",en ta,Lapenche,{},{},"{('é', 'e'): 1}",,,,,
+en ta,Lapenche,én,Le Frêche,{},"{' ': 1, 't': 1, 'a': 1}","{('e', 'é'): 1}",én ta,Montalzat,{},{},"{('e', 'é'): 1}",én ta,Labastide-de-Penne,{},{},"{('e', 'é'): 1}"
+én ta,Montalzat,en ta,Lapenche,{},{},"{('é', 'e'): 1}",énta,Perquie,{},{' ': 1},{},,,,,
+én to,Montfermier,ento,Montpezat-de-Quercy-bis,{},{' ': 1},"{('é', 'e'): 1}",,,,,,,,,,
+ento,Montpezat-de-Quercy-bis,én to,Montfermier,{' ': 1},{},"{('e', 'é'): 1}",én ta,Montpezat-de-Quercy,{' ': 1},{},"{('e', 'é'): 1, ('o', 'a'): 1}",énto,Puylaroque,{},{},"{('e', 'é'): 1}"
+én ta,Montpezat-de-Quercy,ento,Montpezat-de-Quercy-bis,{},{' ': 1},"{('é', 'e'): 1, ('a', 'o'): 1}",én,Sainte-Foy,{},"{' ': 1, 't': 1, 'a': 1}",{},én to,Bioule,{},{},"{('a', 'o'): 1}"
+énto,Puylaroque,en ta,Albias,{' ': 1},{},"{('é', 'e'): 1, ('o', 'a'): 1}",én ta,Labastide-de-Penne,{' ': 1},{},"{('o', 'a'): 1}",ento,Montpezat-de-Quercy-bis,{},{},"{('é', 'e'): 1}"
+en ta,Albias,én to,Bioule,{},{},"{('e', 'é'): 1, ('a', 'o'): 1}",ta,Montauban-Ouest-bis,{},"{'e': 1, 'n': 1, ' ': 1}",{},énto,Puylaroque,{},{' ': 1},"{('e', 'é'): 1, ('a', 'o'): 1}"
+én to,Bioule,én,Villeneuve-de-Marsan,{},"{' ': 1, 't': 1, 'o': 1}",{},en ta,Albias,{},{},"{('é', 'e'): 1, ('o', 'a'): 1}",én ta,Montpezat-de-Quercy,{},{},"{('o', 'a'): 1}"
+én ta,Cazals,én ta,Saint-Étienne-de-Tulmont,{},{},{},én a,Nègrepelisse,{},{'t': 1},{},,,,,
+én ta,Montricoux,én ta,Nègrepelisse-bis,{},{},{},enta,Argenton,{},{' ': 1},"{('é', 'e'): 1}",énta,Féneyrols,{},{' ': 1},{}
+én ta,Nègrepelisse-bis,én a,Nègrepelisse,{},{'t': 1},{},en,Bouglon,{},"{' ': 1, 't': 1, 'a': 1}","{('é', 'e'): 1}",én ta,Montricoux,{},{},{}
+én a,Nègrepelisse,én dé,Reyniès,{'d': 1},{},"{('a', 'é'): 1}",én ta,Nègrepelisse-bis,{'t': 1},{},{},én ta,Cazals,{'t': 1},{},{}
+én ta,Saint-Étienne-de-Tulmont,én ta,Cazals,{},{},{},énta,Féneyrols,{},{' ': 1},{},,,,,
+énta,Féneyrols,én ta,Montricoux,{' ': 1},{},{},én ta,Saint-Étienne-de-Tulmont,{' ': 1},{},{},,,,,
+én ta,Ginals,énta,Castagnède,{},{' ': 1},{},én dé,Laguépie,{},{},"{('t', 'd'): 1, ('a', 'é'): 1}",,,,,
+én dé,Laguépie,én ta,Ginals,{},{},"{('d', 't'): 1, ('é', 'a'): 1}",,,,,,,,,,
+én dé,Saint-Antonin-Noble-Val,en dé,Varen,{},{},"{('é', 'e'): 1}",éndé,Romestaing,{},{' ': 1},{},én dé,Varennes,{},{},{}
+en dé,Varen,én dé,Corbarieu-bis,{},{},"{('e', 'é'): 1}",én,Beauziac,{},"{' ': 1, 'd': 1, 'é': 1}","{('e', 'é'): 1}",én dé,Saint-Antonin-Noble-Val,{},{},"{('e', 'é'): 1}"
+en dé,Verfeil,en dé,Verlhac-Tescou,{},{},{},én dé,Corbarieu-bis,{},{},"{('e', 'é'): 1}",,,,,
+én dé,Corbarieu-bis,én,Buzet-sur-Baïse,{},"{' ': 1, 'd': 1, 'é': 1}",{},en dé,Varen,{},{},"{('é', 'e'): 1}",en dé,Verfeil,{},{},"{('é', 'e'): 1}"
+én dé,Corbarieu,en,Bouglon,{},"{' ': 1, 'd': 1, 'é': 1}","{('é', 'e'): 1}",én dé,Reyniès,{},{},{},,,,,
+én dé,Reyniès,én dé,Corbarieu,{},{},{},én a,Nègrepelisse,{},{'é': 1},"{('d', 'a'): 1}",,,,,
+én dé,Saint-Nauphary,énta,Septfonds,{},{'é': 1},"{(' ', 't'): 1, ('d', 'a'): 1}",én dé,Varennes,{},{},{},,,,,
+én dé,Varennes,én dé,Saint-Antonin-Noble-Val,{},{},{},én dé,Saint-Nauphary,{},{},{},en dé,Verlhac-Tescou,{},{},"{('é', 'e'): 1}"
+en dé,Verlhac-Tescou,én dé,Villebrumier-bis,{},{},"{('e', 'é'): 1}",en dé,Verfeil,{},{},{},én dé,Varennes,{},{},"{('e', 'é'): 1}"
+én dé,Villebrumier-bis,en dé,Verlhac-Tescou,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+én dé,Villebrumier,enné,Gariès,{},{'d': 1},"{('é', 'e'): 1, (' ', 'n'): 1}",,,,,,,,,,
+ en né,Beaumont-de-Lomagne-bis,en,Saint-Cricq-Villeneuve,{},"{' ': 2, 'n': 1, 'é': 1}",{},en dé,Beaumont-de-Lomagne,{},{' ': 1},"{('n', 'd'): 1}",,,,,
+en dé,Beaumont-de-Lomagne, en né,Beaumont-de-Lomagne-bis,{' ': 1},{},"{('d', 'n'): 1}",,,,,,,,,,
+én dé,Esparsac,én dé,Faudoas,{},{},{},én,Saint-Martin-Curton,{},"{' ': 1, 'd': 1, 'é': 1}",{},enné,Gariès,{},{'d': 1},"{('é', 'e'): 1, (' ', 'n'): 1}"
+én dé,Faudoas,én,Grateloup,{},"{' ': 1, 'd': 1, 'é': 1}",{},én dé,Esparsac,{},{},{},endé,Marignac,{},{' ': 1},"{('é', 'e'): 1}"
+enné,Gariès,én dé,Villebrumier,{' ': 1},{},"{('e', 'é'): 1, ('n', 'd'): 1}",éndé,Lamothe-Cumont,{},{},"{('e', 'é'): 1, ('n', 'd'): 1}",én dé,Esparsac,{' ': 1},{},"{('e', 'é'): 1, ('n', 'd'): 1}"
+éndé,Lamothe-Cumont,enné,Gariès,{},{},"{('é', 'e'): 1, ('d', 'n'): 1}",en,Saint-Cricq-Villeneuve,{},"{'d': 1, 'é': 1}","{('é', 'e'): 1}",en dé,Le Causé,{' ': 1},{},"{('é', 'e'): 1}"
+en dé,Le Causé,éndé,Lamothe-Cumont,{},{' ': 1},"{('e', 'é'): 1}",ento,Villemade,{},{'é': 1},"{(' ', 't'): 1, ('d', 'o'): 1}",endé,Marignac,{},{' ': 1},{}
+endé,Marignac,en dé,Le Causé,{' ': 1},{},{},én,Castelmoron-sur-Lot-bis,{},"{'d': 1, 'é': 1}","{('e', 'é'): 1}",én dé,Faudoas,{' ': 1},{},"{('e', 'é'): 1}"
+éné,Maubec,endé,Coulx,{'d': 1},{},"{('é', 'e'): 1}",én dé,Sérignac,"{' ': 1, 'd': 1}",{},{},,,,,
+én dé,Sérignac,éné,Maubec,{},"{' ': 1, 'd': 1}",{},éndé,Villefranche-du-Queyran,{},{' ': 1},{},en dé,Vigueron,{},{},"{('é', 'e'): 1}"
+en dé,Vigueron,én,Pujo-le-Plan,{},"{' ': 1, 'd': 1, 'é': 1}","{('e', 'é'): 1}",én dé,Sérignac,{},{},"{('e', 'é'): 1}",,,,,
+éndé,Albefeuille-Lagarde,en dé,Castelsarrasin,{' ': 1},{},"{('é', 'e'): 1}",,,,,,,,,,
+ein dé,Barry-d'Islemade,en dé,Labastide-du-Temple,{},{'i': 1},{},,,,,,,,,,
+en dé,Castelsarrasin,én,Villeneuve-de-Duras,{},"{' ': 1, 'd': 1, 'é': 1}","{('e', 'é'): 1}",en dé,Labastide-du-Temple,{},{},{},éndé,Albefeuille-Lagarde,{},{' ': 1},"{('e', 'é'): 1}"
+en dé,Labastide-du-Temple,en dé,Castelsarrasin,{},{},{},én,Fieux,{},"{' ': 1, 'd': 1, 'é': 1}","{('e', 'é'): 1}",ein dé,Barry-d'Islemade,{'i': 1},{},{}
+én dé,Les Barthes,,,,,,,,,,,,,,,

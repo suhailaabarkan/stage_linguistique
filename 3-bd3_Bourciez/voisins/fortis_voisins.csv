@@ -1,0 +1,509 @@
+Mot,Commune,Voisin_1,Commune_1,Insertions_1,Suppressions_1,Substitutions_1,Voisin_2,Commune_2,Insertions_2,Suppressions_2,Substitutions_2,Voisin_3,Commune_3,Insertions_3,Suppressions_3,Substitutions_3
+hort,Andernos-les-Bains,fort,Bazas-bis,{},{},"{('h', 'f'): 1}",hort,Auros-bis,{},{},{},hort,Audenge-bis,{},{},{}
+hort,Arès,fort,Savignac,{},{},"{('h', 'f'): 1}",fort,Ailas,{},{},"{('h', 'f'): 1}",fort,Coimères,{},{},"{('h', 'f'): 1}"
+hort,Audenge-bis,hort,Andernos-les-Bains,{},{},{},hort,Le Porge,{},{},{},fort,Saint-Étienne-de-Lisse,{},{},"{('h', 'f'): 1}"
+hort,Audenge,fort,Lignan-de-Bazas,{},{},"{('h', 'f'): 1}",fort,Belin-Béliet,{},{},"{('h', 'f'): 1}",,,,,
+hort,Biganos,fort,Blanquefort-bis,{},{},"{('h', 'f'): 1}",,,,,,,,,,
+hort,Lacanau-de-Mios,fort,Eysines,{},{},"{('h', 'f'): 1}",hort,Carbon-Blanc-bis,{},{},{},,,,,
+hort,Lanton,fort,Macau,{},{},"{('h', 'f'): 1}",hort,Castelnau-de-Médoc,{},{},{},fort,Saint-Loubès,{},{},"{('h', 'f'): 1}"
+hort,Lège,fort,Saint-Sulpice-et-Cameyrac,{},{},"{('h', 'f'): 1}",,,,,,,,,,
+hort,Mios,fort,Ailas,{},{},"{('h', 'f'): 1}",fort,Saint-Maixant,{},{},"{('h', 'f'): 1}",,,,,
+fort,Ailas,hort,Arès,{},{},"{('f', 'h'): 1}",hort,Mios,{},{},"{('f', 'h'): 1}",hort,Auros-bis,{},{},"{('f', 'h'): 1}"
+hort,Auros-bis,hort,Andernos-les-Bains,{},{},{},fort,Ailas,{},{},"{('h', 'f'): 1}",,,,,
+hort,Auros,fort,Bordeaux,{},{},"{('h', 'f'): 1}",hort,Sainte-Foy-la-Grande-bis,{},{},{},hort,Brannens,{},{},{}
+hort,Barie,fort,Yvrac,{},{},"{('h', 'f'): 1}",,,,,,,,,,
+hort,Brannens,hort,Auros,{},{},{},hort,Castillon-de-Castets,{},{},{},,,,,
+hort,Castillon-de-Castets,fort,Saint-Médard-en-Jalles,{},{},"{('h', 'f'): 1}",hort,Brannens,{},{},{},,,,,
+fort,Coimères,hort,Arès,{},{},"{('f', 'h'): 1}",fort,Cudos,{},{},{},fort,Lados,{},{},{}
+fort,Lados,fort,Gans,{},{},{},fort,Puybarban,{},{},{},fort,Coimères,{},{},{}
+fort,Pondaurat,fort,Blaignan,{},{},{},,,,,,,,,,
+fort,Puybarban,fort,Lados,{},{},{},fort,Le Bouscat,{},{},{},fort,Savignac,{},{},{}
+fort,Savignac,fort,Sigalens,{},{},{},hort,Arès,{},{},"{('f', 'h'): 1}",fort,Puybarban,{},{},{}
+fort,Sigalens,fort,Caudéran,{},{},{},fort,Savignac,{},{},{},hort,Bayon-sur-Gironde,{},{},"{('f', 'h'): 1}"
+fort,Bazas-bis,fort,Bazas,{},{},{},hort,Andernos-les-Bains,{},{},"{('f', 'h'): 1}",,,,,
+fort,Bazas,fort,Cazats,{},{},{},fort,Bazas-bis,{},{},{},,,,,
+fort,Bernos-Beaulac,fort,Birac,{},{},{},fort,Saumos,{},{},{},hort,Gajac,{},{},"{('f', 'h'): 1}"
+fort,Birac,fort,Saint-Magne-de-Castillon,{},{},{},fort,Bernos-Beaulac,{},{},{},fort,Cazats,{},{},{}
+fort,Cazats,fort,Cudos,{},{},{},fort,Bazas,{},{},{},fort,Birac,{},{},{}
+fort,Cudos,fort,Coimères,{},{},{},fort,Cazats,{},{},{},fort,Gans,{},{},{}
+hort,Gajac,hort,Belvès-de-Castillon,{},{},{},fort,Gans,{},{},"{('h', 'f'): 1}",fort,Bernos-Beaulac,{},{},"{('h', 'f'): 1}"
+fort,Gans,hort,Gajac,{},{},"{('f', 'h'): 1}",fort,Lados,{},{},{},fort,Cudos,{},{},{}
+fort,Le Nizan,hort,Prignac-et-Marcamps,{},{},"{('f', 'h'): 1}",hort,Gauriac,{},{},"{('f', 'h'): 1}",fort,Saint-Antoine-sur-l'Isle,{},{},{}
+fort,Lignan-de-Bazas,hort,Audenge,{},{},"{('f', 'h'): 1}",hort,Lansac,{},{},"{('f', 'h'): 1}",fort,Béliet,{},{},{}
+fort,Saint-Côme,hort,Bonnetan,{},{},"{('f', 'h'): 1}",hort,Saint-Trojan,{},{},"{('f', 'h'): 1}",fort,Béliet,{},{},{}
+fort,Béliet,fort,Belin-Béliet,{},{},{},fort,Lignan-de-Bazas,{},{},{},fort,Saint-Côme,{},{},{}
+fort,Belin-Béliet,fort,Cadillac-en-Fronsadais,{},{},{},hort,Audenge,{},{},"{('f', 'h'): 1}",fort,Béliet,{},{},{}
+fort,Joué,fort,Le Barp,{},{},{},hort,Tabanac,{},{},"{('f', 'h'): 1}",,,,,
+fort,Le Barp,fort,Cabara,{},{},{},fort,Joué,{},{},{},,,,,
+fort,Lugos,fort,Saint-Magne,{},{},{},fort,Salles-bis,{},{},{},,,,,
+fort,Saint-Magne,fort,Salles,{},{},{},fort,Lugos,{},{},{},fort,Saint-Romain-la-Virvée,{},{},{}
+fort,Salles-bis,fort,Lugos,{},{},{},fort,Génissac,{},{},{},,,,,
+fort,Salles,fort,Saint-Magne,{},{},{},fort,Saint-Quentin-de-Baron,{},{},{},,,,,
+fort,Blanquefort-bis,fort,Langoiran,{},{},{},hort,Biganos,{},{},"{('f', 'h'): 1}",fort,Blanquefort,{},{},{}
+fort,Blanquefort,fort,Blanquefort-bis,{},{},{},hor,La Réole,{},{'t': 1},"{('f', 'h'): 1}",,,,,
+fort,Caychac,fort,Omet,{},{},{},fort,Eysines,{},{},{},fort,Giscos,{},{},{}
+fort,Eysines,fort,Caychac,{},{},{},hort,Lacanau-de-Mios,{},{},"{('f', 'h'): 1}",hort,Le Haillan,{},{},"{('f', 'h'): 1}"
+hort,Le Haillan,fort,Le Pian-Médoc,{},{},"{('h', 'f'): 1}",fort,Eysines,{},{},"{('h', 'f'): 1}",,,,,
+fort,Le Pian-Médoc,hort,Le Haillan,{},{},"{('f', 'h'): 1}",,,,,,,,,,
+fort,Le Taillan-Médoc,hort,Sainte-Croix-du-Mont,{},{},"{('f', 'h'): 1}",fort,Bassens,{},{},{},fort,Landerrouat,{},{},{}
+fort,Ludon-Médoc,fort,Macau,{},{},{},,,,,,,,,,
+fort,Macau,fort,Ludon-Médoc,{},{},{},hort,Lanton,{},{},"{('f', 'h'): 1}",,,,,
+fort,Parempuyre,hort,Arcins,{},{},"{('f', 'h'): 1}",hort,Arsac,{},{},"{('f', 'h'): 1}",,,,,
+fort,Saint-Aubin-de-Médoc,hort,Labarde,{},{},"{('f', 'h'): 1}",,,,,,,,,,
+fort,Saint-Médard-en-Jalles,for,Margaux,{},{'t': 1},{},hort,Castillon-de-Castets,{},{},"{('f', 'h'): 1}",for,Moulis-en-Médoc-bis,{},{'t': 1},{}
+fort,Bègles,hort,Lugon-et-l'Île-du-Carnay,{},{},"{('f', 'h'): 1}",fort,Moulis-en-Médoc,{},{},{},,,,,
+fort,Bordeaux,hort,Auros,{},{},"{('f', 'h'): 1}",,,,,,,,,,
+fort,Bruges,for,Bégadan,{},{'t': 1},{},fort,Caudéran,{},{},{},,,,,
+fort,Caudéran,fort,Bruges,{},{},{},fort,Sigalens,{},{},{},hort,Bayon-sur-Gironde,{},{},"{('f', 'h'): 1}"
+fort,Chartrons,hort,Sainte-Colombe,{},{},"{('f', 'h'): 1}",hort,Salaunes,{},{},"{('f', 'h'): 1}",,,,,
+fort,Le Bouscat,fort,Puybarban,{},{},{},hort,Castillon-la-Bataille-bis,{},{},"{('f', 'h'): 1}",hort,Bayon-sur-Gironde,{},{},"{('f', 'h'): 1}"
+hort,Bayon-sur-Gironde,fort,Caudéran,{},{},"{('h', 'f'): 1}",fort,Sigalens,{},{},"{('h', 'f'): 1}",fort,Le Bouscat,{},{},"{('h', 'f'): 1}"
+hort,Bourg-bis,fort,Castres-Gironde,{},{},"{('h', 'f'): 1}",hort,Castillon-la-Bataille,{},{},{},for,Bahus-Soubiran,{},{'t': 1},"{('h', 'f'): 1}"
+hort,Bourg,hort,Comps,{},{},{},fort,Rivière-Saas-et-Gourby,{},{},"{('h', 'f'): 1}",hort,Baron,{},{},{}
+hort,Comps,hort,Gauriac,{},{},{},hort,Bourg,{},{},{},,,,,
+hort,Gauriac,fort,Le Nizan,{},{},"{('h', 'f'): 1}",hort,Comps,{},{},{},fort,Baurech,{},{},"{('h', 'f'): 1}"
+hort,Lansac,fort,Lignan-de-Bazas,{},{},"{('h', 'f'): 1}",hort,Marcamps,{},{},{},fort,Saint-Loubouer,{},{},"{('h', 'f'): 1}"
+hort,Marcamps,hort,Prignac-et-Marcamps,{},{},{},hort,Lansac,{},{},{},,,,,
+hort,Prignac-et-Marcamps,hort,Marcamps,{},{},{},fort,Le Nizan,{},{},"{('h', 'f'): 1}",fort,Renung,{},{},"{('h', 'f'): 1}"
+hort,Saint-Seurin-de-Bourg,fort,Saint-Pandelon,{},{},"{('h', 'f'): 1}",fort,Samonac,{},{},"{('h', 'f'): 1}",hort,Baron,{},{},{}
+hort,Saint-Trojan,fort,Saint-Côme,{},{},"{('h', 'f'): 1}",hort,Tauriac,{},{},{},fort,Samonac,{},{},"{('h', 'f'): 1}"
+fort,Samonac,hort,Saint-Seurin-de-Bourg,{},{},"{('f', 'h'): 1}",fort,Fronsac,{},{},{},hort,Saint-Trojan,{},{},"{('f', 'h'): 1}"
+hort,Tauriac,hort,Saint-Trojan,{},{},{},fort,Camarsac,{},{},"{('h', 'f'): 1}",hort,Baron,{},{},{}
+hort,Baron,hort,Bourg,{},{},{},hort,Saint-Seurin-de-Bourg,{},{},{},hort,Tauriac,{},{},{}
+fort,Branne-bis,fort,Bonnegarde,{},{},{},hort,Camblanes-et-Meynac,{},{},"{('f', 'h'): 1}",,,,,
+fort,Branne,hort,Hure,{},{},"{('f', 'h'): 1}",fort,Gironde-sur-Dropt-bis,{},{},{},fort,Carignan-de-Bordeaux,{},{},{}
+fort,Cabara-bis,hort,Le Tourne,{},{},"{('f', 'h'): 1}",for,Linxe,{},{'t': 1},{},fort,Dax-Saint-Vincent,{},{},{}
+fort,Cabara,fort,Saillans,{},{},{},fort,Le Barp,{},{},{},,,,,
+fort,Daignac,fort,Génissac,{},{},{},,,,,,,,,,
+fort,Génissac,fort,Salles-bis,{},{},{},fort,Daignac,{},{},{},for,Losse,{},{'t': 1},{}
+fort,Grézillac,fort,Jugazan,{},{},{},,,,,,,,,,
+fort,Jugazan,fort,Grézillac,{},{},{},fort,Civrac,{},{},{},fort,Gaillan-en-Médoc,{},{},{}
+fort,Moulon,hort,Bascons,{},{},"{('f', 'h'): 1}",hort,Naujan-et-Postiac,{},{},"{('f', 'h'): 1}",,,,,
+hort,Naujan-et-Postiac,fort,Grignols-bis,{},{},"{('h', 'f'): 1}",hort,Cazères-sur-l'Adour,{},{},{},fort,Moulon,{},{},"{('h', 'f'): 1}"
+hort̄,Nérigean,fort,Saint-Germain-du-Puch,{},{'̄': 1},"{('h', 'f'): 1}",,,,,,,,,,
+fort,Saint-Germain-du-Puch,for,Uzeste,{},{'t': 1},{},hort̄,Nérigean,{'̄': 1},{},"{('f', 'h'): 1}",,,,,
+fort,Saint-Quentin-de-Baron,fort,Salles,{},{},{},,,,,,,,,,
+fort,Tizac-de-Curton,,,,,,,,,,,,,,,
+fort,Béguey,fort,Sendets,{},{},{},fort,Gabarnac,{},{},{},,,,,
+fort,Cadillac,hort,Cardan,{},{},"{('f', 'h'): 1}",fort,Camiran,{},{},{},hort,Capian,{},{},"{('f', 'h'): 1}"
+hort,Capian,fort,Saint-Michel-de-Fronsac,{},{},"{('h', 'f'): 1}",fort,Cadillac,{},{},"{('h', 'f'): 1}",,,,,
+hort,Cardan,fort,Lerm-et-Musset,{},{},"{('h', 'f'): 1}",fort,Cadillac,{},{},"{('h', 'f'): 1}",fort,Donzac,{},{},"{('h', 'f'): 1}"
+fort,Donzac,hort,Saint-Médard-d'Eyrans,{},{},"{('f', 'h'): 1}",fort,Gabarnac,{},{},{},hort,Cardan,{},{},"{('f', 'h'): 1}"
+fort,Gabarnac,fort,Donzac,{},{},{},fort,Béguey,{},{},{},fort,Marions,{},{},{}
+fort,Langoiran-bis,hort,Gironde-sur-Dropt,{},{},"{('f', 'h'): 1}",,,,,,,,,,
+fort,Langoiran,fort,Blanquefort-bis,{},{},{},,,,,,,,,,
+fort,Lestiac-sur-Garonne,hort,Morizès,{},{},"{('f', 'h'): 1}",,,,,,,,,,
+fort,Loupiac,hort,Gujan,{},{},"{('f', 'h'): 1}",fort,Monprimblanc,{},{},{},,,,,
+fort,Monprimblanc,fort,Saint-Hilaire-de-la-Noaille,{},{},{},fort,Loupiac,{},{},{},,,,,
+fort,Omet,fort,Paillet,{},{},{},fort,Caychac,{},{},{},fort,La Teste-de-Buch,{},{},{}
+fort,Paillet,hort,Rions,{},{},"{('f', 'h'): 1}",fort,Omet,{},{},{},hort,Le Teich,{},{},"{('f', 'h'): 1}"
+hort,Rions,fort,Paillet,{},{},"{('h', 'f'): 1}",,,,,,,,,,
+hort,Sainte-Croix-du-Mont,hort,Captieux-bis,{},{},{},fort,Le Taillan-Médoc,{},{},"{('h', 'f'): 1}",hort,Mazères,{},{},{}
+hort,Villenave-de-Rions,fortt,Beychac-et-Caillau,{'t': 1},{},"{('h', 'f'): 1}",hort,Captieux-bis,{},{},{},hort,Arbanats,{},{},{}
+hort,Captieux-bis,hort,Villenave-de-Rions,{},{},{},hort,Sainte-Croix-du-Mont,{},{},{},hort,Captieux,{},{},{}
+hort,Captieux,hort,Léogeats,{},{},{},hort,Langon,{},{},{},hort,Captieux-bis,{},{},{}
+hort,Escaudes,hort,Bouliac,{},{},{},hort,Cérons,{},{},{},,,,,
+fort,Giscos,hort,Bieujac,{},{},"{('f', 'h'): 1}",fort,Caychac,{},{},{},hort,Saint-Pardon-de-Conques,{},{},"{('f', 'h'): 1}"
+hort,Saint-Michel-de-Castelnau,fort,Cenon,{},{},"{('h', 'f'): 1}",fort,Saint-Émilion,{},{},"{('h', 'f'): 1}",hort,Toulenne,{},{},{}
+fort,Ambarès-et-Lagrave,for,Taller,{},{'t': 1},{},,,,,,,,,,
+fort,Ambès,hort,Martignas-sur-Jalle,{},{},"{('f', 'h'): 1}",fortt,Beychac-et-Caillau,{'t': 1},{},{},,,,,
+fort,Bassens,fort,Le Taillan-Médoc,{},{},{},fortt,Beychac-et-Caillau,{'t': 1},{},{},,,,,
+fortt,Beychac-et-Caillau,fort,Bassens,{},{'t': 1},{},hort,Villenave-de-Rions,{},{'t': 1},"{('f', 'h'): 1}",fort,Ambès,{},{'t': 1},{}
+hort,Bouliac,hort,Podensac,{},{},{},hort,Escaudes,{},{},{},hort,Carbon-Blanc-bis,{},{},{}
+hort,Carbon-Blanc-bis,hort,Bouliac,{},{},{},hort,Lacanau-de-Mios,{},{},{},,,,,
+fort,Carbon-Blanc,hort,Pessac,{},{},"{('f', 'h'): 1}",hort,Libourne,{},{},"{('f', 'h'): 1}",fort,Lormont,{},{},{}
+fort,Cenon,fort,Floirac,{},{},{},hort,Saint-Michel-de-Castelnau,{},{},"{('f', 'h'): 1}",,,,,
+fort,Floirac,hort,Saint-Sulpice-de-Faleyrens,{},{},"{('f', 'h'): 1}",fort,Cenon,{},{},{},fort,Lormont,{},{},{}
+fort,Lormont,fort,Carbon-Blanc,{},{},{},fort,Floirac,{},{},{},,,,,
+hort,Montussan,fort,Saint-Loubès,{},{},"{('h', 'f'): 1}",hort,Cussac-Fort-Médoc,{},{},{},,,,,
+fort,Saint-Loubès,hort,Lanton,{},{},"{('f', 'h'): 1}",hort,Montussan,{},{},"{('f', 'h'): 1}",,,,,
+fort,Saint-Louis-de-Montferrand,hort,Virelade,{},{},"{('f', 'h'): 1}",fort,Saint-Sulpice-et-Cameyrac,{},{},{},,,,,
+fort,Saint-Sulpice-et-Cameyrac,fort,Saint-Vincent-de-Paul,{},{},{},hort,Lège,{},{},"{('f', 'h'): 1}",fort,Saint-Louis-de-Montferrand,{},{},{}
+fort,Saint-Vincent-de-Paul,for,Flaujagues,{},{'t': 1},{},fort,Saint-Sulpice-et-Cameyrac,{},{},{},,,,,
+hort,Sainte-Eulalie,for,Saint-Martin-de-Sescas,{},{'t': 1},"{('h', 'f'): 1}",fort,Juillac,{},{},"{('h', 'f'): 1}",,,,,
+fort,Tresses-bis,fort,Peujard,{},{},{},hort,Pessac-sur-Dordogne,{},{},"{('f', 'h'): 1}",,,,,
+hort,Tresses,hort,Rauzan,{},{},{},hort,Saint-Pey-de-Castets,{},{},{},hort,Cubzac-les-Ponts,{},{},{}
+fort,Yvrac,hort,Arcins,{},{},"{('f', 'h'): 1}",hort,Barie,{},{},"{('f', 'h'): 1}",,,,,
+hort,Arcins,fort,Parempuyre,{},{},"{('h', 'f'): 1}",fort,Yvrac,{},{},"{('h', 'f'): 1}",hort,Virsac,{},{},{}
+hort,Arsac-bis,fort,Cantenac,{},{},"{('h', 'f'): 1}",fort,Saint-Gervais,{},{},"{('h', 'f'): 1}",fortt,Lamarque,{'t': 1},{},"{('h', 'f'): 1}"
+hort,Arsac,hort,Castelnau-de-Médoc,{},{},{},fort,Parempuyre,{},{},"{('h', 'f'): 1}",fort,Cantenac,{},{},"{('h', 'f'): 1}"
+fort,Cantenac,fort,Salignac,{},{},{},hort,Arsac-bis,{},{},"{('f', 'h'): 1}",hort,Arsac,{},{},"{('f', 'h'): 1}"
+hort,Castelnau-de-Médoc,hort,Lanton,{},{},{},hort,Arsac,{},{},{},hort,Cussac-Fort-Médoc,{},{},{}
+hort,Cussac-Fort-Médoc,hort,Montussan,{},{},{},hort,Castelnau-de-Médoc,{},{},{},hort,Lacanau,{},{},{}
+hort,Labarde,fort,Saint-Aubin-de-Médoc,{},{},"{('h', 'f'): 1}",hort,Lacanau,{},{},{},hort,Caudrot,{},{},{}
+hort,Lacanau,hort,Labarde,{},{},{},hort,Cussac-Fort-Médoc,{},{},{},fortt,Lamarque,{'t': 1},{},"{('h', 'f'): 1}"
+fortt,Lamarque,hort,Arsac-bis,{},{'t': 1},"{('f', 'h'): 1}",fort,Saint-André-du-Bois,{},{'t': 1},{},hort,Lacanau,{},{'t': 1},"{('f', 'h'): 1}"
+hort,Le Porge,hort,Audenge-bis,{},{},{},for,Saint-Germain-de-Grave,{},{'t': 1},"{('h', 'f'): 1}",hort,Le Temple,{},{},{}
+hort,Le Temple,fort,Verdelais,{},{},"{('h', 'f'): 1}",hort,Le Porge,{},{},{},,,,,
+fort,Listrac-Médoc,hort,Pujols-bis,{},{},"{('f', 'h'): 1}",,,,,,,,,,
+for,Margaux,fort,Saint-Médard-en-Jalles,{'t': 1},{},{},,,,,,,,,,
+for,Moulis-en-Médoc-bis,fort,Saint-Médard-en-Jalles,{'t': 1},{},{},fort,Sainte-Foy-la-Grande-ter,{'t': 1},{},{},,,,,
+fort,Moulis-en-Médoc,fort,Bègles,{},{},{},fort,Gornac,{},{},{},,,,,
+hort,Sainte-Hélène,for,Cazalis,{},{'t': 1},"{('h', 'f'): 1}",,,,,,,,,,
+hort,Salaunes,fort,Soussans,{},{},"{('h', 'f'): 1}",fort,Chartrons,{},{},"{('h', 'f'): 1}",hort,Castillon-la-Bataille-bis,{},{},{}
+fort,Saumos,fort,Bernos-Beaulac,{},{},{},fort,Soussans,{},{},{},hort,Belvès-de-Castillon,{},{},"{('f', 'h'): 1}"
+fort,Soussans,fort,Saumos,{},{},{},hort,Saint-Pey-d'Armens,{},{},"{('f', 'h'): 1}",hort,Salaunes,{},{},"{('f', 'h'): 1}"
+hort,Belvès-de-Castillon,hort,Castillon-la-Bataille-bis,{},{},{},hort,Gajac,{},{},{},fort,Saumos,{},{},"{('h', 'f'): 1}"
+hort,Castillon-la-Bataille-bis,fort,Le Bouscat,{},{},"{('h', 'f'): 1}",hort,Belvès-de-Castillon,{},{},{},hort,Salaunes,{},{},{}
+hort,Castillon-la-Bataille,hort,Bourg-bis,{},{},{},fort,Puisseguin,{},{},"{('h', 'f'): 1}",fort,Classun,{},{},"{('h', 'f'): 1}"
+fort,Gardegan,fort,Lucmau,{},{},{},fort,Villandraut-bis,{},{},{},,,,,
+fort,Saint-Étienne-de-Lisse,hort,Audenge-bis,{},{},"{('f', 'h'): 1}",hort,Saint-Genès-de-Castillon,{},{},"{('f', 'h'): 1}",,,,,
+hort,Saint-Genès-de-Castillon,fort,Saint-Étienne-de-Lisse,{},{},"{('h', 'f'): 1}",fort,Balizac,{},{},"{('h', 'f'): 1}",fort,Saint-Laurent-des-Combes,{},{},"{('h', 'f'): 1}"
+fort,Saint-Laurent-des-Combes,hort,Saint-Symphorien-bis,{},{},"{('f', 'h'): 1}",for,Aire-sur-l'Adour,{},{'t': 1},{},hort,Saint-Genès-de-Castillon,{},{},"{('f', 'h'): 1}"
+fort,Saint-Magne-de-Castillon,hort,Saint-Pey-d'Armens,{},{},"{('f', 'h'): 1}",fort,Birac,{},{},{},,,,,
+hort,Saint-Pey-d'Armens,fort,Soussans,{},{},"{('h', 'f'): 1}",fort,Saint-Magne-de-Castillon,{},{},"{('h', 'f'): 1}",hort,Saint-Philippe-d'Aiguille,{},{},{}
+hort,Saint-Philippe-d'Aiguille,fort,Sainte-Terre,{},{},"{('h', 'f'): 1}",hort,Saint-Pey-d'Armens,{},{},{},for,Eugénie-les-Bains,{},{'t': 1},"{('h', 'f'): 1}"
+hort,Sainte-Colombe,fort,Chartrons,{},{},"{('h', 'f'): 1}",fort,Sainte-Terre,{},{},"{('h', 'f'): 1}",,,,,
+fort,Sainte-Terre,hort,Sainte-Colombe,{},{},"{('f', 'h'): 1}",hort,Saint-Philippe-d'Aiguille,{},{},"{('f', 'h'): 1}",fort,Vignonet,{},{},{}
+fort,Vignonet,fort,Sainte-Terre,{},{},{},,,,,,,,,,
+fort,Saint-Antoine-sur-l'Isle,fort,Saint-Agnet,{},{},{},fort,Le Nizan,{},{},{},fort,Baurech,{},{},{}
+fort,Baurech,fort,Saint-Antoine-sur-l'Isle,{},{},{},hort,Gauriac,{},{},"{('f', 'h'): 1}",fort,Camarsac,{},{},{}
+hort,Bonnetan,fort,Camarsac,{},{},"{('h', 'f'): 1}",fort,Saint-Côme,{},{},"{('h', 'f'): 1}",for,Sarron,{},{'t': 1},"{('h', 'f'): 1}"
+fort,Camarsac,hort,Tauriac,{},{},"{('f', 'h'): 1}",hort,Bonnetan,{},{},"{('f', 'h'): 1}",fort,Baurech,{},{},{}
+hort,Cambes,fort,Cénac,{},{},"{('h', 'f'): 1}",fort,Vielle-Tursan,{},{},"{('h', 'f'): 1}",hort,Camblanes-et-Meynac,{},{},{}
+hort,Camblanes-et-Meynac,fort,Branne-bis,{},{},"{('h', 'f'): 1}",hort,Cambes,{},{},{},fort,Carignan-de-Bordeaux,{},{},"{('h', 'f'): 1}"
+fort,Carignan-de-Bordeaux,fort,Amou,{},{},{},fort,Branne,{},{},{},hort,Camblanes-et-Meynac,{},{},"{('f', 'h'): 1}"
+fort,Cénac,hort,Cambes,{},{},"{('f', 'h'): 1}",fort,Bassercles,{},{},{},,,,,
+hort,Créon,for,Brassempouy,{},{'t': 1},"{('h', 'f'): 1}",,,,,,,,,,
+fort,Haux,fort,Castelnau-Chalosse,{},{},{},,,,,,,,,,
+hor,Latresne,hor,Castel-Sarrazin,{},{},{},fort,Donzacq,{'t': 1},{},"{('h', 'f'): 1}",,,,,
+hort,Le Tourne,fort,Cabara-bis,{},{},"{('h', 'f'): 1}",hort,Sallebœuf,{},{},{},,,,,
+fort,Lignan-de-Bordeaux,hort,Bommes,{},{},"{('f', 'h'): 1}",fort,Pompignac,{},{},{},fort,Madirac,{},{},{}
+fort,Madirac,fort,Quinsac,{},{},{},fort,Lignan-de-Bordeaux,{},{},{},,,,,
+fort,Pompignac,fort,Lignan-de-Bordeaux,{},{},{},fort,Quinsac,{},{},{},,,,,
+fort,Quinsac,fort,Uza,{},{},{},fort,Madirac,{},{},{},fort,Pompignac,{},{},{}
+hort,Sadirac,fort,Saint-Caprais-de-Bordeaux,{},{},"{('h', 'f'): 1}",,,,,,,,,,
+fort,Saint-Caprais-de-Bordeaux,hort,Sallebœuf,{},{},"{('f', 'h'): 1}",fort,Bénesse-lès-Dax,{},{},{},hort,Sadirac,{},{},"{('f', 'h'): 1}"
+hort,Sallebœuf,hort,Le Tourne,{},{},{},fort,Saint-Caprais-de-Bordeaux,{},{},"{('h', 'f'): 1}",,,,,
+hort,Tabanac,fort,Joué,{},{},"{('h', 'f'): 1}",fort,Narrosse,{},{},"{('h', 'f'): 1}",,,,,
+hort,Asques,hort,Fronsac-bis,{},{},{},hort,La Lande-de-Fronsac,{},{},{},,,,,
+fort,Cadillac-en-Fronsadais,hort,Fronsac-bis,{},{},"{('f', 'h'): 1}",fort,Belin-Béliet,{},{},{},fort,Fronsac,{},{},{}
+hort,Fronsac-bis,for,Mées,{},{'t': 1},"{('h', 'f'): 1}",fort,Cadillac-en-Fronsadais,{},{},"{('h', 'f'): 1}",hort,Asques,{},{},{}
+fort,Fronsac,fort,Samonac,{},{},{},hort,La Lande-de-Fronsac,{},{},"{('f', 'h'): 1}",fort,Cadillac-en-Fronsadais,{},{},{}
+hort,La Lande-de-Fronsac,fort,Fronsac,{},{},"{('h', 'f'): 1}",hort,Asques,{},{},{},,,,,
+hort,Lugon-et-l'Île-du-Carnay,fort,Bègles,{},{},"{('h', 'f'): 1}",fort,Saillans,{},{},"{('h', 'f'): 1}",,,,,
+fort,Saillans,hort,Lugon-et-l'Île-du-Carnay,{},{},"{('f', 'h'): 1}",fort,Cabara,{},{},{},for,Saint-Paul-lès-Dax,{},{'t': 1},{}
+fort,Saint-Germain-de-la-Rivière,fort,Saint-Vincent-de-Paul,{},{},{},fort,Martillac,{},{},{},fort,Saint-Michel-de-Fronsac,{},{},{}
+fort,Saint-Michel-de-Fronsac,fort,Saint-Germain-de-la-Rivière,{},{},{},hort,Capian,{},{},"{('f', 'h'): 1}",,,,,
+fort,Saint-Romain-la-Virvée,fort,Saint-Magne,{},{},{},fort,Vérac,{},{},{},,,,,
+fort,Vérac,fort,Saint-Romain-la-Virvée,{},{},{},fort,Villegouge,{},{},{},,,,,
+fort,Villegouge,fort,Campin,{},{},{},fort,Vérac,{},{},{},,,,,
+fort,Campin,fort,Villegouge,{},{},{},fort,Cours-les-Bains,{},{},{},,,,,
+fort,Cours-les-Bains,hor,Castandet,{},{'t': 1},"{('f', 'h'): 1}",fort,Lagrange,{},{},{},fort,Campin,{},{},{}
+fort,Grignols-bis,fort,Grignols,{},{},{},hort,Naujan-et-Postiac,{},{},"{('f', 'h'): 1}",hor,Tercis-les-Bains,{},{'t': 1},"{('f', 'h'): 1}"
+fort,Grignols,fort,Grignols-bis,{},{},{},fort,Yzosse,{},{},{},,,,,
+fort,Lavazan,fort,Arx,{},{},{},hort,Saucats,{},{},"{('f', 'h'): 1}",,,,,
+fort,Lerm-et-Musset,hort,Cardan,{},{},"{('f', 'h'): 1}",fort,Marions,{},{},{},,,,,
+fort,Marions,fort,Gabarnac,{},{},{},fort,Lerm-et-Musset,{},{},{},,,,,
+fort,Sendets,fort,Béguey,{},{},{},,,,,,,,,,
+for,Bégadan,fort,Blaignan,{'t': 1},{},{},fort,Bruges,{'t': 1},{},{},,,,,
+fort,Blaignan,fort,Pondaurat,{},{},{},for,Bégadan,{},{'t': 1},{},,,,,
+fort,Civrac,fort,Jugazan,{},{},{},hort,Sorbets,{},{},"{('f', 'h'): 1}",,,,,
+fort,Gaillan-en-Médoc,fort,Jugazan,{},{},{},hortt,Samadet,{'t': 1},{},"{('f', 'h'): 1}",,,,,
+fort,Lesparre-Médoc,fort,Naujac-sur-Mer,{},{},{},,,,,,,,,,
+fort,Naujac-sur-Mer,fort,Lesparre-Médoc,{},{},{},,,,,,,,,,
+fort,Ordonnac,hor,Urgons,{},{'t': 1},"{('f', 'h'): 1}",hort,Saint-Christoly-Médoc,{},{},"{('f', 'h'): 1}",,,,,
+fort,Queyrac,hort,Saint-Christoly-Médoc,{},{},"{('f', 'h'): 1}",,,,,,,,,,
+hort,Saint-Christoly-Médoc,fort,Queyrac,{},{},"{('h', 'f'): 1}",hort,Valeyrac,{},{},{},fort,Ordonnac,{},{},"{('h', 'f'): 1}"
+hort,Saint-Germain-d'Esteuil,hort,Artassenx,{},{},{},,,,,,,,,,
+hort,Saint-Seurin-de-Cadourne,,,,,,,,,,,,,,,
+hort,Saint-Yzans-de-Médoc,fort,Isle-Saint-Georges,{},{},"{('h', 'f'): 1}",,,,,,,,,,
+hort,Valeyrac,hort,Saint-Christoly-Médoc,{},{},{},,,,,,,,,,
+hort,Vendays-Montalivet,hortt,Beautiran,{'t': 1},{},{},,,,,,,,,,
+hortt,Beautiran,hort,Vendays-Montalivet,{},{'t': 1},{},,,,,,,,,,
+fort,Cabanac-et-Villagrains,fort,Préchac,{},{},{},fort,Castres-Gironde,{},{},{},,,,,
+hort,Cadaujac,,,,,,,,,,,,,,,
+fort,Castres-Gironde,fort,Cabanac-et-Villagrains,{},{},{},hort,Bourg-bis,{},{},"{('f', 'h'): 1}",,,,,
+fort,Isle-Saint-Georges,hort,Saint-Yzans-de-Médoc,{},{},"{('f', 'h'): 1}",,,,,,,,,,
+fort,La Brède-bis,fort,Louchats,{},{},{},,,,,,,,,,
+fort,La Brède,hort,Léognan,{},{},"{('f', 'h'): 1}",,,,,,,,,,
+hort,Léognan,fort,La Brède,{},{},"{('h', 'f'): 1}",,,,,,,,,,
+fort,Martillac,fort,Saint-Germain-de-la-Rivière,{},{},{},fort,Saugnac-et-Cambran,{},{},{},hort,Saint-Médard-d'Eyrans,{},{},"{('f', 'h'): 1}"
+hort,Saint-Médard-d'Eyrans,hort,Saint-Morillon,{},{},{},fort,Donzac,{},{},"{('h', 'f'): 1}",fort,Martillac,{},{},"{('h', 'f'): 1}"
+hort,Saint-Morillon,hort,Saint-Médard-d'Eyrans,{},{},{},hort,Blaignac,{},{},{},,,,,
+fort,Saint-Selve,hort,Saucats,{},{},"{('f', 'h'): 1}",hort,Blaignac,{},{},"{('f', 'h'): 1}",,,,,
+hort,Saucats,fort,Lavazan,{},{},"{('h', 'f'): 1}",fort,Saint-Selve,{},{},"{('h', 'f'): 1}",hort,Bagas,{},{},{}
+hort,Bagas,for,Saubusse,{},{'t': 1},"{('h', 'f'): 1}",fort,Estigarde,{},{},"{('h', 'f'): 1}",hort,Saucats,{},{},{}
+hort,Blaignac,fort,Saint-Selve,{},{},"{('h', 'f'): 1}",hort,Saint-Morillon,{},{},{},fort,Siest,{},{},"{('h', 'f'): 1}"
+fort,Camiran-bis,,,,,,,,,,,,,,,
+fort,Camiran,fort,Cadillac,{},{},{},,,,,,,,,,
+fort,Casseuil,hort,Puyol-Cazalet,{},{},"{('f', 'h'): 1}",hort,Fontet,{},{},"{('f', 'h'): 1}",,,,,
+hort,Fontet,fort,Casseuil,{},{},"{('h', 'f'): 1}",,,,,,,,,,
+fort,Gironde-sur-Dropt-bis,fort,Branne,{},{},{},,,,,,,,,,
+hort,Gironde-sur-Dropt,fort,Langoiran-bis,{},{},"{('h', 'f'): 1}",,,,,,,,,,
+hort,Hure,fort,Branne,{},{},"{('h', 'f'): 1}",,,,,,,,,,
+fort,La Réole-bis,,,,,,,,,,,,,,,
+hor,La Réole,fort,Blanquefort,{'t': 1},{},"{('h', 'f'): 1}",,,,,,,,,,
+hort,Lamothe-Landerron,hort,Loupiac-de-la-Réole,{},{},{},,,,,,,,,,
+hort,Loupiac-de-la-Réole,hort,Lamothe-Landerron,{},{},{},,,,,,,,,,
+hort,Mongauzy,,,,,,,,,,,,,,,
+hort,Morizès,fort,Lestiac-sur-Garonne,{},{},"{('h', 'f'): 1}",,,,,,,,,,
+fort,Noaillac,fort,Arveyres,{},{},{},,,,,,,,,,
+hort,Pompéjac,hort,Arcachon-bis,{},{},{},,,,,,,,,,
+fort,Saint-Hilaire-de-la-Noaille-bis,fort,Saint-Hilaire-de-la-Noaille,{},{},{},fort,Civrac-sur-Dordogne,{},{},{},,,,,
+fort,Saint-Hilaire-de-la-Noaille,fort,Monprimblanc,{},{},{},fort,Saint-Hilaire-de-la-Noaille-bis,{},{},{},,,,,
+hort,Arcachon-bis,hort,Pompéjac,{},{},{},fort,Arcachon,{},{},"{('h', 'f'): 1}",,,,,
+fort,Arcachon,hort,Arcachon-bis,{},{},"{('f', 'h'): 1}",hort,La Teste-de-Buch-bis,{},{},"{('f', 'h'): 1}",,,,,
+fort,Cazaux,hort,Gujan,{},{},"{('f', 'h'): 1}",,,,,,,,,,
+hort,Gujan,fort,Loupiac,{},{},"{('h', 'f'): 1}",fort,Cazaux,{},{},"{('h', 'f'): 1}",hort,La Teste-de-Buch-bis,{},{},{}
+hort,La Teste-de-Buch-bis,fort,Arcachon,{},{},"{('h', 'f'): 1}",hort,Gujan,{},{},{},,,,,
+fort,La Teste-de-Buch-ter,,,,,,,,,,,,,,,
+fort,La Teste-de-Buch,fort,Omet,{},{},{},hort,Bieujac,{},{},"{('f', 'h'): 1}",hort,Le Teich,{},{},"{('f', 'h'): 1}"
+hort,Le Teich,fort,Mestras,{},{},"{('h', 'f'): 1}",fort,Paillet,{},{},"{('h', 'f'): 1}",fort,La Teste-de-Buch,{},{},"{('h', 'f'): 1}"
+fort,Mestras,hort,Le Teich,{},{},"{('f', 'h'): 1}",hort,Bommes,{},{},"{('f', 'h'): 1}",,,,,
+hort,Bieujac,fort,La Teste-de-Buch,{},{},"{('h', 'f'): 1}",fort,Giscos,{},{},"{('h', 'f'): 1}",hort,Castets-en-Dorthe,{},{},{}
+hort,Bommes,hort,Castets-en-Dorthe,{},{},{},fort,Lignan-de-Bordeaux,{},{},"{('h', 'f'): 1}",fort,Mestras,{},{},"{('h', 'f'): 1}"
+hort,Castets-en-Dorthe,hort,Bommes,{},{},{},hort,Bieujac,{},{},{},,,,,
+hort,Fargues,hort,Langon-bis,{},{},{},,,,,,,,,,
+hort,Langon-bis,hort,Fargues,{},{},{},,,,,,,,,,
+hort,Langon,hort,Captieux,{},{},{},hort,Budos,{},{},{},,,,,
+hort,Léogeats,hort,Saint-Pierre-de-Mons,{},{},{},hort,Captieux,{},{},{},hort,Mazères,{},{},{}
+hort,Mazères,hort,Sainte-Croix-du-Mont,{},{},{},fort,Roaillan,{},{},"{('h', 'f'): 1}",hort,Léogeats,{},{},{}
+fort,Roaillan,hort,Mazères,{},{},"{('f', 'h'): 1}",,,,,,,,,,
+hort,Saint-Pardon-de-Conques,fort,Giscos,{},{},"{('h', 'f'): 1}",hort,Sauternes,{},{},{},,,,,
+hort,Saint-Pierre-de-Mons,hort,Léogeats,{},{},{},hort,Sauternes,{},{},{},,,,,
+hort,Sauternes,hort,Saint-Pardon-de-Conques,{},{},{},hort,Saint-Pierre-de-Mons,{},{},{},,,,,
+hort,Toulenne,hort,Saint-Michel-de-Castelnau,{},{},{},,,,,,,,,,
+fort,Arveyres,fort,Noaillac,{},{},{},,,,,,,,,,
+fort,Civrac-sur-Dordogne,fort,Saint-Hilaire-de-la-Noaille-bis,{},{},{},fort,Saint-Estèphe,{},{},{},,,,,
+hort,Izon,hort,Cissac-Médoc,{},{},{},,,,,,,,,,
+hort,Libourne-bis,hort,Libourne,{},{},{},hort,Pomerol,{},{},{},,,,,
+hort,Libourne,fort,Carbon-Blanc,{},{},"{('h', 'f'): 1}",hort,Libourne-bis,{},{},{},hort,Vayres,{},{},{}
+hort,Pomerol,hort,Libourne-bis,{},{},{},hort,Pauillac,{},{},{},hort,Vayres,{},{},{}
+fort,Saint-Émilion,hort,Saint-Michel-de-Castelnau,{},{},"{('f', 'h'): 1}",hort,Saint-Sulpice-de-Faleyrens,{},{},"{('f', 'h'): 1}",hort,Roquebrune,{},{},"{('f', 'h'): 1}"
+hort,Saint-Sulpice-de-Faleyrens,fort,Saint-Émilion,{},{},"{('h', 'f'): 1}",fort,Floirac,{},{},"{('h', 'f'): 1}",hort,Vayres,{},{},{}
+hort,Vayres,hort,Saint-Sulpice-de-Faleyrens,{},{},{},hort,Libourne,{},{},{},hort,Pomerol,{},{},{}
+hort,Landerrouet-sur-Ségur,hort,Monségur,{},{},{},,,,,,,,,,
+hort,Monségur,hort,Landerrouet-sur-Ségur,{},{},{},,,,,,,,,,
+hort,Roquebrune,fort,Saint-Émilion,{},{},"{('h', 'f'): 1}",hort,Pauillac,{},{},{},,,,,
+hort,Cissac-Médoc,hort,Izon,{},{},{},hort,Pauillac,{},{},{},,,,,
+hort,Pauillac,hort,Pomerol,{},{},{},hort,Cissac-Médoc,{},{},{},hort,Roquebrune,{},{},{}
+fort,Saint-Estèphe,fort,Civrac-sur-Dordogne,{},{},{},fort,Saint-Julien-Beychevelle,{},{},{},,,,,
+fort,Saint-Julien-Beychevelle,fort,Saint-Estèphe,{},{},{},,,,,,,,,,
+fort,Saint-Sauveur,fort,Vertheuil,{},{},{},,,,,,,,,,
+fort,Vertheuil,fort,Saint-Sauveur,{},{},{},fort,Cazaugitat,{},{},{},,,,,
+fort,Cazaugitat,fort,Vertheuil,{},{},{},,,,,,,,,,
+fort,Landerrouat,fort,Massugas,{},{},{},fort,Le Taillan-Médoc,{},{},{},fort,Listrac-de-Durèze,{},{},{}
+fort,Listrac-de-Durèze,fort,Landerrouat,{},{},{},,,,,,,,,,
+fort,Massugas,fort,Landerrouat,{},{},{},fort,Pellegrue,{},{},{},,,,,
+fort,Pellegrue,fort,Massugas,{},{},{},,,,,,,,,,
+fort,Canéjan,fort,Cestas,{},{},{},fort,Illats,{},{},{},,,,,
+fort,Cestas,hort,Villenave-d'Ornon,{},{},"{('f', 'h'): 1}",fort,Canéjan,{},{},{},,,,,
+fort,Gradignan,hor,Landiras,{},{'t': 1},"{('f', 'h'): 1}",hort,Villenave-d'Ornon,{},{},"{('f', 'h'): 1}",for,Mérignac,{},{'t': 1},{}
+hort,Martignas-sur-Jalle,hort,Saint-Jean-d'Illac,{},{},{},fort,Ambès,{},{},"{('h', 'f'): 1}",for,Mérignac,{},{'t': 1},"{('h', 'f'): 1}"
+for,Mérignac,hort,Martignas-sur-Jalle,{'t': 1},{},"{('f', 'h'): 1}",hort,Barsac,{'t': 1},{},"{('f', 'h'): 1}",fort,Gradignan,{'t': 1},{},{}
+hort,Pessac,hort,Talence,{},{},{},fort,Carbon-Blanc,{},{},"{('h', 'f'): 1}",hort,Saint-Jean-d'Illac,{},{},{}
+hort,Saint-Jean-d'Illac,hort,Pujols-sur-Ciron,{},{},{},hort,Martignas-sur-Jalle,{},{},{},hort,Pessac,{},{},{}
+hort,Talence,hort,Pessac,{},{},{},hort,Villenave-d'Ornon,{},{},{},,,,,
+hort,Villenave-d'Ornon,fort,Gradignan,{},{},"{('h', 'f'): 1}",fort,Cestas,{},{},"{('h', 'f'): 1}",hort,Talence,{},{},{}
+hort,Arbanats,hort,Barsac,{},{},{},hort,Villenave-de-Rions,{},{},{},hort,Budos,{},{},{}
+hort,Barsac,for,Mérignac,{},{'t': 1},"{('h', 'f'): 1}",hort,Arbanats,{},{},{},hort,Budos-bis,{},{},{}
+hort,Budos-bis,hort,Cérons,{},{},{},hort,Portets,{},{},{},hort,Barsac,{},{},{}
+hort,Budos,hort,Arbanats,{},{},{},hort,Langon,{},{},{},hort,Guillos,{},{},{}
+hort,Cérons,hort,Escaudes,{},{},{},hort,Budos-bis,{},{},{},hort,Guillos,{},{},{}
+hort,Guillos,hort,Cérons,{},{},{},hort,Budos,{},{},{},,,,,
+fort,Illats,fort,Canéjan,{},{},{},hor,Landiras,{},{'t': 1},"{('f', 'h'): 1}",hort,Podensac,{},{},"{('f', 'h'): 1}"
+hor,Landiras,fort,Illats,{'t': 1},{},"{('h', 'f'): 1}",fort,Gradignan,{'t': 1},{},"{('h', 'f'): 1}",hort,Portets,{'t': 1},{},{}
+hort,Podensac,hort,Portets,{},{},{},hort,Bouliac,{},{},{},fort,Illats,{},{},"{('h', 'f'): 1}"
+hort,Portets,hort,Budos-bis,{},{},{},hort,Podensac,{},{},{},hor,Landiras,{},{'t': 1},{}
+fort,Preignac,,,,,,,,,,,,,,,
+hort,Pujols-sur-Ciron,hort,Saint-Jean-d'Illac,{},{},{},,,,,,,,,,
+fort,Saint-Michel-de-Rieufret,hort,Aubie-et-Espessas,{},{},"{('f', 'h'): 1}",fort,Sainte-Radegonde,{},{},{},,,,,
+hort,Virelade,fort,Saint-Vincent-de-Pertignas,{},{},"{('h', 'f'): 1}",fort,Saint-Louis-de-Montferrand,{},{},"{('h', 'f'): 1}",for,Doulezon,{},{'t': 1},"{('h', 'f'): 1}"
+for,Doulezon,hort,Virelade,{'t': 1},{},"{('f', 'h'): 1}",,,,,,,,,,
+for,Flaujagues,hort,Gensac,{'t': 1},{},"{('f', 'h'): 1}",fort,Saint-Vincent-de-Paul,{'t': 1},{},{},,,,,
+hort,Gensac,fort,Juillac,{},{},"{('h', 'f'): 1}",for,Flaujagues,{},{'t': 1},"{('h', 'f'): 1}",,,,,
+fort,Juillac,hort,Sainte-Eulalie,{},{},"{('f', 'h'): 1}",hort,Gensac,{},{},"{('f', 'h'): 1}",,,,,
+hort,Mouliets,hort,Saint-Macaire,{},{},{},hort,Pessac-sur-Dordogne,{},{},{},,,,,
+hort,Pessac-sur-Dordogne,hort,Mouliets,{},{},{},fort,Tresses-bis,{},{},"{('h', 'f'): 1}",,,,,
+hort,Pujols-bis,fort,Listrac-Médoc,{},{},"{('h', 'f'): 1}",,,,,,,,,,
+hort,Pujols,hort,Saint-Jean-de-Blaignac,{},{},{},,,,,,,,,,
+hort,Rauzan,hort,Tresses,{},{},{},,,,,,,,,,
+hort,Saint-Jean-de-Blaignac,hort,Pujols,{},{},{},,,,,,,,,,
+hort,Saint-Pey-de-Castets,hort,Tresses,{},{},{},fort,Sainte-Radegonde,{},{},"{('h', 'f'): 1}",,,,,
+fort,Saint-Vincent-de-Pertignas,hort,Virelade,{},{},"{('f', 'h'): 1}",fort,Sainte-Radegonde,{},{},{},,,,,
+fort,Sainte-Radegonde,fort,Saint-Michel-de-Rieufret,{},{},{},hort,Saint-Pey-de-Castets,{},{},"{('f', 'h'): 1}",fort,Saint-Vincent-de-Pertignas,{},{},{}
+hort,Aubie-et-Espessas,fort,Saint-Michel-de-Rieufret,{},{},"{('h', 'f'): 1}",hort,Cubzac-les-Ponts,{},{},{},,,,,
+hort,Cubzac-les-Ponts,hort,Tresses,{},{},{},hort,Aubie-et-Espessas,{},{},{},,,,,
+fort,Peujard,fort,Tresses-bis,{},{},{},fort,Saint-André-de-Cubzac,{},{},{},,,,,
+fort,Saint-André-de-Cubzac,fort,Peujard,{},{},{},,,,,,,,,,
+fort,Saint-Antoine,,,,,,,,,,,,,,,
+fort,Saint-Gervais,hort,Arsac-bis,{},{},"{('f', 'h'): 1}",fort,Benon,{},{},{},fort,Saint-Laurent-d'Arce,{},{},{}
+fort,Saint-Laurent-d'Arce,fortt,Le Pian-sur-Garonne,{'t': 1},{},{},fort,Saint-Gervais,{},{},{},,,,,
+fort,Salignac,fort,Benon,{},{},{},fort,Cantenac,{},{},{},hort,Virsac,{},{},"{('f', 'h'): 1}"
+hort,Virsac,fort,Salignac,{},{},"{('h', 'f'): 1}",hort,Arcins,{},{},{},,,,,
+fort,Benon,fort,Saint-Gervais,{},{},{},fort,Salignac,{},{},{},fort,Carcans,{},{},{}
+fort,Carcans,fort,Hourtin,{},{},{},fort,Benon,{},{},{},,,,,
+fort,Hourtin,fort,Carcans,{},{},{},fort,Saint-Quentin-de-Caplong,{},{},{},,,,,
+fort,Saint-Laurent-Médoc,fortt,Le Pian-sur-Garonne,{'t': 1},{},{},hort,Caudrot,{},{},"{('f', 'h'): 1}",,,,,
+hort,Caudrot,fort,Saint-Laurent-Médoc,{},{},"{('h', 'f'): 1}",hort,Labarde,{},{},{},fort,Saint-André-du-Bois,{},{},"{('h', 'f'): 1}"
+fortt,Le Pian-sur-Garonne,fort,Saint-Laurent-d'Arce,{},{'t': 1},{},fort,Saint-Laurent-Médoc,{},{'t': 1},{},fort,Saint-André-du-Bois,{},{'t': 1},{}
+fort,Saint-André-du-Bois,fortt,Lamarque,{'t': 1},{},{},fortt,Le Pian-sur-Garonne,{'t': 1},{},{},hort,Caudrot,{},{},"{('f', 'h'): 1}"
+for,Saint-Germain-de-Grave,hort,Le Porge,{'t': 1},{},"{('f', 'h'): 1}",fort,Saint-Laurent-du-Bois,{'t': 1},{},{},,,,,
+fort,Saint-Laurent-du-Bois,for,Saint-Germain-de-Grave,{},{'t': 1},{},,,,,,,,,,
+hort,Saint-Macaire,hort,Mouliets,{},{},{},for,Saint-Martin-de-Sescas,{},{'t': 1},"{('h', 'f'): 1}",,,,,
+fort,Saint-Maixant,hort,Mios,{},{},"{('f', 'h'): 1}",for,Saint-Martin-de-Sescas,{},{'t': 1},{},,,,,
+for,Saint-Martin-de-Sescas,fort,Saint-Maixant,{'t': 1},{},{},hort,Sainte-Eulalie,{'t': 1},{},"{('f', 'h'): 1}",hort,Saint-Macaire,{'t': 1},{},"{('f', 'h'): 1}"
+fort,Saint-Pierre-d'Aurillac,,,,,,,,,,,,,,,
+fort,Verdelais,hort,Le Temple,{},{},"{('f', 'h'): 1}",fort,Grayan-bis,{},{},{},fort,Balizac,{},{},{}
+fort,Balizac,hort,Saint-Genès-de-Castillon,{},{},"{('f', 'h'): 1}",fort,Verdelais,{},{},{},forte,Grayan,{'e': 1},{},{}
+fort,Hostens,fort,Le Verdon-sur-Mer,{},{},{},fort̄,Le Tuzan,{'̄': 1},{},{},,,,,
+fort̄,Le Tuzan,fort,Hostens,{},{'̄': 1},{},fort,Louchats,{},{'̄': 1},{},,,,,
+fort,Louchats,fort,La Brède-bis,{},{},{},fort,Origne,{},{},{},fort̄,Le Tuzan,{'̄': 1},{},{}
+fort,Origne,fort,Saint-Léger-de-Balson,{},{},{},fort,Louchats,{},{},{},,,,,
+fort,Saint-Léger-de-Balson,fort,Origne,{},{},{},hort,Saint-Symphorien-bis,{},{},"{('f', 'h'): 1}",,,,,
+hort,Saint-Symphorien-bis,fort,Saint-Léger-de-Balson,{},{},"{('h', 'f'): 1}",fort,Saint-Laurent-des-Combes,{},{},"{('h', 'f'): 1}",,,,,
+fort,Saint-Symphorien,,,,,,,,,,,,,,,
+fort,Grayan-bis,fort,Verdelais,{},{},{},forte,Grayan,{'e': 1},{},{},,,,,
+forte,Grayan,fort,Balizac,{},{'e': 1},{},fort,Grayan-bis,{},{'e': 1},{},,,,,
+fort,Jau-Dignac-et-Loirac,fort,Le Verdon-sur-Mer,{},{},{},,,,,,,,,,
+fort,Le Verdon-sur-Mer,fort,Jau-Dignac-et-Loirac,{},{},{},fort,Hostens,{},{},{},fort,Saint-Vivien-de-Médoc,{},{},{}
+fort,Saint-Vivien-de-Médoc,fort,Le Verdon-sur-Mer,{},{},{},,,,,,,,,,
+fort,Soulac-sur-Mer,,,,,,,,,,,,,,,
+fort,Talais,,,,,,,,,,,,,,,
+hort,Vensac,hort,La Roquille,{},{},{},hort,Appelles,{},{},{},,,,,
+hort,Appelles,hort,Vensac,{},{},{},hort,Caplong,{},{},{},,,,,
+hort,Caplong,hort,Appelles,{},{},{},,,,,,,,,,
+fort,Eynesse,hort,La Roquille,{},{},"{('f', 'h'): 1}",,,,,,,,,,
+hort,La Roquille,hort,Vensac,{},{},{},fort,Eynesse,{},{},"{('h', 'f'): 1}",,,,,
+fort,Les Lèves-et-Thoumeyragues,hort,Riocaud,{},{},"{('f', 'h'): 1}",fort,Ligueux,{},{},{},,,,,
+fort,Ligueux,fort,Les Lèves-et-Thoumeyragues,{},{},{},hort,Pineuilh,{},{},"{('f', 'h'): 1}",,,,,
+hort,Pineuilh,fort,Ligueux,{},{},"{('h', 'f'): 1}",,,,,,,,,,
+hort,Riocaud,fort,Les Lèves-et-Thoumeyragues,{},{},"{('h', 'f'): 1}",fort,Saint-Avit-de-Soulège,{},{},"{('h', 'f'): 1}",,,,,
+fort,Saint-Avit-de-Soulège,hort,Riocaud,{},{},"{('f', 'h'): 1}",,,,,,,,,,
+fort,Saint-Avit-Saint-Nazaire,,,,,,,,,,,,,,,
+fort,Saint-Quentin-de-Caplong,fort,Hourtin,{},{},{},,,,,,,,,,
+hort,Sainte-Foy-la-Grande-bis,hort,Auros,{},{},{},fort,Sainte-Foy-la-Grande-ter,{},{},"{('h', 'f'): 1}",,,,,
+fort,Sainte-Foy-la-Grande-ter,for,Moulis-en-Médoc-bis,{},{'t': 1},{},hort,Sainte-Foy-la-Grande-bis,{},{},"{('f', 'h'): 1}",,,,,
+hort,Sainte-Foy-la-Grande,fort,Blasimon,{},{},"{('h', 'f'): 1}",,,,,,,,,,
+fort,Blasimon,hort,Sainte-Foy-la-Grande,{},{},"{('f', 'h'): 1}",hort,Castelviel,{},{},"{('f', 'h'): 1}",,,,,
+hort,Castelviel,fort,Blasimon,{},{},"{('h', 'f'): 1}",,,,,,,,,,
+hort,Cleyrac,,,,,,,,,,,,,,,
+for,Coirac,,,,,,,,,,,,,,,
+fort,Gornac,fort,Moulis-en-Médoc,{},{},{},,,,,,,,,,
+for,Mérignas,hort,Saint-Sulpice-de-Pommiers,{'t': 1},{},"{('f', 'h'): 1}",,,,,,,,,,
+hort,Mourens,hort,Ruch,{},{},{},,,,,,,,,,
+hort,Ruch,hort,Mourens,{},{},{},hort,Saint-Brice,{},{},{},,,,,
+hort,Saint-Brice,hort,Ruch,{},{},{},,,,,,,,,,
+hort,Saint-Félix-de-Foncaude,,,,,,,,,,,,,,,
+hort,Saint-Léger-de-Vignague,hort,Saint-Sulpice-de-Pommiers,{},{},{},,,,,,,,,,
+hort,Saint-Sulpice-de-Pommiers,hort,Saint-Léger-de-Vignague,{},{},{},for,Mérignas,{},{'t': 1},"{('h', 'f'): 1}",fort,Sauveterre-de-Guyenne-bis,{},{},"{('h', 'f'): 1}"
+fort,Sauveterre-de-Guyenne-bis,hort,Saint-Sulpice-de-Pommiers,{},{},"{('f', 'h'): 1}",,,,,,,,,,
+fortt,Sauveterre-de-Guyenne-ter,fort,Arbis,{},{'t': 1},{},,,,,,,,,,
+hort,Sauveterre-de-Guyenne,hort,Escoussans,{},{},{},,,,,,,,,,
+fort,Arbis,fortt,Sauveterre-de-Guyenne-ter,{'t': 1},{},{},fort,Baigneaux,{},{},{},,,,,
+fort,Baigneaux,fort,Arbis,{},{},{},,,,,,,,,,
+hort,Escoussans,hort,Sauveterre-de-Guyenne,{},{},{},,,,,,,,,,
+fort,Faleyras,hort,Frontenac,{},{},"{('f', 'h'): 1}",,,,,,,,,,
+hort,Frontenac,fort,Romagne,{},{},"{('h', 'f'): 1}",fort,Faleyras,{},{},"{('h', 'f'): 1}",,,,,
+hort,Ladaux,fort,Lugasson,{},{},"{('h', 'f'): 1}",fort,Soulignac,{},{},"{('h', 'f'): 1}",,,,,
+fort,Lugasson,hort,Ladaux,{},{},"{('f', 'h'): 1}",fort,Romagne,{},{},{},,,,,
+fort,Romagne,hort,Frontenac,{},{},"{('f', 'h'): 1}",fort,Lugasson,{},{},{},,,,,
+fort,Saint-Pierre-de-Bat,,,,,,,,,,,,,,,
+fort,Soulignac,hort,Ladaux,{},{},"{('f', 'h'): 1}",,,,,,,,,,
+hort,Targon-bis,,,,,,,,,,,,,,,
+fort,Targon,for,Cazalis,{},{'t': 1},{},,,,,,,,,,
+for,Cazalis,hort,Sainte-Hélène,{'t': 1},{},"{('f', 'h'): 1}",fort,Targon,{'t': 1},{},{},,,,,
+fort,Lucmau,fort,Gardegan,{},{},{},fort,Gours,{},{},{},,,,,
+fort,Noaillan,for,Préchac-bis,{},{'t': 1},{},,,,,,,,,,
+for,Préchac-bis,fort,Noaillan,{'t': 1},{},{},fort,Francs,{'t': 1},{},{},,,,,
+fort,Préchac,fort,Puynormand,{},{},{},fort,Cabanac-et-Villagrains,{},{},{},for,Uzeste,{},{'t': 1},{}
+for,Uzeste,fort,Préchac,{'t': 1},{},{},fort,Saint-Germain-du-Puch,{'t': 1},{},{},fort,Villandraut-bis,{'t': 1},{},{}
+fort,Villandraut-bis,for,Uzeste,{},{'t': 1},{},fort,Gardegan,{},{},{},fort,Saint-Christophe-des-Bardes,{},{},{}
+fort,Villandraut,fort,Francs,{},{},{},fort,Duhort-Bachen,{},{},{},fort,Puisseguin,{},{},{}
+fort,Francs,for,Préchac-bis,{},{'t': 1},{},fort,Villandraut,{},{},{},fort,Gours,{},{},{}
+fort,Gours,fort,Saint-Christophe-des-Bardes,{},{},{},fort,Lucmau,{},{},{},fort,Francs,{},{},{}
+fort,Puisseguin,hort,Castillon-la-Bataille,{},{},"{('f', 'h'): 1}",fort,Puynormand,{},{},{},fort,Villandraut,{},{},{}
+fort,Puynormand,fort,Puisseguin,{},{},{},fort,Préchac,{},{},{},fort,Saint-Christophe-des-Bardes,{},{},{}
+fort,Saint-Christophe-des-Bardes,fort,Villandraut-bis,{},{},{},fort,Gours,{},{},{},fort,Puynormand,{},{},{}
+for,Aire-sur-l'Adour,fort,Saint-Laurent-des-Combes,{'t': 1},{},{},for,Buanes,{},{},{},,,,,
+for,Bahus-Soubiran,hort,Bourg-bis,{'t': 1},{},"{('f', 'h'): 1}",fort,Classun,{'t': 1},{},{},for,Buanes,{},{},{}
+for,Buanes,for,Aire-sur-l'Adour,{},{},{},for,Bahus-Soubiran,{},{},{},,,,,
+fort,Classun,for,Bahus-Soubiran,{},{'t': 1},{},hort,Castillon-la-Bataille,{},{},"{('f', 'h'): 1}",fort,Duhort-Bachen,{},{},{}
+fort,Duhort-Bachen,fort,Villandraut,{},{},{},fort,Classun,{},{},{},,,,,
+for,Eugénie-les-Bains,hort,Saint-Philippe-d'Aiguille,{'t': 1},{},"{('f', 'h'): 1}",,,,,,,,,,
+for,Latrille,,,,,,,,,,,,,,,
+fort,Renung,hort,Prignac-et-Marcamps,{},{},"{('f', 'h'): 1}",fort,Saint-Agnet,{},{},{},fort,Saint-Loubouer,{},{},{}
+fort,Saint-Agnet,fort,Renung,{},{},{},fort,Saint-Antoine-sur-l'Isle,{},{},{},for,Sarron,{},{'t': 1},{}
+fort,Saint-Loubouer,for,Sarron,{},{'t': 1},{},hort,Lansac,{},{},"{('f', 'h'): 1}",fort,Renung,{},{},{}
+for,Sarron,hort,Bonnetan,{'t': 1},{},"{('f', 'h'): 1}",fort,Saint-Loubouer,{'t': 1},{},{},fort,Saint-Agnet,{'t': 1},{},{}
+fort,Vielle-Tursan,hort,Cambes,{},{},"{('f', 'h'): 1}",hor,Amou-bis,{},{'t': 1},"{('f', 'h'): 1}",fort,Amou,{},{},{}
+hor,Amou-bis,fort,Vielle-Tursan,{'t': 1},{},"{('h', 'f'): 1}",,,,,,,,,,
+fort,Amou,fort,Carignan-de-Bordeaux,{},{},{},fort,Vielle-Tursan,{},{},{},,,,,
+fort,Bassercles,fort,Cénac,{},{},{},fort,Bonnegarde,{},{},{},,,,,
+fort,Bonnegarde,fort,Branne-bis,{},{},{},for,Brassempouy,{},{'t': 1},{},fort,Bassercles,{},{},{}
+for,Brassempouy,fort,Bonnegarde,{'t': 1},{},{},hort,Créon,{'t': 1},{},"{('f', 'h'): 1}",,,,,
+for,Castaignos-Souslens,,,,,,,,,,,,,,,
+hor,Castel-Sarrazin,hor,Latresne,{},{},{},,,,,,,,,,
+fort,Castelnau-Chalosse,fort,Haux,{},{},{},,,,,,,,,,
+fort,Donzacq,hor,Latresne,{},{'t': 1},"{('f', 'h'): 1}",fort,Marpaps,{},{},{},fort,Gaujacq,{},{},{}
+fort,Gaujacq,fort,Donzacq,{},{},{},,,,,,,,,,
+fort,Marpaps,fort,Donzacq,{},{},{},,,,,,,,,,
+fort,Nassiet,,,,,,,,,,,,,,,
+fort,Pomarez,fort,Castets,{},{},{},,,,,,,,,,
+fort,Castets,fort,Pomarez,{},{},{},,,,,,,,,,
+fort,Léon,,,,,,,,,,,,,,,
+fort,Lévignacq,,,,,,,,,,,,,,,
+for,Linxe,fort,Cabara-bis,{'t': 1},{},{},fort,Lit-et-Mixe,{'t': 1},{},{},,,,,
+fort,Lit-et-Mixe,fort,Saint-Michel-Escalus,{},{},{},for,Linxe,{},{'t': 1},{},,,,,
+for,Saint-Julien-en-Born,for,Taller,{},{},{},fort,Saint-Michel-Escalus,{'t': 1},{},{},,,,,
+fort,Saint-Michel-Escalus,for,Saint-Julien-en-Born,{},{'t': 1},{},fort,Lit-et-Mixe,{},{},{},fort,Vielle-Saint-Girons,{},{},{}
+for,Taller,fort,Ambarès-et-Lagrave,{'t': 1},{},{},for,Saint-Julien-en-Born,{},{},{},fort,Uza,{'t': 1},{},{}
+fort,Uza,fort,Vielle-Saint-Girons,{},{},{},fort,Quinsac,{},{},{},for,Taller,{},{'t': 1},{}
+fort,Vielle-Saint-Girons,fort,Uza,{},{},{},fort,Saint-Michel-Escalus,{},{},{},,,,,
+fort,Bénesse-lès-Dax,fort,Saint-Caprais-de-Bordeaux,{},{},{},fort,Dax-Saint-Vincent,{},{},{},,,,,
+fort,Candresse,fort,Dax-Saint-Vincent,{},{},{},,,,,,,,,,
+fort,Dax-Saint-Vincent,fort,Cabara-bis,{},{},{},fort,Candresse,{},{},{},fort,Bénesse-lès-Dax,{},{},{}
+for,Dax,for,Herm,{},{},{},,,,,,,,,,
+for,Herm,for,Heugas,{},{},{},for,Dax,{},{},{},,,,,
+for,Heugas,for,Herm,{},{},{},,,,,,,,,,
+for,Mées,fort,Narrosse,{'t': 1},{},{},hort,Fronsac-bis,{'t': 1},{},"{('f', 'h'): 1}",for,Oeyreluy,{},{},{}
+fort,Narrosse,hort,Tabanac,{},{},"{('f', 'h'): 1}",for,Mées,{},{'t': 1},{},for,Oeyreluy,{},{'t': 1},{}
+for,Oeyreluy,for,Mées,{},{},{},fort,Narrosse,{'t': 1},{},{},,,,,
+fort,Rivière-Saas-et-Gourby,hort,Bourg,{},{},"{('f', 'h'): 1}",hor,Sablar,{},{'t': 1},"{('f', 'h'): 1}",fort,Saint-Pandelon,{},{},{}
+hor,Sablar,fort,Rivière-Saas-et-Gourby,{'t': 1},{},"{('h', 'f'): 1}",,,,,,,,,,
+fort,Saint-Pandelon,hort,Saint-Seurin-de-Bourg,{},{},"{('f', 'h'): 1}",fort,Rivière-Saas-et-Gourby,{},{},{},,,,,
+for,Saint-Paul-lès-Dax,fort,Saillans,{'t': 1},{},{},,,,,,,,,,
+fort,Saint-Vincent-de-Paul,fort,Saugnac-et-Cambran,{},{},{},fort,Saint-Germain-de-la-Rivière,{},{},{},fort,Herré,{},{},{}
+for,Saubusse,for,Gabarret,{},{},{},hort,Bagas,{'t': 1},{},"{('f', 'h'): 1}",fort,Siest,{'t': 1},{},{}
+fort,Saugnac-et-Cambran,fort,Martillac,{},{},{},fort,Saint-Vincent-de-Paul,{},{},{},fort,Siest,{},{},{}
+fort,Siest,hort,Blaignac,{},{},"{('f', 'h'): 1}",fort,Saugnac-et-Cambran,{},{},{},for,Saubusse,{},{'t': 1},{}
+hor,Tercis-les-Bains,fort,Grignols-bis,{'t': 1},{},"{('h', 'f'): 1}",fort,Créon-d'Armagnac,{'t': 1},{},"{('h', 'f'): 1}",,,,,
+fort,Téthieu,fort,Saint-Julien-d'Armagnac,{},{},{},hor,Betbezer-d'Armagnac,{},{'t': 1},"{('f', 'h'): 1}",,,,,
+fort,Yzosse,fort,Arx,{},{},{},fort,Grignols,{},{},{},fort,Créon-d'Armagnac,{},{},{}
+fort,Arx,hor,Baudignan,{},{'t': 1},"{('f', 'h'): 1}",fort,Lavazan,{},{},{},fort,Yzosse,{},{},{}
+hor,Baudignan,hor,Sainte-Meille,{},{},{},fort,Arx,{'t': 1},{},"{('h', 'f'): 1}",hor,Betbezer-d'Armagnac,{},{},{}
+hor,Betbezer-d'Armagnac,fort,Téthieu,{'t': 1},{},"{('h', 'f'): 1}",hor,Baudignan,{},{},{},fort,Créon-d'Armagnac,{'t': 1},{},"{('h', 'f'): 1}"
+fort,Créon-d'Armagnac,fort,Yzosse,{},{},{},hor,Tercis-les-Bains,{},{'t': 1},"{('f', 'h'): 1}",hor,Betbezer-d'Armagnac,{},{'t': 1},"{('f', 'h'): 1}"
+fort,Estigarde,hort,Bagas,{},{},"{('f', 'h'): 1}",for,Gabarret,{},{'t': 1},{},,,,,
+for,Gabarret,fort,Estigarde,{'t': 1},{},{},for,Saubusse,{},{},{},fort,Herré,{'t': 1},{},{}
+fort,Herré,fort,Saint-Vincent-de-Paul,{},{},{},fort,Lagrange,{},{},{},for,Gabarret,{},{'t': 1},{}
+fort,Lagrange,fort,Cours-les-Bains,{},{},{},fort,Herré,{},{},{},,,,,
+for,Losse,fort,Génissac,{'t': 1},{},{},,,,,,,,,,
+fort,Mauvezin-d'Armagnac,,,,,,,,,,,,,,,
+hor,Parleboscq,,,,,,,,,,,,,,,
+hor,Rimbez-et-Baudiets,fort,Saint-Julien-d'Armagnac,{'t': 1},{},"{('h', 'f'): 1}",hort,Bordères,{'t': 1},{},{},hor,Castelnau-Tursan,{},{},{}
+fort,Saint-Julien-d'Armagnac,fort,Téthieu,{},{},{},hor,Rimbez-et-Baudiets,{},{'t': 1},"{('f', 'h'): 1}",hor,Sainte-Meille,{},{'t': 1},"{('f', 'h'): 1}"
+hor,Sainte-Meille,hor,Baudignan,{},{},{},fort,Saint-Julien-d'Armagnac,{'t': 1},{},"{('h', 'f'): 1}",,,,,
+hor,Arboucave,hort,Lauret,{'t': 1},{},{},hor,Bats,{},{},{},hort,Lacajunte,{'t': 1},{},{}
+hor,Bats,hor,Arboucave,{},{},{},hor,Castelnau-Tursan,{},{},{},,,,,
+hor,Castelnau-Tursan,hor,Rimbez-et-Baudiets,{},{},{},hor,Bats,{},{},{},,,,,
+hort,Geaune-bis,horto,Geaune,{'o': 1},{},{},,,,,,,,,,
+horto,Geaune,hort,Geaune-bis,{},{'o': 1},{},hort,Lacajunte,{},{'o': 1},{},,,,,
+hort,Lacajunte,hor,Arboucave,{},{'t': 1},{},horto,Geaune,{'o': 1},{},{},,,,,
+hort,Lauret,hor,Arboucave,{},{'t': 1},{},hort,Mauries,{},{},{},,,,,
+hort,Mauries,hort,Miramont-Sensacq,{},{},{},hort,Lauret,{},{},{},,,,,
+hort,Miramont-Sensacq,hort,Mauries,{},{},{},,,,,,,,,,
+hort,Philondenx,,,,,,,,,,,,,,,
+hort,Pimbo,,,,,,,,,,,,,,,
+hort,Puyol-Cazalet,fort,Casseuil,{},{},"{('h', 'f'): 1}",,,,,,,,,,
+hortt,Samadet,fort,Gaillan-en-Médoc,{},{'t': 1},"{('h', 'f'): 1}",hort,Sorbets,{},{'t': 1},{},,,,,
+hort,Sorbets,hortt,Samadet,{'t': 1},{},{},fort,Civrac,{},{},"{('h', 'f'): 1}",hort,Artassenx,{},{},{}
+hor,Urgons,hort,Artassenx,{'t': 1},{},{},fort,Ordonnac,{'t': 1},{},"{('h', 'f'): 1}",,,,,
+hort,Artassenx,hort,Saint-Germain-d'Esteuil,{},{},{},hor,Urgons,{},{'t': 1},{},hort,Sorbets,{},{},{}
+hort,Bascons,fort,Moulon,{},{},"{('h', 'f'): 1}",,,,,,,,,,
+hort,Benquet,,,,,,,,,,,,,,,
+hort,Bordères,hor,Rimbez-et-Baudiets,{},{'t': 1},{},,,,,,,,,,
+hor,Castandet,hort,Cazères-sur-l'Adour,{'t': 1},{},{},fort,Cours-les-Bains,{'t': 1},{},"{('h', 'f'): 1}",,,,,
+hort,Cazères-sur-l'Adour,hort,Naujan-et-Postiac,{},{},{},hor,Castandet,{},{'t': 1},{},hort,Grenade-sur-l'Adour-bis,{},{},{}
+hort,Grenade-sur-l'Adour-bis,hort,Cazères-sur-l'Adour,{},{},{},,,,,,,,,,

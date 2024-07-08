@@ -1,0 +1,41 @@
+Mot,Commune,Voisin_1,Commune_1,Insertions_1,Suppressions_1,Substitutions_1,Voisin_2,Commune_2,Insertions_2,Suppressions_2,Substitutions_2,Voisin_3,Commune_3,Insertions_3,Suppressions_3,Substitutions_3
+cap,Andernos-les-Bains,cap,Bazas-bis,{},{},{},cap,Auros-bis,{},{},{},cap,Audenge-bis,{},{},{}
+cap,Arès,cap,Savignac,{},{},{},cap,Ailas,{},{},{},cap,Coimères,{},{},{}
+cap,Audenge-bis,cap,Andernos-les-Bains,{},{},{},,,,,,,,,,
+cap,Audenge,cap,Lignan-de-Bazas,{},{},{},cap,Belin-Béliet,{},{},{},,,,,
+cap,Biganos,,,,,,,,,,,,,,,
+cap,Lacanau-de-Mios,,,,,,,,,,,,,,,
+cap,Lanton,,,,,,,,,,,,,,,
+cap,Lège,,,,,,,,,,,,,,,
+cap,Mios,cap,Ailas,{},{},{},,,,,,,,,,
+cap,Ailas,cap,Arès,{},{},{},cap,Mios,{},{},{},cap,Auros-bis,{},{},{}
+cap,Auros-bis,cap,Andernos-les-Bains,{},{},{},cap,Ailas,{},{},{},,,,,
+cap,Auros,cap,Brannens,{},{},{},,,,,,,,,,
+cap,Barie,,,,,,,,,,,,,,,
+cap,Brannens,cap,Auros,{},{},{},cap,Castillon-de-Castets,{},{},{},,,,,
+cap,Castillon-de-Castets,cap,Brannens,{},{},{},,,,,,,,,,
+cap,Coimères,cap,Arès,{},{},{},cap,Cudos,{},{},{},cap,Lados,{},{},{}
+cap,Lados,cap,Gans,{},{},{},cap,Puybarban,{},{},{},cap,Coimères,{},{},{}
+cap,Pondaurat,,,,,,,,,,,,,,,
+cap,Puybarban,cap,Lados,{},{},{},cap,Savignac,{},{},{},,,,,
+cap,Savignac,cap,Sigalens,{},{},{},cap,Arès,{},{},{},cap,Puybarban,{},{},{}
+cap,Sigalens,cap,Savignac,{},{},{},,,,,,,,,,
+cap,Bazas-bis,cap,Bazas,{},{},{},cap,Andernos-les-Bains,{},{},{},,,,,
+cap,Bazas,cap,Cazats,{},{},{},cap,Bazas-bis,{},{},{},,,,,
+cat,Bernos-Beaulac,cap,Birac,{},{},"{('t', 'p'): 1}",cap,Gajac,{},{},"{('t', 'p'): 1}",,,,,
+cap,Birac,cat,Bernos-Beaulac,{},{},"{('p', 't'): 1}",cap,Cazats,{},{},{},,,,,
+cap,Cazats,cap,Cudos,{},{},{},cap,Bazas,{},{},{},cap,Birac,{},{},{}
+cap,Cudos,cap,Coimères,{},{},{},cap,Cazats,{},{},{},cap,Gans,{},{},{}
+cap,Gajac,cap,Gans,{},{},{},cat,Bernos-Beaulac,{},{},"{('p', 't'): 1}",,,,,
+cap,Gans,cap,Gajac,{},{},{},cap,Lados,{},{},{},cap,Cudos,{},{},{}
+cap,Le Nizan,,,,,,,,,,,,,,,
+cap,Lignan-de-Bazas,cap,Audenge,{},{},{},cap,Béliet,{},{},{},,,,,
+cap,Saint-Côme,cap,Béliet,{},{},{},,,,,,,,,,
+cap,Béliet,cap,Belin-Béliet,{},{},{},cap,Lignan-de-Bazas,{},{},{},cap,Saint-Côme,{},{},{}
+cap,Belin-Béliet,cap,Audenge,{},{},{},cap,Béliet,{},{},{},,,,,
+cap,Joué,cam,Le Barp,{},{},"{('p', 'm'): 1}",,,,,,,,,,
+cam,Le Barp,cap,Joué,{},{},"{('m', 'p'): 1}",,,,,,,,,,
+cap,Lugos,cap,Saint-Magne,{},{},{},cap,Salles-bis,{},{},{},,,,,
+cap,Saint-Magne,cap,Salles,{},{},{},cap,Lugos,{},{},{},,,,,
+cap,Salles-bis,cap,Lugos,{},{},{},,,,,,,,,,
+cap,Salles,cap,Saint-Magne,{},{},{},,,,,,,,,,

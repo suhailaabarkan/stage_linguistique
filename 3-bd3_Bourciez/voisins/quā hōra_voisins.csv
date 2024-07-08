@@ -1,0 +1,170 @@
+Mot,Commune,Voisin_1,Commune_1,Insertions_1,Suppressions_1,Substitutions_1,Voisin_2,Commune_2,Insertions_2,Suppressions_2,Substitutions_2,Voisin_3,Commune_3,Insertions_3,Suppressions_3,Substitutions_3
+core,Andernos-les-Bains,quoure,Bazas-bis,"{'q': 1, 'u': 1}",{},"{('c', 'u'): 1}",coure,Auros-bis,{'u': 1},{},{},coun,Audenge-bis,{},{},"{('r', 'u'): 1, ('e', 'n'): 1}"
+coure,Arès,coure,Savignac,{},{},{},coure,Ailas,{},{},{},coure,Coimères,{},{},{}
+coun,Audenge-bis,core,Andernos-les-Bains,{},{},"{('u', 'r'): 1, ('n', 'e'): 1}",core,Le Porge,{},{},"{('u', 'r'): 1, ('n', 'e'): 1}",corou,Saint-Étienne-de-Lisse,"{'r': 1, 'o': 1}",{'n': 1},{}
+court,Audenge,coure,Lignan-de-Bazas,{},{},"{('t', 'e'): 1}",courre,Belin-Béliet,{'r': 1},{},"{('t', 'e'): 1}",,,,,
+oure,Biganos,coure,Blanquefort-bis,{'c': 1},{},{},,,,,,,,,,
+coure,Lacanau-de-Mios,coure,Eysines,{},{},{},cour,Carbon-Blanc-bis,{},{'e': 1},{},,,,,
+quoure,Lanton,coure,Macau,{},{'u': 1},"{('q', 'c'): 1}",core,Castelnau-de-Médoc,{},{'u': 2},"{('q', 'c'): 1}",cour,Saint-Loubès,{},"{'u': 1, 'e': 1}","{('q', 'c'): 1}"
+coure,Lège,coure,Saint-Sulpice-et-Cameyrac,{},{},{},,,,,,,,,,
+coure,Mios,coure,Ailas,{},{},{},,,,,,,,,,
+coure,Ailas,coure,Arès,{},{},{},coure,Mios,{},{},{},coure,Auros-bis,{},{},{}
+coure,Auros-bis,core,Andernos-les-Bains,{},{'u': 1},{},coure,Ailas,{},{},{},,,,,
+coure,Auros,coure,Bordeaux,{},{},{},coure,Brannens,{},{},{},,,,,
+coure,Barie,coure,Yvrac,{},{},{},,,,,,,,,,
+coure,Brannens,coure,Auros,{},{},{},coure,Castillon-de-Castets,{},{},{},,,,,
+coure,Castillon-de-Castets,coure,Saint-Médard-en-Jalles,{},{},{},coure,Brannens,{},{},{},,,,,
+coure,Coimères,coure,Arès,{},{},{},coure,Cudos,{},{},{},coure,Lados,{},{},{}
+coure,Lados,coure,Gans,{},{},{},coure,Puybarban,{},{},{},coure,Coimères,{},{},{}
+coure,Pondaurat,,,,,,,,,,,,,,,
+coure,Puybarban,coure,Lados,{},{},{},core,Le Bouscat,{},{'u': 1},{},coure,Savignac,{},{},{}
+coure,Savignac,coure,Sigalens,{},{},{},coure,Arès,{},{},{},coure,Puybarban,{},{},{}
+coure,Sigalens,core,Caudéran,{},{'u': 1},{},coure,Savignac,{},{},{},coure,Bayon-sur-Gironde,{},{},{}
+quoure,Bazas-bis,coure,Bazas,{},{'u': 1},"{('q', 'c'): 1}",core,Andernos-les-Bains,{},{'u': 2},"{('q', 'c'): 1}",,,,,
+coure,Bazas,coure,Cazats,{},{},{},quoure,Bazas-bis,{'q': 1},{},"{('c', 'u'): 1}",,,,,
+coure,Bernos-Beaulac,cour,Birac,{},{'e': 1},{},quore,Saumos,{'q': 1},{'u': 1},"{('c', 'u'): 1}",quoure,Gajac,{'q': 1},{},"{('c', 'u'): 1}"
+cour,Birac,core,Saint-Magne-de-Castillon,{},{},"{('u', 'r'): 1, ('r', 'e'): 1}",coure,Bernos-Beaulac,{'e': 1},{},{},coure,Cazats,{'e': 1},{},{}
+coure,Cazats,coure,Cudos,{},{},{},coure,Bazas,{},{},{},cour,Birac,{},{'e': 1},{}
+coure,Cudos,coure,Coimères,{},{},{},coure,Cazats,{},{},{},coure,Gans,{},{},{}
+quoure,Gajac,coure,Belvès-de-Castillon,{},{'u': 1},"{('q', 'c'): 1}",coure,Gans,{},{'u': 1},"{('q', 'c'): 1}",coure,Bernos-Beaulac,{},{'u': 1},"{('q', 'c'): 1}"
+coure,Gans,quoure,Gajac,{'q': 1},{},"{('c', 'u'): 1}",coure,Lados,{},{},{},coure,Cudos,{},{},{}
+coure,Le Nizan,quore,Prignac-et-Marcamps,{'q': 1},{'u': 1},"{('c', 'u'): 1}",coura,Gauriac,{},{},"{('e', 'a'): 1}",core,Saint-Antoine-sur-l'Isle,{},{'u': 1},{}
+coure,Lignan-de-Bazas,court,Audenge,{},{},"{('e', 't'): 1}",coure,Lansac,{},{},{},cour,Béliet,{},{'e': 1},{}
+coure,Saint-Côme,core,Bonnetan,{},{'u': 1},{},coure,Saint-Trojan,{},{},{},cour,Béliet,{},{'e': 1},{}
+cour,Béliet,courre,Belin-Béliet,"{'r': 1, 'e': 1}",{},{},coure,Lignan-de-Bazas,{'e': 1},{},{},coure,Saint-Côme,{'e': 1},{},{}
+courre,Belin-Béliet,court,Audenge,{},{'e': 1},"{('r', 't'): 1}",cour,Béliet,{},"{'r': 1, 'e': 1}",{},,,,,
+coure,Joué,coure,Le Barp,{},{},{},,,,,,,,,,
+coure,Le Barp,quore,Cabara,{'q': 1},{'u': 1},"{('c', 'u'): 1}",coure,Joué,{},{},{},,,,,
+courre,Lugos,cour,Saint-Magne,{},"{'r': 1, 'e': 1}",{},coure,Salles-bis,{},{'r': 1},{},,,,,
+cour,Saint-Magne,courou,Salles,"{'o': 1, 'u': 1}",{},{},courre,Lugos,"{'r': 1, 'e': 1}",{},{},,,,,
+coure,Salles-bis,courre,Lugos,{'r': 1},{},{},coure,Génissac,{},{},{},,,,,
+courou,Salles,cour,Saint-Magne,{},"{'o': 1, 'u': 1}",{},cour,Saint-Quentin-de-Baron,{},"{'o': 1, 'u': 1}",{},,,,,
+coure,Blanquefort-bis,quoure,Langoiran,{'q': 1},{},"{('c', 'u'): 1}",oure,Biganos,{},{'c': 1},{},quoure,Blanquefort,{'q': 1},{},"{('c', 'u'): 1}"
+quoure,Blanquefort,coure,Blanquefort-bis,{},{'u': 1},"{('q', 'c'): 1}",,,,,,,,,,
+quoure,Caychac,cour,Omet,{},"{'u': 1, 'e': 1}","{('q', 'c'): 1}",coure,Eysines,{},{'u': 1},"{('q', 'c'): 1}",quoure,Giscos,{},{},{}
+coure,Eysines,quoure,Caychac,{'q': 1},{},"{('c', 'u'): 1}",coure,Lacanau-de-Mios,{},{},{},coure,Le Haillan,{},{},{}
+coure,Le Haillan,coure,Le Pian-Médoc,{},{},{},coure,Eysines,{},{},{},,,,,
+coure,Le Pian-Médoc,coure,Le Haillan,{},{},{},,,,,,,,,,
+coure,Le Taillan-Médoc,coure,Sainte-Croix-du-Mont,{},{},{},cour,Bassens,{},{'e': 1},{},,,,,
+quoure,Ludon-Médoc,coure,Macau,{},{'u': 1},"{('q', 'c'): 1}",,,,,,,,,,
+coure,Macau,quoure,Ludon-Médoc,{'q': 1},{},"{('c', 'u'): 1}",quoure,Lanton,{'q': 1},{},"{('c', 'u'): 1}",,,,,
+coure,Parempuyre,coure,Arcins,{},{},{},core,Arsac,{},{'u': 1},{},,,,,
+coure,Saint-Aubin-de-Médoc,core,Labarde,{},{'u': 1},{},,,,,,,,,,
+coure,Saint-Médard-en-Jalles,quore,Margaux,{'q': 1},{'u': 1},"{('c', 'u'): 1}",coure,Castillon-de-Castets,{},{},{},quore,Moulis-en-Médoc-bis,{'q': 1},{'u': 1},"{('c', 'u'): 1}"
+coure,Bègles,core,Moulis-en-Médoc,{},{'u': 1},{},,,,,,,,,,
+coure,Bordeaux,coure,Auros,{},{},{},,,,,,,,,,
+quoure,Bruges,core,Caudéran,{},{'u': 2},"{('q', 'c'): 1}",,,,,,,,,,
+core,Caudéran,quoure,Bruges,"{'q': 1, 'u': 1}",{},"{('c', 'u'): 1}",coure,Sigalens,{'u': 1},{},{},coure,Bayon-sur-Gironde,{'u': 1},{},{}
+core,Chartrons,core,Sainte-Colombe,{},{},{},core,Salaunes,{},{},{},,,,,
+core,Le Bouscat,coure,Puybarban,{'u': 1},{},{},core,Castillon-la-Bataille-bis,{},{},{},coure,Bayon-sur-Gironde,{'u': 1},{},{}
+coure,Bayon-sur-Gironde,core,Caudéran,{},{'u': 1},{},coure,Sigalens,{},{},{},core,Le Bouscat,{},{'u': 1},{}
+córe,Bourg-bis,core,Castillon-la-Bataille,{},{},"{('ó', 'o'): 1}",,,,,,,,,,
+coure,Bourg,core,Comps,{},{'u': 1},{},coure,Baron,{},{},{},,,,,
+core,Comps,coura,Gauriac,{'u': 1},{},"{('e', 'a'): 1}",coure,Bourg,{'u': 1},{},{},,,,,
+coura,Gauriac,coure,Le Nizan,{},{},"{('a', 'e'): 1}",core,Comps,{},{'u': 1},"{('a', 'e'): 1}",corou,Baurech,{},{},"{('u', 'r'): 1, ('r', 'o'): 1, ('a', 'u'): 1}"
+coure,Lansac,coure,Lignan-de-Bazas,{},{},{},coure,Marcamps,{},{},{},,,,,
+coure,Marcamps,quore,Prignac-et-Marcamps,{'q': 1},{'u': 1},"{('c', 'u'): 1}",coure,Lansac,{},{},{},,,,,
+quore,Prignac-et-Marcamps,coure,Marcamps,{'c': 1},{'o': 1},"{('q', 'o'): 1}",coure,Le Nizan,{'c': 1},{'o': 1},"{('q', 'o'): 1}",,,,,
+coure,Saint-Seurin-de-Bourg,core,Samonac,{},{'u': 1},{},coure,Baron,{},{},{},,,,,
+coure,Saint-Trojan,coure,Saint-Côme,{},{},{},coure,Tauriac,{},{},{},core,Samonac,{},{'u': 1},{}
+core,Samonac,coure,Saint-Seurin-de-Bourg,{'u': 1},{},{},coure,Saint-Trojan,{'u': 1},{},{},,,,,
+coure,Tauriac,coure,Saint-Trojan,{},{},{},core,Camarsac,{},{'u': 1},{},coure,Baron,{},{},{}
+coure,Baron,coure,Bourg,{},{},{},coure,Saint-Seurin-de-Bourg,{},{},{},coure,Tauriac,{},{},{}
+quore,Branne-bis,quore,Camblanes-et-Meynac,{},{},{},,,,,,,,,,
+coure,Branne,quore,Carignan-de-Bordeaux,{'q': 1},{'u': 1},"{('c', 'u'): 1}",,,,,,,,,,
+courre,Cabara-bis,coro,Le Tourne,{},"{'u': 1, 'e': 1}","{('r', 'o'): 1}",,,,,,,,,,
+quore,Cabara,coure,Le Barp,{'c': 1},{'o': 1},"{('q', 'o'): 1}",,,,,,,,,,
+coure,Daignac,coure,Génissac,{},{},{},,,,,,,,,,
+coure,Génissac,coure,Salles-bis,{},{},{},coure,Daignac,{},{},{},,,,,
+quoure,Grézillac,coure,Jugazan,{},{'u': 1},"{('q', 'c'): 1}",,,,,,,,,,
+coure,Jugazan,quoure,Grézillac,{'q': 1},{},"{('c', 'u'): 1}",,,,,,,,,,
+coure,Moulon,cour,Naujan-et-Postiac,{},{'e': 1},{},,,,,,,,,,
+cour,Naujan-et-Postiac,coure,Moulon,{'e': 1},{},{},,,,,,,,,,
+coure,Nérigean,coure,Saint-Germain-du-Puch,{},{},{},,,,,,,,,,
+coure,Saint-Germain-du-Puch,coure,Nérigean,{},{},{},,,,,,,,,,
+cour,Saint-Quentin-de-Baron,courou,Salles,"{'o': 1, 'u': 1}",{},{},,,,,,,,,,
+coure,Tizac-de-Curton,,,,,,,,,,,,,,,
+cour,Béguey,cour,Gabarnac,{},{},{},,,,,,,,,,
+cour,Cadillac,cour,Cardan,{},{},{},coure,Capian,{'e': 1},{},{},,,,,
+coure,Capian,cour,Cadillac,{},{'e': 1},{},,,,,,,,,,
+cour,Cardan,cour,Cadillac,{},{},{},cour,Donzac,{},{},{},,,,,
+cour,Donzac,cour,Gabarnac,{},{},{},cour,Cardan,{},{},{},,,,,
+cour,Gabarnac,cour,Donzac,{},{},{},cour,Béguey,{},{},{},,,,,
+coure,Langoiran-bis,,,,,,,,,,,,,,,
+quoure,Langoiran,coure,Blanquefort-bis,{},{'u': 1},"{('q', 'c'): 1}",,,,,,,,,,
+coure,Lestiac-sur-Garonne,,,,,,,,,,,,,,,
+coure,Loupiac,coure,Monprimblanc,{},{},{},,,,,,,,,,
+coure,Monprimblanc,coure,Loupiac,{},{},{},,,,,,,,,,
+cour,Omet,cour,Paillet,{},{},{},quoure,Caychac,"{'q': 1, 'e': 1}",{},"{('c', 'u'): 1}",,,,,
+cour,Paillet,coure,Rions,{'e': 1},{},{},cour,Omet,{},{},{},,,,,
+coure,Rions,cour,Paillet,{},{'e': 1},{},,,,,,,,,,
+coure,Sainte-Croix-du-Mont,coure,Captieux-bis,{},{},{},coure,Le Taillan-Médoc,{},{},{},,,,,
+cour,Villenave-de-Rions,coure,Beychac-et-Caillau,{'e': 1},{},{},coure,Captieux-bis,{'e': 1},{},{},,,,,
+coure,Captieux-bis,cour,Villenave-de-Rions,{},{'e': 1},{},coure,Sainte-Croix-du-Mont,{},{},{},coure,Captieux,{},{},{}
+coure,Captieux,coure,Captieux-bis,{},{},{},,,,,,,,,,
+coure,Escaudes,cour,Bouliac,{},{'e': 1},{},,,,,,,,,,
+quoure,Giscos,quoure,Caychac,{},{},{},,,,,,,,,,
+cour,Saint-Michel-de-Castelnau,cour,Cenon,{},{},{},,,,,,,,,,
+courou,Ambarès-et-Lagrave,,,,,,,,,,,,,,,
+quoure,Ambès,coure,Beychac-et-Caillau,{},{'u': 1},"{('q', 'c'): 1}",,,,,,,,,,
+cour,Bassens,coure,Le Taillan-Médoc,{'e': 1},{},{},coure,Beychac-et-Caillau,{'e': 1},{},{},,,,,
+coure,Beychac-et-Caillau,cour,Bassens,{},{'e': 1},{},cour,Villenave-de-Rions,{},{'e': 1},{},quoure,Ambès,{'q': 1},{},"{('c', 'u'): 1}"
+cour,Bouliac,coure,Escaudes,{'e': 1},{},{},cour,Carbon-Blanc-bis,{},{},{},,,,,
+cour,Carbon-Blanc-bis,cour,Bouliac,{},{},{},coure,Lacanau-de-Mios,{'e': 1},{},{},,,,,
+coure,Carbon-Blanc,cour,Lormont,{},{'e': 1},{},,,,,,,,,,
+cour,Cenon,coure,Floirac,{'e': 1},{},{},cour,Saint-Michel-de-Castelnau,{},{},{},,,,,
+coure,Floirac,cour,Cenon,{},{'e': 1},{},cour,Lormont,{},{'e': 1},{},,,,,
+cour,Lormont,coure,Carbon-Blanc,{'e': 1},{},{},coure,Floirac,{'e': 1},{},{},,,,,
+coure,Montussan,cour,Saint-Loubès,{},{'e': 1},{},core,Cussac-Fort-Médoc,{},{'u': 1},{},,,,,
+cour,Saint-Loubès,quoure,Lanton,"{'q': 1, 'e': 1}",{},"{('c', 'u'): 1}",coure,Montussan,{'e': 1},{},{},,,,,
+coure,Saint-Louis-de-Montferrand,coure,Saint-Sulpice-et-Cameyrac,{},{},{},,,,,,,,,,
+coure,Saint-Sulpice-et-Cameyrac,quoure,Saint-Vincent-de-Paul,{'q': 1},{},"{('c', 'u'): 1}",coure,Lège,{},{},{},coure,Saint-Louis-de-Montferrand,{},{},{}
+quoure,Saint-Vincent-de-Paul,coure,Saint-Sulpice-et-Cameyrac,{},{'u': 1},"{('q', 'c'): 1}",,,,,,,,,,
+coure,Sainte-Eulalie,,,,,,,,,,,,,,,
+cour,Tresses-bis,,,,,,,,,,,,,,,
+core,Tresses,,,,,,,,,,,,,,,
+coure,Yvrac,coure,Arcins,{},{},{},coure,Barie,{},{},{},,,,,
+coure,Arcins,coure,Parempuyre,{},{},{},coure,Yvrac,{},{},{},,,,,
+coure,Arsac-bis,core,Cantenac,{},{'u': 1},{},core,Lamarque,{},{'u': 1},{},,,,,
+core,Arsac,core,Castelnau-de-Médoc,{},{},{},coure,Parempuyre,{'u': 1},{},{},core,Cantenac,{},{},{}
+core,Cantenac,coure,Arsac-bis,{'u': 1},{},{},core,Arsac,{},{},{},,,,,
+core,Castelnau-de-Médoc,quoure,Lanton,"{'q': 1, 'u': 1}",{},"{('c', 'u'): 1}",core,Arsac,{},{},{},core,Cussac-Fort-Médoc,{},{},{}
+core,Cussac-Fort-Médoc,coure,Montussan,{'u': 1},{},{},core,Castelnau-de-Médoc,{},{},{},core,Lacanau,{},{},{}
+core,Labarde,coure,Saint-Aubin-de-Médoc,{'u': 1},{},{},core,Lacanau,{},{},{},,,,,
+core,Lacanau,core,Labarde,{},{},{},core,Cussac-Fort-Médoc,{},{},{},core,Lamarque,{},{},{}
+core,Lamarque,coure,Arsac-bis,{'u': 1},{},{},core,Lacanau,{},{},{},,,,,
+core,Le Porge,coun,Audenge-bis,{},{},"{('r', 'u'): 1, ('e', 'n'): 1}",core,Le Temple,{},{},{},,,,,
+core,Le Temple,core,Le Porge,{},{},{},,,,,,,,,,
+core,Listrac-Médoc,,,,,,,,,,,,,,,
+quore,Margaux,coure,Saint-Médard-en-Jalles,{'c': 1},{'o': 1},"{('q', 'o'): 1}",,,,,,,,,,
+quore,Moulis-en-Médoc-bis,coure,Saint-Médard-en-Jalles,{'c': 1},{'o': 1},"{('q', 'o'): 1}",,,,,,,,,,
+core,Moulis-en-Médoc,coure,Bègles,{'u': 1},{},{},,,,,,,,,,
+coure,Sainte-Hélène,,,,,,,,,,,,,,,
+core,Salaunes,quore,Soussans,{'q': 1},{},"{('c', 'u'): 1}",core,Chartrons,{},{},{},core,Castillon-la-Bataille-bis,{},{},{}
+quore,Saumos,coure,Bernos-Beaulac,{'c': 1},{'o': 1},"{('q', 'o'): 1}",quore,Soussans,{},{},{},coure,Belvès-de-Castillon,{'c': 1},{'o': 1},"{('q', 'o'): 1}"
+quore,Soussans,quore,Saumos,{},{},{},core,Saint-Pey-d'Armens,{},{'u': 1},"{('q', 'c'): 1}",core,Salaunes,{},{'u': 1},"{('q', 'c'): 1}"
+coure,Belvès-de-Castillon,core,Castillon-la-Bataille-bis,{},{'u': 1},{},quoure,Gajac,{'q': 1},{},"{('c', 'u'): 1}",quore,Saumos,{'q': 1},{'u': 1},"{('c', 'u'): 1}"
+core,Castillon-la-Bataille-bis,core,Le Bouscat,{},{},{},coure,Belvès-de-Castillon,{'u': 1},{},{},core,Salaunes,{},{},{}
+core,Castillon-la-Bataille,córe,Bourg-bis,{},{},"{('o', 'ó'): 1}",,,,,,,,,,
+quore,Gardegan,,,,,,,,,,,,,,,
+corou,Saint-Étienne-de-Lisse,coun,Audenge-bis,{},{'u': 1},"{('r', 'u'): 1, ('o', 'n'): 1}",core,Saint-Genès-de-Castillon,{},{'u': 1},"{('o', 'e'): 1}",,,,,
+core,Saint-Genès-de-Castillon,corou,Saint-Étienne-de-Lisse,{'o': 1},{},"{('e', 'u'): 1}",coro,Saint-Laurent-des-Combes,{},{},"{('e', 'o'): 1}",,,,,
+coro,Saint-Laurent-des-Combes,core,Saint-Genès-de-Castillon,{},{},"{('o', 'e'): 1}",,,,,,,,,,
+core,Saint-Magne-de-Castillon,core,Saint-Pey-d'Armens,{},{},{},cour,Birac,{'u': 1},{'e': 1},{},,,,,
+core,Saint-Pey-d'Armens,quore,Soussans,{'q': 1},{},"{('c', 'u'): 1}",core,Saint-Magne-de-Castillon,{},{},{},cor,Saint-Philippe-d'Aiguille,{},{'e': 1},{}
+cor,Saint-Philippe-d'Aiguille,core,Sainte-Terre,{'e': 1},{},{},core,Saint-Pey-d'Armens,{'e': 1},{},{},,,,,
+core,Sainte-Colombe,core,Chartrons,{},{},{},core,Sainte-Terre,{},{},{},,,,,
+core,Sainte-Terre,core,Sainte-Colombe,{},{},{},cor,Saint-Philippe-d'Aiguille,{},{'e': 1},{},core,Vignonet,{},{},{}
+core,Vignonet,core,Sainte-Terre,{},{},{},,,,,,,,,,
+core,Saint-Antoine-sur-l'Isle,coure,Le Nizan,{'u': 1},{},{},corou,Baurech,{'o': 1},{},"{('e', 'u'): 1}",,,,,
+corou,Baurech,core,Saint-Antoine-sur-l'Isle,{},{'u': 1},"{('o', 'e'): 1}",coura,Gauriac,{'u': 1},{'u': 1},"{('o', 'a'): 1}",core,Camarsac,{},{'u': 1},"{('o', 'e'): 1}"
+core,Bonnetan,core,Camarsac,{},{},{},coure,Saint-Côme,{'u': 1},{},{},,,,,
+core,Camarsac,coure,Tauriac,{'u': 1},{},{},core,Bonnetan,{},{},{},corou,Baurech,{'o': 1},{},"{('e', 'u'): 1}"
+couro,Cambes,core,Cénac,{},{'u': 1},"{('o', 'e'): 1}",quore,Camblanes-et-Meynac,{'q': 1},{'u': 1},"{('c', 'u'): 1, ('o', 'e'): 1}",,,,,
+quore,Camblanes-et-Meynac,quore,Branne-bis,{},{},{},couro,Cambes,{'c': 1},{'o': 1},"{('q', 'o'): 1, ('e', 'o'): 1}",quore,Carignan-de-Bordeaux,{},{},{}
+quore,Carignan-de-Bordeaux,coure,Branne,{'c': 1},{'o': 1},"{('q', 'o'): 1}",quore,Camblanes-et-Meynac,{},{},{},,,,,
+core,Cénac,couro,Cambes,{'u': 1},{},"{('e', 'o'): 1}",,,,,,,,,,
+core,Créon,,,,,,,,,,,,,,,
+core,Haux,,,,,,,,,,,,,,,
+corou,Latresne,,,,,,,,,,,,,,,
+coro,Le Tourne,courre,Cabara-bis,"{'u': 1, 'r': 1}",{},"{('o', 'e'): 1}",,,,,,,,,,

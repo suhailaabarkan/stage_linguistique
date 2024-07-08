@@ -1,0 +1,660 @@
+Mot,Commune,Voisin_1,Commune_1,Insertions_1,Suppressions_1,Substitutions_1,Voisin_2,Commune_2,Insertions_2,Suppressions_2,Substitutions_2,Voisin_3,Commune_3,Insertions_3,Suppressions_3,Substitutions_3
+pla,Andernos-les-Bains,pla,Bazas-bis,{},{},{},pla,Auros-bis,{},{},{},pla,Audenge-bis,{},{},{}
+pla,Arès,pla,Savignac,{},{},{},pla,Ailas,{},{},{},pla,Coimères,{},{},{}
+pla,Audenge-bis,pla,Andernos-les-Bains,{},{},{},pla,Le Porge,{},{},{},pla,Saint-Étienne-de-Lisse,{},{},{}
+pla,Audenge,pla,Lignan-de-Bazas,{},{},{},pla,Belin-Béliet,{},{},{},,,,,
+pla,Biganos,pla,Blanquefort-bis,{},{},{},,,,,,,,,,
+pla,Lacanau-de-Mios,pla,Eysines,{},{},{},pla,Carbon-Blanc-bis,{},{},{},,,,,
+pla,Lanton,pla,Macau,{},{},{},pla,Castelnau-de-Médoc,{},{},{},pla,Saint-Loubès,{},{},{}
+pla,Lège,pla,Saint-Sulpice-et-Cameyrac,{},{},{},,,,,,,,,,
+pla,Mios,pla,Ailas,{},{},{},pla,Saint-Maixant,{},{},{},,,,,
+pla,Ailas,pla,Arès,{},{},{},pla,Mios,{},{},{},pla,Auros-bis,{},{},{}
+pla,Auros-bis,pla,Andernos-les-Bains,{},{},{},pla,Ailas,{},{},{},,,,,
+pla,Auros,pla,Bordeaux,{},{},{},plan,Sainte-Foy-la-Grande-bis,{'n': 1},{},{},pla,Brannens,{},{},{}
+pla,Barie,pla,Yvrac,{},{},{},,,,,,,,,,
+pla,Brannens,pla,Auros,{},{},{},pla,Castillon-de-Castets,{},{},{},,,,,
+pla,Castillon-de-Castets,pla,Saint-Médard-en-Jalles,{},{},{},pla,Brannens,{},{},{},,,,,
+pla,Coimères,pla,Arès,{},{},{},pla,Cudos,{},{},{},pla,Lados,{},{},{}
+pla,Lados,pla,Gans,{},{},{},pla,Puybarban,{},{},{},pla,Coimères,{},{},{}
+plan,Pondaurat,pla,Blaignan,{},{'n': 1},{},,,,,,,,,,
+pla,Puybarban,pla,Lados,{},{},{},pla,Le Bouscat,{},{},{},pla,Savignac,{},{},{}
+pla,Savignac,pla,Sigalens,{},{},{},pla,Arès,{},{},{},pla,Puybarban,{},{},{}
+pla,Sigalens,pla,Caudéran,{},{},{},pla,Savignac,{},{},{},pla,Bayon-sur-Gironde,{},{},{}
+pla,Bazas-bis,pla,Bazas,{},{},{},pla,Andernos-les-Bains,{},{},{},,,,,
+pla,Bazas,pla,Cazats,{},{},{},pla,Bazas-bis,{},{},{},,,,,
+pla,Bernos-Beaulac,plan,Birac,{'n': 1},{},{},pla,Saumos,{},{},{},pla,Gajac,{},{},{}
+plan,Birac,pla,Saint-Magne-de-Castillon,{},{'n': 1},{},pla,Bernos-Beaulac,{},{'n': 1},{},pla,Cazats,{},{'n': 1},{}
+pla,Cazats,pla,Cudos,{},{},{},pla,Bazas,{},{},{},plan,Birac,{'n': 1},{},{}
+pla,Cudos,pla,Coimères,{},{},{},pla,Cazats,{},{},{},pla,Gans,{},{},{}
+pla,Gajac,pla,Belvès-de-Castillon,{},{},{},pla,Gans,{},{},{},pla,Bernos-Beaulac,{},{},{}
+pla,Gans,pla,Gajac,{},{},{},pla,Lados,{},{},{},pla,Cudos,{},{},{}
+pla,Le Nizan,pla,Prignac-et-Marcamps,{},{},{},pla,Gauriac,{},{},{},pla,Saint-Antoine-sur-l'Isle,{},{},{}
+pla,Lignan-de-Bazas,pla,Audenge,{},{},{},pla,Lansac,{},{},{},pla,Béliet,{},{},{}
+pla,Saint-Côme,pla,Bonnetan,{},{},{},pla,Saint-Trojan,{},{},{},pla,Béliet,{},{},{}
+pla,Béliet,pla,Belin-Béliet,{},{},{},pla,Lignan-de-Bazas,{},{},{},pla,Saint-Côme,{},{},{}
+pla,Belin-Béliet,pla,Cadillac-en-Fronsadais,{},{},{},pla,Audenge,{},{},{},pla,Béliet,{},{},{}
+pla,Joué,pla,Le Barp,{},{},{},pla,Tabanac,{},{},{},,,,,
+pla,Le Barp,pla,Cabara,{},{},{},pla,Joué,{},{},{},,,,,
+pla,Lugos,pla,Saint-Magne,{},{},{},pla,Salles-bis,{},{},{},,,,,
+pla,Saint-Magne,pla,Salles,{},{},{},pla,Lugos,{},{},{},pla,Saint-Romain-la-Virvée,{},{},{}
+pla,Salles-bis,pla,Lugos,{},{},{},pla,Génissac,{},{},{},,,,,
+pla,Salles,pla,Saint-Magne,{},{},{},pla,Saint-Quentin-de-Baron,{},{},{},,,,,
+pla,Blanquefort-bis,pla,Langoiran,{},{},{},pla,Biganos,{},{},{},pla,Blanquefort,{},{},{}
+pla,Blanquefort,pla,Blanquefort-bis,{},{},{},pla,Ychoux,{},{},{},plann,La Réole,{'n': 2},{},{}
+pla,Caychac,pla,Omet,{},{},{},pla,Eysines,{},{},{},pla,Giscos,{},{},{}
+pla,Eysines,pla,Caychac,{},{},{},pla,Lacanau-de-Mios,{},{},{},pla,Le Haillan,{},{},{}
+pla,Le Haillan,pla,Le Pian-Médoc,{},{},{},pla,Eysines,{},{},{},,,,,
+pla,Le Pian-Médoc,pla,Le Haillan,{},{},{},,,,,,,,,,
+pla,Le Taillan-Médoc,pla,Sainte-Croix-du-Mont,{},{},{},pla,Bassens,{},{},{},pla,Landerrouat,{},{},{}
+pla,Ludon-Médoc,pla,Macau,{},{},{},,,,,,,,,,
+pla,Macau,pla,Ludon-Médoc,{},{},{},pla,Lanton,{},{},{},,,,,
+pla,Parempuyre,pla,Arcins,{},{},{},pla,Arsac,{},{},{},,,,,
+pla,Saint-Aubin-de-Médoc,pla,Labarde,{},{},{},,,,,,,,,,
+pla,Saint-Médard-en-Jalles,pla,Margaux,{},{},{},pla,Castillon-de-Castets,{},{},{},pla,Moulis-en-Médoc-bis,{},{},{}
+pla,Bègles,pla,Lugon-et-l'Île-du-Carnay,{},{},{},pla,Moulis-en-Médoc,{},{},{},,,,,
+pla,Bordeaux,pla,Auros,{},{},{},,,,,,,,,,
+pla,Bruges,pla,Bégadan,{},{},{},pla,Caudéran,{},{},{},,,,,
+pla,Caudéran,pla,Bruges,{},{},{},pla,Sigalens,{},{},{},pla,Bayon-sur-Gironde,{},{},{}
+pla,Chartrons,pla,Sainte-Colombe,{},{},{},pla,Salaunes,{},{},{},,,,,
+pla,Le Bouscat,pla,Puybarban,{},{},{},pla,Castillon-la-Bataille-bis,{},{},{},pla,Bayon-sur-Gironde,{},{},{}
+pla,Bayon-sur-Gironde,pla,Caudéran,{},{},{},pla,Sigalens,{},{},{},pla,Le Bouscat,{},{},{}
+pla,Bourg-bis,pla,Castres-Gironde,{},{},{},pla,Castillon-la-Bataille,{},{},{},plo,Bahus-Soubiran,{},{},"{('a', 'o'): 1}"
+pla,Bourg,pla,Comps,{},{},{},pla,Rivière-Saas-et-Gourby,{},{},{},pla,Baron,{},{},{}
+pla,Comps,pla,Gauriac,{},{},{},pla,Bourg,{},{},{},,,,,
+pla,Gauriac,pla,Le Nizan,{},{},{},pla,Comps,{},{},{},pla,Baurech,{},{},{}
+pla,Lansac,pla,Lignan-de-Bazas,{},{},{},pla,Marcamps,{},{},{},plo,Saint-Loubouer,{},{},"{('a', 'o'): 1}"
+pla,Marcamps,pla,Prignac-et-Marcamps,{},{},{},pla,Lansac,{},{},{},,,,,
+pla,Prignac-et-Marcamps,pla,Marcamps,{},{},{},pla,Le Nizan,{},{},{},plo,Renung,{},{},"{('a', 'o'): 1}"
+pla,Saint-Seurin-de-Bourg,pla,Saint-Pandelon,{},{},{},pla,Samonac,{},{},{},pla,Baron,{},{},{}
+pla,Saint-Trojan,pla,Saint-Côme,{},{},{},pla,Tauriac,{},{},{},pla,Samonac,{},{},{}
+pla,Samonac,pla,Saint-Seurin-de-Bourg,{},{},{},pla,Fronsac,{},{},{},pla,Saint-Trojan,{},{},{}
+pla,Tauriac,pla,Saint-Trojan,{},{},{},pla,Camarsac,{},{},{},pla,Baron,{},{},{}
+pla,Baron,pla,Bourg,{},{},{},pla,Saint-Seurin-de-Bourg,{},{},{},pla,Tauriac,{},{},{}
+pla,Branne-bis,pla,Saint-Lon-les-Mines,{},{},{},plo,Bonnegarde,{},{},"{('a', 'o'): 1}",pla,Camblanes-et-Meynac,{},{},{}
+pla,Branne,pla,Hure,{},{},{},pla,Gironde-sur-Dropt-bis,{},{},{},pla,Carignan-de-Bordeaux,{},{},{}
+pla,Cabara-bis,pla,Le Tourne,{},{},{},pla,Linxe,{},{},{},pla,Dax-Saint-Vincent,{},{},{}
+pla,Cabara,pla,Saillans,{},{},{},pla,Le Barp,{},{},{},,,,,
+pla,Daignac,pla,Génissac,{},{},{},,,,,,,,,,
+pla,Génissac,pla,Salles-bis,{},{},{},pla,Daignac,{},{},{},plo,Losse,{},{},"{('a', 'o'): 1}"
+pla,Grézillac,pla,Jugazan,{},{},{},,,,,,,,,,
+pla,Jugazan,pla,Grézillac,{},{},{},pla,Civrac,{},{},{},pla,Gaillan-en-Médoc,{},{},{}
+pla,Moulon,pla,Horsarrieu,{},{},{},pla,Bascons,{},{},{},pla,Naujan-et-Postiac,{},{},{}
+pla,Naujan-et-Postiac,pla,Grignols-bis,{},{},{},pla,Cazères-sur-l'Adour,{},{},{},pla,Moulon,{},{},{}
+pla,Nérigean,pla,Saint-Cricq-Chalosse,{},{},{},pla,Poudenx,{},{},{},pla,Saint-Germain-du-Puch,{},{},{}
+pla,Saint-Germain-du-Puch,pla,Uzeste,{},{},{},pla,Laurède,{},{},{},pla,Nérigean,{},{},{}
+pla,Saint-Quentin-de-Baron,pla,Salles,{},{},{},pla,Arengosse,{},{},{},,,,,
+pla,Tizac-de-Curton,pla,Arjuzanx,{},{},{},,,,,,,,,,
+pla,Béguey,pla,Sendets,{},{},{},pla,Gabarnac,{},{},{},,,,,
+pla,Cadillac,pla,Cardan,{},{},{},pla,Camiran,{},{},{},pla,Capian,{},{},{}
+pla,Capian,pla,Saint-Michel-de-Fronsac,{},{},{},pla,Cadillac,{},{},{},pla,Sindères,{},{},{}
+pla,Cardan,pla,Lerm-et-Musset,{},{},{},pla,Cadillac,{},{},{},pla,Donzac,{},{},{}
+pla,Donzac,pla,Saint-Médard-d'Eyrans,{},{},{},pla,Gabarnac,{},{},{},pla,Cardan,{},{},{}
+pla,Gabarnac,pla,Donzac,{},{},{},pla,Béguey,{},{},{},pla,Marions,{},{},{}
+pla,Langoiran-bis,pla,Gironde-sur-Dropt,{},{},{},,,,,,,,,,
+pla,Langoiran,pla,Blanquefort-bis,{},{},{},,,,,,,,,,
+plo,Lestiac-sur-Garonne,pla,Morizès,{},{},"{('o', 'a'): 1}",,,,,,,,,,
+pla,Loupiac,pla,Gujan,{},{},{},pla,Monprimblanc,{},{},{},,,,,
+pla,Monprimblanc,pla,Saint-Hilaire-de-la-Noaille,{},{},{},pla,Loupiac,{},{},{},,,,,
+pla,Omet,pla,Paillet,{},{},{},pla,Caychac,{},{},{},pla,La Teste-de-Buch,{},{},{}
+pla,Paillet,pla,Rions,{},{},{},pla,Omet,{},{},{},pla,Le Teich,{},{},{}
+pla,Rions,pla,Paillet,{},{},{},,,,,,,,,,
+pla,Sainte-Croix-du-Mont,pla,Captieux-bis,{},{},{},pla,Le Taillan-Médoc,{},{},{},pla,Mazères,{},{},{}
+pla,Villenave-de-Rions,pla,Beychac-et-Caillau,{},{},{},pla,Captieux-bis,{},{},{},pla,Arbanats,{},{},{}
+pla,Captieux-bis,pla,Villenave-de-Rions,{},{},{},pla,Sainte-Croix-du-Mont,{},{},{},pla,Captieux,{},{},{}
+pla,Captieux,pla,Léogeats,{},{},{},pla,Langon,{},{},{},pla,Captieux-bis,{},{},{}
+pla,Escaudes,pla,Bouliac,{},{},{},pla,Cérons,{},{},{},,,,,
+pla,Giscos,pla,Bieujac,{},{},{},pla,Caychac,{},{},{},pla,Saint-Pardon-de-Conques,{},{},{}
+pla,Saint-Michel-de-Castelnau,pla,Cenon,{},{},{},plâ,Saint-Émilion,{},{},"{('a', 'â'): 1}",pla,Toulenne,{},{},{}
+pla,Ambarès-et-Lagrave,pla,Taller,{},{},{},,,,,,,,,,
+pla,Ambès,pla,Martignas-sur-Jalle,{},{},{},pla,Beychac-et-Caillau,{},{},{},,,,,
+pla,Bassens,pla,Le Taillan-Médoc,{},{},{},pla,Beychac-et-Caillau,{},{},{},,,,,
+pla,Beychac-et-Caillau,pla,Bassens,{},{},{},pla,Villenave-de-Rions,{},{},{},pla,Ambès,{},{},{}
+pla,Bouliac,pla,Podensac,{},{},{},pla,Escaudes,{},{},{},pla,Carbon-Blanc-bis,{},{},{}
+pla,Carbon-Blanc-bis,pla,Bouliac,{},{},{},pla,Lacanau-de-Mios,{},{},{},,,,,
+pla,Carbon-Blanc,pla,Pessac,{},{},{},pla,Libourne,{},{},{},pla,Lormont,{},{},{}
+pla,Cenon,pla,Floirac,{},{},{},pla,Saint-Michel-de-Castelnau,{},{},{},,,,,
+pla,Floirac,pla,Saint-Sulpice-de-Faleyrens,{},{},{},pla,Cenon,{},{},{},pla,Lormont,{},{},{}
+pla,Lormont,pla,Carbon-Blanc,{},{},{},pla,Floirac,{},{},{},,,,,
+pla,Montussan,pla,Saint-Loubès,{},{},{},pla,Cussac-Fort-Médoc,{},{},{},,,,,
+pla,Saint-Loubès,pla,Lanton,{},{},{},pla,Montussan,{},{},{},,,,,
+pla,Saint-Louis-de-Montferrand,pla,Virelade,{},{},{},pla,Saint-Sulpice-et-Cameyrac,{},{},{},,,,,
+pla,Saint-Sulpice-et-Cameyrac,pla,Saint-Vincent-de-Paul,{},{},{},pla,Lège,{},{},{},pla,Saint-Louis-de-Montferrand,{},{},{}
+pla,Saint-Vincent-de-Paul,pla,Flaujagues,{},{},{},pla,Saint-Sulpice-et-Cameyrac,{},{},{},,,,,
+pla,Sainte-Eulalie,pla,Saint-Martin-de-Sescas,{},{},{},pla,Juillac,{},{},{},,,,,
+pla,Tresses-bis,pla,Peujard,{},{},{},pla,Pessac-sur-Dordogne,{},{},{},,,,,
+pla,Tresses,pla,Rauzan,{},{},{},pla,Saint-Pey-de-Castets,{},{},{},pla,Cubzac-les-Ponts,{},{},{}
+pla,Yvrac,pla,Arcins,{},{},{},pla,Barie,{},{},{},,,,,
+pla,Arcins,pla,Parempuyre,{},{},{},pla,Yvrac,{},{},{},pla,Virsac,{},{},{}
+pla,Arsac-bis,pla,Cantenac,{},{},{},pla,Saint-Gervais,{},{},{},pla,Lamarque,{},{},{}
+pla,Arsac,pla,Castelnau-de-Médoc,{},{},{},pla,Parempuyre,{},{},{},pla,Cantenac,{},{},{}
+pla,Cantenac,pla,Salignac,{},{},{},pla,Arsac-bis,{},{},{},pla,Arsac,{},{},{}
+pla,Castelnau-de-Médoc,pla,Lanton,{},{},{},pla,Arsac,{},{},{},pla,Cussac-Fort-Médoc,{},{},{}
+pla,Cussac-Fort-Médoc,pla,Montussan,{},{},{},pla,Castelnau-de-Médoc,{},{},{},pla,Lacanau,{},{},{}
+pla,Labarde,pla,Saint-Aubin-de-Médoc,{},{},{},pla,Lacanau,{},{},{},pla,Caudrot,{},{},{}
+pla,Lacanau,pla,Labarde,{},{},{},pla,Cussac-Fort-Médoc,{},{},{},pla,Lamarque,{},{},{}
+pla,Lamarque,pla,Arsac-bis,{},{},{},pla,Saint-André-du-Bois,{},{},{},pla,Lacanau,{},{},{}
+pla,Le Porge,pla,Audenge-bis,{},{},{},pla,Saint-Germain-de-Grave,{},{},{},pla,Le Temple,{},{},{}
+pla,Le Temple,pla,Verdelais,{},{},{},pla,Le Porge,{},{},{},,,,,
+pla,Listrac-Médoc,pla,Pujols-bis,{},{},{},,,,,,,,,,
+pla,Margaux,pla,Saint-Médard-en-Jalles,{},{},{},,,,,,,,,,
+pla,Moulis-en-Médoc-bis,pla,Saint-Médard-en-Jalles,{},{},{},plaa,Sainte-Foy-la-Grande-ter,{'a': 1},{},{},,,,,
+pla,Moulis-en-Médoc,pla,Bègles,{},{},{},pla,Gornac,{},{},{},,,,,
+plà,Sainte-Hélène,pla,Cazalis,{},{},"{('à', 'a'): 1}",,,,,,,,,,
+pla,Salaunes,pla,Soussans,{},{},{},pla,Chartrons,{},{},{},pla,Castillon-la-Bataille-bis,{},{},{}
+pla,Saumos,pla,Bernos-Beaulac,{},{},{},pla,Soussans,{},{},{},pla,Belvès-de-Castillon,{},{},{}
+pla,Soussans,pla,Saumos,{},{},{},pla,Saint-Pey-d'Armens,{},{},{},pla,Salaunes,{},{},{}
+pla,Belvès-de-Castillon,pla,Castillon-la-Bataille-bis,{},{},{},pla,Gajac,{},{},{},pla,Saumos,{},{},{}
+pla,Castillon-la-Bataille-bis,pla,Le Bouscat,{},{},{},pla,Belvès-de-Castillon,{},{},{},pla,Salaunes,{},{},{}
+pla,Castillon-la-Bataille,pla,Bourg-bis,{},{},{},plo,Puisseguin,{},{},"{('a', 'o'): 1}",plo,Classun,{},{},"{('a', 'o'): 1}"
+pla,Gardegan,pla,Lucmau,{},{},{},pla,Villandraut-bis,{},{},{},,,,,
+pla,Saint-Étienne-de-Lisse,pla,Audenge-bis,{},{},{},pla,Saint-Genès-de-Castillon,{},{},{},,,,,
+pla,Saint-Genès-de-Castillon,pla,Saint-Étienne-de-Lisse,{},{},{},pla,Balizac,{},{},{},pla,Saint-Laurent-des-Combes,{},{},{}
+pla,Saint-Laurent-des-Combes,plô,Saint-Symphorien-bis,{},{},"{('a', 'ô'): 1}",pla,Aire-sur-l'Adour,{},{},{},pla,Saint-Genès-de-Castillon,{},{},{}
+pla,Saint-Magne-de-Castillon,pla,Saint-Pey-d'Armens,{},{},{},plan,Birac,{'n': 1},{},{},,,,,
+pla,Saint-Pey-d'Armens,pla,Soussans,{},{},{},pla,Saint-Magne-de-Castillon,{},{},{},pla,Saint-Philippe-d'Aiguille,{},{},{}
+pla,Saint-Philippe-d'Aiguille,pla,Sainte-Terre,{},{},{},pla,Saint-Pey-d'Armens,{},{},{},ple,Eugénie-les-Bains,{},{},"{('a', 'e'): 1}"
+pla,Sainte-Colombe,pla,Chartrons,{},{},{},pla,Sainte-Terre,{},{},{},,,,,
+pla,Sainte-Terre,pla,Sainte-Colombe,{},{},{},pla,Saint-Philippe-d'Aiguille,{},{},{},pla,Vignonet,{},{},{}
+pla,Vignonet,pla,Sainte-Terre,{},{},{},,,,,,,,,,
+pla,Saint-Antoine-sur-l'Isle,pla,Saint-Agnet,{},{},{},pla,Le Nizan,{},{},{},pla,Baurech,{},{},{}
+pla,Baurech,pla,Saint-Antoine-sur-l'Isle,{},{},{},pla,Gauriac,{},{},{},pla,Camarsac,{},{},{}
+pla,Bonnetan,pla,Camarsac,{},{},{},pla,Saint-Côme,{},{},{},pla,Sarron,{},{},{}
+pla,Camarsac,pla,Tauriac,{},{},{},pla,Bonnetan,{},{},{},pla,Baurech,{},{},{}
+pla,Cambes,pla,Cénac,{},{},{},pla,Vielle-Tursan,{},{},{},pla,Camblanes-et-Meynac,{},{},{}
+pla,Camblanes-et-Meynac,pla,Branne-bis,{},{},{},pla,Cambes,{},{},{},pla,Carignan-de-Bordeaux,{},{},{}
+pla,Carignan-de-Bordeaux,pla,Amou,{},{},{},pla,Branne,{},{},{},pla,Camblanes-et-Meynac,{},{},{}
+pla,Cénac,pla,Cambes,{},{},{},pla,Bassercles,{},{},{},,,,,
+pla,Créon,pla,Brassempouy,{},{},{},,,,,,,,,,
+pla,Haux,pla,Castelnau-Chalosse,{},{},{},pla,Geloux,{},{},{},,,,,
+pla,Latresne,pla,Castel-Sarrazin,{},{},{},pla,Donzacq,{},{},{},pla,Campagne,{},{},{}
+pla,Le Tourne,pla,Cabara-bis,{},{},{},pla,Sallebœuf,{},{},{},,,,,
+pla,Lignan-de-Bordeaux,pla,Bommes,{},{},{},pla,Pompignac,{},{},{},pla,Madirac,{},{},{}
+pla,Madirac,pla,Quinsac,{},{},{},pla,Lignan-de-Bordeaux,{},{},{},,,,,
+pla,Pompignac,pla,Lignan-de-Bordeaux,{},{},{},pla,Quinsac,{},{},{},,,,,
+pla,Quinsac,pla,Uza,{},{},{},pla,Madirac,{},{},{},pla,Pompignac,{},{},{}
+pla,Sadirac,pla,Saint-Caprais-de-Bordeaux,{},{},{},,,,,,,,,,
+pla,Saint-Caprais-de-Bordeaux,pla,Sallebœuf,{},{},{},pla,Bénesse-lès-Dax,{},{},{},pla,Sadirac,{},{},{}
+pla,Sallebœuf,pla,Le Tourne,{},{},{},pla,Saint-Caprais-de-Bordeaux,{},{},{},,,,,
+pla,Tabanac,pla,Joué,{},{},{},plan,Narrosse,{'n': 1},{},{},,,,,
+pla,Asques,pla,Fronsac-bis,{},{},{},pla,La Lande-de-Fronsac,{},{},{},,,,,
+pla,Cadillac-en-Fronsadais,pla,Fronsac-bis,{},{},{},pla,Belin-Béliet,{},{},{},pla,Fronsac,{},{},{}
+pla,Fronsac-bis,pla,Mées,{},{},{},pla,Cadillac-en-Fronsadais,{},{},{},pla,Asques,{},{},{}
+pla,Fronsac,pla,Samonac,{},{},{},pla,La Lande-de-Fronsac,{},{},{},pla,Cadillac-en-Fronsadais,{},{},{}
+pla,La Lande-de-Fronsac,pla,Fronsac,{},{},{},pla,Asques,{},{},{},,,,,
+pla,Lugon-et-l'Île-du-Carnay,pla,Bègles,{},{},{},pla,Saillans,{},{},{},,,,,
+pla,Saillans,pla,Lugon-et-l'Île-du-Carnay,{},{},{},pla,Cabara,{},{},{},pla,Saint-Paul-lès-Dax,{},{},{}
+pla,Saint-Germain-de-la-Rivière,pla,Saint-Vincent-de-Paul,{},{},{},pla,Martillac,{},{},{},pla,Saint-Michel-de-Fronsac,{},{},{}
+pla,Saint-Michel-de-Fronsac,pla,Saint-Germain-de-la-Rivière,{},{},{},pla,Capian,{},{},{},,,,,
+pla,Saint-Romain-la-Virvée,pla,Saint-Magne,{},{},{},pla,Vérac,{},{},{},,,,,
+pla,Vérac,pla,Saint-Romain-la-Virvée,{},{},{},pla,Villegouge,{},{},{},,,,,
+pla,Villegouge,pla,Campin,{},{},{},pla,Vérac,{},{},{},,,,,
+pla,Campin,pla,Villegouge,{},{},{},pla,Cours-les-Bains,{},{},{},,,,,
+pla,Cours-les-Bains,pla,Castandet,{},{},{},pla,Lagrange,{},{},{},pla,Campin,{},{},{}
+pla,Grignols-bis,pla,Grignols,{},{},{},pla,Naujan-et-Postiac,{},{},{},pla,Tercis-les-Bains,{},{},{}
+pla,Grignols,pla,Grignols-bis,{},{},{},plo,Yzosse,{},{},"{('a', 'o'): 1}",,,,,
+pla,Lavazan,plo,Arx,{},{},"{('a', 'o'): 1}",pla,Saucats,{},{},{},,,,,
+pla,Lerm-et-Musset,pla,Cardan,{},{},{},pla,Marions,{},{},{},,,,,
+pla,Marions,pla,Gabarnac,{},{},{},pla,Lerm-et-Musset,{},{},{},,,,,
+pla,Sendets,pla,Béguey,{},{},{},,,,,,,,,,
+pla,Bégadan,pla,Blaignan,{},{},{},pla,Bruges,{},{},{},,,,,
+pla,Blaignan,plan,Pondaurat,{'n': 1},{},{},pla,Bégadan,{},{},{},,,,,
+pla,Civrac,pla,Jugazan,{},{},{},pla,Brocas,{},{},{},pla,Sorbets,{},{},{}
+pla,Gaillan-en-Médoc,pla,Jugazan,{},{},{},pla,Samadet,{},{},{},,,,,
+pla,Lesparre-Médoc,pla,Labrit,{},{},{},pla,Naujac-sur-Mer,{},{},{},,,,,
+pla,Naujac-sur-Mer,pla,Lesparre-Médoc,{},{},{},,,,,,,,,,
+pla,Ordonnac,pla,Urgons,{},{},{},pla,Serres-Gaston,{},{},{},pla,Saint-Christoly-Médoc,{},{},{}
+pla,Queyrac,pla,Hinx,{},{},{},pla,Saint-Christoly-Médoc,{},{},{},pla,Sainte-Colombe,{},{},{}
+pla,Saint-Christoly-Médoc,pla,Queyrac,{},{},{},pla,Valeyrac,{},{},{},pla,Ordonnac,{},{},{}
+pla,Saint-Germain-d'Esteuil,pla,Serreslous-et-Arribans,{},{},{},pla,Artassenx,{},{},{},pla,Canenx-et-Réaut,{},{},{}
+pla,Saint-Seurin-de-Cadourne,pla,Cère,{},{},{},,,,,,,,,,
+pla,Saint-Yzans-de-Médoc,pla,Isle-Saint-Georges,{},{},{},pla,Mont-de-Marsan-bis,{},{},{},,,,,
+pla,Valeyrac,pla,Saint-Christoly-Médoc,{},{},{},pla,Saint-Avit,{},{},{},,,,,
+pla,Vendays-Montalivet,pla,Beautiran,{},{},{},,,,,,,,,,
+pla,Beautiran,pla,Saint-Martin-d'Oney,{},{},{},pla,Mimizan,{},{},{},pla,Vendays-Montalivet,{},{},{}
+pla,Cabanac-et-Villagrains,pla,Préchac,{},{},{},pla,Castres-Gironde,{},{},{},pla,Louer,{},{},{}
+pla,Cadaujac,pla,Saint-Pierre-du-Mont,{},{},{},pla,Gousse,{},{},{},pla,Cassen,{},{},{}
+pla,Castres-Gironde,pla,Cabanac-et-Villagrains,{},{},{},pla,Bourg-bis,{},{},{},pla,Garrey,{},{},{}
+pla,Isle-Saint-Georges,pla,Nousse,{},{},{},pla,Saint-Yzans-de-Médoc,{},{},{},pla,Ozourt,{},{},{}
+pla,La Brède-bis,pla,Poyanne,{},{},{},pla,Louchats,{},{},{},pla,Onard,{},{},{}
+pla,La Brède,pla,Ousse-Suzan,{},{},{},pla,Léognan,{},{},{},,,,,
+pla,Léognan,pla,La Brède,{},{},{},,,,,,,,,,
+pla,Martillac,pla,Saint-Germain-de-la-Rivière,{},{},{},plo,Saugnac-et-Cambran,{},{},"{('a', 'o'): 1}",pla,Saint-Médard-d'Eyrans,{},{},{}
+pla,Saint-Médard-d'Eyrans,pla,Saint-Morillon,{},{},{},pla,Donzac,{},{},{},pla,Martillac,{},{},{}
+pla,Saint-Morillon,pla,Saint-Médard-d'Eyrans,{},{},{},pla,Blaignac,{},{},{},,,,,
+pla,Saint-Selve,pla,Saucats,{},{},{},pla,Blaignac,{},{},{},,,,,
+pla,Saucats,pla,Lavazan,{},{},{},pla,Saint-Selve,{},{},{},plan,Bagas,{'n': 1},{},{}
+plan,Bagas,pla,Saubusse,{},{'n': 1},{},plo,Estigarde,{},{'n': 1},"{('a', 'o'): 1}",pla,Saucats,{},{'n': 1},{}
+pla,Blaignac,pla,Saint-Selve,{},{},{},pla,Saint-Morillon,{},{},{},plo,Siest,{},{},"{('a', 'o'): 1}"
+pla,Camiran-bis,pla,Ygos-Saint-Saturnin,{},{},{},pla,Onesse-Laharie,{},{},{},,,,,
+pla,Camiran,pla,Cadillac,{},{},{},pla,Baigts,{},{},{},,,,,
+pla,Casseuil,pla,Puyol-Cazalet,{},{},{},pla,Fontet,{},{},{},,,,,
+pla,Fontet,pla,Casseuil,{},{},{},pla,Biscarosse-bis,{},{},{},pla,Doazit,{},{},{}
+pla,Gironde-sur-Dropt-bis,pla,Branne,{},{},{},pla,Gaas,{},{},{},pla,Sorde-l'Abbaye,{},{},{}
+pla,Gironde-sur-Dropt,pla,Langoiran-bis,{},{},{},pla,Moustey,{},{},{},,,,,
+pla,Hure,pla,Estibeaux,{},{},{},pla,Branne,{},{},{},pla,Cagnotte,{},{},{}
+pla,La Réole-bis,pla,Saugnacq-et-Muret,{},{},{},pla,Mimbaste,{},{},{},,,,,
+plann,La Réole,pla,Blanquefort,{},{'n': 2},{},pla,Mouscardès,{},{'n': 2},{},,,,,
+pla,Lamothe-Landerron,pla,Loupiac-de-la-Réole,{},{},{},pla,Tilh,{},{},{},,,,,
+pla,Loupiac-de-la-Réole,pla,Lamothe-Landerron,{},{},{},,,,,,,,,,
+pla,Mongauzy,pla,Arue,{},{},{},,,,,,,,,,
+pla,Morizès,plo,Lestiac-sur-Garonne,{},{},"{('a', 'o'): 1}",pla,Arouille,{},{},{},,,,,
+pla,Noaillac,pla,Arveyres,{},{},{},pla,Lugaut,{},{},{},,,,,
+pla,Pompéjac,pla,Arcachon-bis,{},{},{},pla,Roquefort,{},{},{},,,,,
+pla,Saint-Hilaire-de-la-Noaille-bis,pla,Saint-Hilaire-de-la-Noaille,{},{},{},pla,Civrac-sur-Dordogne,{},{},{},,,,,
+pla,Saint-Hilaire-de-la-Noaille,pla,Monprimblanc,{},{},{},pla,Saint-Hilaire-de-la-Noaille-bis,{},{},{},,,,,
+pla,Arcachon-bis,pla,Pompéjac,{},{},{},pla,Arcachon,{},{},{},,,,,
+pla,Arcachon,pla,Arcachon-bis,{},{},{},pla,La Teste-de-Buch-bis,{},{},{},,,,,
+pla,Cazaux,pla,Gujan,{},{},{},,,,,,,,,,
+pla,Gujan,pla,Loupiac,{},{},{},pla,Cazaux,{},{},{},pla,La Teste-de-Buch-bis,{},{},{}
+pla,La Teste-de-Buch-bis,pla,Arcachon,{},{},{},pla,Gujan,{},{},{},,,,,
+pla,La Teste-de-Buch-ter,,,,,,,,,,,,,,,
+pla,La Teste-de-Buch,pla,Omet,{},{},{},pla,Bieujac,{},{},{},pla,Le Teich,{},{},{}
+pla,Le Teich,pla,Mestras,{},{},{},pla,Paillet,{},{},{},pla,La Teste-de-Buch,{},{},{}
+pla,Mestras,pla,Le Teich,{},{},{},pla,Bommes,{},{},{},,,,,
+pla,Bieujac,pla,La Teste-de-Buch,{},{},{},pla,Giscos,{},{},{},pla,Castets-en-Dorthe,{},{},{}
+pla,Bommes,pla,Castets-en-Dorthe,{},{},{},pla,Lignan-de-Bordeaux,{},{},{},pla,Mestras,{},{},{}
+pla,Castets-en-Dorthe,pla,Bommes,{},{},{},pla,Bieujac,{},{},{},,,,,
+pla,Fargues,pla,Langon-bis,{},{},{},,,,,,,,,,
+pla,Langon-bis,pla,Fargues,{},{},{},,,,,,,,,,
+pla,Langon,pla,Captieux,{},{},{},pla,Budos,{},{},{},,,,,
+pla,Léogeats,pla,Saint-Pierre-de-Mons,{},{},{},pla,Captieux,{},{},{},pla,Mazères,{},{},{}
+pla,Mazères,pla,Sainte-Croix-du-Mont,{},{},{},plâ,Roaillan,{},{},"{('a', 'â'): 1}",pla,Léogeats,{},{},{}
+plâ,Roaillan,pla,Mazères,{},{},"{('â', 'a'): 1}",,,,,,,,,,
+pla,Saint-Pardon-de-Conques,pla,Giscos,{},{},{},pla,Sauternes,{},{},{},,,,,
+pla,Saint-Pierre-de-Mons,pla,Léogeats,{},{},{},pla,Sauternes,{},{},{},,,,,
+pla,Sauternes,pla,Saint-Pardon-de-Conques,{},{},{},pla,Saint-Pierre-de-Mons,{},{},{},,,,,
+pla,Toulenne,pla,Saint-Michel-de-Castelnau,{},{},{},,,,,,,,,,
+pla,Arveyres,pla,Noaillac,{},{},{},,,,,,,,,,
+pla,Civrac-sur-Dordogne,pla,Saint-Hilaire-de-la-Noaille-bis,{},{},{},pla,Saint-Estèphe,{},{},{},,,,,
+pla,Izon,pla,Cissac-Médoc,{},{},{},,,,,,,,,,
+pla,Libourne-bis,pla,Libourne,{},{},{},pla,Pomerol,{},{},{},,,,,
+pla,Libourne,pla,Carbon-Blanc,{},{},{},pla,Libourne-bis,{},{},{},pla,Vayres,{},{},{}
+pla,Pomerol,pla,Libourne-bis,{},{},{},pla,Pauillac,{},{},{},pla,Vayres,{},{},{}
+plâ,Saint-Émilion,pla,Saint-Michel-de-Castelnau,{},{},"{('â', 'a'): 1}",pla,Saint-Sulpice-de-Faleyrens,{},{},"{('â', 'a'): 1}",pla,Roquebrune,{},{},"{('â', 'a'): 1}"
+pla,Saint-Sulpice-de-Faleyrens,plâ,Saint-Émilion,{},{},"{('a', 'â'): 1}",pla,Floirac,{},{},{},pla,Vayres,{},{},{}
+pla,Vayres,pla,Saint-Sulpice-de-Faleyrens,{},{},{},pla,Libourne,{},{},{},pla,Pomerol,{},{},{}
+pla,Landerrouet-sur-Ségur,pla,Monségur,{},{},{},,,,,,,,,,
+pla,Monségur,pla,Landerrouet-sur-Ségur,{},{},{},,,,,,,,,,
+pla,Roquebrune,plâ,Saint-Émilion,{},{},"{('a', 'â'): 1}",pla,Pauillac,{},{},{},,,,,
+pla,Cissac-Médoc,pla,Izon,{},{},{},pla,Pauillac,{},{},{},,,,,
+pla,Pauillac,pla,Pomerol,{},{},{},pla,Cissac-Médoc,{},{},{},pla,Roquebrune,{},{},{}
+pla,Saint-Estèphe,pla,Civrac-sur-Dordogne,{},{},{},pla,Saint-Julien-Beychevelle,{},{},{},,,,,
+pla,Saint-Julien-Beychevelle,pla,Saint-Estèphe,{},{},{},,,,,,,,,,
+pla,Saint-Sauveur,pla,Vertheuil,{},{},{},,,,,,,,,,
+pla,Vertheuil,pla,Saint-Sauveur,{},{},{},pla,Cazaugitat,{},{},{},,,,,
+pla,Cazaugitat,pla,Vertheuil,{},{},{},,,,,,,,,,
+pla,Landerrouat,pla,Massugas,{},{},{},pla,Le Taillan-Médoc,{},{},{},pla,Listrac-de-Durèze,{},{},{}
+pla,Listrac-de-Durèze,pla,Landerrouat,{},{},{},,,,,,,,,,
+pla,Massugas,pla,Landerrouat,{},{},{},pla,Pellegrue,{},{},{},,,,,
+pla,Pellegrue,pla,Massugas,{},{},{},,,,,,,,,,
+plá,Canéjan,pla,Cestas,{},{},"{('á', 'a'): 1}",pla,Illats,{},{},"{('á', 'a'): 1}",,,,,
+pla,Cestas,plâ,Villenave-d'Ornon,{},{},"{('a', 'â'): 1}",plá,Canéjan,{},{},"{('a', 'á'): 1}",,,,,
+pla,Gradignan,pla,Landiras,{},{},{},plâ,Villenave-d'Ornon,{},{},"{('a', 'â'): 1}",pla,Mérignac,{},{},{}
+pla,Martignas-sur-Jalle,pla,Saint-Jean-d'Illac,{},{},{},pla,Ambès,{},{},{},pla,Mérignac,{},{},{}
+pla,Mérignac,pla,Martignas-sur-Jalle,{},{},{},pla,Barsac,{},{},{},pla,Gradignan,{},{},{}
+pla,Pessac,pla,Talence,{},{},{},pla,Carbon-Blanc,{},{},{},pla,Saint-Jean-d'Illac,{},{},{}
+pla,Saint-Jean-d'Illac,pla,Pujols-sur-Ciron,{},{},{},pla,Martignas-sur-Jalle,{},{},{},pla,Pessac,{},{},{}
+pla,Talence,pla,Pessac,{},{},{},plâ,Villenave-d'Ornon,{},{},"{('a', 'â'): 1}",,,,,
+plâ,Villenave-d'Ornon,pla,Gradignan,{},{},"{('â', 'a'): 1}",pla,Cestas,{},{},"{('â', 'a'): 1}",pla,Talence,{},{},"{('â', 'a'): 1}"
+pla,Arbanats,pla,Barsac,{},{},{},pla,Villenave-de-Rions,{},{},{},pla,Budos,{},{},{}
+pla,Barsac,pla,Mérignac,{},{},{},pla,Arbanats,{},{},{},pla,Budos-bis,{},{},{}
+pla,Budos-bis,pla,Cérons,{},{},{},pla,Portets,{},{},{},pla,Barsac,{},{},{}
+pla,Budos,pla,Arbanats,{},{},{},pla,Langon,{},{},{},pla,Guillos,{},{},{}
+pla,Cérons,pla,Escaudes,{},{},{},pla,Budos-bis,{},{},{},pla,Guillos,{},{},{}
+pla,Guillos,pla,Cérons,{},{},{},pla,Budos,{},{},{},,,,,
+pla,Illats,plá,Canéjan,{},{},"{('a', 'á'): 1}",pla,Landiras,{},{},{},pla,Podensac,{},{},{}
+pla,Landiras,pla,Illats,{},{},{},pla,Gradignan,{},{},{},pla,Portets,{},{},{}
+pla,Podensac,pla,Portets,{},{},{},pla,Bouliac,{},{},{},pla,Illats,{},{},{}
+pla,Portets,pla,Budos-bis,{},{},{},pla,Podensac,{},{},{},pla,Landiras,{},{},{}
+pla,Preignac,,,,,,,,,,,,,,,
+pla,Pujols-sur-Ciron,pla,Saint-Jean-d'Illac,{},{},{},,,,,,,,,,
+pla,Saint-Michel-de-Rieufret,pla,Aubie-et-Espessas,{},{},{},pla,Sainte-Radegonde,{},{},{},,,,,
+pla,Virelade,pla,Saint-Vincent-de-Pertignas,{},{},{},pla,Saint-Louis-de-Montferrand,{},{},{},pla,Doulezon,{},{},{}
+pla,Doulezon,pla,Virelade,{},{},{},,,,,,,,,,
+pla,Flaujagues,pla,Gensac,{},{},{},pla,Saint-Vincent-de-Paul,{},{},{},,,,,
+pla,Gensac,pla,Juillac,{},{},{},pla,Flaujagues,{},{},{},,,,,
+pla,Juillac,pla,Sainte-Eulalie,{},{},{},pla,Gensac,{},{},{},,,,,
+pla,Mouliets,pla,Saint-Macaire,{},{},{},pla,Pessac-sur-Dordogne,{},{},{},,,,,
+pla,Pessac-sur-Dordogne,pla,Mouliets,{},{},{},pla,Tresses-bis,{},{},{},,,,,
+pla,Pujols-bis,pla,Listrac-Médoc,{},{},{},,,,,,,,,,
+pla,Pujols,pla,Saint-Jean-de-Blaignac,{},{},{},,,,,,,,,,
+pla,Rauzan,pla,Tresses,{},{},{},,,,,,,,,,
+pla,Saint-Jean-de-Blaignac,pla,Pujols,{},{},{},,,,,,,,,,
+pla,Saint-Pey-de-Castets,pla,Tresses,{},{},{},pla,Sainte-Radegonde,{},{},{},,,,,
+pla,Saint-Vincent-de-Pertignas,pla,Virelade,{},{},{},pla,Sainte-Radegonde,{},{},{},,,,,
+pla,Sainte-Radegonde,pla,Saint-Michel-de-Rieufret,{},{},{},pla,Saint-Pey-de-Castets,{},{},{},pla,Saint-Vincent-de-Pertignas,{},{},{}
+pla,Aubie-et-Espessas,pla,Saint-Michel-de-Rieufret,{},{},{},pla,Cubzac-les-Ponts,{},{},{},,,,,
+pla,Cubzac-les-Ponts,pla,Tresses,{},{},{},pla,Aubie-et-Espessas,{},{},{},,,,,
+pla,Peujard,pla,Tresses-bis,{},{},{},pla,Saint-André-de-Cubzac,{},{},{},,,,,
+pla,Saint-André-de-Cubzac,pla,Peujard,{},{},{},,,,,,,,,,
+pla,Saint-Antoine,,,,,,,,,,,,,,,
+pla,Saint-Gervais,pla,Arsac-bis,{},{},{},pla,Benon,{},{},{},pla,Saint-Laurent-d'Arce,{},{},{}
+pla,Saint-Laurent-d'Arce,pla,Le Pian-sur-Garonne,{},{},{},pla,Saint-Gervais,{},{},{},,,,,
+pla,Salignac,pla,Benon,{},{},{},pla,Cantenac,{},{},{},pla,Virsac,{},{},{}
+pla,Virsac,pla,Salignac,{},{},{},pla,Arcins,{},{},{},,,,,
+pla,Benon,pla,Saint-Gervais,{},{},{},pla,Salignac,{},{},{},pla,Carcans,{},{},{}
+pla,Carcans,pla,Hourtin,{},{},{},pla,Benon,{},{},{},,,,,
+pla,Hourtin,pla,Carcans,{},{},{},plâ,Saint-Quentin-de-Caplong,{},{},"{('a', 'â'): 1}",,,,,
+pla,Saint-Laurent-Médoc,pla,Le Pian-sur-Garonne,{},{},{},pla,Caudrot,{},{},{},,,,,
+pla,Caudrot,pla,Saint-Laurent-Médoc,{},{},{},pla,Labarde,{},{},{},pla,Saint-André-du-Bois,{},{},{}
+pla,Le Pian-sur-Garonne,pla,Saint-Laurent-d'Arce,{},{},{},pla,Saint-Laurent-Médoc,{},{},{},pla,Saint-André-du-Bois,{},{},{}
+pla,Saint-André-du-Bois,pla,Lamarque,{},{},{},pla,Le Pian-sur-Garonne,{},{},{},pla,Caudrot,{},{},{}
+pla,Saint-Germain-de-Grave,pla,Le Porge,{},{},{},pla,Saint-Laurent-du-Bois,{},{},{},,,,,
+pla,Saint-Laurent-du-Bois,pla,Saint-Germain-de-Grave,{},{},{},,,,,,,,,,
+pla,Saint-Macaire,pla,Mouliets,{},{},{},pla,Saint-Martin-de-Sescas,{},{},{},,,,,
+pla,Saint-Maixant,pla,Mios,{},{},{},pla,Saint-Martin-de-Sescas,{},{},{},,,,,
+pla,Saint-Martin-de-Sescas,pla,Saint-Maixant,{},{},{},pla,Sainte-Eulalie,{},{},{},pla,Saint-Macaire,{},{},{}
+pla,Saint-Pierre-d'Aurillac,,,,,,,,,,,,,,,
+pla,Verdelais,pla,Le Temple,{},{},{},plo,Grayan-bis,{},{},"{('a', 'o'): 1}",pla,Balizac,{},{},{}
+pla,Balizac,pla,Saint-Genès-de-Castillon,{},{},{},pla,Verdelais,{},{},{},plo,Grayan,{},{},"{('a', 'o'): 1}"
+pla,Hostens,plo,Le Verdon-sur-Mer,{},{},"{('a', 'o'): 1}",pla,Le Tuzan,{},{},{},,,,,
+pla,Le Tuzan,pla,Hostens,{},{},{},pla,Louchats,{},{},{},,,,,
+pla,Louchats,pla,La Brède-bis,{},{},{},plä,Origne,{},{},"{('a', 'ä'): 1}",pla,Le Tuzan,{},{},{}
+plä,Origne,pla,Uchacq,{},{},"{('ä', 'a'): 1}",pla,Saint-Léger-de-Balson,{},{},"{('ä', 'a'): 1}",pla,Louchats,{},{},"{('ä', 'a'): 1}"
+pla,Saint-Léger-de-Balson,plä,Origne,{},{},"{('a', 'ä'): 1}",pla,Clermont,{},{},{},plô,Saint-Symphorien-bis,{},{},"{('a', 'ô'): 1}"
+plô,Saint-Symphorien-bis,pla,Saint-Léger-de-Balson,{},{},"{('ô', 'a'): 1}",pla,Saint-Laurent-des-Combes,{},{},"{('ô', 'a'): 1}",,,,,
+pla,Saint-Symphorien,,,,,,,,,,,,,,,
+plo,Grayan-bis,pla,Verdelais,{},{},"{('o', 'a'): 1}",plo,Grayan,{},{},{},,,,,
+plo,Grayan,pla,Balizac,{},{},"{('o', 'a'): 1}",plo,Grayan-bis,{},{},{},,,,,
+plo,Jau-Dignac-et-Loirac,pla,Lourquen,{},{},"{('o', 'a'): 1}",plo,Le Verdon-sur-Mer,{},{},{},,,,,
+plo,Le Verdon-sur-Mer,plo,Jau-Dignac-et-Loirac,{},{},{},pla,Hostens,{},{},"{('o', 'a'): 1}",pla,Saint-Vivien-de-Médoc,{},{},"{('o', 'a'): 1}"
+pla,Saint-Vivien-de-Médoc,plo,Le Verdon-sur-Mer,{},{},"{('a', 'o'): 1}",,,,,,,,,,
+pla,Soulac-sur-Mer,,,,,,,,,,,,,,,
+plo,Talais,,,,,,,,,,,,,,,
+plo,Vensac,pla,La Roquille,{},{},"{('o', 'a'): 1}",pla,Appelles,{},{},"{('o', 'a'): 1}",,,,,
+pla,Appelles,plo,Vensac,{},{},"{('a', 'o'): 1}",plo,Caplong,{},{},"{('a', 'o'): 1}",,,,,
+plo,Caplong,pla,Appelles,{},{},"{('o', 'a'): 1}",,,,,,,,,,
+plo,Eynesse,pla,La Roquille,{},{},"{('o', 'a'): 1}",,,,,,,,,,
+pla,La Roquille,plo,Vensac,{},{},"{('a', 'o'): 1}",plo,Eynesse,{},{},"{('a', 'o'): 1}",,,,,
+pla,Les Lèves-et-Thoumeyragues,plo,Riocaud,{},{},"{('a', 'o'): 1}",plo,Ligueux,{},{},"{('a', 'o'): 1}",,,,,
+plo,Ligueux,pla,Les Lèves-et-Thoumeyragues,{},{},"{('o', 'a'): 1}",pla,Pineuilh,{},{},"{('o', 'a'): 1}",,,,,
+pla,Pineuilh,plo,Ligueux,{},{},"{('a', 'o'): 1}",,,,,,,,,,
+plo,Riocaud,pla,Les Lèves-et-Thoumeyragues,{},{},"{('o', 'a'): 1}",plän,Saint-Avit-de-Soulège,{'ä': 1},{},"{('o', 'n'): 1}",,,,,
+plän,Saint-Avit-de-Soulège,plo,Riocaud,{},{'n': 1},"{('ä', 'o'): 1}",,,,,,,,,,
+pla,Saint-Avit-Saint-Nazaire,,,,,,,,,,,,,,,
+plâ,Saint-Quentin-de-Caplong,pla,Hourtin,{},{},"{('â', 'a'): 1}",,,,,,,,,,
+plan,Sainte-Foy-la-Grande-bis,pla,Auros,{},{'n': 1},{},plaa,Sainte-Foy-la-Grande-ter,{},{},"{('n', 'a'): 1}",,,,,
+plaa,Sainte-Foy-la-Grande-ter,pla,Moulis-en-Médoc-bis,{},{'a': 1},{},plan,Sainte-Foy-la-Grande-bis,{},{},"{('a', 'n'): 1}",,,,,
+pla,Sainte-Foy-la-Grande,plaa,Blasimon,{'a': 1},{},{},,,,,,,,,,
+plaa,Blasimon,pla,Sainte-Foy-la-Grande,{},{'a': 1},{},plo,Castelviel,{},{'a': 1},"{('a', 'o'): 1}",,,,,
+plo,Castelviel,plaa,Blasimon,{'a': 1},{},"{('o', 'a'): 1}",,,,,,,,,,
+pla,Cleyrac,,,,,,,,,,,,,,,
+pla,Coirac,,,,,,,,,,,,,,,
+pla,Gornac,pla,Moulis-en-Médoc,{},{},{},,,,,,,,,,
+pla,Mérignas,pla,Saint-Sulpice-de-Pommiers,{},{},{},,,,,,,,,,
+pla,Mourens,pla,Ruch,{},{},{},,,,,,,,,,
+pla,Ruch,pla,Mourens,{},{},{},pla,Saint-Brice,{},{},{},,,,,
+pla,Saint-Brice,pla,Ruch,{},{},{},,,,,,,,,,
+pla,Saint-Félix-de-Foncaude,,,,,,,,,,,,,,,
+pla,Saint-Léger-de-Vignague,pla,Saint-Sulpice-de-Pommiers,{},{},{},,,,,,,,,,
+pla,Saint-Sulpice-de-Pommiers,pla,Saint-Léger-de-Vignague,{},{},{},pla,Mérignas,{},{},{},pla,Sauveterre-de-Guyenne-bis,{},{},{}
+pla,Sauveterre-de-Guyenne-bis,pla,Saint-Sulpice-de-Pommiers,{},{},{},,,,,,,,,,
+pla,Sauveterre-de-Guyenne-ter,ple,Arbis,{},{},"{('a', 'e'): 1}",,,,,,,,,,
+pla,Sauveterre-de-Guyenne,pla,Escoussans,{},{},{},,,,,,,,,,
+ple,Arbis,pla,Sauveterre-de-Guyenne-ter,{},{},"{('e', 'a'): 1}",pla,Baigneaux,{},{},"{('e', 'a'): 1}",,,,,
+pla,Baigneaux,ple,Arbis,{},{},"{('a', 'e'): 1}",,,,,,,,,,
+pla,Escoussans,pla,Sauveterre-de-Guyenne,{},{},{},,,,,,,,,,
+pla,Faleyras,pla,Frontenac,{},{},{},,,,,,,,,,
+pla,Frontenac,pla,Romagne,{},{},{},pla,Faleyras,{},{},{},,,,,
+pla,Ladaux,pla,Lugasson,{},{},{},pla,Soulignac,{},{},{},,,,,
+pla,Lugasson,pla,Ladaux,{},{},{},pla,Romagne,{},{},{},,,,,
+pla,Romagne,pla,Frontenac,{},{},{},pla,Lugasson,{},{},{},,,,,
+pla,Saint-Pierre-de-Bat,,,,,,,,,,,,,,,
+pla,Soulignac,pla,Ladaux,{},{},{},,,,,,,,,,
+pla,Targon-bis,,,,,,,,,,,,,,,
+pla,Targon,pla,Cazalis,{},{},{},,,,,,,,,,
+pla,Cazalis,plà,Sainte-Hélène,{},{},"{('a', 'à'): 1}",pla,Targon,{},{},{},,,,,
+pla,Lucmau,pla,Gardegan,{},{},{},pla,Gours,{},{},{},,,,,
+pla,Noaillan,pla,Préchac-bis,{},{},{},,,,,,,,,,
+pla,Préchac-bis,pla,Noaillan,{},{},{},pla,Francs,{},{},{},,,,,
+pla,Préchac,pla,Puynormand,{},{},{},pla,Cabanac-et-Villagrains,{},{},{},pla,Uzeste,{},{},{}
+pla,Uzeste,pla,Préchac,{},{},{},pla,Saint-Germain-du-Puch,{},{},{},pla,Villandraut-bis,{},{},{}
+pla,Villandraut-bis,pla,Uzeste,{},{},{},pla,Gardegan,{},{},{},plo,Saint-Christophe-des-Bardes,{},{},"{('a', 'o'): 1}"
+pla,Villandraut,pla,Francs,{},{},{},pla,Duhort-Bachen,{},{},{},plo,Puisseguin,{},{},"{('a', 'o'): 1}"
+pla,Francs,pla,Préchac-bis,{},{},{},pla,Villandraut,{},{},{},pla,Gours,{},{},{}
+pla,Gours,plo,Saint-Christophe-des-Bardes,{},{},"{('a', 'o'): 1}",pla,Lucmau,{},{},{},pla,Francs,{},{},{}
+plo,Puisseguin,pla,Castillon-la-Bataille,{},{},"{('o', 'a'): 1}",pla,Puynormand,{},{},"{('o', 'a'): 1}",pla,Villandraut,{},{},"{('o', 'a'): 1}"
+pla,Puynormand,plo,Puisseguin,{},{},"{('a', 'o'): 1}",pla,Préchac,{},{},{},plo,Saint-Christophe-des-Bardes,{},{},"{('a', 'o'): 1}"
+plo,Saint-Christophe-des-Bardes,pla,Villandraut-bis,{},{},"{('o', 'a'): 1}",pla,Gours,{},{},"{('o', 'a'): 1}",pla,Puynormand,{},{},"{('o', 'a'): 1}"
+pla,Aire-sur-l'Adour,pla,Saint-Laurent-des-Combes,{},{},{},pla,Buanes,{},{},{},,,,,
+plo,Bahus-Soubiran,pla,Bourg-bis,{},{},"{('o', 'a'): 1}",plo,Classun,{},{},{},pla,Buanes,{},{},"{('o', 'a'): 1}"
+pla,Buanes,pla,Aire-sur-l'Adour,{},{},{},pla,Gamarde-les-Bains,{},{},{},plo,Bahus-Soubiran,{},{},"{('a', 'o'): 1}"
+plo,Classun,plo,Bahus-Soubiran,{},{},{},pla,Castillon-la-Bataille,{},{},"{('o', 'a'): 1}",pla,Duhort-Bachen,{},{},"{('o', 'a'): 1}"
+pla,Duhort-Bachen,pla,Villandraut,{},{},{},plo,Classun,{},{},"{('a', 'o'): 1}",,,,,
+ple,Eugénie-les-Bains,pla,Saint-Philippe-d'Aiguille,{},{},"{('e', 'a'): 1}",,,,,,,,,,
+pla,Latrille,pla,Maillères,{},{},{},pla,Lussagnet,{},{},{},,,,,
+plo,Renung,pla,Prignac-et-Marcamps,{},{},"{('o', 'a'): 1}",pla,Saint-Agnet,{},{},"{('o', 'a'): 1}",plo,Saint-Loubouer,{},{},{}
+pla,Saint-Agnet,plo,Renung,{},{},"{('a', 'o'): 1}",pla,Saint-Antoine-sur-l'Isle,{},{},{},pla,Sarron,{},{},{}
+plo,Saint-Loubouer,pla,Sarron,{},{},"{('o', 'a'): 1}",pla,Lansac,{},{},"{('o', 'a'): 1}",plo,Renung,{},{},{}
+pla,Sarron,pla,Bonnetan,{},{},{},plo,Saint-Loubouer,{},{},"{('a', 'o'): 1}",pla,Saint-Agnet,{},{},{}
+pla,Vielle-Tursan,pla,Cambes,{},{},{},pla,Amou-bis,{},{},{},pla,Amou,{},{},{}
+pla,Amou-bis,pla,Vielle-Tursan,{},{},{},,,,,,,,,,
+pla,Amou,pla,Carignan-de-Bordeaux,{},{},{},pla,Vielle-Tursan,{},{},{},,,,,
+pla,Bassercles,pla,Cénac,{},{},{},plo,Bonnegarde,{},{},"{('a', 'o'): 1}",,,,,
+plo,Bonnegarde,pla,Branne-bis,{},{},"{('o', 'a'): 1}",pla,Brassempouy,{},{},"{('o', 'a'): 1}",pla,Bassercles,{},{},"{('o', 'a'): 1}"
+pla,Brassempouy,plo,Bonnegarde,{},{},"{('a', 'o'): 1}",pla,Créon,{},{},{},,,,,
+pla,Castaignos-Souslens,,,,,,,,,,,,,,,
+pla,Castel-Sarrazin,pla,Latresne,{},{},{},,,,,,,,,,
+pla,Castelnau-Chalosse,pla,Haux,{},{},{},,,,,,,,,,
+pla,Donzacq,pla,Latresne,{},{},{},pla,Marpaps,{},{},{},pla,Gaujacq,{},{},{}
+pla,Gaujacq,pla,Laglorieuse,{},{},{},pla,Campet,{},{},{},pla,Donzacq,{},{},{}
+pla,Marpaps,pla,Donzacq,{},{},{},,,,,,,,,,
+pla,Nassiet,,,,,,,,,,,,,,,
+ple,Pomarez,pla,Castets,{},{},"{('e', 'a'): 1}",,,,,,,,,,
+pla,Castets,ple,Pomarez,{},{},"{('a', 'e'): 1}",,,,,,,,,,
+plô,Léon,,,,,,,,,,,,,,,
+plœ,Lévignacq,,,,,,,,,,,,,,,
+pla,Linxe,pla,Cabara-bis,{},{},{},pla,Lit-et-Mixe,{},{},{},,,,,
+pla,Lit-et-Mixe,pla,Saint-Michel-Escalus,{},{},{},pla,Linxe,{},{},{},,,,,
+pla,Saint-Julien-en-Born,pla,Taller,{},{},{},pla,Saint-Michel-Escalus,{},{},{},,,,,
+pla,Saint-Michel-Escalus,pla,Saint-Julien-en-Born,{},{},{},pla,Lit-et-Mixe,{},{},{},pla,Vielle-Saint-Girons,{},{},{}
+pla,Taller,pla,Ambarès-et-Lagrave,{},{},{},pla,Saint-Julien-en-Born,{},{},{},pla,Uza,{},{},{}
+pla,Uza,pla,Vielle-Saint-Girons,{},{},{},pla,Quinsac,{},{},{},pla,Taller,{},{},{}
+pla,Vielle-Saint-Girons,pla,Uza,{},{},{},pla,Saint-Michel-Escalus,{},{},{},,,,,
+pla,Bénesse-lès-Dax,pla,Saint-Caprais-de-Bordeaux,{},{},{},pla,Dax-Saint-Vincent,{},{},{},,,,,
+pla,Candresse,pla,Dax-Saint-Vincent,{},{},{},,,,,,,,,,
+pla,Dax-Saint-Vincent,pla,Cabara-bis,{},{},{},pla,Candresse,{},{},{},pla,Bénesse-lès-Dax,{},{},{}
+pla,Dax,pla,Herm,{},{},{},,,,,,,,,,
+pla,Herm,ple,Heugas,{},{},"{('a', 'e'): 1}",pla,Dax,{},{},{},,,,,
+ple,Heugas,pla,Herm,{},{},"{('e', 'a'): 1}",,,,,,,,,,
+pla,Mées,plan,Narrosse,{'n': 1},{},{},pla,Fronsac-bis,{},{},{},pla,Oeyreluy,{},{},{}
+plan,Narrosse,pla,Tabanac,{},{'n': 1},{},pla,Mées,{},{'n': 1},{},pla,Oeyreluy,{},{'n': 1},{}
+pla,Oeyreluy,pla,Mées,{},{},{},plan,Narrosse,{'n': 1},{},{},,,,,
+pla,Rivière-Saas-et-Gourby,pla,Bourg,{},{},{},plo,Sablar,{},{},"{('a', 'o'): 1}",pla,Saint-Pandelon,{},{},{}
+plo,Sablar,pla,Rivière-Saas-et-Gourby,{},{},"{('o', 'a'): 1}",,,,,,,,,,
+pla,Saint-Pandelon,pla,Saint-Seurin-de-Bourg,{},{},{},pla,Rivière-Saas-et-Gourby,{},{},{},,,,,
+pla,Saint-Paul-lès-Dax,pla,Saillans,{},{},{},,,,,,,,,,
+pla,Saint-Vincent-de-Paul,plo,Saugnac-et-Cambran,{},{},"{('a', 'o'): 1}",pla,Saint-Germain-de-la-Rivière,{},{},{},plo,Herré,{},{},"{('a', 'o'): 1}"
+pla,Saubusse,plo,Gabarret,{},{},"{('a', 'o'): 1}",plan,Bagas,{'n': 1},{},{},plo,Siest,{},{},"{('a', 'o'): 1}"
+plo,Saugnac-et-Cambran,pla,Martillac,{},{},"{('o', 'a'): 1}",pla,Saint-Vincent-de-Paul,{},{},"{('o', 'a'): 1}",plo,Siest,{},{},{}
+plo,Siest,pla,Blaignac,{},{},"{('o', 'a'): 1}",plo,Saugnac-et-Cambran,{},{},{},pla,Saubusse,{},{},"{('o', 'a'): 1}"
+pla,Tercis-les-Bains,pla,Grignols-bis,{},{},{},plo,Créon-d'Armagnac,{},{},"{('a', 'o'): 1}",,,,,
+pla,Téthieu,pla,Saint-Julien-d'Armagnac,{},{},{},plo,Betbezer-d'Armagnac,{},{},"{('a', 'o'): 1}",,,,,
+plo,Yzosse,plo,Arx,{},{},{},pla,Grignols,{},{},"{('o', 'a'): 1}",plo,Créon-d'Armagnac,{},{},{}
+plo,Arx,pla,Baudignan,{},{},"{('o', 'a'): 1}",pla,Lavazan,{},{},"{('o', 'a'): 1}",plo,Yzosse,{},{},{}
+pla,Baudignan,pla,Sainte-Meille,{},{},{},plo,Arx,{},{},"{('a', 'o'): 1}",plo,Betbezer-d'Armagnac,{},{},"{('a', 'o'): 1}"
+plo,Betbezer-d'Armagnac,pla,Téthieu,{},{},"{('o', 'a'): 1}",pla,Baudignan,{},{},"{('o', 'a'): 1}",plo,Créon-d'Armagnac,{},{},{}
+plo,Créon-d'Armagnac,plo,Yzosse,{},{},{},pla,Tercis-les-Bains,{},{},"{('o', 'a'): 1}",plo,Betbezer-d'Armagnac,{},{},{}
+plo,Estigarde,plan,Bagas,{'a': 1},{},"{('o', 'n'): 1}",plo,Gabarret,{},{},{},,,,,
+plo,Gabarret,plo,Estigarde,{},{},{},pla,Saubusse,{},{},"{('o', 'a'): 1}",plo,Herré,{},{},{}
+plo,Herré,pla,Saint-Vincent-de-Paul,{},{},"{('o', 'a'): 1}",pla,Lagrange,{},{},"{('o', 'a'): 1}",plo,Gabarret,{},{},{}
+pla,Lagrange,pla,Cours-les-Bains,{},{},{},plo,Herré,{},{},"{('a', 'o'): 1}",,,,,
+plo,Losse,pla,Génissac,{},{},"{('o', 'a'): 1}",,,,,,,,,,
+plo,Mauvezin-d'Armagnac,pla,Nerbis,{},{},"{('o', 'a'): 1}",,,,,,,,,,
+plo,Parleboscq,,,,,,,,,,,,,,,
+plo,Rimbez-et-Baudiets,pla,Saint-Julien-d'Armagnac,{},{},"{('o', 'a'): 1}",pla,Bordères,{},{},"{('o', 'a'): 1}",pla,Castelnau-Tursan,{},{},"{('o', 'a'): 1}"
+pla,Saint-Julien-d'Armagnac,pla,Téthieu,{},{},{},plo,Rimbez-et-Baudiets,{},{},"{('a', 'o'): 1}",pla,Sainte-Meille,{},{},{}
+pla,Sainte-Meille,pla,Baudignan,{},{},{},pla,Saint-Julien-d'Armagnac,{},{},{},,,,,
+pla,Arboucave,pla,Lauret,{},{},{},pla,Bats,{},{},{},pla,Lacajunte,{},{},{}
+pla,Bats,pla,Arboucave,{},{},{},pla,Castelnau-Tursan,{},{},{},,,,,
+pla,Castelnau-Tursan,plo,Rimbez-et-Baudiets,{},{},"{('a', 'o'): 1}",pla,Bats,{},{},{},,,,,
+pla,Geaune-bis,pla,Geaune,{},{},{},,,,,,,,,,
+pla,Geaune,pla,Geaune-bis,{},{},{},pla,Lacajunte,{},{},{},,,,,
+pla,Lacajunte,pla,Arboucave,{},{},{},pla,Geaune,{},{},{},,,,,
+pla,Lauret,pla,Arboucave,{},{},{},pla,Mauries,{},{},{},,,,,
+pla,Mauries,pla,Miramont-Sensacq,{},{},{},pla,Lauret,{},{},{},,,,,
+pla,Miramont-Sensacq,pla,Mauries,{},{},{},,,,,,,,,,
+pla,Philondenx,,,,,,,,,,,,,,,
+pla,Pimbo,pla,Oeyregave,{},{},{},,,,,,,,,,
+pla,Puyol-Cazalet,pla,Casseuil,{},{},{},,,,,,,,,,
+pla,Samadet,pla,Gaillan-en-Médoc,{},{},{},pla,Sorbets,{},{},{},,,,,
+pla,Sorbets,pla,Samadet,{},{},{},pla,Civrac,{},{},{},pla,Artassenx,{},{},{}
+pla,Urgons,pla,Artassenx,{},{},{},pla,Ordonnac,{},{},{},,,,,
+pla,Artassenx,pla,Saint-Germain-d'Esteuil,{},{},{},pla,Urgons,{},{},{},pla,Sorbets,{},{},{}
+pla,Bascons,pla,Moulon,{},{},{},,,,,,,,,,
+pla,Benquet,,,,,,,,,,,,,,,
+pla,Bordères,plo,Rimbez-et-Baudiets,{},{},"{('a', 'o'): 1}",,,,,,,,,,
+pla,Castandet,pla,Cazères-sur-l'Adour,{},{},{},pla,Cours-les-Bains,{},{},{},pla,Grenade-sur-l'Adour,{},{},{}
+pla,Cazères-sur-l'Adour,pla,Naujan-et-Postiac,{},{},{},pla,Castandet,{},{},{},pla,Grenade-sur-l'Adour-bis,{},{},{}
+pla,Grenade-sur-l'Adour-bis,pla,Morganx,{},{},{},pla,Cazères-sur-l'Adour,{},{},{},,,,,
+pla,Grenade-sur-l'Adour,pla,Castandet,{},{},{},,,,,,,,,,
+pla,Le Vignau,pla,Lussagnet,{},{},{},,,,,,,,,,
+pla,Lussagnet,pla,Latrille,{},{},{},pla,Le Vignau,{},{},{},pla,Maurrin,{},{},{}
+pla,Maurrin,pla,Lussagnet,{},{},{},,,,,,,,,,
+pla,Aubagnan,pla,Cazalis,{},{},{},pla,Castelner,{},{},{},,,,,
+pla,Castelner,pla,Aubagnan,{},{},{},,,,,,,,,,
+pla,Cazalis,pla,Aubagnan,{},{},{},,,,,,,,,,
+pla,Hagetmau-bis,pla,Labastide-Chalosse,{},{},{},,,,,,,,,,
+pla,Hagetmau,pla,Horsarrieu,{},{},{},pla,Peyre,{},{},{},,,,,
+pla,Horsarrieu,pla,Moulon,{},{},{},pla,Hagetmau,{},{},{},,,,,
+pla,Labastide-Chalosse,pla,Momuy,{},{},{},pla,Hagetmau-bis,{},{},{},,,,,
+pla,Lacrabe,pla,Monségur,{},{},{},,,,,,,,,,
+pla,Mant,pla,Momuy,{},{},{},pla,Morganx,{},{},{},,,,,
+pla,Momuy,pla,Mant,{},{},{},pla,Labastide-Chalosse,{},{},{},pla,Monségur,{},{},{}
+pla,Monségur,pla,Lacrabe,{},{},{},pla,Peyre,{},{},{},pla,Momuy,{},{},{}
+pla,Morganx,pla,Peyre,{},{},{},pla,Grenade-sur-l'Adour-bis,{},{},{},pla,Mant,{},{},{}
+pla,Peyre,pla,Hagetmau,{},{},{},pla,Morganx,{},{},{},pla,Monségur,{},{},{}
+pla,Poudenx,pla,Nérigean,{},{},{},pla,Saint-Cricq-Chalosse,{},{},{},,,,,
+pla,Saint-Cricq-Chalosse,pla,Poudenx,{},{},{},pla,Nérigean,{},{},{},pla,Sainte-Colombe,{},{},{}
+pla,Sainte-Colombe,pla,Saint-Cricq-Chalosse,{},{},{},pla,Queyrac,{},{},{},,,,,
+pla,Serres-Gaston,pla,Ordonnac,{},{},{},pla,Serreslous-et-Arribans,{},{},{},pla,Mézos,{},{},{}
+pla,Serreslous-et-Arribans,pla,Serres-Gaston,{},{},{},pla,Saint-Germain-d'Esteuil,{},{},{},pla,Bélis,{},{},{}
+pla,Bélis,pla,Aureilhan,{},{},{},pla,Serreslous-et-Arribans,{},{},{},,,,,
+pla,Brocas,pla,Civrac,{},{},{},pla,Garein,{},{},{},pla,Canenx-et-Réaut,{},{},{}
+pla,Canenx-et-Réaut,pla,Saint-Germain-d'Esteuil,{},{},{},pla,Brocas,{},{},{},pla,Cère,{},{},{}
+pla,Cère,pla,Labrit,{},{},{},pla,Saint-Seurin-de-Cadourne,{},{},{},pla,Canenx-et-Réaut,{},{},{}
+pla,Garein,pla,Labrit,{},{},{},pla,Brocas,{},{},{},,,,,
+pla,Labrit,pla,Garein,{},{},{},pla,Lesparre-Médoc,{},{},{},pla,Cère,{},{},{}
+pla,Maillères,pla,Latrille,{},{},{},,,,,,,,,,
+pla,Vert,,,,,,,,,,,,,,,
+pla,Aureilhan,pla,Bélis,{},{},{},pla,Mézos,{},{},{},,,,,
+pla,Mézos,pla,Serres-Gaston,{},{},{},pla,Aureilhan,{},{},{},,,,,
+pla,Mimizan-bis,pla,Mazerolles,{},{},{},pla,Pontenx-les-Forges,{},{},{},pla,Mimizan,{},{},{}
+pla,Mimizan,pla,Beautiran,{},{},{},pla,Mimizan-bis,{},{},{},,,,,
+pla,Pontenx-les-Forges,pla,Mimizan-bis,{},{},{},pla,Saint-Paul-en-Born,{},{},{},,,,,
+pla,Saint-Paul-en-Born,pla,Pontenx-les-Forges,{},{},{},,,,,,,,,,
+pla,Bostens,,,,,,,,,,,,,,,
+pla,Bretagne-de-Marsan,pla,Préchacq-les-Bains,{},{},{},pla,Campagne,{},{},{},,,,,
+pla,Campagne,pla,Bretagne-de-Marsan,{},{},{},pla,Latresne,{},{},{},pla,Campet,{},{},{}
+pla,Campet,pla,Gaujacq,{},{},{},pla,Gaillères,{},{},{},pla,Campagne,{},{},{}
+pla,Gaillères,pla,Campet,{},{},{},pla,Haut-Mauco,{},{},{},,,,,
+pla,Geloux,pla,Haux,{},{},{},,,,,,,,,,
+pla,Haut-Mauco,pla,Gaillères,{},{},{},pla,Laglorieuse,{},{},{},,,,,
+pla,Laglorieuse,pla,Haut-Mauco,{},{},{},pla,Gaujacq,{},{},{},,,,,
+pla,Lucbardez-et-Bargues,,,,,,,,,,,,,,,
+pla,Mazerolles,pla,Mimizan-bis,{},{},{},pla,Montfort-en-Chalosse-bis,{},{},{},,,,,
+pla,Mont-de-Marsan-bis,pla,Montfort-en-Chalosse,{},{},{},pla,Saint-Yzans-de-Médoc,{},{},{},,,,,
+pla,Mont-de-Marsan,pla,Saint-Avit,{},{},{},pla,Goos,{},{},{},pla,Saint-Pierre-du-Mont,{},{},{}
+pla,Saint-Avit,pla,Valeyrac,{},{},{},pla,Mont-de-Marsan,{},{},{},pla,Saint-Martin-d'Oney,{},{},{}
+pla,Saint-Martin-d'Oney,pla,Saint-Perdon,{},{},{},pla,Beautiran,{},{},{},pla,Saint-Avit,{},{},{}
+pla,Saint-Perdon,pla,Saint-Martin-d'Oney,{},{},{},pla,Saint-Pierre-du-Mont,{},{},{},,,,,
+pla,Saint-Pierre-du-Mont,pla,Mont-de-Marsan,{},{},{},pla,Cadaujac,{},{},{},pla,Saint-Perdon,{},{},{}
+pla,Uchacq,pla,Clermont,{},{},{},plä,Origne,{},{},"{('a', 'ä'): 1}",,,,,
+pla,Cassen,pla,Cadaujac,{},{},{},pla,Garrey,{},{},{},,,,,
+pla,Clermont,pla,Saint-Léger-de-Balson,{},{},{},pla,Uchacq,{},{},{},pla,Gamarde-les-Bains,{},{},{}
+pla,Gamarde-les-Bains,pla,Buanes,{},{},{},pla,Clermont,{},{},{},pla,Garrey,{},{},{}
+pla,Garrey,pla,Castres-Gironde,{},{},{},pla,Gamarde-les-Bains,{},{},{},pla,Cassen,{},{},{}
+pla,Goos,pla,Mont-de-Marsan,{},{},{},pla,Hinx,{},{},{},pla,Gousse,{},{},{}
+pla,Gousse,pla,Cadaujac,{},{},{},pla,Goos,{},{},{},pla,Louer,{},{},{}
+pla,Hinx,pla,Goos,{},{},{},pla,Queyrac,{},{},{},pla,Laurède,{},{},{}
+pla,Laurède,pla,Saint-Germain-du-Puch,{},{},{},pla,Louer,{},{},{},pla,Hinx,{},{},{}
+pla,Louer,pla,Laurède,{},{},{},pla,Cabanac-et-Villagrains,{},{},{},pla,Gousse,{},{},{}
+pla,Lourquen,plo,Jau-Dignac-et-Loirac,{},{},"{('a', 'o'): 1}",,,,,,,,,,
+pla,Montfort-en-Chalosse-bis,pla,Mazerolles,{},{},{},pla,Montfort-en-Chalosse,{},{},{},,,,,
+pla,Montfort-en-Chalosse,pla,Mont-de-Marsan-bis,{},{},{},pla,Montfort-en-Chalosse-bis,{},{},{},,,,,
+pla,Nousse,pla,Isle-Saint-Georges,{},{},{},pla,Onard,{},{},{},,,,,
+pla,Onard,pla,La Brède-bis,{},{},{},pla,Nousse,{},{},{},,,,,
+pla,Ozourt,pla,Isle-Saint-Georges,{},{},{},pla,Poyanne,{},{},{},,,,,
+pla,Poyanne,pla,La Brède-bis,{},{},{},pla,Ozourt,{},{},{},,,,,
+pla,Poyartin,pla,Saint-Geours-d'Auribat,{},{},{},,,,,,,,,,
+pla,Préchacq-les-Bains,pla,Bretagne-de-Marsan,{},{},{},,,,,,,,,,
+pla,Saint-Geours-d'Auribat,pla,Poyartin,{},{},{},,,,,,,,,,
+pla,Saint-Jean-de-Lier,,,,,,,,,,,,,,,
+pla,Sort-en-Chalosse,pla,Vicq-d'Auribat,{},{},{},,,,,,,,,,
+pla,Vicq-d'Auribat,pla,Sort-en-Chalosse,{},{},{},,,,,,,,,,
+pla,Arengosse,pla,Arjuzanx,{},{},{},pla,Saint-Quentin-de-Baron,{},{},{},,,,,
+pla,Arjuzanx,pla,Garrosse,{},{},{},pla,Tizac-de-Curton,{},{},{},pla,Arengosse,{},{},{}
+pla,Garrosse,pla,Morcenx-bourg,{},{},{},pla,Arjuzanx,{},{},{},,,,,
+pla,Lesperon,pla,Morcenx,{},{},{},pla,Morcenx-bourg,{},{},{},,,,,
+pla,Morcenx-bourg,pla,Lesperon,{},{},{},pla,Garrosse,{},{},{},,,,,
+pla,Morcenx-gare,,,,,,,,,,,,,,,
+pla,Morcenx,pla,Lesperon,{},{},{},,,,,,,,,,
+pla,Onesse-Laharie,pla,Sindères,{},{},{},pla,Camiran-bis,{},{},{},,,,,
+pla,Ousse-Suzan,pla,La Brède,{},{},{},pla,Sindères,{},{},{},,,,,
+pla,Sindères,pla,Ousse-Suzan,{},{},{},pla,Capian,{},{},{},pla,Onesse-Laharie,{},{},{}
+pla,Ygos-Saint-Saturnin,pla,Camiran-bis,{},{},{},pla,Baigts,{},{},{},,,,,
+pla,Baigts,pla,Ygos-Saint-Saturnin,{},{},{},pla,Camiran,{},{},{},,,,,
+pla,Bergouey,,,,,,,,,,,,,,,
+pla,Caupenne,pla,Saint-Aubin,{},{},{},pla,Hauriet,{},{},{},,,,,
+pla,Doazit,pla,Fontet,{},{},{},pla,Toulouzette,{},{},{},,,,,
+pla,Hauriet,pla,Caupenne,{},{},{},pla,Lahosse,{},{},{},,,,,
+pla,Lahosse,pla,Larbey,{},{},{},pla,Hauriet,{},{},{},,,,,
+pla,Larbey,pla,Lahosse,{},{},{},pla,Maylis,{},{},{},,,,,
+pla,Maylis,pla,Larbey,{},{},{},,,,,,,,,,
+pla,Mugron-bis,pla,Nerbis,{},{},{},,,,,,,,,,
+pla,Mugron,pla,Nerbis,{},{},{},,,,,,,,,,
+pla,Nerbis,plo,Mauvezin-d'Armagnac,{},{},"{('a', 'o'): 1}",pla,Mugron-bis,{},{},{},pla,Mugron,{},{},{}
+pla,Saint-Aubin,pla,Caupenne,{},{},{},pla,Toulouzette,{},{},{},,,,,
+pla,Toulouzette,pla,Doazit,{},{},{},pla,Biscarosse-bis,{},{},{},pla,Saint-Aubin,{},{},{}
+pla,Biscarosse-bis,pla,Fontet,{},{},{},pla,Toulouzette,{},{},{},,,,,
+pla,Biscarosse,pla,Gastes,{},{},{},,,,,,,,,,
+pla,Gastes,pla,Biscarosse,{},{},{},,,,,,,,,,
+pla,Parentis-en-Born,pla,Misson,{},{},{},pla,Sainte-Eulalie-en-Born,{},{},{},,,,,
+pla,Sainte-Eulalie-en-Born,pla,Parentis-en-Born,{},{},{},pla,Bélus,{},{},{},,,,,
+pla,Sanguinet,pla,Ychoux,{},{},{},,,,,,,,,,
+pla,Ychoux,pla,Blanquefort,{},{},{},pla,Sanguinet,{},{},{},pla,Bélus,{},{},{}
+pla,Bélus,pla,Sainte-Eulalie-en-Born,{},{},{},pla,Ychoux,{},{},{},,,,,
+pla,Cauneille,pla,Peyrehorade,{},{},{},,,,,,,,,,
+pla,Hastingues,pla,Port-de-Lanne,{},{},{},,,,,,,,,,
+pla,Oeyregave,pla,Pimbo,{},{},{},pla,Orthevielle,{},{},{},,,,,
+pla,Orist,pla,Saint-Étienne-d'Orthe,{},{},{},pla,Orthevielle,{},{},{},pla,Peyrehorade-bis,{},{},{}
+pla,Orthevielle,pla,Orist,{},{},{},pla,Oeyregave,{},{},{},pla,Pey,{},{},{}
+pla,Pey,pla,Port-de-Lanne,{},{},{},pla,Orthevielle,{},{},{},,,,,
+pla,Peyrehorade-bis,pla,Peyrehorade,{},{},{},pla,Orist,{},{},{},,,,,
+pla,Peyrehorade,pla,Cauneille,{},{},{},pla,Peyrehorade-bis,{},{},{},pla,Port-de-Lanne,{},{},{}
+pla,Port-de-Lanne,pla,Pey,{},{},{},pla,Hastingues,{},{},{},pla,Peyrehorade,{},{},{}
+pla,Saint-Cricq-du-Gave,pla,Saint-Étienne-d'Orthe,{},{},{},,,,,,,,,,
+pla,Saint-Étienne-d'Orthe,pla,Saint-Cricq-du-Gave,{},{},{},pla,Orist,{},{},{},,,,,
+pla,Saint-Lon-les-Mines,pla,Branne-bis,{},{},{},pla,Sorde-l'Abbaye,{},{},{},,,,,
+pla,Sorde-l'Abbaye,pla,Saint-Lon-les-Mines,{},{},{},pla,Gironde-sur-Dropt-bis,{},{},{},pla,Belhade,{},{},{}
+pla,Belhade,pla,Sorde-l'Abbaye,{},{},{},,,,,,,,,,
+pla,Biganon,pla,Liposthey,{},{},{},,,,,,,,,,
+pla,Liposthey,pla,Mano,{},{},{},pla,Pissos,{},{},{},pla,Biganon,{},{},{}
+pla,Mano,pla,Liposthey,{},{},{},pla,Moustey,{},{},{},,,,,
+pla,Moustey,pla,Gironde-sur-Dropt,{},{},{},pla,Mano,{},{},{},,,,,
+pla,Pissos-bis,pla,Pissos,{},{},{},,,,,,,,,,
+pla,Pissos,pla,Liposthey,{},{},{},pla,Pissos-bis,{},{},{},pla,Richet,{},{},{}
+pla,Richet,pla,Saugnacq-et-Muret-bis,{},{},{},pla,Pissos,{},{},{},,,,,
+pla,Saugnacq-et-Muret-bis,pla,Richet,{},{},{},pla,Saugnacq-et-Muret,{},{},{},,,,,
+pla,Saugnacq-et-Muret,pla,Saugnacq-et-Muret-bis,{},{},{},pla,La Réole-bis,{},{},{},pla,Cagnotte,{},{},{}
+pla,Cagnotte,pla,Hure,{},{},{},pla,Saugnacq-et-Muret,{},{},{},,,,,
+pla,Estibeaux,pla,Gaas,{},{},{},pla,Hure,{},{},{},pla,Mimbaste,{},{},{}
+pla,Gaas,pla,Gironde-sur-Dropt-bis,{},{},{},pla,Estibeaux,{},{},{},pla,Habas,{},{},{}
+pla,Habas,pla,Labatut,{},{},{},pla,Gaas,{},{},{},,,,,
+pla,Labatut,pla,Habas,{},{},{},pla,Mimbaste,{},{},{},,,,,
+pla,Mimbaste,pla,La Réole-bis,{},{},{},pla,Labatut,{},{},{},pla,Estibeaux,{},{},{}
+pla,Misson,pla,Parentis-en-Born,{},{},{},pla,Mouscardès,{},{},{},,,,,
+pla,Mouscardès,plann,La Réole,{'n': 2},{},{},pla,Misson,{},{},{},pla,Ossages,{},{},{}
+pla,Ossages,pla,Pouillon,{},{},{},pla,Mouscardès,{},{},{},,,,,
+pla,Pouillon,pla,Ossages,{},{},{},,,,,,,,,,
+pla,Tilh,pla,Lamothe-Landerron,{},{},{},,,,,,,,,,
+pla,Arouille,pla,Morizès,{},{},{},pla,Arue,{},{},{},,,,,
+pla,Arue,pla,Mongauzy,{},{},{},pla,Arouille,{},{},{},,,,,
+pla,Cachen,pla,Lencouacq,{},{},{},,,,,,,,,,
+pla,Labastide-d'Armagnac,pla,Maillas,{},{},{},,,,,,,,,,
+pla,Lencouacq,pla,Lugaut,{},{},{},pla,Cachen,{},{},{},pla,Maillas,{},{},{}
+pla,Lugaut,pla,Noaillac,{},{},{},pla,Lencouacq,{},{},{},,,,,
+pla,Maillas,pla,Labastide-d'Armagnac,{},{},{},pla,Lencouacq,{},{},{},,,,,
+pla,Pouydesseaux,pla,Saint-Gor,{},{},{},,,,,,,,,,
+pla,Roquefort,pla,Pompéjac,{},{},{},pla,Saint-Gor,{},{},{},,,,,
+pla,Saint-Gor,pla,Pouydesseaux,{},{},{},pla,Roquefort,{},{},{},,,,,

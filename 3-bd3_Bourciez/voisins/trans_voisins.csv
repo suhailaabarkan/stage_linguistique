@@ -1,0 +1,333 @@
+Mot,Commune,Voisin_1,Commune_1,Insertions_1,Suppressions_1,Substitutions_1,Voisin_2,Commune_2,Insertions_2,Suppressions_2,Substitutions_2,Voisin_3,Commune_3,Insertions_3,Suppressions_3,Substitutions_3
+trè,Andernos-les-Bains,tré,Bazas-bis,{},{},"{('è', 'é'): 1}",très,Auros-bis,{'s': 1},{},{},très,Audenge-bis,{'s': 1},{},{}
+très,Arès,tré,Savignac,{},{'s': 1},"{('è', 'é'): 1}",trè,Ailas,{},{'s': 1},{},très,Coimères,{},{},{}
+très,Audenge-bis,trè,Andernos-les-Bains,{},{'s': 1},{},trés,Le Porge,{},{},"{('è', 'é'): 1}",très,Saint-Étienne-de-Lisse,{},{},{}
+très,Audenge,très,Lignan-de-Bazas,{},{},{},tré,Belin-Béliet,{},{'s': 1},"{('è', 'é'): 1}",,,,,
+très,Biganos,très,Blanquefort-bis,{},{},{},,,,,,,,,,
+très,Lacanau-de-Mios,très,Eysines,{},{},{},très,Carbon-Blanc-bis,{},{},{},,,,,
+très,Lanton,tré,Macau,{},{'s': 1},"{('è', 'é'): 1}",tré,Castelnau-de-Médoc,{},{'s': 1},"{('è', 'é'): 1}",tré,Saint-Loubès,{},{'s': 1},"{('è', 'é'): 1}"
+tres,Lège,trés,Saint-Sulpice-et-Cameyrac,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+très,Mios,trè,Ailas,{},{'s': 1},{},,,,,,,,,,
+trè,Ailas,très,Arès,{'s': 1},{},{},très,Mios,{'s': 1},{},{},très,Auros-bis,{'s': 1},{},{}
+très,Auros-bis,trè,Andernos-les-Bains,{},{'s': 1},{},trè,Ailas,{},{'s': 1},{},,,,,
+très,Auros,très,Bordeaux,{},{},{},très,Brannens,{},{},{},,,,,
+très,Barie,tré,Yvrac,{},{'s': 1},"{('è', 'é'): 1}",,,,,,,,,,
+très,Brannens,très,Auros,{},{},{},très,Castillon-de-Castets,{},{},{},,,,,
+très,Castillon-de-Castets,très,Saint-Médard-en-Jalles,{},{},{},très,Brannens,{},{},{},,,,,
+très,Coimères,très,Arès,{},{},{},très,Cudos,{},{},{},trè,Lados,{},{'s': 1},{}
+trè,Lados,très,Gans,{'s': 1},{},{},très,Puybarban,{'s': 1},{},{},très,Coimères,{'s': 1},{},{}
+très,Pondaurat,trés,Blaignan,{},{},"{('è', 'é'): 1}",,,,,,,,,,
+très,Puybarban,trè,Lados,{},{'s': 1},{},très,Le Bouscat,{},{},{},tré,Savignac,{},{'s': 1},"{('è', 'é'): 1}"
+tré,Savignac,très,Sigalens,{'è': 1},{},"{('é', 's'): 1}",très,Arès,{'è': 1},{},"{('é', 's'): 1}",très,Puybarban,{'è': 1},{},"{('é', 's'): 1}"
+très,Sigalens,très,Caudéran,{},{},{},tré,Savignac,{},{'s': 1},"{('è', 'é'): 1}",très,Bayon-sur-Gironde,{},{},{}
+tré,Bazas-bis,trè,Bazas,{},{},"{('é', 'è'): 1}",trè,Andernos-les-Bains,{},{},"{('é', 'è'): 1}",,,,,
+trè,Bazas,trés,Cazats,{'é': 1},{},"{('è', 's'): 1}",tré,Bazas-bis,{},{},"{('è', 'é'): 1}",,,,,
+trés,Bernos-Beaulac,très,Birac,{},{},"{('é', 'è'): 1}",très,Saumos,{},{},"{('é', 'è'): 1}",tré,Gajac,{},{'s': 1},{}
+très,Birac,très,Saint-Magne-de-Castillon,{},{},{},trés,Bernos-Beaulac,{},{},"{('è', 'é'): 1}",trés,Cazats,{},{},"{('è', 'é'): 1}"
+trés,Cazats,très,Cudos,{},{},"{('é', 'è'): 1}",trè,Bazas,{},{'s': 1},"{('é', 'è'): 1}",très,Birac,{},{},"{('é', 'è'): 1}"
+très,Cudos,très,Coimères,{},{},{},trés,Cazats,{},{},"{('è', 'é'): 1}",très,Gans,{},{},{}
+tré,Gajac,très,Belvès-de-Castillon,{'è': 1},{},"{('é', 's'): 1}",très,Gans,{'è': 1},{},"{('é', 's'): 1}",trés,Bernos-Beaulac,{'s': 1},{},{}
+très,Gans,tré,Gajac,{},{'s': 1},"{('è', 'é'): 1}",trè,Lados,{},{'s': 1},{},très,Cudos,{},{},{}
+très,Le Nizan,très,Prignac-et-Marcamps,{},{},{},très,Gauriac,{},{},{},tré,Saint-Antoine-sur-l'Isle,{},{'s': 1},"{('è', 'é'): 1}"
+très,Lignan-de-Bazas,très,Audenge,{},{},{},très,Lansac,{},{},{},tré,Béliet,{},{'s': 1},"{('è', 'é'): 1}"
+très,Saint-Côme,très,Bonnetan,{},{},{},très,Saint-Trojan,{},{},{},tré,Béliet,{},{'s': 1},"{('è', 'é'): 1}"
+tré,Béliet,tré,Belin-Béliet,{},{},{},très,Lignan-de-Bazas,{'è': 1},{},"{('é', 's'): 1}",très,Saint-Côme,{'è': 1},{},"{('é', 's'): 1}"
+tré,Belin-Béliet,très,Cadillac-en-Fronsadais,{'è': 1},{},"{('é', 's'): 1}",très,Audenge,{'è': 1},{},"{('é', 's'): 1}",tré,Béliet,{},{},{}
+tré,Joué,trés,Le Barp,{'s': 1},{},{},très,Tabanac,{'è': 1},{},"{('é', 's'): 1}",,,,,
+trés,Le Barp,tré,Cabara,{},{'s': 1},{},tré,Joué,{},{'s': 1},{},,,,,
+très,Lugos,très,Saint-Magne,{},{},{},tré,Salles-bis,{},{'s': 1},"{('è', 'é'): 1}",,,,,
+très,Saint-Magne,très,Salles,{},{},{},très,Lugos,{},{},{},très,Saint-Romain-la-Virvée,{},{},{}
+tré,Salles-bis,très,Lugos,{'è': 1},{},"{('é', 's'): 1}",très,Génissac,{'è': 1},{},"{('é', 's'): 1}",,,,,
+très,Salles,très,Saint-Magne,{},{},{},trés,Saint-Quentin-de-Baron,{},{},"{('è', 'é'): 1}",,,,,
+très,Blanquefort-bis,très,Langoiran,{},{},{},très,Biganos,{},{},{},très,Blanquefort,{},{},{}
+très,Blanquefort,très,Blanquefort-bis,{},{},{},tré,La Réole,{},{'s': 1},"{('è', 'é'): 1}",,,,,
+très,Caychac,très,Omet,{},{},{},très,Eysines,{},{},{},très,Giscos,{},{},{}
+très,Eysines,très,Caychac,{},{},{},très,Lacanau-de-Mios,{},{},{},très,Le Haillan,{},{},{}
+très,Le Haillan,très,Le Pian-Médoc,{},{},{},très,Eysines,{},{},{},,,,,
+très,Le Pian-Médoc,très,Le Haillan,{},{},{},,,,,,,,,,
+trè,Le Taillan-Médoc,trés,Sainte-Croix-du-Mont,{'é': 1},{},"{('è', 's'): 1}",trè,Bassens,{},{},{},très,Landerrouat,{'s': 1},{},{}
+trè,Ludon-Médoc,tré,Macau,{},{},"{('è', 'é'): 1}",,,,,,,,,,
+tré,Macau,trè,Ludon-Médoc,{},{},"{('é', 'è'): 1}",très,Lanton,{'è': 1},{},"{('é', 's'): 1}",,,,,
+très,Parempuyre,très,Arcins,{},{},{},très,Arsac,{},{},{},,,,,
+très,Saint-Aubin-de-Médoc,très,Labarde,{},{},{},,,,,,,,,,
+très,Saint-Médard-en-Jalles,trè,Margaux,{},{'s': 1},{},très,Castillon-de-Castets,{},{},{},très,Moulis-en-Médoc-bis,{},{},{}
+très,Bègles,trè,Lugon-et-l'Île-du-Carnay,{},{'s': 1},{},tro,Moulis-en-Médoc,{},{'s': 1},"{('è', 'o'): 1}",,,,,
+très,Bordeaux,très,Auros,{},{},{},,,,,,,,,,
+très,Bruges,très,Bégadan,{},{},{},très,Caudéran,{},{},{},,,,,
+très,Caudéran,très,Bruges,{},{},{},très,Sigalens,{},{},{},très,Bayon-sur-Gironde,{},{},{}
+très,Chartrons,très,Sainte-Colombe,{},{},{},très,Salaunes,{},{},{},,,,,
+très,Le Bouscat,très,Puybarban,{},{},{},très,Castillon-la-Bataille-bis,{},{},{},très,Bayon-sur-Gironde,{},{},{}
+très,Bayon-sur-Gironde,très,Caudéran,{},{},{},très,Sigalens,{},{},{},très,Le Bouscat,{},{},{}
+très,Bourg-bis,très,Castres-Gironde,{},{},{},très,Castillon-la-Bataille,{},{},{},,,,,
+très,Bourg,très,Comps,{},{},{},très,Baron,{},{},{},,,,,
+très,Comps,très,Gauriac,{},{},{},très,Bourg,{},{},{},,,,,
+très,Gauriac,très,Le Nizan,{},{},{},très,Comps,{},{},{},très,Baurech,{},{},{}
+très,Lansac,très,Lignan-de-Bazas,{},{},{},très,Marcamps,{},{},{},,,,,
+très,Marcamps,très,Prignac-et-Marcamps,{},{},{},très,Lansac,{},{},{},,,,,
+très,Prignac-et-Marcamps,très,Marcamps,{},{},{},très,Le Nizan,{},{},{},,,,,
+trés,Saint-Seurin-de-Bourg,tré,Samonac,{},{'s': 1},{},très,Baron,{},{},"{('é', 'è'): 1}",,,,,
+très,Saint-Trojan,très,Saint-Côme,{},{},{},très,Tauriac,{},{},{},tré,Samonac,{},{'s': 1},"{('è', 'é'): 1}"
+tré,Samonac,trés,Saint-Seurin-de-Bourg,{'s': 1},{},{},tré,Fronsac,{},{},{},très,Saint-Trojan,{'è': 1},{},"{('é', 's'): 1}"
+très,Tauriac,très,Saint-Trojan,{},{},{},très,Camarsac,{},{},{},très,Baron,{},{},{}
+très,Baron,très,Bourg,{},{},{},trés,Saint-Seurin-de-Bourg,{},{},"{('è', 'é'): 1}",très,Tauriac,{},{},{}
+très,Branne-bis,trè,Camblanes-et-Meynac,{},{'s': 1},{},,,,,,,,,,
+très,Branne,tré,Hure,{},{'s': 1},"{('è', 'é'): 1}",très,Gironde-sur-Dropt-bis,{},{},{},très,Carignan-de-Bordeaux,{},{},{}
+très,Cabara-bis,très,Le Tourne,{},{},{},,,,,,,,,,
+tré,Cabara,très,Saillans,{'è': 1},{},"{('é', 's'): 1}",trés,Le Barp,{'s': 1},{},{},,,,,
+tré,Daignac,très,Génissac,{'è': 1},{},"{('é', 's'): 1}",,,,,,,,,,
+très,Génissac,tré,Salles-bis,{},{'s': 1},"{('è', 'é'): 1}",tré,Daignac,{},{'s': 1},"{('è', 'é'): 1}",,,,,
+tré,Grézillac,très,Jugazan,{'è': 1},{},"{('é', 's'): 1}",,,,,,,,,,
+très,Jugazan,tré,Grézillac,{},{'s': 1},"{('è', 'é'): 1}",très,Civrac,{},{},{},très,Gaillan-en-Médoc,{},{},{}
+très,Moulon,très,Naujan-et-Postiac,{},{},{},,,,,,,,,,
+très,Naujan-et-Postiac,tré,Grignols-bis,{},{'s': 1},"{('è', 'é'): 1}",très,Moulon,{},{},{},,,,,
+tré,Nérigean,très,Saint-Germain-du-Puch,{'è': 1},{},"{('é', 's'): 1}",,,,,,,,,,
+très,Saint-Germain-du-Puch,tré,Nérigean,{},{'s': 1},"{('è', 'é'): 1}",,,,,,,,,,
+trés,Saint-Quentin-de-Baron,très,Salles,{},{},"{('é', 'è'): 1}",,,,,,,,,,
+très,Tizac-de-Curton,,,,,,,,,,,,,,,
+très,Béguey,tré,Sendets,{},{'s': 1},"{('è', 'é'): 1}",très,Gabarnac,{},{},{},,,,,
+très,Cadillac,très,Cardan,{},{},{},très,Camiran,{},{},{},très,Capian,{},{},{}
+très,Capian,trè,Saint-Michel-de-Fronsac,{},{'s': 1},{},très,Cadillac,{},{},{},,,,,
+très,Cardan,trop,Lerm-et-Musset,{},{},"{('è', 'o'): 1, ('s', 'p'): 1}",très,Cadillac,{},{},{},tré,Donzac,{},{'s': 1},"{('è', 'é'): 1}"
+tré,Donzac,tré,Saint-Médard-d'Eyrans,{},{},{},très,Gabarnac,{'è': 1},{},"{('é', 's'): 1}",très,Cardan,{'è': 1},{},"{('é', 's'): 1}"
+très,Gabarnac,tré,Donzac,{},{'s': 1},"{('è', 'é'): 1}",très,Béguey,{},{},{},très,Marions,{},{},{}
+tré,Langoiran-bis,tro,Gironde-sur-Dropt,{},{},"{('é', 'o'): 1}",,,,,,,,,,
+très,Langoiran,très,Blanquefort-bis,{},{},{},,,,,,,,,,
+très,Lestiac-sur-Garonne,tré,Morizès,{},{'s': 1},"{('è', 'é'): 1}",,,,,,,,,,
+très,Loupiac,très,Gujan,{},{},{},très,Monprimblanc,{},{},{},,,,,
+très,Monprimblanc,trés,Saint-Hilaire-de-la-Noaille,{},{},"{('è', 'é'): 1}",très,Loupiac,{},{},{},,,,,
+très,Omet,très,Paillet,{},{},{},très,Caychac,{},{},{},très,La Teste-de-Buch,{},{},{}
+très,Paillet,tré,Rions,{},{'s': 1},"{('è', 'é'): 1}",très,Omet,{},{},{},très,Le Teich,{},{},{}
+tré,Rions,très,Paillet,{'è': 1},{},"{('é', 's'): 1}",,,,,,,,,,
+trés,Sainte-Croix-du-Mont,trés,Captieux-bis,{},{},{},trè,Le Taillan-Médoc,{},{'s': 1},"{('é', 'è'): 1}",très,Mazères,{},{},"{('é', 'è'): 1}"
+très,Villenave-de-Rions,très,Beychac-et-Caillau,{},{},{},trés,Captieux-bis,{},{},"{('è', 'é'): 1}",trò,Arbanats,{},{'s': 1},"{('è', 'ò'): 1}"
+trés,Captieux-bis,très,Villenave-de-Rions,{},{},"{('é', 'è'): 1}",trés,Sainte-Croix-du-Mont,{},{},{},troubet,Captieux,"{'o': 1, 'u': 1, 'b': 1}",{},"{('é', 'e'): 1, ('s', 't'): 1}"
+troubet,Captieux,trés,Léogeats,{},"{'b': 1, 'e': 1, 't': 1}","{('o', 'é'): 1, ('u', 's'): 1}",très,Langon,{},"{'b': 1, 'e': 1, 't': 1}","{('o', 'è'): 1, ('u', 's'): 1}",trés,Captieux-bis,{},"{'b': 1, 'e': 1, 't': 1}","{('o', 'é'): 1, ('u', 's'): 1}"
+troubait,Escaudes,très,Bouliac,{},"{'b': 1, 'a': 1, 'i': 1, 't': 1}","{('o', 'è'): 1, ('u', 's'): 1}",très,Cérons,{},"{'b': 1, 'a': 1, 'i': 1, 't': 1}","{('o', 'è'): 1, ('u', 's'): 1}",,,,,
+très,Giscos,très,Bieujac,{},{},{},très,Caychac,{},{},{},trè,Saint-Pardon-de-Conques,{},{'s': 1},{}
+très,Saint-Michel-de-Castelnau,tré,Cenon,{},{'s': 1},"{('è', 'é'): 1}",treis,Saint-Émilion,{'e': 1},{},"{('è', 'i'): 1}",tré,Toulenne,{},{'s': 1},"{('è', 'é'): 1}"
+treix,Ambarès-et-Lagrave,,,,,,,,,,,,,,,
+tré,Ambès,très,Martignas-sur-Jalle,{'è': 1},{},"{('é', 's'): 1}",très,Beychac-et-Caillau,{'è': 1},{},"{('é', 's'): 1}",,,,,
+trè,Bassens,trè,Le Taillan-Médoc,{},{},{},très,Beychac-et-Caillau,{'s': 1},{},{},,,,,
+très,Beychac-et-Caillau,trè,Bassens,{},{'s': 1},{},très,Villenave-de-Rions,{},{},{},tré,Ambès,{},{'s': 1},"{('è', 'é'): 1}"
+très,Bouliac,trè,Podensac,{},{'s': 1},{},troubait,Escaudes,"{'o': 1, 'u': 1, 'b': 1, 'a': 1}",{},"{('è', 'i'): 1, ('s', 't'): 1}",très,Carbon-Blanc-bis,{},{},{}
+très,Carbon-Blanc-bis,très,Bouliac,{},{},{},très,Lacanau-de-Mios,{},{},{},,,,,
+très,Carbon-Blanc,très,Pessac,{},{},{},très,Libourne,{},{},{},tré,Lormont,{},{'s': 1},"{('è', 'é'): 1}"
+tré,Cenon,tra,Floirac,{},{},"{('é', 'a'): 1}",très,Saint-Michel-de-Castelnau,{'è': 1},{},"{('é', 's'): 1}",,,,,
+tra,Floirac,trés,Saint-Sulpice-de-Faleyrens,{'é': 1},{},"{('a', 's'): 1}",tré,Cenon,{},{},"{('a', 'é'): 1}",tré,Lormont,{},{},"{('a', 'é'): 1}"
+tré,Lormont,très,Carbon-Blanc,{'è': 1},{},"{('é', 's'): 1}",tra,Floirac,{},{},"{('é', 'a'): 1}",,,,,
+très,Montussan,tré,Saint-Loubès,{},{'s': 1},"{('è', 'é'): 1}",trés,Cussac-Fort-Médoc,{},{},"{('è', 'é'): 1}",,,,,
+tré,Saint-Loubès,très,Lanton,{'è': 1},{},"{('é', 's'): 1}",très,Montussan,{'è': 1},{},"{('é', 's'): 1}",,,,,
+tré,Saint-Louis-de-Montferrand,trés,Virelade,{'s': 1},{},{},trés,Saint-Sulpice-et-Cameyrac,{'s': 1},{},{},,,,,
+trés,Saint-Sulpice-et-Cameyrac,tré,Saint-Vincent-de-Paul,{},{'s': 1},{},tres,Lège,{},{},"{('é', 'e'): 1}",tré,Saint-Louis-de-Montferrand,{},{'s': 1},{}
+tré,Saint-Vincent-de-Paul,très,Flaujagues,{'è': 1},{},"{('é', 's'): 1}",trés,Saint-Sulpice-et-Cameyrac,{'s': 1},{},{},,,,,
+trop,Sainte-Eulalie,très,Juillac,{},{},"{('o', 'è'): 1, ('p', 's'): 1}",,,,,,,,,,
+très,Tresses-bis,troubèc,Peujard,"{'o': 1, 'u': 1, 'b': 1}",{},"{('s', 'c'): 1}",trè,Pessac-sur-Dordogne,{},{'s': 1},{},,,,,
+tré,Tresses,trés,Rauzan,{'s': 1},{},{},très,Saint-Pey-de-Castets,{'è': 1},{},"{('é', 's'): 1}",troubec,Cubzac-les-Ponts,"{'o': 1, 'u': 1, 'b': 1, 'e': 1}",{},"{('é', 'c'): 1}"
+tré,Yvrac,très,Arcins,{'è': 1},{},"{('é', 's'): 1}",très,Barie,{'è': 1},{},"{('é', 's'): 1}",,,,,
+très,Arcins,très,Parempuyre,{},{},{},tré,Yvrac,{},{'s': 1},"{('è', 'é'): 1}",,,,,
+très,Arsac-bis,trè,Cantenac,{},{'s': 1},{},trop,Saint-Gervais,{},{},"{('è', 'o'): 1, ('s', 'p'): 1}",très,Lamarque,{},{},{}
+très,Arsac,tré,Castelnau-de-Médoc,{},{'s': 1},"{('è', 'é'): 1}",très,Parempuyre,{},{},{},trè,Cantenac,{},{'s': 1},{}
+trè,Cantenac,troubéc,Salignac,"{'o': 1, 'u': 1, 'b': 1, 'é': 1}",{},"{('è', 'c'): 1}",très,Arsac-bis,{'s': 1},{},{},très,Arsac,{'s': 1},{},{}
+tré,Castelnau-de-Médoc,très,Lanton,{'è': 1},{},"{('é', 's'): 1}",très,Arsac,{'è': 1},{},"{('é', 's'): 1}",trés,Cussac-Fort-Médoc,{'s': 1},{},{}
+trés,Cussac-Fort-Médoc,très,Montussan,{},{},"{('é', 'è'): 1}",tré,Castelnau-de-Médoc,{},{'s': 1},{},tro,Lacanau,{},{'s': 1},"{('é', 'o'): 1}"
+très,Labarde,très,Saint-Aubin-de-Médoc,{},{},{},tro,Lacanau,{},{'s': 1},"{('è', 'o'): 1}",,,,,
+tro,Lacanau,très,Labarde,{'è': 1},{},"{('o', 's'): 1}",trés,Cussac-Fort-Médoc,{'é': 1},{},"{('o', 's'): 1}",très,Lamarque,{'è': 1},{},"{('o', 's'): 1}"
+très,Lamarque,très,Arsac-bis,{},{},{},tro,Lacanau,{},{'s': 1},"{('è', 'o'): 1}",,,,,
+trés,Le Porge,très,Audenge-bis,{},{},"{('é', 'è'): 1}",tré,Le Temple,{},{'s': 1},{},,,,,
+tré,Le Temple,trés,Le Porge,{'s': 1},{},{},,,,,,,,,,
+trei,Listrac-Médoc,très,Pujols-bis,{},{},"{('e', 'è'): 1, ('i', 's'): 1}",,,,,,,,,,
+trè,Margaux,très,Saint-Médard-en-Jalles,{'s': 1},{},{},,,,,,,,,,
+très,Moulis-en-Médoc-bis,très,Saint-Médard-en-Jalles,{},{},{},,,,,,,,,,
+tro,Moulis-en-Médoc,très,Bègles,{'è': 1},{},"{('o', 's'): 1}",,,,,,,,,,
+très,Sainte-Hélène,,,,,,,,,,,,,,,
+très,Salaunes,très,Soussans,{},{},{},très,Chartrons,{},{},{},très,Castillon-la-Bataille-bis,{},{},{}
+très,Saumos,trés,Bernos-Beaulac,{},{},"{('è', 'é'): 1}",très,Soussans,{},{},{},très,Belvès-de-Castillon,{},{},{}
+très,Soussans,très,Saumos,{},{},{},tré,Saint-Pey-d'Armens,{},{'s': 1},"{('è', 'é'): 1}",très,Salaunes,{},{},{}
+très,Belvès-de-Castillon,très,Castillon-la-Bataille-bis,{},{},{},tré,Gajac,{},{'s': 1},"{('è', 'é'): 1}",très,Saumos,{},{},{}
+très,Castillon-la-Bataille-bis,très,Le Bouscat,{},{},{},très,Belvès-de-Castillon,{},{},{},très,Salaunes,{},{},{}
+très,Castillon-la-Bataille,très,Bourg-bis,{},{},{},,,,,,,,,,
+très,Gardegan,,,,,,,,,,,,,,,
+très,Saint-Étienne-de-Lisse,très,Audenge-bis,{},{},{},très,Saint-Genès-de-Castillon,{},{},{},,,,,
+très,Saint-Genès-de-Castillon,très,Saint-Étienne-de-Lisse,{},{},{},trè,Saint-Laurent-des-Combes,{},{'s': 1},{},,,,,
+trè,Saint-Laurent-des-Combes,très,Saint-Genès-de-Castillon,{'s': 1},{},{},,,,,,,,,,
+très,Saint-Magne-de-Castillon,tré,Saint-Pey-d'Armens,{},{'s': 1},"{('è', 'é'): 1}",très,Birac,{},{},{},,,,,
+tré,Saint-Pey-d'Armens,très,Soussans,{'è': 1},{},"{('é', 's'): 1}",très,Saint-Magne-de-Castillon,{'è': 1},{},"{('é', 's'): 1}",très,Saint-Philippe-d'Aiguille,{'è': 1},{},"{('é', 's'): 1}"
+très,Saint-Philippe-d'Aiguille,très,Sainte-Terre,{},{},{},tré,Saint-Pey-d'Armens,{},{'s': 1},"{('è', 'é'): 1}",,,,,
+très,Sainte-Colombe,très,Chartrons,{},{},{},très,Sainte-Terre,{},{},{},,,,,
+très,Sainte-Terre,très,Sainte-Colombe,{},{},{},très,Saint-Philippe-d'Aiguille,{},{},{},très,Vignonet,{},{},{}
+très,Vignonet,très,Sainte-Terre,{},{},{},,,,,,,,,,
+tré,Saint-Antoine-sur-l'Isle,très,Le Nizan,{'è': 1},{},"{('é', 's'): 1}",très,Baurech,{'è': 1},{},"{('é', 's'): 1}",,,,,
+très,Baurech,tré,Saint-Antoine-sur-l'Isle,{},{'s': 1},"{('è', 'é'): 1}",très,Gauriac,{},{},{},très,Camarsac,{},{},{}
+très,Bonnetan,très,Camarsac,{},{},{},très,Saint-Côme,{},{},{},,,,,
+très,Camarsac,très,Tauriac,{},{},{},très,Bonnetan,{},{},{},très,Baurech,{},{},{}
+très,Cambes,trè,Cénac,{},{'s': 1},{},trè,Camblanes-et-Meynac,{},{'s': 1},{},,,,,
+trè,Camblanes-et-Meynac,très,Branne-bis,{'s': 1},{},{},très,Cambes,{'s': 1},{},{},très,Carignan-de-Bordeaux,{'s': 1},{},{}
+très,Carignan-de-Bordeaux,très,Branne,{},{},{},trè,Camblanes-et-Meynac,{},{'s': 1},{},,,,,
+trè,Cénac,très,Cambes,{'s': 1},{},{},,,,,,,,,,
+trè,Créon,,,,,,,,,,,,,,,
+très,Haux,,,,,,,,,,,,,,,
+tré,Latresne,,,,,,,,,,,,,,,
+très,Le Tourne,très,Cabara-bis,{},{},{},très,Sallebœuf,{},{},{},,,,,
+très,Lignan-de-Bordeaux,trés,Bommes,{},{},"{('è', 'é'): 1}",très,Pompignac,{},{},{},très,Madirac,{},{},{}
+très,Madirac,trè,Quinsac,{},{'s': 1},{},très,Lignan-de-Bordeaux,{},{},{},,,,,
+très,Pompignac,très,Lignan-de-Bordeaux,{},{},{},trè,Quinsac,{},{'s': 1},{},,,,,
+trè,Quinsac,très,Madirac,{'s': 1},{},{},très,Pompignac,{'s': 1},{},{},,,,,
+très,Sadirac,tré,Saint-Caprais-de-Bordeaux,{},{'s': 1},"{('è', 'é'): 1}",,,,,,,,,,
+tré,Saint-Caprais-de-Bordeaux,très,Sallebœuf,{'è': 1},{},"{('é', 's'): 1}",très,Sadirac,{'è': 1},{},"{('é', 's'): 1}",,,,,
+très,Sallebœuf,très,Le Tourne,{},{},{},tré,Saint-Caprais-de-Bordeaux,{},{'s': 1},"{('è', 'é'): 1}",,,,,
+très,Tabanac,tré,Joué,{},{'s': 1},"{('è', 'é'): 1}",,,,,,,,,,
+tré,Asques,trés,Fronsac-bis,{'s': 1},{},{},trés,La Lande-de-Fronsac,{'s': 1},{},{},,,,,
+très,Cadillac-en-Fronsadais,trés,Fronsac-bis,{},{},"{('è', 'é'): 1}",tré,Belin-Béliet,{},{'s': 1},"{('è', 'é'): 1}",tré,Fronsac,{},{'s': 1},"{('è', 'é'): 1}"
+trés,Fronsac-bis,très,Cadillac-en-Fronsadais,{},{},"{('é', 'è'): 1}",tré,Asques,{},{'s': 1},{},,,,,
+tré,Fronsac,tré,Samonac,{},{},{},trés,La Lande-de-Fronsac,{'s': 1},{},{},très,Cadillac-en-Fronsadais,{'è': 1},{},"{('é', 's'): 1}"
+trés,La Lande-de-Fronsac,tré,Fronsac,{},{'s': 1},{},tré,Asques,{},{'s': 1},{},,,,,
+trè,Lugon-et-l'Île-du-Carnay,très,Bègles,{'s': 1},{},{},très,Saillans,{'s': 1},{},{},,,,,
+très,Saillans,trè,Lugon-et-l'Île-du-Carnay,{},{'s': 1},{},tré,Cabara,{},{'s': 1},"{('è', 'é'): 1}",,,,,
+trè,Saint-Germain-de-la-Rivière,très,Martillac,{'s': 1},{},{},trè,Saint-Michel-de-Fronsac,{},{},{},,,,,
+trè,Saint-Michel-de-Fronsac,trè,Saint-Germain-de-la-Rivière,{},{},{},très,Capian,{'s': 1},{},{},,,,,
+très,Saint-Romain-la-Virvée,très,Saint-Magne,{},{},{},trè,Vérac,{},{'s': 1},{},,,,,
+trè,Vérac,très,Saint-Romain-la-Virvée,{'s': 1},{},{},très,Villegouge,{'s': 1},{},{},,,,,
+très,Villegouge,très,Campin,{},{},{},trè,Vérac,{},{'s': 1},{},,,,,
+très,Campin,très,Villegouge,{},{},{},très,Cours-les-Bains,{},{},{},,,,,
+très,Cours-les-Bains,très,Campin,{},{},{},,,,,,,,,,
+tré,Grignols-bis,très,Grignols,{'è': 1},{},"{('é', 's'): 1}",très,Naujan-et-Postiac,{'è': 1},{},"{('é', 's'): 1}",,,,,
+très,Grignols,tré,Grignols-bis,{},{'s': 1},"{('è', 'é'): 1}",,,,,,,,,,
+trés,Lavazan,très,Saucats,{},{},"{('é', 'è'): 1}",,,,,,,,,,
+trop,Lerm-et-Musset,très,Cardan,{},{},"{('o', 'è'): 1, ('p', 's'): 1}",très,Marions,{},{},"{('o', 'è'): 1, ('p', 's'): 1}",,,,,
+très,Marions,très,Gabarnac,{},{},{},trop,Lerm-et-Musset,{},{},"{('è', 'o'): 1, ('s', 'p'): 1}",,,,,
+tré,Sendets,très,Béguey,{'è': 1},{},"{('é', 's'): 1}",,,,,,,,,,
+très,Bégadan,trés,Blaignan,{},{},"{('è', 'é'): 1}",très,Bruges,{},{},{},,,,,
+trés,Blaignan,très,Pondaurat,{},{},"{('é', 'è'): 1}",très,Bégadan,{},{},"{('é', 'è'): 1}",,,,,
+très,Civrac,très,Jugazan,{},{},{},,,,,,,,,,
+très,Gaillan-en-Médoc,très,Jugazan,{},{},{},,,,,,,,,,
+très,Lesparre-Médoc,tré,Naujac-sur-Mer,{},{'s': 1},"{('è', 'é'): 1}",,,,,,,,,,
+tré,Naujac-sur-Mer,très,Lesparre-Médoc,{'è': 1},{},"{('é', 's'): 1}",,,,,,,,,,
+très,Ordonnac,tré,Saint-Christoly-Médoc,{},{'s': 1},"{('è', 'é'): 1}",,,,,,,,,,
+très,Queyrac,tré,Saint-Christoly-Médoc,{},{'s': 1},"{('è', 'é'): 1}",,,,,,,,,,
+tré,Saint-Christoly-Médoc,très,Queyrac,{'è': 1},{},"{('é', 's'): 1}",très,Valeyrac,{'è': 1},{},"{('é', 's'): 1}",très,Ordonnac,{'è': 1},{},"{('é', 's'): 1}"
+très,Saint-Germain-d'Esteuil,,,,,,,,,,,,,,,
+trè,Saint-Seurin-de-Cadourne,,,,,,,,,,,,,,,
+très,Saint-Yzans-de-Médoc,très,Isle-Saint-Georges,{},{},{},,,,,,,,,,
+très,Valeyrac,tré,Saint-Christoly-Médoc,{},{'s': 1},"{('è', 'é'): 1}",,,,,,,,,,
+très,Vendays-Montalivet,tres,Beautiran,{},{},"{('è', 'e'): 1}",,,,,,,,,,
+tres,Beautiran,très,Vendays-Montalivet,{},{},"{('e', 'è'): 1}",,,,,,,,,,
+très,Cabanac-et-Villagrains,très,Castres-Gironde,{},{},{},,,,,,,,,,
+trè,Cadaujac,,,,,,,,,,,,,,,
+très,Castres-Gironde,très,Cabanac-et-Villagrains,{},{},{},très,Bourg-bis,{},{},{},,,,,
+très,Isle-Saint-Georges,très,Saint-Yzans-de-Médoc,{},{},{},,,,,,,,,,
+très,La Brède-bis,,,,,,,,,,,,,,,
+très,La Brède,très,Léognan,{},{},{},,,,,,,,,,
+très,Léognan,très,La Brède,{},{},{},,,,,,,,,,
+très,Martillac,trè,Saint-Germain-de-la-Rivière,{},{'s': 1},{},tré,Saint-Médard-d'Eyrans,{},{'s': 1},"{('è', 'é'): 1}",,,,,
+tré,Saint-Médard-d'Eyrans,tré,Saint-Morillon,{},{},{},tré,Donzac,{},{},{},très,Martillac,{'è': 1},{},"{('é', 's'): 1}"
+tré,Saint-Morillon,tré,Saint-Médard-d'Eyrans,{},{},{},très,Blaignac,{'è': 1},{},"{('é', 's'): 1}",,,,,
+très,Saint-Selve,très,Saucats,{},{},{},très,Blaignac,{},{},{},,,,,
+très,Saucats,trés,Lavazan,{},{},"{('è', 'é'): 1}",très,Saint-Selve,{},{},{},trop,Bagas,{},{},"{('è', 'o'): 1, ('s', 'p'): 1}"
+trop,Bagas,très,Saucats,{},{},"{('o', 'è'): 1, ('p', 's'): 1}",,,,,,,,,,
+très,Blaignac,très,Saint-Selve,{},{},{},tré,Saint-Morillon,{},{'s': 1},"{('è', 'é'): 1}",,,,,
+très,Camiran-bis,,,,,,,,,,,,,,,
+très,Camiran,très,Cadillac,{},{},{},,,,,,,,,,
+tré,Casseuil,tré,Fontet,{},{},{},,,,,,,,,,
+tré,Fontet,tré,Casseuil,{},{},{},,,,,,,,,,
+très,Gironde-sur-Dropt-bis,très,Branne,{},{},{},,,,,,,,,,
+tro,Gironde-sur-Dropt,tré,Langoiran-bis,{},{},"{('o', 'é'): 1}",,,,,,,,,,
+tré,Hure,très,Branne,{'è': 1},{},"{('é', 's'): 1}",,,,,,,,,,
+très,La Réole-bis,,,,,,,,,,,,,,,
+tré,La Réole,très,Blanquefort,{'è': 1},{},"{('é', 's'): 1}",,,,,,,,,,
+trè,Lamothe-Landerron,très,Loupiac-de-la-Réole,{'s': 1},{},{},,,,,,,,,,
+très,Loupiac-de-la-Réole,trè,Lamothe-Landerron,{},{'s': 1},{},,,,,,,,,,
+très,Mongauzy,,,,,,,,,,,,,,,
+tré,Morizès,très,Lestiac-sur-Garonne,{'è': 1},{},"{('é', 's'): 1}",,,,,,,,,,
+très,Noaillac,très,Arveyres,{},{},{},,,,,,,,,,
+très,Pompéjac,trés,Arcachon-bis,{},{},"{('è', 'é'): 1}",,,,,,,,,,
+trés,Saint-Hilaire-de-la-Noaille-bis,trés,Saint-Hilaire-de-la-Noaille,{},{},{},tré,Civrac-sur-Dordogne,{},{'s': 1},{},,,,,
+trés,Saint-Hilaire-de-la-Noaille,très,Monprimblanc,{},{},"{('é', 'è'): 1}",trés,Saint-Hilaire-de-la-Noaille-bis,{},{},{},,,,,
+trés,Arcachon-bis,très,Pompéjac,{},{},"{('é', 'è'): 1}",tré,Arcachon,{},{'s': 1},{},,,,,
+tré,Arcachon,trés,Arcachon-bis,{'s': 1},{},{},tré,La Teste-de-Buch-bis,{},{},{},,,,,
+très,Cazaux,très,Gujan,{},{},{},,,,,,,,,,
+très,Gujan,très,Loupiac,{},{},{},très,Cazaux,{},{},{},tré,La Teste-de-Buch-bis,{},{'s': 1},"{('è', 'é'): 1}"
+tré,La Teste-de-Buch-bis,tré,Arcachon,{},{},{},très,Gujan,{'è': 1},{},"{('é', 's'): 1}",,,,,
+tré,La Teste-de-Buch-ter,,,,,,,,,,,,,,,
+très,La Teste-de-Buch,très,Omet,{},{},{},très,Bieujac,{},{},{},très,Le Teich,{},{},{}
+très,Le Teich,trés,Mestras,{},{},"{('è', 'é'): 1}",très,Paillet,{},{},{},très,La Teste-de-Buch,{},{},{}
+trés,Mestras,très,Le Teich,{},{},"{('é', 'è'): 1}",trés,Bommes,{},{},{},,,,,
+très,Bieujac,très,La Teste-de-Buch,{},{},{},très,Giscos,{},{},{},très,Castets-en-Dorthe,{},{},{}
+trés,Bommes,très,Castets-en-Dorthe,{},{},"{('é', 'è'): 1}",très,Lignan-de-Bordeaux,{},{},"{('é', 'è'): 1}",trés,Mestras,{},{},{}
+très,Castets-en-Dorthe,trés,Bommes,{},{},"{('è', 'é'): 1}",très,Bieujac,{},{},{},,,,,
+très,Fargues,trés,Langon-bis,{},{},"{('è', 'é'): 1}",,,,,,,,,,
+trés,Langon-bis,très,Fargues,{},{},"{('é', 'è'): 1}",,,,,,,,,,
+très,Langon,troubet,Captieux,"{'o': 1, 'u': 1, 'b': 1}",{},"{('è', 'e'): 1, ('s', 't'): 1}",très,Budos,{},{},{},,,,,
+trés,Léogeats,tré,Saint-Pierre-de-Mons,{},{'s': 1},{},troubet,Captieux,"{'o': 1, 'u': 1, 'b': 1}",{},"{('é', 'e'): 1, ('s', 't'): 1}",très,Mazères,{},{},"{('é', 'è'): 1}"
+très,Mazères,trés,Sainte-Croix-du-Mont,{},{},"{('è', 'é'): 1}",très,Roaillan,{},{},{},trés,Léogeats,{},{},"{('è', 'é'): 1}"
+très,Roaillan,très,Mazères,{},{},{},,,,,,,,,,
+trè,Saint-Pardon-de-Conques,très,Giscos,{'s': 1},{},{},tré,Sauternes,{},{},"{('è', 'é'): 1}",,,,,
+tré,Saint-Pierre-de-Mons,trés,Léogeats,{'s': 1},{},{},tré,Sauternes,{},{},{},,,,,
+tré,Sauternes,trè,Saint-Pardon-de-Conques,{},{},"{('é', 'è'): 1}",tré,Saint-Pierre-de-Mons,{},{},{},,,,,
+tré,Toulenne,très,Saint-Michel-de-Castelnau,{'è': 1},{},"{('é', 's'): 1}",,,,,,,,,,
+très,Arveyres,très,Noaillac,{},{},{},,,,,,,,,,
+tré,Civrac-sur-Dordogne,trés,Saint-Hilaire-de-la-Noaille-bis,{'s': 1},{},{},très,Saint-Estèphe,{'è': 1},{},"{('é', 's'): 1}",,,,,
+très,Izon,tré,Cissac-Médoc,{},{'s': 1},"{('è', 'é'): 1}",,,,,,,,,,
+trè,Libourne-bis,très,Libourne,{'s': 1},{},{},trée,Pomerol,{'é': 1},{},"{('è', 'e'): 1}",,,,,
+très,Libourne,très,Carbon-Blanc,{},{},{},trè,Libourne-bis,{},{'s': 1},{},trés,Vayres,{},{},"{('è', 'é'): 1}"
+trée,Pomerol,trè,Libourne-bis,{},{'e': 1},"{('é', 'è'): 1}",tré,Pauillac,{},{'e': 1},{},trés,Vayres,{},{},"{('e', 's'): 1}"
+treis,Saint-Émilion,très,Saint-Michel-de-Castelnau,{},{'i': 1},"{('e', 'è'): 1}",trés,Saint-Sulpice-de-Faleyrens,{},{'i': 1},"{('e', 'é'): 1}",très,Roquebrune,{},{'i': 1},"{('e', 'è'): 1}"
+trés,Saint-Sulpice-de-Faleyrens,treis,Saint-Émilion,{'e': 1},{},"{('é', 'i'): 1}",tra,Floirac,{},{'s': 1},"{('é', 'a'): 1}",trés,Vayres,{},{},{}
+trés,Vayres,trés,Saint-Sulpice-de-Faleyrens,{},{},{},très,Libourne,{},{},"{('é', 'è'): 1}",trée,Pomerol,{},{},"{('s', 'e'): 1}"
+très,Landerrouet-sur-Ségur,très,Monségur,{},{},{},,,,,,,,,,
+très,Monségur,très,Landerrouet-sur-Ségur,{},{},{},,,,,,,,,,
+très,Roquebrune,treis,Saint-Émilion,{'e': 1},{},"{('è', 'i'): 1}",tré,Pauillac,{},{'s': 1},"{('è', 'é'): 1}",,,,,
+tré,Cissac-Médoc,très,Izon,{'è': 1},{},"{('é', 's'): 1}",tré,Pauillac,{},{},{},,,,,
+tré,Pauillac,trée,Pomerol,{'e': 1},{},{},tré,Cissac-Médoc,{},{},{},très,Roquebrune,{'è': 1},{},"{('é', 's'): 1}"
+très,Saint-Estèphe,tré,Civrac-sur-Dordogne,{},{'s': 1},"{('è', 'é'): 1}",trés,Saint-Julien-Beychevelle,{},{},"{('è', 'é'): 1}",,,,,
+trés,Saint-Julien-Beychevelle,très,Saint-Estèphe,{},{},"{('é', 'è'): 1}",,,,,,,,,,
+très,Saint-Sauveur,très,Vertheuil,{},{},{},,,,,,,,,,
+très,Vertheuil,très,Saint-Sauveur,{},{},{},trés,Cazaugitat,{},{},"{('è', 'é'): 1}",,,,,
+trés,Cazaugitat,très,Vertheuil,{},{},"{('é', 'è'): 1}",,,,,,,,,,
+très,Landerrouat,très,Massugas,{},{},{},trè,Le Taillan-Médoc,{},{'s': 1},{},trè,Listrac-de-Durèze,{},{'s': 1},{}
+trè,Listrac-de-Durèze,très,Landerrouat,{'s': 1},{},{},,,,,,,,,,
+très,Massugas,très,Landerrouat,{},{},{},très,Pellegrue,{},{},{},,,,,
+très,Pellegrue,très,Massugas,{},{},{},,,,,,,,,,
+très,Canéjan,trop,Cestas,{},{},"{('è', 'o'): 1, ('s', 'p'): 1}",trés,Illats,{},{},"{('è', 'é'): 1}",,,,,
+trop,Cestas,trè,Villenave-d'Ornon,{},{'p': 1},"{('o', 'è'): 1}",très,Canéjan,{},{},"{('o', 'è'): 1, ('p', 's'): 1}",,,,,
+tré,Gradignan,très,Landiras,{'è': 1},{},"{('é', 's'): 1}",trè,Villenave-d'Ornon,{},{},"{('é', 'è'): 1}",très,Mérignac,{'è': 1},{},"{('é', 's'): 1}"
+très,Martignas-sur-Jalle,trop,Saint-Jean-d'Illac,{},{},"{('è', 'o'): 1, ('s', 'p'): 1}",tré,Ambès,{},{'s': 1},"{('è', 'é'): 1}",très,Mérignac,{},{},{}
+très,Mérignac,très,Martignas-sur-Jalle,{},{},{},trè,Barsac,{},{'s': 1},{},tré,Gradignan,{},{'s': 1},"{('è', 'é'): 1}"
+très,Pessac,tré,Talence,{},{'s': 1},"{('è', 'é'): 1}",très,Carbon-Blanc,{},{},{},trop,Saint-Jean-d'Illac,{},{},"{('è', 'o'): 1, ('s', 'p'): 1}"
+trop,Saint-Jean-d'Illac,tréis,Pujols-sur-Ciron,{'é': 1},{},"{('o', 'i'): 1, ('p', 's'): 1}",très,Martignas-sur-Jalle,{},{},"{('o', 'è'): 1, ('p', 's'): 1}",très,Pessac,{},{},"{('o', 'è'): 1, ('p', 's'): 1}"
+tré,Talence,très,Pessac,{'è': 1},{},"{('é', 's'): 1}",trè,Villenave-d'Ornon,{},{},"{('é', 'è'): 1}",,,,,
+trè,Villenave-d'Ornon,tré,Gradignan,{},{},"{('è', 'é'): 1}",trop,Cestas,{'o': 1},{},"{('è', 'p'): 1}",tré,Talence,{},{},"{('è', 'é'): 1}"
+trò,Arbanats,trè,Barsac,{},{},"{('ò', 'è'): 1}",très,Villenave-de-Rions,{'è': 1},{},"{('ò', 's'): 1}",très,Budos,{'è': 1},{},"{('ò', 's'): 1}"
+trè,Barsac,très,Mérignac,{'s': 1},{},{},trò,Arbanats,{},{},"{('è', 'ò'): 1}",très,Budos-bis,{'s': 1},{},{}
+très,Budos-bis,très,Cérons,{},{},{},très,Portets,{},{},{},trè,Barsac,{},{'s': 1},{}
+très,Budos,trò,Arbanats,{},{'s': 1},"{('è', 'ò'): 1}",très,Langon,{},{},{},très,Guillos,{},{},{}
+très,Cérons,troubait,Escaudes,"{'o': 1, 'u': 1, 'b': 1, 'a': 1}",{},"{('è', 'i'): 1, ('s', 't'): 1}",très,Budos-bis,{},{},{},très,Guillos,{},{},{}
+très,Guillos,très,Cérons,{},{},{},très,Budos,{},{},{},,,,,
+trés,Illats,très,Canéjan,{},{},"{('é', 'è'): 1}",très,Landiras,{},{},"{('é', 'è'): 1}",trè,Podensac,{},{'s': 1},"{('é', 'è'): 1}"
+très,Landiras,trés,Illats,{},{},"{('è', 'é'): 1}",tré,Gradignan,{},{'s': 1},"{('è', 'é'): 1}",très,Portets,{},{},{}
+trè,Podensac,très,Portets,{'s': 1},{},{},très,Bouliac,{'s': 1},{},{},trés,Illats,{'é': 1},{},"{('è', 's'): 1}"
+très,Portets,très,Budos-bis,{},{},{},trè,Podensac,{},{'s': 1},{},très,Landiras,{},{},{}
+tré,Preignac,,,,,,,,,,,,,,,
+tréis,Pujols-sur-Ciron,trop,Saint-Jean-d'Illac,{},{'s': 1},"{('é', 'o'): 1, ('i', 'p'): 1}",,,,,,,,,,
+tres,Saint-Michel-de-Rieufret,troubèc,Aubie-et-Espessas,"{'o': 1, 'u': 1, 'b': 1}",{},"{('e', 'è'): 1, ('s', 'c'): 1}",trés,Sainte-Radegonde,{},{},"{('e', 'é'): 1}",,,,,
+trés,Virelade,trés,Saint-Vincent-de-Pertignas,{},{},{},tré,Saint-Louis-de-Montferrand,{},{'s': 1},{},tréi,Doulezon,{},{},"{('s', 'i'): 1}"
+tréi,Doulezon,trés,Virelade,{},{},"{('i', 's'): 1}",,,,,,,,,,
+très,Flaujagues,tré,Gensac,{},{'s': 1},"{('è', 'é'): 1}",tré,Saint-Vincent-de-Paul,{},{'s': 1},"{('è', 'é'): 1}",,,,,
+tré,Gensac,très,Juillac,{'è': 1},{},"{('é', 's'): 1}",très,Flaujagues,{'è': 1},{},"{('é', 's'): 1}",,,,,
+très,Juillac,trop,Sainte-Eulalie,{},{},"{('è', 'o'): 1, ('s', 'p'): 1}",tré,Gensac,{},{'s': 1},"{('è', 'é'): 1}",,,,,
+trés,Mouliets,trè,Pessac-sur-Dordogne,{},{'s': 1},"{('é', 'è'): 1}",,,,,,,,,,
+trè,Pessac-sur-Dordogne,trés,Mouliets,{'é': 1},{},"{('è', 's'): 1}",très,Tresses-bis,{'s': 1},{},{},,,,,
+très,Pujols-bis,trei,Listrac-Médoc,{},{},"{('è', 'e'): 1, ('s', 'i'): 1}",,,,,,,,,,
+trè,Pujols,tro,Saint-Jean-de-Blaignac,{},{},"{('è', 'o'): 1}",,,,,,,,,,
+trés,Rauzan,tré,Tresses,{},{'s': 1},{},,,,,,,,,,
+tro,Saint-Jean-de-Blaignac,trè,Pujols,{},{},"{('o', 'è'): 1}",,,,,,,,,,
+très,Saint-Pey-de-Castets,tré,Tresses,{},{'s': 1},"{('è', 'é'): 1}",trés,Sainte-Radegonde,{},{},"{('è', 'é'): 1}",,,,,
+trés,Saint-Vincent-de-Pertignas,trés,Virelade,{},{},{},trés,Sainte-Radegonde,{},{},{},,,,,
+trés,Sainte-Radegonde,tres,Saint-Michel-de-Rieufret,{},{},"{('é', 'e'): 1}",très,Saint-Pey-de-Castets,{},{},"{('é', 'è'): 1}",trés,Saint-Vincent-de-Pertignas,{},{},{}
+troubèc,Aubie-et-Espessas,tres,Saint-Michel-de-Rieufret,{},"{'b': 1, 'è': 1, 'c': 1}","{('o', 'e'): 1, ('u', 's'): 1}",troubec,Cubzac-les-Ponts,{},{},"{('è', 'e'): 1}",,,,,
+troubec,Cubzac-les-Ponts,tré,Tresses,{},"{'u': 1, 'b': 1, 'e': 1, 'c': 1}","{('o', 'é'): 1}",troubèc,Aubie-et-Espessas,{},{},"{('e', 'è'): 1}",,,,,
+troubèc,Peujard,très,Tresses-bis,{},"{'o': 1, 'u': 1, 'b': 1}","{('c', 's'): 1}",trés,Saint-André-de-Cubzac,{},"{'b': 1, 'è': 1, 'c': 1}","{('o', 'é'): 1, ('u', 's'): 1}",,,,,
+trés,Saint-André-de-Cubzac,troubèc,Peujard,"{'o': 1, 'u': 1, 'b': 1}",{},"{('é', 'è'): 1, ('s', 'c'): 1}",,,,,,,,,,
+trop,Saint-Antoine,,,,,,,,,,,,,,,
+trop,Saint-Gervais,très,Arsac-bis,{},{},"{('o', 'è'): 1, ('p', 's'): 1}",trés,Saint-Laurent-d'Arce,{},{},"{('o', 'é'): 1, ('p', 's'): 1}",,,,,
+trés,Saint-Laurent-d'Arce,trop,Saint-Gervais,{},{},"{('é', 'o'): 1, ('s', 'p'): 1}",,,,,,,,,,
+troubéc,Salignac,trè,Cantenac,{},"{'u': 1, 'b': 1, 'é': 1, 'c': 1}","{('o', 'è'): 1}",,,,,,,,,,

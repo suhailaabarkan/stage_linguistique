@@ -1,0 +1,738 @@
+Mot,Commune,Voisin_1,Commune_1,Insertions_1,Suppressions_1,Substitutions_1,Voisin_2,Commune_2,Insertions_2,Suppressions_2,Substitutions_2,Voisin_3,Commune_3,Insertions_3,Suppressions_3,Substitutions_3
+taléñ,Andernos-les-Bains,talan,Bazas-bis,{},{},"{('é', 'a'): 1, ('ñ', 'n'): 1}",talen,Auros-bis,{},{},"{('é', 'e'): 1, ('ñ', 'n'): 1}",taleénn,Audenge-bis,"{'e': 1, 'n': 1}",{},"{('ñ', 'n'): 1}"
+talent,Arès,talant,Savignac,{},{},"{('e', 'a'): 1}",talén,Ailas,{},{'t': 1},"{('e', 'é'): 1}",talen,Coimères,{},{'t': 1},{}
+taleénn,Audenge-bis,taléñ,Andernos-les-Bains,{},"{'e': 1, 'n': 1}","{('n', 'ñ'): 1}",talan,Le Porge,{},"{'é': 1, 'n': 1}","{('e', 'a'): 1}",talen,Saint-Étienne-de-Lisse,{},"{'é': 1, 'n': 1}",{}
+talen,Audenge,talan,Lignan-de-Bazas,{},{},"{('e', 'a'): 1}",talén,Belin-Béliet,{},{},"{('e', 'é'): 1}",,,,,
+talén,Biganos,talén,Blanquefort-bis,{},{},{},,,,,,,,,,
+talan,Lacanau-de-Mios,talén,Eysines,{},{},"{('a', 'é'): 1}",talan,Carbon-Blanc-bis,{},{},{},,,,,
+talan,Lanton,talén,Macau,{},{},"{('a', 'é'): 1}",talan,Castelnau-de-Médoc,{},{},{},talan,Saint-Loubès,{},{},{}
+talan,Lège,talan,Saint-Sulpice-et-Cameyrac,{},{},{},,,,,,,,,,
+talan,Mios,talén,Ailas,{},{},"{('a', 'é'): 1}",talént,Saint-Maixant,{'t': 1},{},"{('a', 'é'): 1}",,,,,
+talén,Ailas,talent,Arès,{'t': 1},{},"{('é', 'e'): 1}",talan,Mios,{},{},"{('é', 'a'): 1}",talen,Auros-bis,{},{},"{('é', 'e'): 1}"
+talen,Auros-bis,taléñ,Andernos-les-Bains,{},{},"{('e', 'é'): 1, ('n', 'ñ'): 1}",talén,Ailas,{},{},"{('e', 'é'): 1}",,,,,
+talén,Auros,talén,Bordeaux,{},{},{},tolan,Sainte-Foy-la-Grande-bis,{},{},"{('a', 'o'): 1, ('é', 'a'): 1}",talent,Brannens,{'t': 1},{},"{('é', 'e'): 1}"
+talén,Barie,talan,Yvrac,{},{},"{('é', 'a'): 1}",,,,,,,,,,
+talent,Brannens,talén,Auros,{},{'t': 1},"{('e', 'é'): 1}",tallén,Castillon-de-Castets,{'l': 1},{'t': 1},"{('e', 'é'): 1}",,,,,
+tallén,Castillon-de-Castets,talen,Saint-Médard-en-Jalles,{},{'é': 1},"{('l', 'e'): 1}",talent,Brannens,{},{},"{('l', 'e'): 1, ('é', 'n'): 1, ('n', 't'): 1}",,,,,
+talen,Coimères,talent,Arès,{'t': 1},{},{},talén,Cudos,{},{},"{('e', 'é'): 1}",talan,Lados,{},{},"{('e', 'a'): 1}"
+talan,Lados,talén,Gans,{},{},"{('a', 'é'): 1}",talan,Puybarban,{},{},{},talen,Coimères,{},{},"{('a', 'e'): 1}"
+talan,Pondaurat,talan,Blaignan,{},{},{},,,,,,,,,,
+talan,Puybarban,talan,Lados,{},{},{},talén,Le Bouscat,{},{},"{('a', 'é'): 1}",talant,Savignac,{'t': 1},{},{}
+talant,Savignac,talan,Sigalens,{},{'t': 1},{},talent,Arès,{},{},"{('a', 'e'): 1}",talan,Puybarban,{},{'t': 1},{}
+talan,Sigalens,talén,Caudéran,{},{},"{('a', 'é'): 1}",talant,Savignac,{'t': 1},{},{},talén,Bayon-sur-Gironde,{},{},"{('a', 'é'): 1}"
+talan,Bazas-bis,talén,Bazas,{},{},"{('a', 'é'): 1}",taléñ,Andernos-les-Bains,{},{},"{('a', 'é'): 1, ('n', 'ñ'): 1}",,,,,
+talén,Bazas,talan,Cazats,{},{},"{('é', 'a'): 1}",talan,Bazas-bis,{},{},"{('é', 'a'): 1}",,,,,
+talént,Bernos-Beaulac,talan,Birac,{},{'t': 1},"{('é', 'a'): 1}",talén,Saumos,{},{'t': 1},{},talenn,Gajac,{},{},"{('é', 'e'): 1, ('t', 'n'): 1}"
+talan,Birac,talen,Saint-Magne-de-Castillon,{},{},"{('a', 'e'): 1}",talént,Bernos-Beaulac,{'t': 1},{},"{('a', 'é'): 1}",talan,Cazats,{},{},{}
+talan,Cazats,talén,Cudos,{},{},"{('a', 'é'): 1}",talén,Bazas,{},{},"{('a', 'é'): 1}",talan,Birac,{},{},{}
+talén,Cudos,talen,Coimères,{},{},"{('é', 'e'): 1}",talan,Cazats,{},{},"{('é', 'a'): 1}",talén,Gans,{},{},{}
+talenn,Gajac,talent,Belvès-de-Castillon,{},{},"{('n', 't'): 1}",talén,Gans,{},{'n': 1},"{('e', 'é'): 1}",talént,Bernos-Beaulac,{},{},"{('e', 'é'): 1, ('n', 't'): 1}"
+talén,Gans,talenn,Gajac,{'e': 1},{},"{('é', 'n'): 1}",talan,Lados,{},{},"{('é', 'a'): 1}",talén,Cudos,{},{},{}
+talan,Le Nizan,talén,Prignac-et-Marcamps,{},{},"{('a', 'é'): 1}",talen,Gauriac,{},{},"{('a', 'e'): 1}",talén,Saint-Antoine-sur-l'Isle,{},{},"{('a', 'é'): 1}"
+talan,Lignan-de-Bazas,talen,Audenge,{},{},"{('a', 'e'): 1}",talén,Lansac,{},{},"{('a', 'é'): 1}",talan,Béliet,{},{},{}
+talan,Saint-Côme,talén,Bonnetan,{},{},"{('a', 'é'): 1}",talen,Saint-Trojan,{},{},"{('a', 'e'): 1}",talan,Béliet,{},{},{}
+talan,Béliet,talén,Belin-Béliet,{},{},"{('a', 'é'): 1}",talan,Lignan-de-Bazas,{},{},{},talan,Saint-Côme,{},{},{}
+talén,Belin-Béliet,talan,Cadillac-en-Fronsadais,{},{},"{('é', 'a'): 1}",talen,Audenge,{},{},"{('é', 'e'): 1}",talan,Béliet,{},{},"{('é', 'a'): 1}"
+talém,Joué,talèn,Le Barp,{},{},"{('é', 'è'): 1, ('m', 'n'): 1}",talan,Tabanac,{},{},"{('é', 'a'): 1, ('m', 'n'): 1}",,,,,
+talèn,Le Barp,talan,Cabara,{},{},"{('è', 'a'): 1}",talém,Joué,{},{},"{('è', 'é'): 1, ('n', 'm'): 1}",,,,,
+talen,Lugos,talén,Saint-Magne,{},{},"{('e', 'é'): 1}",talen,Salles-bis,{},{},{},,,,,
+talén,Saint-Magne,talan,Salles,{},{},"{('é', 'a'): 1}",talen,Lugos,{},{},"{('é', 'e'): 1}",talan,Saint-Romain-la-Virvée,{},{},"{('é', 'a'): 1}"
+talen,Salles-bis,talen,Lugos,{},{},{},talan,Génissac,{},{},"{('e', 'a'): 1}",,,,,
+talan,Salles,talén,Saint-Magne,{},{},"{('a', 'é'): 1}",talan,Saint-Quentin-de-Baron,{},{},{},,,,,
+talén,Blanquefort-bis,talan,Langoiran,{},{},"{('é', 'a'): 1}",talén,Biganos,{},{},{},talen,Blanquefort,{},{},"{('é', 'e'): 1}"
+talen,Blanquefort,talén,Blanquefort-bis,{},{},"{('e', 'é'): 1}",talént,Ychoux,{'t': 1},{},"{('e', 'é'): 1}",talén,La Réole,{},{},"{('e', 'é'): 1}"
+talén,Caychac,talan,Omet,{},{},"{('é', 'a'): 1}",talén,Eysines,{},{},{},talén,Giscos,{},{},{}
+talén,Eysines,talén,Caychac,{},{},{},talan,Lacanau-de-Mios,{},{},"{('é', 'a'): 1}",talen,Le Haillan,{},{},"{('é', 'e'): 1}"
+talen,Le Haillan,talén,Le Pian-Médoc,{},{},"{('e', 'é'): 1}",talént,Bénesse-Maremne,{'t': 1},{},"{('e', 'é'): 1}",talén,Eysines,{},{},"{('e', 'é'): 1}"
+talén,Le Pian-Médoc,talein,Josse,{'e': 1},{},"{('é', 'i'): 1}",talen,Le Haillan,{},{},"{('é', 'e'): 1}",talén,Montgaillard,{},{},{}
+talén,Le Taillan-Médoc,talén,Sainte-Croix-du-Mont,{},{},{},talén,Bassens,{},{},{},talen,Landerrouat,{},{},"{('é', 'e'): 1}"
+talén,Ludon-Médoc,talén,Macau,{},{},{},,,,,,,,,,
+talén,Macau,talén,Ludon-Médoc,{},{},{},talan,Lanton,{},{},"{('é', 'a'): 1}",,,,,
+talén,Parempuyre,talant,Arcins,{'t': 1},{},"{('é', 'a'): 1}",talant,Arsac,{'t': 1},{},"{('é', 'a'): 1}",,,,,
+talen,Saint-Aubin-de-Médoc,talan,Labarde,{},{},"{('e', 'a'): 1}",,,,,,,,,,
+talen,Saint-Médard-en-Jalles,talent,Margaux,{'t': 1},{},{},tallén,Castillon-de-Castets,{'l': 1},{},"{('e', 'é'): 1}",talan,Moulis-en-Médoc-bis,{},{},"{('e', 'a'): 1}"
+talen,Bègles,talén,Lugon-et-l'Île-du-Carnay,{},{},"{('e', 'é'): 1}",talén,Moulis-en-Médoc,{},{},"{('e', 'é'): 1}",,,,,
+talén,Bordeaux,talén,Auros,{},{},{},,,,,,,,,,
+talén,Bruges,talan,Bégadan,{},{},"{('é', 'a'): 1}",talén,Caudéran,{},{},{},,,,,
+talén,Caudéran,talén,Bruges,{},{},{},talan,Sigalens,{},{},"{('é', 'a'): 1}",talén,Bayon-sur-Gironde,{},{},{}
+talén,Chartrons,talén,Sainte-Colombe,{},{},{},talén,Salaunes,{},{},{},,,,,
+talén,Le Bouscat,talan,Puybarban,{},{},"{('é', 'a'): 1}",talen,Castillon-la-Bataille-bis,{},{},"{('é', 'e'): 1}",talén,Bayon-sur-Gironde,{},{},{}
+talén,Bayon-sur-Gironde,talén,Caudéran,{},{},{},talan,Sigalens,{},{},"{('é', 'a'): 1}",talén,Le Bouscat,{},{},{}
+talén,Bourg-bis,talén,Castres-Gironde,{},{},{},talen,Castillon-la-Bataille,{},{},"{('é', 'e'): 1}",tolan,Bahus-Soubiran,{},{},"{('a', 'o'): 1, ('é', 'a'): 1}"
+talé̄n,Bourg,talén,Comps,{},{'̄': 1},{},talan,Rivière-Saas-et-Gourby,{},{'̄': 1},"{('é', 'a'): 1}",talan,Baron,{},{'̄': 1},"{('é', 'a'): 1}"
+talén,Comps,talen,Gauriac,{},{},"{('é', 'e'): 1}",talé̄n,Bourg,{'̄': 1},{},{},,,,,
+talen,Gauriac,talan,Le Nizan,{},{},"{('e', 'a'): 1}",talén,Comps,{},{},"{('e', 'é'): 1}",talent,Baurech,{'t': 1},{},{}
+talén,Lansac,talan,Lignan-de-Bazas,{},{},"{('é', 'a'): 1}",talén,Marcamps,{},{},{},tolan,Saint-Loubouer,{},{},"{('a', 'o'): 1, ('é', 'a'): 1}"
+talén,Marcamps,talén,Prignac-et-Marcamps,{},{},{},talén,Lansac,{},{},{},,,,,
+talén,Prignac-et-Marcamps,talén,Marcamps,{},{},{},talan,Le Nizan,{},{},"{('é', 'a'): 1}",tolan,Renung,{},{},"{('a', 'o'): 1, ('é', 'a'): 1}"
+talént,Saint-Seurin-de-Bourg,talan,Saint-Pandelon,{},{'t': 1},"{('é', 'a'): 1}",talein,Samonac,{'e': 1},{'t': 1},"{('é', 'i'): 1}",talan,Baron,{},{'t': 1},"{('é', 'a'): 1}"
+talen,Saint-Trojan,talan,Saint-Côme,{},{},"{('e', 'a'): 1}",talén,Tauriac,{},{},"{('e', 'é'): 1}",talein,Samonac,{'i': 1},{},{}
+talein,Samonac,talént,Saint-Seurin-de-Bourg,{},{},"{('e', 'é'): 1, ('i', 'n'): 1, ('n', 't'): 1}",talan,Fronsac,{},{'i': 1},"{('e', 'a'): 1}",talen,Saint-Trojan,{},{'i': 1},{}
+talén,Tauriac,talen,Saint-Trojan,{},{},"{('é', 'e'): 1}",talen,Camarsac,{},{},"{('é', 'e'): 1}",talan,Baron,{},{},"{('é', 'a'): 1}"
+talan,Baron,talé̄n,Bourg,{'é': 1},{},"{('a', '̄'): 1}",talént,Saint-Seurin-de-Bourg,{'t': 1},{},"{('a', 'é'): 1}",talén,Tauriac,{},{},"{('a', 'é'): 1}"
+talan,Branne-bis,talén,Saint-Lon-les-Mines,{},{},"{('a', 'é'): 1}",tolan,Bonnegarde,{},{},"{('a', 'o'): 1}",talent,Camblanes-et-Meynac,{'t': 1},{},"{('a', 'e'): 1}"
+talén,Branne,talén,Hure,{},{},{},talén,Gironde-sur-Dropt-bis,{},{},{},talan,Carignan-de-Bordeaux,{},{},"{('é', 'a'): 1}"
+talén,Cabara-bis,talan,Le Tourne,{},{},"{('é', 'a'): 1}",talent,Linxe,{'t': 1},{},"{('é', 'e'): 1}",talan,Dax-Saint-Vincent,{},{},"{('é', 'a'): 1}"
+talan,Cabara,talén,Saillans,{},{},"{('a', 'é'): 1}",talèn,Le Barp,{},{},"{('a', 'è'): 1}",,,,,
+talan,Daignac,talan,Génissac,{},{},{},,,,,,,,,,
+talan,Génissac,talen,Salles-bis,{},{},"{('a', 'e'): 1}",talan,Daignac,{},{},{},talan,Losse,{},{},{}
+talan,Grézillac,talant,Jugazan,{'t': 1},{},{},,,,,,,,,,
+talant,Jugazan,talan,Grézillac,{},{'t': 1},{},talén,Civrac,{},{'t': 1},"{('a', 'é'): 1}",talon,Gaillan-en-Médoc,{},{'t': 1},"{('a', 'o'): 1}"
+talan,Moulon,talan,Horsarrieu,{},{},{},talan,Bascons,{},{},{},talan,Naujan-et-Postiac,{},{},{}
+talan,Naujan-et-Postiac,talan,Grignols-bis,{},{},{},tolan,Cazères-sur-l'Adour,{},{},"{('a', 'o'): 1}",talan,Moulon,{},{},{}
+talan,Nérigean,talan,Saint-Cricq-Chalosse,{},{},{},talan,Poudenx,{},{},{},talan,Saint-Germain-du-Puch,{},{},{}
+talan,Saint-Germain-du-Puch,tolan,Uzeste,{},{},"{('a', 'o'): 1}",talént,Laurède,{'t': 1},{},"{('a', 'é'): 1}",talan,Nérigean,{},{},{}
+talan,Saint-Quentin-de-Baron,talan,Salles,{},{},{},talent,Arengosse,{'t': 1},{},"{('a', 'e'): 1}",,,,,
+talan,Tizac-de-Curton,talént,Arjuzanx,{'t': 1},{},"{('a', 'é'): 1}",,,,,,,,,,
+talan,Béguey,talen,Sendets,{},{},"{('a', 'e'): 1}",talan,Gabarnac,{},{},{},,,,,
+talan,Cadillac,talant,Cardan,{'t': 1},{},{},talen,Camiran,{},{},"{('a', 'e'): 1}",talan,Capian,{},{},{}
+talan,Capian,talan,Saint-Michel-de-Fronsac,{},{},{},talan,Cadillac,{},{},{},talént,Sindères,{'t': 1},{},"{('a', 'é'): 1}"
+talant,Cardan,talan,Lerm-et-Musset,{},{'t': 1},{},talan,Cadillac,{},{'t': 1},{},talan,Donzac,{},{'t': 1},{}
+talan,Donzac,talén,Saint-Médard-d'Eyrans,{},{},"{('a', 'é'): 1}",talan,Gabarnac,{},{},{},talant,Cardan,{'t': 1},{},{}
+talan,Gabarnac,talan,Donzac,{},{},{},talan,Béguey,{},{},{},talan,Marions,{},{},{}
+talan,Langoiran-bis,talén,Gironde-sur-Dropt,{},{},"{('a', 'é'): 1}",,,,,,,,,,
+talan,Langoiran,talén,Blanquefort-bis,{},{},"{('a', 'é'): 1}",,,,,,,,,,
+talan,Lestiac-sur-Garonne,talén,Solférino,{},{},"{('a', 'é'): 1}",talén,Morizès,{},{},"{('a', 'é'): 1}",,,,,
+talan,Loupiac,talén,Biaudos,{},{},"{('a', 'é'): 1}",talen,Gujan,{},{},"{('a', 'e'): 1}",talan,Monprimblanc,{},{},{}
+talan,Monprimblanc,talon,Saint-Hilaire-de-la-Noaille,{},{},"{('a', 'o'): 1}",talan,Loupiac,{},{},{},,,,,
+talan,Omet,talén,Paillet,{},{},"{('a', 'é'): 1}",talén,Caychac,{},{},"{('a', 'é'): 1}",talén,La Teste-de-Buch,{},{},"{('a', 'é'): 1}"
+talén,Paillet,talén,Rions,{},{},{},talan,Omet,{},{},"{('é', 'a'): 1}",talen,Le Teich,{},{},"{('é', 'e'): 1}"
+talén,Rions,talén,Paillet,{},{},{},,,,,,,,,,
+talén,Sainte-Croix-du-Mont,talén,Captieux-bis,{},{},{},talén,Le Taillan-Médoc,{},{},{},talen,Mazères,{},{},"{('é', 'e'): 1}"
+talé,Villenave-de-Rions,talén,Beychac-et-Caillau,{'n': 1},{},{},talén,Captieux-bis,{'n': 1},{},{},talén,Arbanats,{'n': 1},{},{}
+talén,Captieux-bis,talé,Villenave-de-Rions,{},{'n': 1},{},talén,Sainte-Croix-du-Mont,{},{},{},talén,Captieux,{},{},{}
+talén,Captieux,talén,Léogeats,{},{},{},talén,Langon,{},{},{},talén,Captieux-bis,{},{},{}
+talèn,Escaudes,talen,Bouliac,{},{},"{('è', 'e'): 1}",talént,Cérons,{'t': 1},{},"{('è', 'é'): 1}",talén,Montsoué,{},{},"{('è', 'é'): 1}"
+talén,Giscos,tarén,Bieujac,{},{},"{('l', 'r'): 1}",talén,Caychac,{},{},{},talént,Saint-Pardon-de-Conques,{'t': 1},{},{}
+talen,Saint-Michel-de-Castelnau,talan,Cenon,{},{},"{('e', 'a'): 1}",talén,Saint-Émilion,{},{},"{('e', 'é'): 1}",talént,Toulenne,{'t': 1},{},"{('e', 'é'): 1}"
+talén,Ambarès-et-Lagrave,talan,Taller,{},{},"{('é', 'a'): 1}",,,,,,,,,,
+talén,Ambès,talén,Martignas-sur-Jalle,{},{},{},talén,Beychac-et-Caillau,{},{},{},,,,,
+talén,Bassens,talén,Le Taillan-Médoc,{},{},{},talén,Beychac-et-Caillau,{},{},{},,,,,
+talén,Beychac-et-Caillau,talén,Bassens,{},{},{},talé,Villenave-de-Rions,{},{'n': 1},{},talén,Ambès,{},{},{}
+talen,Bouliac,talén,Podensac,{},{},"{('e', 'é'): 1}",talèn,Escaudes,{},{},"{('e', 'è'): 1}",talan,Carbon-Blanc-bis,{},{},"{('e', 'a'): 1}"
+talan,Carbon-Blanc-bis,talen,Bouliac,{},{},"{('a', 'e'): 1}",talan,Lacanau-de-Mios,{},{},{},,,,,
+talan,Carbon-Blanc,talén,Pessac,{},{},"{('a', 'é'): 1}",talén,Libourne,{},{},"{('a', 'é'): 1}",talén,Lormont,{},{},"{('a', 'é'): 1}"
+talan,Cenon,talän,Floirac,{},{},"{('a', 'ä'): 1}",talen,Saint-Michel-de-Castelnau,{},{},"{('a', 'e'): 1}",,,,,
+talän,Floirac,talén,Saint-Sulpice-de-Faleyrens,{},{},"{('ä', 'é'): 1}",talan,Cenon,{},{},"{('ä', 'a'): 1}",talén,Lormont,{},{},"{('ä', 'é'): 1}"
+talén,Lormont,talan,Carbon-Blanc,{},{},"{('é', 'a'): 1}",talän,Floirac,{},{},"{('é', 'ä'): 1}",,,,,
+talan,Montussan,talan,Saint-Loubès,{},{},{},talan,Cussac-Fort-Médoc,{},{},{},,,,,
+talan,Saint-Loubès,talan,Lanton,{},{},{},talan,Montussan,{},{},{},,,,,
+talan,Saint-Louis-de-Montferrand,talén,Virelade,{},{},"{('a', 'é'): 1}",talan,Saint-Sulpice-et-Cameyrac,{},{},{},,,,,
+talan,Saint-Sulpice-et-Cameyrac,talan,Saint-Vincent-de-Paul,{},{},{},talan,Lège,{},{},{},talan,Saint-Louis-de-Montferrand,{},{},{}
+talan,Saint-Vincent-de-Paul,talén,Flaujagues,{},{},"{('a', 'é'): 1}",talan,Saint-Sulpice-et-Cameyrac,{},{},{},,,,,
+talan,Sainte-Eulalie,talèn,Saint-Martin-de-Sescas,{},{},"{('a', 'è'): 1}",talén,Juillac,{},{},"{('a', 'é'): 1}",,,,,
+talan,Tresses-bis,talan,Peujard,{},{},{},talén,Pessac-sur-Dordogne,{},{},"{('a', 'é'): 1}",,,,,
+talan,Tresses,talén,Rauzan,{},{},"{('a', 'é'): 1}",talén,Saint-Pey-de-Castets,{},{},"{('a', 'é'): 1}",talen,Cubzac-les-Ponts,{},{},"{('a', 'e'): 1}"
+talan,Yvrac,talant,Arcins,{'t': 1},{},{},talén,Barie,{},{},"{('a', 'é'): 1}",,,,,
+talant,Arcins,talén,Parempuyre,{},{'t': 1},"{('a', 'é'): 1}",talan,Yvrac,{},{'t': 1},{},talen,Virsac,{},{'t': 1},"{('a', 'e'): 1}"
+talan,Arsac-bis,talan,Cantenac,{},{},{},talan,Saint-Gervais,{},{},{},talén,Lamarque,{},{},"{('a', 'é'): 1}"
+talant,Arsac,talan,Castelnau-de-Médoc,{},{'t': 1},{},talén,Parempuyre,{},{'t': 1},"{('a', 'é'): 1}",talan,Cantenac,{},{'t': 1},{}
+talan,Cantenac,talén,Salignac,{},{},"{('a', 'é'): 1}",talan,Arsac-bis,{},{},{},talant,Arsac,{'t': 1},{},{}
+talan,Castelnau-de-Médoc,talan,Lanton,{},{},{},talant,Arsac,{'t': 1},{},{},talan,Cussac-Fort-Médoc,{},{},{}
+talan,Cussac-Fort-Médoc,talan,Montussan,{},{},{},talan,Castelnau-de-Médoc,{},{},{},talant,Lacanau,{'t': 1},{},{}
+talan,Labarde,talen,Saint-Aubin-de-Médoc,{},{},"{('a', 'e'): 1}",talant,Lacanau,{'t': 1},{},{},talan,Caudrot,{},{},{}
+talant,Lacanau,talan,Labarde,{},{'t': 1},{},talan,Cussac-Fort-Médoc,{},{'t': 1},{},talén,Lamarque,{},{'t': 1},"{('a', 'é'): 1}"
+talén,Lamarque,talan,Arsac-bis,{},{},"{('é', 'a'): 1}",talén,Saint-André-du-Bois,{},{},{},talant,Lacanau,{'t': 1},{},"{('é', 'a'): 1}"
+talan,Le Porge,taleénn,Audenge-bis,"{'e': 1, 'é': 1}",{},"{('a', 'n'): 1}",talén,Saint-Germain-de-Grave,{},{},"{('a', 'é'): 1}",talén,Le Temple,{},{},"{('a', 'é'): 1}"
+talén,Le Temple,talant,Verdelais,{'t': 1},{},"{('é', 'a'): 1}",talan,Le Porge,{},{},"{('é', 'a'): 1}",,,,,
+talén,Listrac-Médoc,talén,Pujols-bis,{},{},{},,,,,,,,,,
+talent,Margaux,talen,Saint-Médard-en-Jalles,{},{'t': 1},{},,,,,,,,,,
+talan,Moulis-en-Médoc-bis,talen,Saint-Médard-en-Jalles,{},{},"{('a', 'e'): 1}",tolent,Sainte-Foy-la-Grande-ter,{'t': 1},{},"{('a', 'o'): 1, ('a', 'e'): 1}",,,,,
+talén,Moulis-en-Médoc,talen,Bègles,{},{},"{('é', 'e'): 1}",tolent,Gornac,{'t': 1},{},"{('a', 'o'): 1, ('é', 'e'): 1}",,,,,
+talan,Sainte-Hélène,tolan,Cazalis,{},{},"{('a', 'o'): 1}",,,,,,,,,,
+talén,Salaunes,talen,Soussans,{},{},"{('é', 'e'): 1}",talén,Chartrons,{},{},{},talen,Castillon-la-Bataille-bis,{},{},"{('é', 'e'): 1}"
+talén,Saumos,talént,Bernos-Beaulac,{'t': 1},{},{},talen,Soussans,{},{},"{('é', 'e'): 1}",talent,Belvès-de-Castillon,{'t': 1},{},"{('é', 'e'): 1}"
+talen,Soussans,talén,Saumos,{},{},"{('e', 'é'): 1}",talén,Saint-Pey-d'Armens,{},{},"{('e', 'é'): 1}",talén,Salaunes,{},{},"{('e', 'é'): 1}"
+talent,Belvès-de-Castillon,talen,Castillon-la-Bataille-bis,{},{'t': 1},{},talenn,Gajac,{},{},"{('t', 'n'): 1}",talén,Saumos,{},{'t': 1},"{('e', 'é'): 1}"
+talen,Castillon-la-Bataille-bis,talén,Le Bouscat,{},{},"{('e', 'é'): 1}",talent,Belvès-de-Castillon,{'t': 1},{},{},talén,Salaunes,{},{},"{('e', 'é'): 1}"
+talen,Castillon-la-Bataille,talén,Bourg-bis,{},{},"{('e', 'é'): 1}",tolan,Puisseguin,{},{},"{('a', 'o'): 1, ('e', 'a'): 1}",tolan,Classun,{},{},"{('a', 'o'): 1, ('e', 'a'): 1}"
+talén,Gardegan,tolan,Lucmau,{},{},"{('a', 'o'): 1, ('é', 'a'): 1}",tolan,Villandraut-bis,{},{},"{('a', 'o'): 1, ('é', 'a'): 1}",,,,,
+talen,Saint-Étienne-de-Lisse,taleénn,Audenge-bis,"{'é': 1, 'n': 1}",{},{},talén,Saint-Genès-de-Castillon,{},{},"{('e', 'é'): 1}",,,,,
+talén,Saint-Genès-de-Castillon,talen,Saint-Étienne-de-Lisse,{},{},"{('é', 'e'): 1}",talén,Balizac,{},{},{},talén,Saint-Laurent-des-Combes,{},{},{}
+talén,Saint-Laurent-des-Combes,talén,Saint-Symphorien-bis,{},{},{},tolan,Aire-sur-l'Adour,{},{},"{('a', 'o'): 1, ('é', 'a'): 1}",talén,Saint-Genès-de-Castillon,{},{},{}
+talen,Saint-Magne-de-Castillon,talén,Saint-Pey-d'Armens,{},{},"{('e', 'é'): 1}",talan,Birac,{},{},"{('e', 'a'): 1}",,,,,
+talén,Saint-Pey-d'Armens,talen,Soussans,{},{},"{('é', 'e'): 1}",talen,Saint-Magne-de-Castillon,{},{},"{('é', 'e'): 1}",talén,Saint-Philippe-d'Aiguille,{},{},{}
+talén,Saint-Philippe-d'Aiguille,talén,Sainte-Terre,{},{},{},talén,Saint-Pey-d'Armens,{},{},{},taulan,Eugénie-les-Bains,{'u': 1},{},"{('é', 'a'): 1}"
+talén,Sainte-Colombe,talén,Chartrons,{},{},{},talén,Sainte-Terre,{},{},{},,,,,
+talén,Sainte-Terre,talén,Sainte-Colombe,{},{},{},talén,Saint-Philippe-d'Aiguille,{},{},{},talén,Vignonet,{},{},{}
+talén,Vignonet,talén,Sainte-Terre,{},{},{},,,,,,,,,,
+talén,Saint-Antoine-sur-l'Isle,tolan,Saint-Agnet,{},{},"{('a', 'o'): 1, ('é', 'a'): 1}",talan,Le Nizan,{},{},"{('é', 'a'): 1}",talent,Baurech,{'t': 1},{},"{('é', 'e'): 1}"
+talent,Baurech,talén,Saint-Antoine-sur-l'Isle,{},{'t': 1},"{('e', 'é'): 1}",talen,Gauriac,{},{'t': 1},{},talen,Camarsac,{},{'t': 1},{}
+talén,Bonnetan,talen,Camarsac,{},{},"{('é', 'e'): 1}",talan,Saint-Côme,{},{},"{('é', 'a'): 1}",tolan,Sarron,{},{},"{('a', 'o'): 1, ('é', 'a'): 1}"
+talen,Camarsac,talén,Tauriac,{},{},"{('e', 'é'): 1}",talén,Bonnetan,{},{},"{('e', 'é'): 1}",talent,Baurech,{'t': 1},{},{}
+talen,Cambes,talam,Cénac,{},{},"{('e', 'a'): 1, ('n', 'm'): 1}",tolan,Vielle-Tursan,{},{},"{('a', 'o'): 1, ('e', 'a'): 1}",talent,Camblanes-et-Meynac,{'t': 1},{},{}
+talent,Camblanes-et-Meynac,talan,Branne-bis,{},{'t': 1},"{('e', 'a'): 1}",talen,Cambes,{},{'t': 1},{},talan,Carignan-de-Bordeaux,{},{'t': 1},"{('e', 'a'): 1}"
+talan,Carignan-de-Bordeaux,tolan,Amou,{},{},"{('a', 'o'): 1}",talén,Branne,{},{},"{('a', 'é'): 1}",talent,Camblanes-et-Meynac,{'t': 1},{},"{('a', 'e'): 1}"
+talam,Cénac,talen,Cambes,{},{},"{('a', 'e'): 1, ('m', 'n'): 1}",tolan,Bassercles,{},{},"{('a', 'o'): 1, ('m', 'n'): 1}",,,,,
+talan,Créon,tolan,Brassempouy,{},{},"{('a', 'o'): 1}",,,,,,,,,,
+talan,Haux,talant,Castelnau-Chalosse,{'t': 1},{},{},talent,Geloux,{'t': 1},{},"{('a', 'e'): 1}",,,,,
+talan,Latresne,talent,Castel-Sarrazin,{'t': 1},{},"{('a', 'e'): 1}",talan,Donzacq,{},{},{},talént,Campagne,{'t': 1},{},"{('a', 'é'): 1}"
+talan,Le Tourne,talén,Cabara-bis,{},{},"{('a', 'é'): 1}",talan,Sallebœuf,{},{},{},,,,,
+talan,Lignan-de-Bordeaux,talen,Bommes,{},{},"{('a', 'e'): 1}",talan,Pompignac,{},{},{},talan,Madirac,{},{},{}
+talan,Madirac,talan,Quinsac,{},{},{},talan,Lignan-de-Bordeaux,{},{},{},,,,,
+talan,Pompignac,talan,Lignan-de-Bordeaux,{},{},{},talén,Sainte-Eulalie,{},{},"{('a', 'é'): 1}",talan,Quinsac,{},{},{}
+talan,Quinsac,talan,Uza,{},{},{},talan,Madirac,{},{},{},talan,Pompignac,{},{},{}
+talan,Sadirac,talan,Saint-Caprais-de-Bordeaux,{},{},{},,,,,,,,,,
+talan,Saint-Caprais-de-Bordeaux,talan,Sallebœuf,{},{},{},talant,Bénesse-lès-Dax,{'t': 1},{},{},talan,Sadirac,{},{},{}
+talan,Sallebœuf,talan,Le Tourne,{},{},{},talan,Saint-Caprais-de-Bordeaux,{},{},{},,,,,
+talan,Tabanac,talém,Joué,{},{},"{('a', 'é'): 1, ('n', 'm'): 1}",talan,Narrosse,{},{},{},,,,,
+talan,Asques,talén,Fronsac-bis,{},{},"{('a', 'é'): 1}",talan,La Lande-de-Fronsac,{},{},{},,,,,
+talan,Cadillac-en-Fronsadais,talén,Fronsac-bis,{},{},"{('a', 'é'): 1}",talén,Belin-Béliet,{},{},"{('a', 'é'): 1}",talan,Fronsac,{},{},{}
+talén,Fronsac-bis,talan,Mées,{},{},"{('é', 'a'): 1}",talan,Cadillac-en-Fronsadais,{},{},"{('é', 'a'): 1}",talan,Asques,{},{},"{('é', 'a'): 1}"
+talan,Fronsac,talein,Samonac,{'e': 1},{},"{('a', 'i'): 1}",talan,La Lande-de-Fronsac,{},{},{},talan,Cadillac-en-Fronsadais,{},{},{}
+talan,La Lande-de-Fronsac,talan,Fronsac,{},{},{},talan,Asques,{},{},{},,,,,
+talén,Lugon-et-l'Île-du-Carnay,talen,Bègles,{},{},"{('é', 'e'): 1}",talén,Saillans,{},{},{},,,,,
+talén,Saillans,talén,Lugon-et-l'Île-du-Carnay,{},{},{},talan,Cabara,{},{},"{('é', 'a'): 1}",talant,Saint-Paul-lès-Dax,{'t': 1},{},"{('é', 'a'): 1}"
+talan,Saint-Germain-de-la-Rivière,tolent,Saint-Vincent-de-Paul,{'t': 1},{},"{('a', 'o'): 1, ('a', 'e'): 1}",talein,Martillac,{'e': 1},{},"{('a', 'i'): 1}",talan,Saint-Michel-de-Fronsac,{},{},{}
+talan,Saint-Michel-de-Fronsac,talan,Saint-Germain-de-la-Rivière,{},{},{},talan,Capian,{},{},{},,,,,
+talan,Saint-Romain-la-Virvée,talén,Saint-Magne,{},{},"{('a', 'é'): 1}",talan,Vérac,{},{},{},,,,,
+talan,Vérac,talan,Saint-Romain-la-Virvée,{},{},{},talan,Villegouge,{},{},{},,,,,
+talan,Villegouge,talan,Campin,{},{},{},talan,Vérac,{},{},{},,,,,
+talan,Campin,talan,Villegouge,{},{},{},talan,Cours-les-Bains,{},{},{},,,,,
+talan,Cours-les-Bains,tolan,Castandet,{},{},"{('a', 'o'): 1}",talan,Lagrange,{},{},{},talan,Campin,{},{},{}
+talan,Grignols-bis,talan,Grignols,{},{},{},talan,Naujan-et-Postiac,{},{},{},talan,Tercis-les-Bains,{},{},{}
+talan,Grignols,talan,Grignols-bis,{},{},{},talam,Yzosse,{},{},"{('n', 'm'): 1}",,,,,
+talan,Lavazan,tolan,Arx,{},{},"{('a', 'o'): 1}",talén,Saucats,{},{},"{('a', 'é'): 1}",,,,,
+talan,Lerm-et-Musset,talant,Cardan,{'t': 1},{},{},talan,Marions,{},{},{},,,,,
+talan,Marions,talan,Gabarnac,{},{},{},talan,Lerm-et-Musset,{},{},{},,,,,
+talen,Sendets,talan,Béguey,{},{},"{('e', 'a'): 1}",,,,,,,,,,
+talan,Bégadan,talan,Blaignan,{},{},{},talén,Bruges,{},{},"{('a', 'é'): 1}",,,,,
+talan,Blaignan,talan,Pondaurat,{},{},{},talan,Bégadan,{},{},{},,,,,
+talén,Civrac,talant,Jugazan,{'t': 1},{},"{('é', 'a'): 1}",talant,Brocas,{'t': 1},{},"{('é', 'a'): 1}",talan,Sorbets,{},{},"{('é', 'a'): 1}"
+talon,Gaillan-en-Médoc,talant,Jugazan,{'t': 1},{},"{('o', 'a'): 1}",talán,Samadet,{},{},"{('o', 'á'): 1}",,,,,
+talén,Lesparre-Médoc,tolan,Labrit,{},{},"{('a', 'o'): 1, ('é', 'a'): 1}",talen,Naujac-sur-Mer,{},{},"{('é', 'e'): 1}",,,,,
+talen,Naujac-sur-Mer,talén,Lesparre-Médoc,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+talén,Ordonnac,talan,Urgons,{},{},"{('é', 'a'): 1}",tolan,Serres-Gaston,{},{},"{('a', 'o'): 1, ('é', 'a'): 1}",talon,Saint-Christoly-Médoc,{},{},"{('é', 'o'): 1}"
+talén,Queyrac,talént,Hinx,{'t': 1},{},{},talon,Saint-Christoly-Médoc,{},{},"{('é', 'o'): 1}",talan,Sainte-Colombe,{},{},"{('é', 'a'): 1}"
+talon,Saint-Christoly-Médoc,talén,Queyrac,{},{},"{('o', 'é'): 1}",talen,Valeyrac,{},{},"{('o', 'e'): 1}",talén,Ordonnac,{},{},"{('o', 'é'): 1}"
+talen,Saint-Germain-d'Esteuil,tolan,Serreslous-et-Arribans,{},{},"{('a', 'o'): 1, ('e', 'a'): 1}",talan,Artassenx,{},{},"{('e', 'a'): 1}",tolan,Canenx-et-Réaut,{},{},"{('a', 'o'): 1, ('e', 'a'): 1}"
+talén,Saint-Seurin-de-Cadourne,tolan,Cère,{},{},"{('a', 'o'): 1, ('é', 'a'): 1}",,,,,,,,,,
+talonn,Saint-Yzans-de-Médoc,talén,Isle-Saint-Georges,{},{'n': 1},"{('o', 'é'): 1}",talent,Mont-de-Marsan-bis,{},{},"{('o', 'e'): 1, ('n', 't'): 1}",,,,,
+talen,Valeyrac,talon,Saint-Christoly-Médoc,{},{},"{('e', 'o'): 1}",talént,Saint-Avit,{'t': 1},{},"{('e', 'é'): 1}",,,,,
+talon,Vendays-Montalivet,talon,Beautiran,{},{},{},,,,,,,,,,
+talon,Beautiran,talént,Saint-Martin-d'Oney,{'t': 1},{},"{('o', 'é'): 1}",talént,Mimizan,{'t': 1},{},"{('o', 'é'): 1}",talon,Vendays-Montalivet,{},{},{}
+talon,Cabanac-et-Villagrains,tolan,Préchac,{},{},"{('a', 'o'): 1, ('o', 'a'): 1}",talén,Castres-Gironde,{},{},"{('o', 'é'): 1}",talént,Louer,{'t': 1},{},"{('o', 'é'): 1}"
+talen,Cadaujac,talént,Saint-Pierre-du-Mont,{'t': 1},{},"{('e', 'é'): 1}",talént,Gousse,{'t': 1},{},"{('e', 'é'): 1}",talént,Cassen,{'t': 1},{},"{('e', 'é'): 1}"
+talén,Castres-Gironde,talon,Cabanac-et-Villagrains,{},{},"{('é', 'o'): 1}",talén,Bourg-bis,{},{},{},talént,Garrey,{'t': 1},{},{}
+talén,Isle-Saint-Georges,talént,Nousse,{'t': 1},{},{},talonn,Saint-Yzans-de-Médoc,{'o': 1},{},"{('é', 'n'): 1}",talént,Ozourt,{'t': 1},{},{}
+talen,La Brède-bis,talént,Poyanne,{'t': 1},{},"{('e', 'é'): 1}",talein,Louchats,{'i': 1},{},{},talent,Onard,{'t': 1},{},{}
+talén,La Brède,talént,Ousse-Suzan,{'t': 1},{},{},talen,Léognan,{},{},"{('é', 'e'): 1}",,,,,
+talen,Léognan,talén,La Brède,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+talein,Martillac,talan,Saint-Germain-de-la-Rivière,{},{'i': 1},"{('e', 'a'): 1}",talent,Saugnac-et-Cambran,{},{},"{('i', 'n'): 1, ('n', 't'): 1}",talén,Saint-Médard-d'Eyrans,{},{'i': 1},"{('e', 'é'): 1}"
+talén,Saint-Médard-d'Eyrans,talén,Saint-Morillon,{},{},{},talan,Donzac,{},{},"{('é', 'a'): 1}",talein,Martillac,{'e': 1},{},"{('é', 'i'): 1}"
+talén,Saint-Morillon,talén,Saint-Médard-d'Eyrans,{},{},{},talén,Blaignac,{},{},{},,,,,
+talén,Saint-Selve,talén,Saucats,{},{},{},talén,Blaignac,{},{},{},,,,,
+talén,Saucats,talan,Lavazan,{},{},"{('é', 'a'): 1}",talén,Saint-Selve,{},{},{},talén,Bagas,{},{},{}
+talén,Bagas,talan,Saubusse,{},{},"{('é', 'a'): 1}",talan,Estigarde,{},{},"{('é', 'a'): 1}",talén,Saucats,{},{},{}
+talén,Blaignac,talén,Saint-Selve,{},{},{},talén,Saint-Morillon,{},{},{},talant,Siest,{'t': 1},{},"{('é', 'a'): 1}"
+talén,Camiran-bis,talént,Ygos-Saint-Saturnin,{'t': 1},{},{},talént,Onesse-Laharie,{'t': 1},{},{},,,,,
+talen,Camiran,talan,Cadillac,{},{},"{('e', 'a'): 1}",talént,Baigts,{'t': 1},{},"{('e', 'é'): 1}",,,,,
+talén,Casseuil,tolan,Puyol-Cazalet,{},{},"{('a', 'o'): 1, ('é', 'a'): 1}",talen,Fontet,{},{},"{('é', 'e'): 1}",,,,,
+talen,Fontet,talén,Casseuil,{},{},"{('e', 'é'): 1}",talén,Biscarosse-bis,{},{},"{('e', 'é'): 1}",talén,Doazit,{},{},"{('e', 'é'): 1}"
+talén,Gironde-sur-Dropt-bis,talén,Branne,{},{},{},talén,Gaas,{},{},{},talen,Sorde-l'Abbaye,{},{},"{('é', 'e'): 1}"
+talén,Gironde-sur-Dropt,talan,Langoiran-bis,{},{},"{('é', 'a'): 1}",talen,Moustey,{},{},"{('é', 'e'): 1}",,,,,
+talén,Hure,talén,Estibeaux,{},{},{},talén,Branne,{},{},{},talén,Cagnotte,{},{},{}
+talén,La Réole-bis,talén,Saugnacq-et-Muret,{},{},{},talen,Mimbaste,{},{},"{('é', 'e'): 1}",,,,,
+talén,La Réole,talen,Blanquefort,{},{},"{('é', 'e'): 1}",talén,Mouscardès,{},{},{},,,,,
+talen,Lamothe-Landerron,talen,Loupiac-de-la-Réole,{},{},{},talént,Tilh,{'t': 1},{},"{('e', 'é'): 1}",,,,,
+talen,Loupiac-de-la-Réole,talen,Lamothe-Landerron,{},{},{},,,,,,,,,,
+talen,Mongauzy,talén,Arue,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+talén,Morizès,talan,Lestiac-sur-Garonne,{},{},"{('é', 'a'): 1}",talén,Arouille,{},{},{},,,,,
+talén,Noaillac,talén,Arveyres,{},{},{},talén,Lugaut,{},{},{},,,,,
+talén,Pompéjac,talén,Arcachon-bis,{},{},{},talén,Roquefort,{},{},{},,,,,
+talén,Saint-Hilaire-de-la-Noaille-bis,talon,Saint-Hilaire-de-la-Noaille,{},{},"{('é', 'o'): 1}",talen,Civrac-sur-Dordogne,{},{},"{('é', 'e'): 1}",,,,,
+talon,Saint-Hilaire-de-la-Noaille,talan,Monprimblanc,{},{},"{('o', 'a'): 1}",talén,Saint-Hilaire-de-la-Noaille-bis,{},{},"{('o', 'é'): 1}",,,,,
+talén,Arcachon-bis,talén,Pompéjac,{},{},{},talént,Arcachon,{'t': 1},{},{},,,,,
+talént,Arcachon,talén,Arcachon-bis,{},{'t': 1},{},talén,La Teste-de-Buch-bis,{},{'t': 1},{},,,,,
+talént,Cazaux,talen,Gujan,{},{'t': 1},"{('é', 'e'): 1}",talénn,Lue,{},{},"{('t', 'n'): 1}",,,,,
+talen,Gujan,talan,Loupiac,{},{},"{('e', 'a'): 1}",talént,Cazaux,{'t': 1},{},"{('e', 'é'): 1}",talén,La Teste-de-Buch-bis,{},{},"{('e', 'é'): 1}"
+talén,La Teste-de-Buch-bis,talént,Arcachon,{'t': 1},{},{},talen,Gujan,{},{},"{('é', 'e'): 1}",,,,,
+talent,La Teste-de-Buch-ter,talént,Saint-Laurent-de-Gosse,{},{},"{('e', 'é'): 1}",talen,Aurice,{},{'t': 1},{},,,,,
+talén,La Teste-de-Buch,talan,Omet,{},{},"{('é', 'a'): 1}",tarén,Bieujac,{},{},"{('l', 'r'): 1}",talen,Le Teich,{},{},"{('é', 'e'): 1}"
+talen,Le Teich,talén,Mestras,{},{},"{('e', 'é'): 1}",talén,Paillet,{},{},"{('e', 'é'): 1}",talén,La Teste-de-Buch,{},{},"{('e', 'é'): 1}"
+talén,Mestras,talen,Le Teich,{},{},"{('é', 'e'): 1}",talen,Bommes,{},{},"{('é', 'e'): 1}",,,,,
+tarén,Bieujac,talén,La Teste-de-Buch,{},{},"{('r', 'l'): 1}",talén,Giscos,{},{},"{('r', 'l'): 1}",taren,Castets-en-Dorthe,{},{},"{('é', 'e'): 1}"
+talen,Bommes,taren,Castets-en-Dorthe,{},{},"{('l', 'r'): 1}",talan,Lignan-de-Bordeaux,{},{},"{('e', 'a'): 1}",talén,Mestras,{},{},"{('e', 'é'): 1}"
+taren,Castets-en-Dorthe,talént,Saint-Maurice-sur-Adour,{'t': 1},{},"{('r', 'l'): 1, ('e', 'é'): 1}",talen,Bommes,{},{},"{('r', 'l'): 1}",tarén,Bieujac,{},{},"{('e', 'é'): 1}"
+talen,Fargues,talén,Langon-bis,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+talén,Langon-bis,talen,Fargues,{},{},"{('é', 'e'): 1}",talént,Fargues,{'t': 1},{},{},,,,,
+talén,Langon,talén,Captieux,{},{},{},talént,Larrivière-Saint-Savin,{'t': 1},{},{},talén,Budos,{},{},{}
+talén,Léogeats,talén,Saint-Pierre-de-Mons,{},{},{},talén,Captieux,{},{},{},talen,Mazères,{},{},"{('é', 'e'): 1}"
+talen,Mazères,talén,Sainte-Croix-du-Mont,{},{},"{('e', 'é'): 1}",talén,Roaillan,{},{},"{('e', 'é'): 1}",talén,Léogeats,{},{},"{('e', 'é'): 1}"
+talén,Roaillan,talen,Mazères,{},{},"{('é', 'e'): 1}",talén,Sarraziet,{},{},{},,,,,
+talént,Saint-Pardon-de-Conques,talén,Giscos,{},{'t': 1},{},talén,Capbreton,{},{'t': 1},{},talén,Sauternes,{},{'t': 1},{}
+talén,Saint-Pierre-de-Mons,talén,Labenne,{},{},{},talén,Léogeats,{},{},{},talén,Sauternes,{},{},{}
+talén,Sauternes,talen,Saint-Sever,{},{},"{('é', 'e'): 1}",talént,Saint-Pardon-de-Conques,{'t': 1},{},{},talén,Saint-Pierre-de-Mons,{},{},{}
+talént,Toulenne,talen,Saint-Michel-de-Castelnau,{},{'t': 1},"{('é', 'e'): 1}",talén,Soustons,{},{'t': 1},{},,,,,
+talén,Arveyres,talen,Tosse,{},{},"{('é', 'e'): 1}",talén,Noaillac,{},{},{},,,,,
+talen,Civrac-sur-Dordogne,talén,Saint-Hilaire-de-la-Noaille-bis,{},{},"{('e', 'é'): 1}",talén,Saint-Estèphe,{},{},"{('e', 'é'): 1}",,,,,
+talen,Izon,talent,Orx,{'t': 1},{},{},talent,Cissac-Médoc,{'t': 1},{},{},talen,Saubrigues,{},{},{}
+talen,Libourne-bis,talén,Libourne,{},{},"{('e', 'é'): 1}",talen,Saubion,{},{},{},talén,Pomerol,{},{},"{('e', 'é'): 1}"
+talén,Libourne,talan,Carbon-Blanc,{},{},"{('é', 'a'): 1}",talen,Libourne-bis,{},{},"{('é', 'e'): 1}",talen,Vayres,{},{},"{('é', 'e'): 1}"
+talén,Pomerol,talen,Libourne-bis,{},{},"{('é', 'e'): 1}",talén,Pauillac,{},{},{},talen,Vayres,{},{},"{('é', 'e'): 1}"
+talén,Saint-Émilion,talen,Saint-Michel-de-Castelnau,{},{},"{('é', 'e'): 1}",talén,Saint-Sulpice-de-Faleyrens,{},{},{},talen,Roquebrune,{},{},"{('é', 'e'): 1}"
+talén,Saint-Sulpice-de-Faleyrens,talén,Saint-Émilion,{},{},{},talän,Floirac,{},{},"{('é', 'ä'): 1}",talen,Vayres,{},{},"{('é', 'e'): 1}"
+talen,Vayres,talén,Saint-Sulpice-de-Faleyrens,{},{},"{('e', 'é'): 1}",talén,Libourne,{},{},"{('e', 'é'): 1}",talén,Pomerol,{},{},"{('e', 'é'): 1}"
+talen,Landerrouet-sur-Ségur,talén,Argelouse,{},{},"{('e', 'é'): 1}",talén,Angresse,{},{},"{('e', 'é'): 1}",talén,Monségur,{},{},"{('e', 'é'): 1}"
+talén,Monségur,talén,Callen,{},{},{},talén,Saint-Jean-de-Marsacq,{},{},{},talen,Landerrouet-sur-Ségur,{},{},"{('é', 'e'): 1}"
+talen,Roquebrune,talen,Soorts-Hossegor,{},{},{},talén,Saint-Émilion,{},{},"{('e', 'é'): 1}",talén,Pauillac,{},{},"{('e', 'é'): 1}"
+talent,Cissac-Médoc,talen,Izon,{},{'t': 1},{},talént,Messanges,{},{},"{('e', 'é'): 1}",talén,Pauillac,{},{'t': 1},"{('e', 'é'): 1}"
+talén,Pauillac,talén,Pomerol,{},{},{},talent,Cissac-Médoc,{'t': 1},{},"{('é', 'e'): 1}",talen,Roquebrune,{},{},"{('é', 'e'): 1}"
+talén,Saint-Estèphe,talen,Civrac-sur-Dordogne,{},{},"{('é', 'e'): 1}",talént,Saint-Julien-Beychevelle,{'t': 1},{},{},,,,,
+talént,Saint-Julien-Beychevelle,talent,Saint-Vincent-de-Tyrosse,{},{},"{('é', 'e'): 1}",talén,Sore,{},{'t': 1},{},talén,Saint-Estèphe,{},{'t': 1},{}
+talén,Saint-Sauveur,talén,Vertheuil,{},{},{},,,,,,,,,,
+talén,Vertheuil,talén,Saint-Sauveur,{},{},{},talén,Cazaugitat,{},{},{},,,,,
+talén,Cazaugitat,talén,Vertheuil,{},{},{},,,,,,,,,,
+talen,Landerrouat,talent,Massugas,{'t': 1},{},{},talén,Le Taillan-Médoc,{},{},"{('e', 'é'): 1}",talén,Listrac-de-Durèze,{},{},"{('e', 'é'): 1}"
+talén,Listrac-de-Durèze,talen,Landerrouat,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+talent,Massugas,talen,Landerrouat,{},{'t': 1},{},talen,Pellegrue,{},{'t': 1},{},,,,,
+talen,Pellegrue,talent,Massugas,{'t': 1},{},{},,,,,,,,,,
+talén,Canéjan,talén,Cestas,{},{},{},talént,Illats,{'t': 1},{},{},,,,,
+talén,Cestas,talen,Villenave-d'Ornon,{},{},"{('é', 'e'): 1}",talén,Canéjan,{},{},{},,,,,
+talént,Gradignan,talén,Landiras,{},{'t': 1},{},talen,Villenave-d'Ornon,{},{'t': 1},"{('é', 'e'): 1}",talen,Mérignac,{},{'t': 1},"{('é', 'e'): 1}"
+talén,Martignas-sur-Jalle,talen,Saint-Jean-d'Illac,{},{},"{('é', 'e'): 1}",talén,Ambès,{},{},{},talen,Mérignac,{},{},"{('é', 'e'): 1}"
+talen,Mérignac,talén,Martignas-sur-Jalle,{},{},"{('e', 'é'): 1}",talén̈,Barsac,{'̈': 1},{},"{('e', 'é'): 1}",talént,Gradignan,{'t': 1},{},"{('e', 'é'): 1}"
+talén,Pessac,talen,Talence,{},{},"{('é', 'e'): 1}",talan,Carbon-Blanc,{},{},"{('é', 'a'): 1}",talen,Saint-Jean-d'Illac,{},{},"{('é', 'e'): 1}"
+talen,Saint-Jean-d'Illac,talén,Pujols-sur-Ciron,{},{},"{('e', 'é'): 1}",talén,Martignas-sur-Jalle,{},{},"{('e', 'é'): 1}",talén,Pessac,{},{},"{('e', 'é'): 1}"
+talen,Talence,talén,Pessac,{},{},"{('e', 'é'): 1}",talen,Villenave-d'Ornon,{},{},{},,,,,
+talen,Villenave-d'Ornon,talént,Gradignan,{'t': 1},{},"{('e', 'é'): 1}",talén,Cestas,{},{},"{('e', 'é'): 1}",talen,Talence,{},{},{}
+talén,Arbanats,talén̈,Barsac,{'̈': 1},{},{},talé,Villenave-de-Rions,{},{'n': 1},{},talén,Budos,{},{},{}
+talén̈,Barsac,talen,Mérignac,{},{'̈': 1},"{('é', 'e'): 1}",talén,Arbanats,{},{'̈': 1},{},talén,Budos-bis,{},{'̈': 1},{}
+talén,Budos-bis,talént,Cérons,{'t': 1},{},{},talén,Portets,{},{},{},talén̈,Barsac,{'̈': 1},{},{}
+talén,Budos,talén,Arbanats,{},{},{},talén,Langon,{},{},{},talén,Guillos,{},{},{}
+talént,Cérons,talèn,Escaudes,{},{'t': 1},"{('é', 'è'): 1}",talén,Budos-bis,{},{'t': 1},{},talén,Guillos,{},{'t': 1},{}
+talén,Guillos,talént,Montaut,{'t': 1},{},{},talént,Cérons,{'t': 1},{},{},talén,Budos,{},{},{}
+talént,Illats,talén,Canéjan,{},{'t': 1},{},talén,Landiras,{},{'t': 1},{},talén,Podensac,{},{'t': 1},{}
+talén,Landiras,talént,Illats,{'t': 1},{},{},talént,Gradignan,{'t': 1},{},{},talén,Portets,{},{},{}
+talén,Podensac,talén,Portets,{},{},{},talen,Bouliac,{},{},"{('é', 'e'): 1}",talént,Illats,{'t': 1},{},{}
+talén,Portets,talén,Budos-bis,{},{},{},talén,Podensac,{},{},{},talén,Landiras,{},{},{}
+talén,Preignac,,,,,,,,,,,,,,,
+talén,Pujols-sur-Ciron,talen,Saint-Jean-d'Illac,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+talén,Saint-Michel-de-Rieufret,talen,Aubie-et-Espessas,{},{},"{('é', 'e'): 1}",talen,Sainte-Radegonde,{},{},"{('é', 'e'): 1}",,,,,
+talén,Virelade,talén,Saint-Vincent-de-Pertignas,{},{},{},talan,Saint-Louis-de-Montferrand,{},{},"{('é', 'a'): 1}",talén,Doulezon,{},{},{}
+talén,Doulezon,talén,Virelade,{},{},{},,,,,,,,,,
+talén,Flaujagues,talen,Gensac,{},{},"{('é', 'e'): 1}",talan,Saint-Vincent-de-Paul,{},{},"{('é', 'a'): 1}",,,,,
+talen,Gensac,talén,Juillac,{},{},"{('e', 'é'): 1}",talén,Flaujagues,{},{},"{('e', 'é'): 1}",,,,,
+talén,Juillac,talan,Sainte-Eulalie,{},{},"{('é', 'a'): 1}",talen,Gensac,{},{},"{('é', 'e'): 1}",,,,,
+talen,Mouliets,talent,Saint-Macaire,{'t': 1},{},{},talén,Pessac-sur-Dordogne,{},{},"{('e', 'é'): 1}",,,,,
+talén,Pessac-sur-Dordogne,talen,Mouliets,{},{},"{('é', 'e'): 1}",talan,Tresses-bis,{},{},"{('é', 'a'): 1}",,,,,
+talén,Pujols-bis,talén,Listrac-Médoc,{},{},{},,,,,,,,,,
+talén,Pujols,talen,Saint-Jean-de-Blaignac,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+talén,Rauzan,talan,Tresses,{},{},"{('é', 'a'): 1}",,,,,,,,,,
+talen,Saint-Jean-de-Blaignac,talén,Pujols,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+talén,Saint-Pey-de-Castets,talan,Tresses,{},{},"{('é', 'a'): 1}",talen,Sainte-Radegonde,{},{},"{('é', 'e'): 1}",,,,,
+talén,Saint-Vincent-de-Pertignas,talén,Virelade,{},{},{},talen,Sainte-Radegonde,{},{},"{('é', 'e'): 1}",,,,,
+talen,Sainte-Radegonde,talén,Saint-Michel-de-Rieufret,{},{},"{('e', 'é'): 1}",talén,Saint-Pey-de-Castets,{},{},"{('e', 'é'): 1}",talén,Saint-Vincent-de-Pertignas,{},{},"{('e', 'é'): 1}"
+talen,Aubie-et-Espessas,talén,Saint-Michel-de-Rieufret,{},{},"{('e', 'é'): 1}",talen,Cubzac-les-Ponts,{},{},{},,,,,
+talen,Cubzac-les-Ponts,talan,Tresses,{},{},"{('e', 'a'): 1}",talen,Aubie-et-Espessas,{},{},{},,,,,
+talan,Peujard,talan,Tresses-bis,{},{},{},talen,Saint-André-de-Cubzac,{},{},"{('a', 'e'): 1}",,,,,
+talen,Saint-André-de-Cubzac,talan,Peujard,{},{},"{('e', 'a'): 1}",,,,,,,,,,
+talén,Saint-Antoine,,,,,,,,,,,,,,,
+talan,Saint-Gervais,talan,Arsac-bis,{},{},{},talén,Benon,{},{},"{('a', 'é'): 1}",talén,Saint-Laurent-d'Arce,{},{},"{('a', 'é'): 1}"
+talén,Saint-Laurent-d'Arce,talan,Le Pian-sur-Garonne,{},{},"{('é', 'a'): 1}",talan,Saint-Gervais,{},{},"{('é', 'a'): 1}",,,,,
+talén,Salignac,talén,Benon,{},{},{},talan,Cantenac,{},{},"{('é', 'a'): 1}",talen,Virsac,{},{},"{('é', 'e'): 1}"
+talen,Virsac,talén,Salignac,{},{},"{('e', 'é'): 1}",talant,Arcins,{'t': 1},{},"{('e', 'a'): 1}",,,,,
+talén,Benon,talan,Saint-Gervais,{},{},"{('é', 'a'): 1}",talén,Salignac,{},{},{},talén,Carcans,{},{},{}
+talén,Carcans,talén,Hourtin,{},{},{},talén,Benon,{},{},{},,,,,
+talén,Hourtin,talén,Carcans,{},{},{},tolan,Saint-Quentin-de-Caplong,{},{},"{('a', 'o'): 1, ('é', 'a'): 1}",,,,,
+talan,Saint-Laurent-Médoc,talan,Le Pian-sur-Garonne,{},{},{},talan,Caudrot,{},{},{},,,,,
+talan,Caudrot,talan,Saint-Laurent-Médoc,{},{},{},talan,Labarde,{},{},{},talén,Saint-André-du-Bois,{},{},"{('a', 'é'): 1}"
+talan,Le Pian-sur-Garonne,talén,Saint-Laurent-d'Arce,{},{},"{('a', 'é'): 1}",talan,Saint-Laurent-Médoc,{},{},{},talén,Saint-André-du-Bois,{},{},"{('a', 'é'): 1}"
+talén,Saint-André-du-Bois,talén,Lamarque,{},{},{},talan,Le Pian-sur-Garonne,{},{},"{('é', 'a'): 1}",talan,Caudrot,{},{},"{('é', 'a'): 1}"
+talén,Saint-Germain-de-Grave,talan,Le Porge,{},{},"{('é', 'a'): 1}",talén,Saint-Laurent-du-Bois,{},{},{},,,,,
+talén,Saint-Laurent-du-Bois,talén,Saint-Germain-de-Grave,{},{},{},,,,,,,,,,
+talent,Saint-Macaire,talen,Mouliets,{},{'t': 1},{},talèn,Saint-Martin-de-Sescas,{},{'t': 1},"{('e', 'è'): 1}",,,,,
+talént,Saint-Maixant,talan,Mios,{},{'t': 1},"{('é', 'a'): 1}",talèn,Saint-Martin-de-Sescas,{},{'t': 1},"{('é', 'è'): 1}",,,,,
+talèn,Saint-Martin-de-Sescas,talént,Saint-Maixant,{'t': 1},{},"{('è', 'é'): 1}",talan,Sainte-Eulalie,{},{},"{('è', 'a'): 1}",talent,Saint-Macaire,{'t': 1},{},"{('è', 'e'): 1}"
+talén,Saint-Pierre-d'Aurillac,,,,,,,,,,,,,,,
+talant,Verdelais,talén,Le Temple,{},{'t': 1},"{('a', 'é'): 1}",talén,Grayan-bis,{},{'t': 1},"{('a', 'é'): 1}",talén,Balizac,{},{'t': 1},"{('a', 'é'): 1}"
+talén,Balizac,talén,Saint-Genès-de-Castillon,{},{},{},talant,Verdelais,{'t': 1},{},"{('é', 'a'): 1}",talen,Grayan,{},{},"{('é', 'e'): 1}"
+talén,Hostens,talén,Le Verdon-sur-Mer,{},{},{},talan,Le Tuzan,{},{},"{('é', 'a'): 1}",,,,,
+talan,Le Tuzan,talén,Hostens,{},{},"{('a', 'é'): 1}",talein,Louchats,{'e': 1},{},"{('a', 'i'): 1}",,,,,
+talein,Louchats,talen,La Brède-bis,{},{'i': 1},{},talén,Origne,{},{'i': 1},"{('e', 'é'): 1}",talan,Le Tuzan,{},{'i': 1},"{('e', 'a'): 1}"
+talén,Origne,talent,Uchacq,{'t': 1},{},"{('é', 'e'): 1}",talén,Saint-Léger-de-Balson,{},{},{},talein,Louchats,{'e': 1},{},"{('é', 'i'): 1}"
+talén,Saint-Léger-de-Balson,talén,Origne,{},{},{},talént,Clermont,{'t': 1},{},{},talén,Saint-Symphorien-bis,{},{},{}
+talén,Saint-Symphorien-bis,talén,Saint-Léger-de-Balson,{},{},{},talén,Saint-Laurent-des-Combes,{},{},{},,,,,
+talen,Saint-Symphorien,,,,,,,,,,,,,,,
+talén,Grayan-bis,talant,Verdelais,{'t': 1},{},"{('é', 'a'): 1}",talen,Grayan,{},{},"{('é', 'e'): 1}",,,,,
+talen,Grayan,talén,Balizac,{},{},"{('e', 'é'): 1}",talén,Grayan-bis,{},{},"{('e', 'é'): 1}",,,,,
+talén,Jau-Dignac-et-Loirac,talént,Lourquen,{'t': 1},{},{},talén,Le Verdon-sur-Mer,{},{},{},,,,,
+talén,Le Verdon-sur-Mer,talén,Jau-Dignac-et-Loirac,{},{},{},talén,Hostens,{},{},{},talén,Saint-Vivien-de-Médoc,{},{},{}
+talén,Saint-Vivien-de-Médoc,talén,Le Verdon-sur-Mer,{},{},{},,,,,,,,,,
+tolan,Soulac-sur-Mer,,,,,,,,,,,,,,,
+tolan,Talais,,,,,,,,,,,,,,,
+tolan,Vensac,tolan,La Roquille,{},{},{},tolan,Appelles,{},{},{},,,,,
+tolan,Appelles,tolan,Vensac,{},{},{},tolan,Caplong,{},{},{},,,,,
+tolan,Caplong,tolan,Appelles,{},{},{},,,,,,,,,,
+talan,Eynesse,tolan,La Roquille,{},{},"{('a', 'o'): 1}",,,,,,,,,,
+tolan,La Roquille,tolan,Vensac,{},{},{},talan,Eynesse,{},{},"{('o', 'a'): 1}",,,,,
+tolant,Les Lèves-et-Thoumeyragues,tolan,Riocaud,{},{'t': 1},{},talan,Ligueux,{},{'t': 1},"{('o', 'a'): 1}",,,,,
+talan,Ligueux,tolant,Les Lèves-et-Thoumeyragues,{'t': 1},{},"{('a', 'o'): 1}",tolent,Pineuilh,{'t': 1},{},"{('a', 'o'): 1, ('a', 'e'): 1}",,,,,
+tolent,Pineuilh,talan,Ligueux,{},{'t': 1},"{('o', 'a'): 1, ('e', 'a'): 1}",,,,,,,,,,
+tolan,Riocaud,tolant,Les Lèves-et-Thoumeyragues,{'t': 1},{},{},tolan,Saint-Avit-de-Soulège,{},{},{},,,,,
+tolan,Saint-Avit-de-Soulège,tolan,Riocaud,{},{},{},,,,,,,,,,
+tolan,Saint-Avit-Saint-Nazaire,,,,,,,,,,,,,,,
+tolan,Saint-Quentin-de-Caplong,talén,Hourtin,{},{},"{('o', 'a'): 1, ('a', 'é'): 1}",,,,,,,,,,
+tolan,Sainte-Foy-la-Grande-bis,talén,Auros,{},{},"{('o', 'a'): 1, ('a', 'é'): 1}",tolent,Sainte-Foy-la-Grande-ter,{'t': 1},{},"{('a', 'e'): 1}",,,,,
+tolent,Sainte-Foy-la-Grande-ter,talan,Moulis-en-Médoc-bis,{},{'t': 1},"{('o', 'a'): 1, ('e', 'a'): 1}",tolan,Sainte-Foy-la-Grande-bis,{},{'t': 1},"{('e', 'a'): 1}",,,,,
+tolan,Sainte-Foy-la-Grande,tolan,Blasimon,{},{},{},,,,,,,,,,
+tolan,Blasimon,tolan,Sainte-Foy-la-Grande,{},{},{},tolant,Castelviel,{'t': 1},{},{},,,,,
+tolant,Castelviel,tolan,Blasimon,{},{'t': 1},{},,,,,,,,,,
+tolent,Cleyrac,,,,,,,,,,,,,,,
+tolan,Coirac,,,,,,,,,,,,,,,
+tolent,Gornac,talén,Moulis-en-Médoc,{},{'t': 1},"{('o', 'a'): 1, ('e', 'é'): 1}",,,,,,,,,,
+tolan,Mérignas,tolan,Saint-Sulpice-de-Pommiers,{},{},{},,,,,,,,,,
+tolan,Mourens,tolan,Ruch,{},{},{},,,,,,,,,,
+tolan,Ruch,tolan,Mourens,{},{},{},tolan,Saint-Brice,{},{},{},,,,,
+tolan,Saint-Brice,tolan,Ruch,{},{},{},,,,,,,,,,
+tolan,Saint-Félix-de-Foncaude,,,,,,,,,,,,,,,
+talon,Saint-Léger-de-Vignague,tolan,Saint-Sulpice-de-Pommiers,{},{},"{('a', 'o'): 1, ('o', 'a'): 1}",,,,,,,,,,
+tolan,Saint-Sulpice-de-Pommiers,talon,Saint-Léger-de-Vignague,{},{},"{('o', 'a'): 1, ('a', 'o'): 1}",tolan,Mérignas,{},{},{},tolan,Sauveterre-de-Guyenne-bis,{},{},{}
+tolan,Sauveterre-de-Guyenne-bis,tolan,Saint-Sulpice-de-Pommiers,{},{},{},,,,,,,,,,
+tolan,Sauveterre-de-Guyenne-ter,tolan,Arbis,{},{},{},,,,,,,,,,
+tolan,Sauveterre-de-Guyenne,tolan,Escoussans,{},{},{},,,,,,,,,,
+tolan,Arbis,tolan,Sauveterre-de-Guyenne-ter,{},{},{},tolan,Baigneaux,{},{},{},,,,,
+tolan,Baigneaux,tolan,Arbis,{},{},{},,,,,,,,,,
+tolan,Escoussans,tolan,Sauveterre-de-Guyenne,{},{},{},,,,,,,,,,
+tolan,Faleyras,tolan,Frontenac,{},{},{},,,,,,,,,,
+tolan,Frontenac,tolan,Romagne,{},{},{},tolan,Faleyras,{},{},{},,,,,
+tolan,Ladaux,tolan,Lugasson,{},{},{},tolant,Soulignac,{'t': 1},{},{},,,,,
+tolan,Lugasson,tolan,Ladaux,{},{},{},tolan,Romagne,{},{},{},,,,,
+tolan,Romagne,tolan,Frontenac,{},{},{},tolan,Lugasson,{},{},{},,,,,
+tolan,Saint-Pierre-de-Bat,,,,,,,,,,,,,,,
+tolant,Soulignac,tolan,Ladaux,{},{'t': 1},{},,,,,,,,,,
+tolan,Targon-bis,,,,,,,,,,,,,,,
+tolan,Targon,tolan,Cazalis,{},{},{},,,,,,,,,,
+tolan,Cazalis,talan,Sainte-Hélène,{},{},"{('o', 'a'): 1}",tolan,Targon,{},{},{},,,,,
+tolan,Lucmau,talén,Gardegan,{},{},"{('o', 'a'): 1, ('a', 'é'): 1}",tolan,Gours,{},{},{},,,,,
+tolan,Noaillan,tolam,Préchac-bis,{},{},"{('n', 'm'): 1}",,,,,,,,,,
+tolam,Préchac-bis,tolan,Noaillan,{},{},"{('m', 'n'): 1}",tolan,Francs,{},{},"{('m', 'n'): 1}",,,,,
+tolan,Préchac,tolan,Puynormand,{},{},{},talon,Cabanac-et-Villagrains,{},{},"{('o', 'a'): 1, ('a', 'o'): 1}",tolan,Uzeste,{},{},{}
+tolan,Uzeste,tolan,Préchac,{},{},{},talan,Saint-Germain-du-Puch,{},{},"{('o', 'a'): 1}",tolan,Villandraut-bis,{},{},{}
+tolan,Villandraut-bis,tolan,Uzeste,{},{},{},talén,Gardegan,{},{},"{('o', 'a'): 1, ('a', 'é'): 1}",tolant,Saint-Christophe-des-Bardes,{'t': 1},{},{}
+tolan,Villandraut,tolan,Francs,{},{},{},tolan,Duhort-Bachen,{},{},{},tolan,Puisseguin,{},{},{}
+tolan,Francs,tolam,Préchac-bis,{},{},"{('n', 'm'): 1}",tolan,Villandraut,{},{},{},tolan,Gours,{},{},{}
+tolan,Gours,tolant,Saint-Christophe-des-Bardes,{'t': 1},{},{},tolan,Lucmau,{},{},{},tolan,Francs,{},{},{}
+tolan,Puisseguin,talen,Castillon-la-Bataille,{},{},"{('o', 'a'): 1, ('a', 'e'): 1}",tolan,Puynormand,{},{},{},tolan,Villandraut,{},{},{}
+tolan,Puynormand,tolan,Puisseguin,{},{},{},tolan,Préchac,{},{},{},tolant,Saint-Christophe-des-Bardes,{'t': 1},{},{}
+tolant,Saint-Christophe-des-Bardes,tolan,Villandraut-bis,{},{'t': 1},{},tolan,Gours,{},{'t': 1},{},tolan,Puynormand,{},{'t': 1},{}
+tolan,Aire-sur-l'Adour,talén,Saint-Laurent-des-Combes,{},{},"{('o', 'a'): 1, ('a', 'é'): 1}",tolan,Buanes,{},{},{},,,,,
+tolan,Bahus-Soubiran,talén,Bourg-bis,{},{},"{('o', 'a'): 1, ('a', 'é'): 1}",tolan,Classun,{},{},{},tolan,Buanes,{},{},{}
+tolan,Buanes,tolan,Aire-sur-l'Adour,{},{},{},talént,Gamarde-les-Bains,{'t': 1},{},"{('o', 'a'): 1, ('a', 'é'): 1}",tolan,Bahus-Soubiran,{},{},{}
+tolan,Classun,tolan,Bahus-Soubiran,{},{},{},talen,Castillon-la-Bataille,{},{},"{('o', 'a'): 1, ('a', 'e'): 1}",tolan,Duhort-Bachen,{},{},{}
+tolan,Duhort-Bachen,tolan,Villandraut,{},{},{},tolan,Classun,{},{},{},,,,,
+taulan,Eugénie-les-Bains,talén,Saint-Philippe-d'Aiguille,{},{'u': 1},"{('a', 'é'): 1}",,,,,,,,,,
+tolan,Latrille,tolan,Maillères,{},{},{},tolan,Lussagnet,{},{},{},,,,,
+tolan,Renung,talén,Prignac-et-Marcamps,{},{},"{('o', 'a'): 1, ('a', 'é'): 1}",tolan,Saint-Agnet,{},{},{},tolan,Saint-Loubouer,{},{},{}
+tolan,Saint-Agnet,tolan,Renung,{},{},{},talén,Saint-Antoine-sur-l'Isle,{},{},"{('o', 'a'): 1, ('a', 'é'): 1}",tolan,Sarron,{},{},{}
+tolan,Saint-Loubouer,tolan,Sarron,{},{},{},talén,Lansac,{},{},"{('o', 'a'): 1, ('a', 'é'): 1}",tolan,Renung,{},{},{}
+tolan,Sarron,talén,Bonnetan,{},{},"{('o', 'a'): 1, ('a', 'é'): 1}",tolan,Saint-Loubouer,{},{},{},tolan,Saint-Agnet,{},{},{}
+tolan,Vielle-Tursan,talen,Cambes,{},{},"{('o', 'a'): 1, ('a', 'e'): 1}",talan,Amou-bis,{},{},"{('o', 'a'): 1}",tolan,Amou,{},{},{}
+talan,Amou-bis,tolan,Vielle-Tursan,{},{},"{('a', 'o'): 1}",,,,,,,,,,
+tolan,Amou,talan,Carignan-de-Bordeaux,{},{},"{('o', 'a'): 1}",tolan,Vielle-Tursan,{},{},{},,,,,
+tolan,Bassercles,talam,Cénac,{},{},"{('o', 'a'): 1, ('n', 'm'): 1}",tolan,Bonnegarde,{},{},{},talén,Tartas-bis,{},{},"{('o', 'a'): 1, ('a', 'é'): 1}"
+tolan,Bonnegarde,talan,Branne-bis,{},{},"{('o', 'a'): 1}",tolan,Brassempouy,{},{},{},tolan,Bassercles,{},{},{}
+tolan,Brassempouy,tolan,Bonnegarde,{},{},{},talan,Créon,{},{},"{('o', 'a'): 1}",talén,Souprosse,{},{},"{('o', 'a'): 1, ('a', 'é'): 1}"
+tolan,Castaignos-Souslens,,,,,,,,,,,,,,,
+talent,Castel-Sarrazin,talan,Latresne,{},{'t': 1},"{('e', 'a'): 1}",,,,,,,,,,
+talant,Castelnau-Chalosse,talan,Haux,{},{'t': 1},{},,,,,,,,,,
+talan,Donzacq,talan,Latresne,{},{},{},tolan,Marpaps,{},{},"{('a', 'o'): 1}",talant,Gaujacq,{'t': 1},{},{}
+talant,Gaujacq,talénn,Laglorieuse,{},{},"{('a', 'é'): 1, ('t', 'n'): 1}",talent,Campet,{},{},"{('a', 'e'): 1}",talan,Donzacq,{},{'t': 1},{}
+tolan,Marpaps,talan,Donzacq,{},{},"{('o', 'a'): 1}",,,,,,,,,,
+tolān,Nassiet,,,,,,,,,,,,,,,
+talan,Pomarez,talan,Castets,{},{},{},,,,,,,,,,
+talan,Castets,talan,Pomarez,{},{},{},,,,,,,,,,
+talan,Léon,,,,,,,,,,,,,,,
+talan,Lévignacq,,,,,,,,,,,,,,,
+talent,Linxe,talén,Cabara-bis,{},{'t': 1},"{('e', 'é'): 1}",talant,Lit-et-Mixe,{},{},"{('e', 'a'): 1}",,,,,
+talant,Lit-et-Mixe,talan,Saint-Michel-Escalus,{},{'t': 1},{},talent,Linxe,{},{},"{('a', 'e'): 1}",,,,,
+talan,Saint-Julien-en-Born,talan,Taller,{},{},{},talan,Saint-Michel-Escalus,{},{},{},,,,,
+talan,Saint-Michel-Escalus,talan,Saint-Julien-en-Born,{},{},{},talant,Lit-et-Mixe,{'t': 1},{},{},talan,Vielle-Saint-Girons,{},{},{}
+talan,Taller,talén,Ambarès-et-Lagrave,{},{},"{('a', 'é'): 1}",talan,Saint-Julien-en-Born,{},{},{},talan,Uza,{},{},{}
+talan,Uza,talan,Vielle-Saint-Girons,{},{},{},talan,Quinsac,{},{},{},talan,Taller,{},{},{}
+talan,Vielle-Saint-Girons,talan,Uza,{},{},{},talan,Saint-Michel-Escalus,{},{},{},,,,,
+talant,Bénesse-lès-Dax,talan,Saint-Caprais-de-Bordeaux,{},{'t': 1},{},talan,Dax-Saint-Vincent,{},{'t': 1},{},,,,,
+talan,Candresse,talan,Dax-Saint-Vincent,{},{},{},,,,,,,,,,
+talan,Dax-Saint-Vincent,talén,Cabara-bis,{},{},"{('a', 'é'): 1}",talan,Candresse,{},{},{},talant,Bénesse-lès-Dax,{'t': 1},{},{}
+tolan,Dax,talan,Herm,{},{},"{('o', 'a'): 1}",,,,,,,,,,
+talan,Herm,talan,Heugas,{},{},{},tolan,Dax,{},{},"{('a', 'o'): 1}",,,,,
+talan,Heugas,talan,Herm,{},{},{},,,,,,,,,,
+talan,Mées,talan,Narrosse,{},{},{},talén,Fronsac-bis,{},{},"{('a', 'é'): 1}",talant,Oeyreluy,{'t': 1},{},{}
+talan,Narrosse,talan,Tabanac,{},{},{},talan,Mées,{},{},{},talant,Oeyreluy,{'t': 1},{},{}
+talant,Oeyreluy,talan,Mées,{},{'t': 1},{},talan,Narrosse,{},{'t': 1},{},,,,,
+talan,Rivière-Saas-et-Gourby,talé̄n,Bourg,{'é': 1},{},"{('a', '̄'): 1}",talan,Sablar,{},{},{},talan,Saint-Pandelon,{},{},{}
+talan,Sablar,talan,Rivière-Saas-et-Gourby,{},{},{},talén,Coudures,{},{},"{('a', 'é'): 1}",,,,,
+talan,Saint-Pandelon,talént,Saint-Seurin-de-Bourg,{'t': 1},{},"{('a', 'é'): 1}",talan,Rivière-Saas-et-Gourby,{},{},{},,,,,
+talant,Saint-Paul-lès-Dax,talén,Saillans,{},{'t': 1},"{('a', 'é'): 1}",,,,,,,,,,
+tolent,Saint-Vincent-de-Paul,talent,Saugnac-et-Cambran,{},{},"{('o', 'a'): 1}",talan,Saint-Germain-de-la-Rivière,{},{'t': 1},"{('o', 'a'): 1, ('e', 'a'): 1}",tolan,Herré,{},{'t': 1},"{('e', 'a'): 1}"
+talan,Saubusse,talan,Gabarret,{},{},{},talén,Bagas,{},{},"{('a', 'é'): 1}",talant,Siest,{'t': 1},{},{}
+talent,Saugnac-et-Cambran,talein,Martillac,{'i': 1},{'t': 1},{},tolent,Saint-Vincent-de-Paul,{},{},"{('a', 'o'): 1}",talant,Siest,{},{},"{('e', 'a'): 1}"
+talant,Siest,talén,Blaignac,{},{'t': 1},"{('a', 'é'): 1}",talent,Saugnac-et-Cambran,{},{},"{('a', 'e'): 1}",talan,Saubusse,{},{'t': 1},{}
+talan,Tercis-les-Bains,talan,Grignols-bis,{},{},{},talan,Créon-d'Armagnac,{},{},{},,,,,
+tolan,Téthieu,talan,Saint-Julien-d'Armagnac,{},{},"{('o', 'a'): 1}",talan,Betbezer-d'Armagnac,{},{},"{('o', 'a'): 1}",,,,,
+talam,Yzosse,tolan,Arx,{},{},"{('a', 'o'): 1, ('m', 'n'): 1}",talan,Grignols,{},{},"{('m', 'n'): 1}",talan,Créon-d'Armagnac,{},{},"{('m', 'n'): 1}"
+tolan,Arx,tolan,Baudignan,{},{},{},talan,Lavazan,{},{},"{('o', 'a'): 1}",talam,Yzosse,{},{},"{('o', 'a'): 1, ('n', 'm'): 1}"
+tolan,Baudignan,talan,Sainte-Meille,{},{},"{('o', 'a'): 1}",tolan,Arx,{},{},{},talan,Betbezer-d'Armagnac,{},{},"{('o', 'a'): 1}"
+talan,Betbezer-d'Armagnac,tolan,Téthieu,{},{},"{('a', 'o'): 1}",tolan,Baudignan,{},{},"{('a', 'o'): 1}",talan,Créon-d'Armagnac,{},{},{}
+talan,Créon-d'Armagnac,talam,Yzosse,{},{},"{('n', 'm'): 1}",talan,Tercis-les-Bains,{},{},{},talan,Betbezer-d'Armagnac,{},{},{}
+talan,Estigarde,talén,Bagas,{},{},"{('a', 'é'): 1}",talan,Gabarret,{},{},{},,,,,
+talan,Gabarret,talan,Estigarde,{},{},{},talan,Saubusse,{},{},{},tolan,Herré,{},{},"{('a', 'o'): 1}"
+tolan,Herré,tolent,Saint-Vincent-de-Paul,{'t': 1},{},"{('a', 'e'): 1}",talan,Lagrange,{},{},"{('o', 'a'): 1}",talan,Gabarret,{},{},"{('o', 'a'): 1}"
+talan,Lagrange,talan,Cours-les-Bains,{},{},{},tolan,Herré,{},{},"{('a', 'o'): 1}",,,,,
+talan,Losse,talan,Génissac,{},{},{},,,,,,,,,,
+tolan,Mauvezin-d'Armagnac,talén,Nerbis,{},{},"{('o', 'a'): 1, ('a', 'é'): 1}",,,,,,,,,,
+tolan,Parleboscq,,,,,,,,,,,,,,,
+talan,Rimbez-et-Baudiets,talan,Saint-Julien-d'Armagnac,{},{},{},tolent,Bordères,{'t': 1},{},"{('a', 'o'): 1, ('a', 'e'): 1}",tolent,Castelnau-Tursan,{'t': 1},{},"{('a', 'o'): 1, ('a', 'e'): 1}"
+talan,Saint-Julien-d'Armagnac,tolan,Téthieu,{},{},"{('a', 'o'): 1}",talan,Rimbez-et-Baudiets,{},{},{},talan,Sainte-Meille,{},{},{}
+talan,Sainte-Meille,tolan,Baudignan,{},{},"{('a', 'o'): 1}",talan,Saint-Julien-d'Armagnac,{},{},{},,,,,
+talan,Arboucave,tolan,Lauret,{},{},"{('a', 'o'): 1}",tolant,Bats,{'t': 1},{},"{('a', 'o'): 1}",tolan,Lacajunte,{},{},"{('a', 'o'): 1}"
+tolant,Bats,talan,Arboucave,{},{'t': 1},"{('o', 'a'): 1}",tolent,Castelnau-Tursan,{},{},"{('a', 'e'): 1}",,,,,
+tolent,Castelnau-Tursan,talan,Rimbez-et-Baudiets,{},{'t': 1},"{('o', 'a'): 1, ('e', 'a'): 1}",tolant,Bats,{},{},"{('e', 'a'): 1}",,,,,
+talant,Geaune-bis,tolan,Geaune,{},{'t': 1},"{('a', 'o'): 1}",,,,,,,,,,
+tolan,Geaune,talant,Geaune-bis,{'t': 1},{},"{('o', 'a'): 1}",tolan,Lacajunte,{},{},{},,,,,
+tolan,Lacajunte,talan,Arboucave,{},{},"{('o', 'a'): 1}",tolan,Geaune,{},{},{},,,,,
+tolan,Lauret,talan,Arboucave,{},{},"{('o', 'a'): 1}",tolan,Mauries,{},{},{},,,,,
+tolan,Mauries,tolent,Miramont-Sensacq,{'t': 1},{},"{('a', 'e'): 1}",tolan,Lauret,{},{},{},,,,,
+tolent,Miramont-Sensacq,tolan,Mauries,{},{'t': 1},"{('e', 'a'): 1}",,,,,,,,,,
+tolan,Philondenx,,,,,,,,,,,,,,,
+tolan,Pimbo,talén,Oeyregave,{},{},"{('o', 'a'): 1, ('a', 'é'): 1}",,,,,,,,,,
+tolan,Puyol-Cazalet,talén,Casseuil,{},{},"{('o', 'a'): 1, ('a', 'é'): 1}",,,,,,,,,,
+talán,Samadet,talon,Gaillan-en-Médoc,{},{},"{('á', 'o'): 1}",talan,Sorbets,{},{},"{('á', 'a'): 1}",,,,,
+talan,Sorbets,talán,Samadet,{},{},"{('a', 'á'): 1}",talén,Civrac,{},{},"{('a', 'é'): 1}",talan,Artassenx,{},{},{}
+talan,Urgons,talan,Artassenx,{},{},{},talén,Ordonnac,{},{},"{('a', 'é'): 1}",,,,,
+talan,Artassenx,talen,Saint-Germain-d'Esteuil,{},{},"{('a', 'e'): 1}",talan,Urgons,{},{},{},talan,Sorbets,{},{},{}
+talan,Bascons,talan,Moulon,{},{},{},,,,,,,,,,
+talan,Benquet,,,,,,,,,,,,,,,
+tolent,Bordères,talan,Rimbez-et-Baudiets,{},{'t': 1},"{('o', 'a'): 1, ('e', 'a'): 1}",,,,,,,,,,
+tolan,Castandet,tolan,Cazères-sur-l'Adour,{},{},{},talan,Cours-les-Bains,{},{},"{('o', 'a'): 1}",talan,Grenade-sur-l'Adour,{},{},"{('o', 'a'): 1}"
+tolan,Cazères-sur-l'Adour,talan,Naujan-et-Postiac,{},{},"{('o', 'a'): 1}",tolan,Castandet,{},{},{},talan,Grenade-sur-l'Adour-bis,{},{},"{('o', 'a'): 1}"
+talan,Grenade-sur-l'Adour-bis,tâlan,Morganx,{},{},"{('a', 'â'): 1}",tolan,Cazères-sur-l'Adour,{},{},"{('a', 'o'): 1}",,,,,
+talan,Grenade-sur-l'Adour,tolan,Castandet,{},{},"{('a', 'o'): 1}",,,,,,,,,,
+tolant,Le Vignau,tolan,Lussagnet,{},{'t': 1},{},,,,,,,,,,
+tolan,Lussagnet,tolan,Latrille,{},{},{},tolant,Le Vignau,{'t': 1},{},{},tolan,Maurrin,{},{},{}
+tolan,Maurrin,tolan,Lussagnet,{},{},{},,,,,,,,,,
+tolan,Aubagnan,talant,Cazalis,{'t': 1},{},"{('o', 'a'): 1}",tolan,Castelner,{},{},{},,,,,
+tolan,Castelner,tolan,Aubagnan,{},{},{},,,,,,,,,,
+talant,Cazalis,tolan,Aubagnan,{},{'t': 1},"{('a', 'o'): 1}",,,,,,,,,,
+tolan,Hagetmau-bis,talan,Labastide-Chalosse,{},{},"{('o', 'a'): 1}",,,,,,,,,,
+talan,Hagetmau,talan,Horsarrieu,{},{},{},talan,Peyre,{},{},{},,,,,
+talan,Horsarrieu,talan,Moulon,{},{},{},talan,Hagetmau,{},{},{},,,,,
+talan,Labastide-Chalosse,talan,Momuy,{},{},{},tolan,Hagetmau-bis,{},{},"{('a', 'o'): 1}",,,,,
+talan,Lacrabe,talan,Monségur,{},{},{},,,,,,,,,,
+talan,Mant,talan,Momuy,{},{},{},tâlan,Morganx,{},{},"{('a', 'â'): 1}",,,,,
+talan,Momuy,talan,Mant,{},{},{},talan,Labastide-Chalosse,{},{},{},talan,Monségur,{},{},{}
+talan,Monségur,talan,Lacrabe,{},{},{},talan,Peyre,{},{},{},talan,Momuy,{},{},{}
+tâlan,Morganx,talan,Peyre,{},{},"{('â', 'a'): 1}",talan,Grenade-sur-l'Adour-bis,{},{},"{('â', 'a'): 1}",talan,Mant,{},{},"{('â', 'a'): 1}"
+talan,Peyre,talan,Hagetmau,{},{},{},tâlan,Morganx,{},{},"{('a', 'â'): 1}",talan,Monségur,{},{},{}
+talan,Poudenx,talan,Nérigean,{},{},{},talan,Saint-Cricq-Chalosse,{},{},{},,,,,
+talan,Saint-Cricq-Chalosse,talan,Poudenx,{},{},{},talan,Nérigean,{},{},{},talan,Sainte-Colombe,{},{},{}
+talan,Sainte-Colombe,talan,Saint-Cricq-Chalosse,{},{},{},talén,Queyrac,{},{},"{('a', 'é'): 1}",,,,,
+tolan,Serres-Gaston,talén,Ordonnac,{},{},"{('o', 'a'): 1, ('a', 'é'): 1}",tolan,Serreslous-et-Arribans,{},{},{},tolan,Mézos,{},{},{}
+tolan,Serreslous-et-Arribans,tolan,Serres-Gaston,{},{},{},talen,Saint-Germain-d'Esteuil,{},{},"{('o', 'a'): 1, ('a', 'e'): 1}",tolan,Bélis,{},{},{}
+tolan,Bélis,tolan,Aureilhan,{},{},{},tolan,Serreslous-et-Arribans,{},{},{},,,,,
+talant,Brocas,talén,Civrac,{},{'t': 1},"{('a', 'é'): 1}",tolan,Garein,{},{'t': 1},"{('a', 'o'): 1}",tolan,Canenx-et-Réaut,{},{'t': 1},"{('a', 'o'): 1}"
+tolan,Canenx-et-Réaut,talen,Saint-Germain-d'Esteuil,{},{},"{('o', 'a'): 1, ('a', 'e'): 1}",talant,Brocas,{'t': 1},{},"{('o', 'a'): 1}",tolan,Cère,{},{},{}
+tolan,Cère,tolan,Labrit,{},{},{},talén,Saint-Seurin-de-Cadourne,{},{},"{('o', 'a'): 1, ('a', 'é'): 1}",tolan,Canenx-et-Réaut,{},{},{}
+tolan,Garein,tolan,Labrit,{},{},{},talant,Brocas,{'t': 1},{},"{('o', 'a'): 1}",,,,,
+tolan,Labrit,tolan,Garein,{},{},{},talén,Lesparre-Médoc,{},{},"{('o', 'a'): 1, ('a', 'é'): 1}",tolan,Cère,{},{},{}
+tolan,Maillères,tolan,Latrille,{},{},{},,,,,,,,,,
+tolan,Vert,,,,,,,,,,,,,,,
+tolan,Aureilhan,tolan,Bélis,{},{},{},tolan,Mézos,{},{},{},,,,,
+tolan,Mézos,tolan,Serres-Gaston,{},{},{},tolan,Aureilhan,{},{},{},,,,,
+talén,Mimizan-bis,talént,Mazerolles,{'t': 1},{},{},talén,Pontenx-les-Forges,{},{},{},talént,Mimizan,{'t': 1},{},{}
+talént,Mimizan,talon,Beautiran,{},{'t': 1},"{('é', 'o'): 1}",talén,Mimizan-bis,{},{'t': 1},{},,,,,
+talén,Pontenx-les-Forges,talén,Mimizan-bis,{},{},{},talént,Saint-Paul-en-Born,{'t': 1},{},{},,,,,
+talént,Saint-Paul-en-Born,talén,Pontenx-les-Forges,{},{'t': 1},{},,,,,,,,,,
+talént,Bostens,,,,,,,,,,,,,,,
+talént,Bretagne-de-Marsan,talént,Préchacq-les-Bains,{},{},{},talént,Campagne,{},{},{},,,,,
+talént,Campagne,talént,Bretagne-de-Marsan,{},{},{},talan,Latresne,{},{'t': 1},"{('é', 'a'): 1}",talent,Campet,{},{},"{('é', 'e'): 1}"
+talent,Campet,talant,Gaujacq,{},{},"{('e', 'a'): 1}",talént,Gaillères,{},{},"{('e', 'é'): 1}",talént,Campagne,{},{},"{('e', 'é'): 1}"
+talént,Gaillères,talent,Campet,{},{},"{('é', 'e'): 1}",talén,Haut-Mauco,{},{'t': 1},{},,,,,
+talent,Geloux,talan,Haux,{},{'t': 1},"{('e', 'a'): 1}",,,,,,,,,,
+talén,Haut-Mauco,talént,Gaillères,{'t': 1},{},{},talénn,Laglorieuse,{'n': 1},{},{},,,,,
+talénn,Laglorieuse,talén,Haut-Mauco,{},{'n': 1},{},talant,Gaujacq,{},{},"{('é', 'a'): 1, ('n', 't'): 1}",,,,,
+talen,Lucbardez-et-Bargues,,,,,,,,,,,,,,,
+talént,Mazerolles,talén,Mimizan-bis,{},{'t': 1},{},talént,Montfort-en-Chalosse-bis,{},{},{},,,,,
+talent,Mont-de-Marsan-bis,talent,Montfort-en-Chalosse,{},{},{},talonn,Saint-Yzans-de-Médoc,{},{},"{('e', 'o'): 1, ('t', 'n'): 1}",,,,,
+talent,Mont-de-Marsan,talént,Saint-Avit,{},{},"{('e', 'é'): 1}",talént,Goos,{},{},"{('e', 'é'): 1}",talént,Saint-Pierre-du-Mont,{},{},"{('e', 'é'): 1}"
+talént,Saint-Avit,talen,Valeyrac,{},{'t': 1},"{('é', 'e'): 1}",talent,Mont-de-Marsan,{},{},"{('é', 'e'): 1}",talént,Saint-Martin-d'Oney,{},{},{}
+talént,Saint-Martin-d'Oney,talént,Saint-Perdon,{},{},{},talon,Beautiran,{},{'t': 1},"{('é', 'o'): 1}",talént,Saint-Avit,{},{},{}
+talént,Saint-Perdon,talént,Saint-Martin-d'Oney,{},{},{},talént,Saint-Pierre-du-Mont,{},{},{},,,,,
+talént,Saint-Pierre-du-Mont,talent,Mont-de-Marsan,{},{},"{('é', 'e'): 1}",talen,Cadaujac,{},{'t': 1},"{('é', 'e'): 1}",talént,Saint-Perdon,{},{},{}
+talent,Uchacq,talént,Clermont,{},{},"{('e', 'é'): 1}",talén,Origne,{},{'t': 1},"{('e', 'é'): 1}",,,,,
+talént,Cassen,talen,Cadaujac,{},{'t': 1},"{('é', 'e'): 1}",talént,Garrey,{},{},{},,,,,
+talént,Clermont,talén,Saint-Léger-de-Balson,{},{'t': 1},{},talent,Uchacq,{},{},"{('é', 'e'): 1}",talént,Gamarde-les-Bains,{},{},{}
+talént,Gamarde-les-Bains,tolan,Buanes,{},{'t': 1},"{('a', 'o'): 1, ('é', 'a'): 1}",talént,Clermont,{},{},{},talént,Garrey,{},{},{}
+talént,Garrey,talén,Castres-Gironde,{},{'t': 1},{},talént,Gamarde-les-Bains,{},{},{},talént,Cassen,{},{},{}
+talént,Goos,talent,Mont-de-Marsan,{},{},"{('é', 'e'): 1}",talént,Hinx,{},{},{},talént,Gousse,{},{},{}
+talént,Gousse,talen,Cadaujac,{},{'t': 1},"{('é', 'e'): 1}",talént,Goos,{},{},{},talént,Louer,{},{},{}
+talént,Hinx,talént,Goos,{},{},{},talén,Queyrac,{},{'t': 1},{},talént,Laurède,{},{},{}
+talént,Laurède,talan,Saint-Germain-du-Puch,{},{'t': 1},"{('é', 'a'): 1}",talént,Louer,{},{},{},talént,Hinx,{},{},{}
+talént,Louer,talént,Laurède,{},{},{},talon,Cabanac-et-Villagrains,{},{'t': 1},"{('é', 'o'): 1}",talént,Gousse,{},{},{}
+talént,Lourquen,talén,Jau-Dignac-et-Loirac,{},{'t': 1},{},,,,,,,,,,
+talént,Montfort-en-Chalosse-bis,talént,Mazerolles,{},{},{},talent,Montfort-en-Chalosse,{},{},"{('é', 'e'): 1}",,,,,
+talent,Montfort-en-Chalosse,talent,Mont-de-Marsan-bis,{},{},{},talént,Montfort-en-Chalosse-bis,{},{},"{('e', 'é'): 1}",,,,,
+talént,Nousse,talén,Isle-Saint-Georges,{},{'t': 1},{},talent,Onard,{},{},"{('é', 'e'): 1}",,,,,
+talent,Onard,talen,La Brède-bis,{},{'t': 1},{},talént,Nousse,{},{},"{('e', 'é'): 1}",,,,,
+talént,Ozourt,talén,Isle-Saint-Georges,{},{'t': 1},{},talént,Poyanne,{},{},{},,,,,
+talént,Poyanne,talen,La Brède-bis,{},{'t': 1},"{('é', 'e'): 1}",talént,Ozourt,{},{},{},,,,,
+talent,Poyartin,talént,Saint-Geours-d'Auribat,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+talént,Préchacq-les-Bains,talént,Bretagne-de-Marsan,{},{},{},,,,,,,,,,
+talént,Saint-Geours-d'Auribat,talent,Poyartin,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+talént,Saint-Jean-de-Lier,,,,,,,,,,,,,,,
+talént,Sort-en-Chalosse,talént,Vicq-d'Auribat,{},{},{},,,,,,,,,,
+talént,Vicq-d'Auribat,talént,Sort-en-Chalosse,{},{},{},,,,,,,,,,
+talent,Arengosse,talént,Arjuzanx,{},{},"{('e', 'é'): 1}",talan,Saint-Quentin-de-Baron,{},{'t': 1},"{('e', 'a'): 1}",,,,,
+talént,Arjuzanx,talénth,Garrosse,{'h': 1},{},{},talan,Tizac-de-Curton,{},{'t': 1},"{('é', 'a'): 1}",talent,Arengosse,{},{},"{('é', 'e'): 1}"
+talénth,Garrosse,talént,Morcenx-bourg,{},{'h': 1},{},talént,Arjuzanx,{},{'h': 1},{},,,,,
+talent,Lesperon,talent,Morcenx,{},{},{},talént,Morcenx-bourg,{},{},"{('e', 'é'): 1}",,,,,
+talént,Morcenx-bourg,talent,Lesperon,{},{},"{('é', 'e'): 1}",talénth,Garrosse,{'h': 1},{},{},,,,,
+talént,Morcenx-gare,,,,,,,,,,,,,,,
+talent,Morcenx,talent,Lesperon,{},{},{},,,,,,,,,,
+talént,Onesse-Laharie,talént,Sindères,{},{},{},talén,Camiran-bis,{},{'t': 1},{},,,,,
+talént,Ousse-Suzan,talén,La Brède,{},{'t': 1},{},talént,Sindères,{},{},{},,,,,
+talént,Sindères,talént,Ousse-Suzan,{},{},{},talan,Capian,{},{'t': 1},"{('é', 'a'): 1}",talént,Onesse-Laharie,{},{},{}
+talént,Ygos-Saint-Saturnin,talén,Camiran-bis,{},{'t': 1},{},talént,Baigts,{},{},{},,,,,
+talént,Baigts,talént,Ygos-Saint-Saturnin,{},{},{},talen,Camiran,{},{'t': 1},"{('é', 'e'): 1}",,,,,
+talént,Bergouey,,,,,,,,,,,,,,,
+talent,Caupenne,talén,Saint-Aubin,{},{'t': 1},"{('e', 'é'): 1}",talént,Hauriet,{},{},"{('e', 'é'): 1}",,,,,
+talén,Doazit,talen,Fontet,{},{},"{('é', 'e'): 1}",talen,Toulouzette,{},{},"{('é', 'e'): 1}",,,,,
+talént,Hauriet,talent,Caupenne,{},{},"{('é', 'e'): 1}",talént,Lahosse,{},{},{},,,,,
+talént,Lahosse,talént,Larbey,{},{},{},talént,Hauriet,{},{},{},,,,,
+talént,Larbey,talént,Lahosse,{},{},{},talént,Maylis,{},{},{},,,,,
+talént,Maylis,talént,Larbey,{},{},{},,,,,,,,,,
+talént,Mugron-bis,talén,Nerbis,{},{'t': 1},{},,,,,,,,,,
+talént,Mugron,talén,Nerbis,{},{'t': 1},{},,,,,,,,,,
+talén,Nerbis,tolan,Mauvezin-d'Armagnac,{},{},"{('a', 'o'): 1, ('é', 'a'): 1}",talént,Mugron-bis,{'t': 1},{},{},talént,Mugron,{'t': 1},{},{}
+talén,Saint-Aubin,talent,Caupenne,{'t': 1},{},"{('é', 'e'): 1}",talen,Toulouzette,{},{},"{('é', 'e'): 1}",,,,,
+talen,Toulouzette,talén,Doazit,{},{},"{('e', 'é'): 1}",talén,Biscarosse-bis,{},{},"{('e', 'é'): 1}",talén,Saint-Aubin,{},{},"{('e', 'é'): 1}"
+talén,Biscarosse-bis,talen,Fontet,{},{},"{('é', 'e'): 1}",talen,Toulouzette,{},{},"{('é', 'e'): 1}",,,,,
+talén,Biscarosse,talén,Gastes,{},{},{},,,,,,,,,,
+talén,Gastes,talén,Biscarosse,{},{},{},,,,,,,,,,
+talén,Parentis-en-Born,talent,Misson,{'t': 1},{},"{('é', 'e'): 1}",talén,Sainte-Eulalie-en-Born,{},{},{},,,,,
+talén,Sainte-Eulalie-en-Born,talén,Parentis-en-Born,{},{},{},talen,Bélus,{},{},"{('é', 'e'): 1}",,,,,
+talén,Sanguinet,talént,Ychoux,{'t': 1},{},{},,,,,,,,,,
+talént,Ychoux,talen,Blanquefort,{},{'t': 1},"{('é', 'e'): 1}",talén,Sanguinet,{},{'t': 1},{},talen,Bélus,{},{'t': 1},"{('é', 'e'): 1}"
+talen,Bélus,talén,Sainte-Eulalie-en-Born,{},{},"{('e', 'é'): 1}",talént,Ychoux,{'t': 1},{},"{('e', 'é'): 1}",,,,,
+talen,Cauneille,talént,Peyrehorade,{'t': 1},{},"{('e', 'é'): 1}",,,,,,,,,,
+talen,Hastingues,talénn,Port-de-Lanne,{'é': 1},{},"{('e', 'n'): 1}",,,,,,,,,,
+talén,Oeyregave,tolan,Pimbo,{},{},"{('a', 'o'): 1, ('é', 'a'): 1}",talént,Orthevielle,{'t': 1},{},{},,,,,
+talént,Orist,talén,Saint-Étienne-d'Orthe,{},{'t': 1},{},talént,Orthevielle,{},{},{},talént,Peyrehorade-bis,{},{},{}
+talént,Orthevielle,talént,Orist,{},{},{},talén,Oeyregave,{},{'t': 1},{},talén,Pey,{},{'t': 1},{}
+talén,Pey,talénn,Port-de-Lanne,{'n': 1},{},{},talént,Orthevielle,{'t': 1},{},{},,,,,
+talént,Peyrehorade-bis,talént,Peyrehorade,{},{},{},talént,Orist,{},{},{},,,,,
+talént,Peyrehorade,talen,Cauneille,{},{'t': 1},"{('é', 'e'): 1}",talént,Peyrehorade-bis,{},{},{},talénn,Port-de-Lanne,{},{},"{('t', 'n'): 1}"
+talénn,Port-de-Lanne,talén,Pey,{},{'n': 1},{},talen,Hastingues,{},{'n': 1},"{('é', 'e'): 1}",talént,Peyrehorade,{},{},"{('n', 't'): 1}"
+talén,Saint-Cricq-du-Gave,talén,Saint-Étienne-d'Orthe,{},{},{},,,,,,,,,,
+talén,Saint-Étienne-d'Orthe,talén,Saint-Cricq-du-Gave,{},{},{},talént,Orist,{'t': 1},{},{},,,,,
+talén,Saint-Lon-les-Mines,talan,Branne-bis,{},{},"{('é', 'a'): 1}",talen,Sorde-l'Abbaye,{},{},"{('é', 'e'): 1}",,,,,
+talen,Sorde-l'Abbaye,talén,Saint-Lon-les-Mines,{},{},"{('e', 'é'): 1}",talén,Gironde-sur-Dropt-bis,{},{},"{('e', 'é'): 1}",talén,Belhade,{},{},"{('e', 'é'): 1}"
+talén,Belhade,talen,Sorde-l'Abbaye,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+talen,Biganon,talént,Liposthey,{'t': 1},{},"{('e', 'é'): 1}",,,,,,,,,,
+talént,Liposthey,talen,Mano,{},{'t': 1},"{('é', 'e'): 1}",talént,Pissos,{},{},{},talen,Biganon,{},{'t': 1},"{('é', 'e'): 1}"
+talen,Mano,talént,Liposthey,{'t': 1},{},"{('e', 'é'): 1}",talen,Moustey,{},{},{},,,,,
+talen,Moustey,talén,Gironde-sur-Dropt,{},{},"{('e', 'é'): 1}",talen,Mano,{},{},{},,,,,
+talént,Pissos-bis,talént,Pissos,{},{},{},,,,,,,,,,
+talént,Pissos,talént,Liposthey,{},{},{},talént,Pissos-bis,{},{},{},talent,Richet,{},{},"{('é', 'e'): 1}"
+talent,Richet,talént,Saugnacq-et-Muret-bis,{},{},"{('e', 'é'): 1}",talént,Pissos,{},{},"{('e', 'é'): 1}",,,,,
+talént,Saugnacq-et-Muret-bis,talent,Richet,{},{},"{('é', 'e'): 1}",talén,Saugnacq-et-Muret,{},{'t': 1},{},,,,,
+talén,Saugnacq-et-Muret,talént,Saugnacq-et-Muret-bis,{'t': 1},{},{},talén,La Réole-bis,{},{},{},talén,Cagnotte,{},{},{}
+talén,Cagnotte,talén,Hure,{},{},{},talén,Saugnacq-et-Muret,{},{},{},,,,,
+talén,Estibeaux,talén,Gaas,{},{},{},talén,Hure,{},{},{},talen,Mimbaste,{},{},"{('é', 'e'): 1}"
+talén,Gaas,talén,Gironde-sur-Dropt-bis,{},{},{},talén,Estibeaux,{},{},{},talen,Habas,{},{},"{('é', 'e'): 1}"
+talen,Habas,talén,Labatut,{},{},"{('e', 'é'): 1}",talén,Gaas,{},{},"{('e', 'é'): 1}",,,,,
+talén,Labatut,talen,Habas,{},{},"{('é', 'e'): 1}",talen,Mimbaste,{},{},"{('é', 'e'): 1}",,,,,
+talen,Mimbaste,talén,La Réole-bis,{},{},"{('e', 'é'): 1}",talén,Labatut,{},{},"{('e', 'é'): 1}",talén,Estibeaux,{},{},"{('e', 'é'): 1}"
+talent,Misson,talén,Parentis-en-Born,{},{'t': 1},"{('e', 'é'): 1}",talén,Mouscardès,{},{'t': 1},"{('e', 'é'): 1}",,,,,
+talén,Mouscardès,talén,La Réole,{},{},{},talent,Misson,{'t': 1},{},"{('é', 'e'): 1}",talén,Ossages,{},{},{}
+talén,Ossages,talén,Pouillon,{},{},{},talén,Mouscardès,{},{},{},,,,,
+talén,Pouillon,talén,Ossages,{},{},{},,,,,,,,,,
+talént,Tilh,talen,Lamothe-Landerron,{},{'t': 1},"{('é', 'e'): 1}",,,,,,,,,,
+talén,Arouille,talén,Morizès,{},{},{},talén,Luglon,{},{},{},talén,Arue,{},{},{}
+talén,Arue,talen,Sabres,{},{},"{('é', 'e'): 1}",talen,Mongauzy,{},{},"{('é', 'e'): 1}",talén,Arouille,{},{},{}
+talen,Cachen,talen,Lencouacq,{},{},{},talén,Lue-bis,{},{},"{('e', 'é'): 1}",talén,Commensacq-bis,{},{},"{('e', 'é'): 1}"
+talént,Labastide-d'Armagnac,talent,Maillas,{},{},"{('é', 'e'): 1}",talént,Commensacq,{},{},{},,,,,
+talen,Lencouacq,talén,Lugaut,{},{},"{('e', 'é'): 1}",talen,Cachen,{},{},{},talent,Maillas,{'t': 1},{},{}
+talén,Lugaut,talén,Noaillac,{},{},{},talen,Lencouacq,{},{},"{('é', 'e'): 1}",,,,,
+talent,Maillas,talént,Labastide-d'Armagnac,{},{},"{('e', 'é'): 1}",talen,Lencouacq,{},{'t': 1},{},,,,,
+talén,Pouydesseaux,talén,Saint-Justin,{},{},{},talén,Saint-Gor,{},{},{},,,,,
+talén,Roquefort,talén,Pompéjac,{},{},{},talén,Sarbazan,{},{},{},talén,Saint-Gor,{},{},{}
+talén,Saint-Gor,talén,Pouydesseaux,{},{},{},talén,Roquefort,{},{},{},,,,,
+talén,Saint-Justin,talent,Escource-bis,{'t': 1},{},"{('é', 'e'): 1}",talén,Pouydesseaux,{},{},{},,,,,
+talén,Sarbazan,talén,Roquefort,{},{},{},,,,,,,,,,
+talént,Vielle-Soubiran,talén,Labouheyre,{},{'t': 1},{},talén,Commensacq-bis,{},{'t': 1},{},,,,,
+talén,Commensacq-bis,talént,Commensacq,{'t': 1},{},{},talen,Cachen,{},{},"{('é', 'e'): 1}",talént,Vielle-Soubiran,{'t': 1},{},{}
+talént,Commensacq,talént,Labastide-d'Armagnac,{},{},{},talén,Commensacq-bis,{},{'t': 1},{},,,,,
+talent,Escource-bis,talén,Saint-Justin,{},{'t': 1},"{('e', 'é'): 1}",talént,Escource,{},{},"{('e', 'é'): 1}",,,,,
+talént,Escource,talén,Labouheyre,{},{'t': 1},{},talent,Escource-bis,{},{},"{('é', 'e'): 1}",,,,,
+talén,Labouheyre,talént,Escource,{'t': 1},{},{},talént,Vielle-Soubiran,{'t': 1},{},{},talén,Lue-bis,{},{},{}
+talén,Lue-bis,talen,Cachen,{},{},"{('é', 'e'): 1}",talén,Labouheyre,{},{},{},,,,,
+talénn,Lue,talént,Cazaux,{},{},"{('n', 't'): 1}",,,,,,,,,,
+talén,Luglon,talén,Arouille,{},{},{},talén,Solférino,{},{},{},talen,Sabres,{},{},"{('é', 'e'): 1}"
+talén,Sabres-bis,talén,Trensacq,{},{},{},,,,,,,,,,
+talen,Sabres,talén,Arue,{},{},"{('e', 'é'): 1}",talén,Luglon,{},{},"{('e', 'é'): 1}",,,,,
+talén,Solférino,talén,Luglon,{},{},{},talan,Lestiac-sur-Garonne,{},{},"{('é', 'a'): 1}",talén,Trensacq,{},{},{}
+talén,Trensacq,talén,Solférino,{},{},{},talén,Sabres-bis,{},{},{},,,,,
+talén,Barthes,talén,Biaudos,{},{},{},talén,Tarnos,{},{},{},talén,Biarrotte,{},{},{}
+talén,Biarrotte,talén,Barthes,{},{},{},,,,,,,,,,
+talén,Biaudos,talan,Loupiac,{},{},"{('é', 'a'): 1}",talén,Barthes,{},{},{},,,,,
+talén,Ondres,,,,,,,,,,,,,,,
+talent,Saint-André-de-Seignanx,,,,,,,,,,,,,,,
+talent,Saint-Barthélemy,talént,Saint-Laurent-de-Gosse,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+talént,Saint-Laurent-de-Gosse,talent,Saint-Barthélemy,{},{},"{('é', 'e'): 1}",talent,La Teste-de-Buch-ter,{},{},"{('é', 'e'): 1}",talént,Saint-Martin-de-Seignanx-bis,{},{},{}
+talént,Saint-Martin-de-Seignanx-bis,talént,Saint-Laurent-de-Gosse,{},{},{},,,,,,,,,,
+talén,Saint-Martin-de-Seignanx,,,,,,,,,,,,,,,
+talén,Tarnos,talén,Barthes,{},{},{},,,,,,,,,,
+talén,Audignon,,,,,,,,,,,,,,,
+talen,Aurice,talent,La Teste-de-Buch-ter,{'t': 1},{},{},talén,Banos,{},{},"{('e', 'é'): 1}",,,,,
+talén,Banos,talen,Aurice,{},{},"{('é', 'e'): 1}",talen,Cachon,{},{},"{('é', 'e'): 1}",,,,,
+talen,Cachon,talén,Banos,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+talen,Cauna,,,,,,,,,,,,,,,
+talén,Coudures,talan,Sablar,{},{},"{('é', 'a'): 1}",talén,Dumes,{},{},{},talén,Eyres-Moncube,{},{},{}
+talén,Dumes,talén,Coudures,{},{},{},,,,,,,,,,
+talén,Eyres-Moncube,talén,Coudures,{},{},{},,,,,,,,,,
+talént,Fargues,talén,Langon-bis,{},{'t': 1},{},,,,,,,,,,
+talént,Larrivière-Saint-Savin,talén,Langon,{},{'t': 1},{},talén,Montgaillard,{},{'t': 1},{},talént,Montaut,{},{},{}
+talént,Montaut,talén,Montsoué,{},{'t': 1},{},talén,Guillos,{},{'t': 1},{},talént,Larrivière-Saint-Savin,{},{},{}
+talén,Montgaillard,talén,Le Pian-Médoc,{},{},{},talén,Montsoué,{},{},{},talént,Larrivière-Saint-Savin,{'t': 1},{},{}
+talén,Montsoué,talén,Montgaillard,{},{},{},talèn,Escaudes,{},{},"{('é', 'è'): 1}",talént,Montaut,{'t': 1},{},{}
+talént,Saint-Maurice-sur-Adour,talén,Sainte-Eulalie,{},{'t': 1},{},taren,Castets-en-Dorthe,{},{'t': 1},"{('l', 'r'): 1, ('é', 'e'): 1}",talen,Saint-Sever,{},{'t': 1},"{('é', 'e'): 1}"
+talen,Saint-Sever,talént,Saint-Maurice-sur-Adour,{'t': 1},{},"{('e', 'é'): 1}",talén,Sauternes,{},{},"{('e', 'é'): 1}",talén,Sarraziet,{},{},"{('e', 'é'): 1}"
+talén,Sainte-Eulalie,talan,Pompignac,{},{},"{('é', 'a'): 1}",talént,Saint-Maurice-sur-Adour,{'t': 1},{},{},talén,Sarraziet,{},{},{}
+talén,Sarraziet,talén,Roaillan,{},{},{},talén,Sainte-Eulalie,{},{},{},talen,Saint-Sever,{},{},"{('é', 'e'): 1}"
+talént,Bénesse-Maremne,talen,Le Haillan,{},{'t': 1},"{('é', 'e'): 1}",talein,Josse,{'e': 1},{'t': 1},"{('é', 'i'): 1}",talén,Capbreton,{},{'t': 1},{}
+talén,Capbreton,talént,Saint-Pardon-de-Conques,{'t': 1},{},{},talént,Bénesse-Maremne,{'t': 1},{},{},talén,Labenne,{},{},{}
+talein,Josse,talént,Bénesse-Maremne,{},{},"{('e', 'é'): 1, ('i', 'n'): 1, ('n', 't'): 1}",talén,Le Pian-Médoc,{},{'i': 1},"{('e', 'é'): 1}",talén,Labenne,{},{'i': 1},"{('e', 'é'): 1}"
+talén,Labenne,talein,Josse,{'e': 1},{},"{('é', 'i'): 1}",talén,Saint-Pierre-de-Mons,{},{},{},talén,Capbreton,{},{},{}
+talent,Orx,talén,Saint-Geours-de-Maremne,{},{'t': 1},"{('e', 'é'): 1}",talen,Izon,{},{'t': 1},{},talén,Saint-Jean-de-Marsacq,{},{'t': 1},"{('e', 'é'): 1}"
+talén,Saint-Jean-de-Marsacq,talén,Monségur,{},{},{},talént,Saint-Martin-de-Hinx,{'t': 1},{},{},talent,Orx,{'t': 1},{},"{('é', 'e'): 1}"
+talént,Saint-Martin-de-Hinx,talén,Luxey,{},{'t': 1},{},talent,Saint-Vincent-de-Tyrosse,{},{},"{('é', 'e'): 1}",talén,Saint-Jean-de-Marsacq,{},{'t': 1},{}
+talent,Saint-Vincent-de-Tyrosse,talént,Saint-Martin-de-Hinx,{},{},"{('e', 'é'): 1}",talént,Saint-Julien-Beychevelle,{},{},"{('e', 'é'): 1}",talen,Sainte-Marie-de-Gosse,{},{'t': 1},{}
+talen,Sainte-Marie-de-Gosse,talén,Le Leuy,{},{},"{('e', 'é'): 1}",talèn,Seignosse,{},{},"{('e', 'è'): 1}",talent,Saint-Vincent-de-Tyrosse,{'t': 1},{},{}
+talen,Saubion,talen,Libourne-bis,{},{},{},talen,Saubrigues,{},{},{},,,,,
+talen,Saubrigues,talen,Izon,{},{},{},talen,Saubion,{},{},{},talén,Argelouse,{},{},"{('e', 'é'): 1}"
+talén,Argelouse,talen,Landerrouet-sur-Ségur,{},{},"{('é', 'e'): 1}",talen,Saubrigues,{},{},"{('é', 'e'): 1}",,,,,
+talén,Callen,talén,Luxey,{},{},{},talén,Monségur,{},{},{},,,,,
+talén,Houaste,talén,Sore,{},{},{},,,,,,,,,,
+talén,Luxey,talén,Sore,{},{},{},talént,Saint-Martin-de-Hinx,{'t': 1},{},{},talén,Callen,{},{},{}
+talén,Sore,talént,Saint-Julien-Beychevelle,{'t': 1},{},{},talén,Luxey,{},{},{},talén,Houaste,{},{},{}
+talén,Angresse,talen,Landerrouet-sur-Ségur,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+talén,Azur,talén,Magescq,{},{},{},,,,,,,,,,
+talén,Magescq,talén,Azur,{},{},{},talén,Messanges-bis,{},{},{},,,,,
+talén,Messanges-bis,talén,Magescq,{},{},{},,,,,,,,,,
+talént,Messanges,talent,Cissac-Médoc,{},{},"{('é', 'e'): 1}",talén,Saint-Geours-de-Maremne,{},{'t': 1},{},talén,Moliets-et-Maa,{},{'t': 1},{}
+talén,Moliets-et-Maa,talèn,Seignosse,{},{},"{('é', 'è'): 1}",talen,Audon,{},{},"{('é', 'e'): 1}",talént,Messanges,{'t': 1},{},{}
+talén,Saint-Geours-de-Maremne,talént,Messanges,{'t': 1},{},{},talent,Orx,{'t': 1},{},"{('é', 'e'): 1}",talèn,Seignosse,{},{},"{('é', 'è'): 1}"
+talèn,Seignosse,talen,Sainte-Marie-de-Gosse,{},{},"{('è', 'e'): 1}",talén,Moliets-et-Maa,{},{},"{('è', 'é'): 1}",talén,Saint-Geours-de-Maremne,{},{},"{('è', 'é'): 1}"
+talen,Soorts-Hossegor,talén,Soustons,{},{},"{('e', 'é'): 1}",talen,Roquebrune,{},{},{},talen,Lamothe,{},{},{}
+talén,Soustons,talént,Toulenne,{'t': 1},{},{},talen,Soorts-Hossegor,{},{},"{('é', 'e'): 1}",talen,Tosse,{},{},"{('é', 'e'): 1}"
+talen,Tosse,talé̄n,Vieux-Boucau-les-Bains,{'é': 1},{},"{('e', '̄'): 1}",talén,Arveyres,{},{},"{('e', 'é'): 1}",talén,Soustons,{},{},"{('e', 'é'): 1}"
+talé̄n,Vieux-Boucau-les-Bains,talen,Tosse,{},{'̄': 1},"{('é', 'e'): 1}",talent,Gouts,{},{},"{('é', 'e'): 1, ('̄', 'n'): 1, ('n', 't'): 1}",,,,,
+talen,Audon,talén,Moliets-et-Maa,{},{},"{('e', 'é'): 1}",talén,Le Leuy,{},{},"{('e', 'é'): 1}",talen,Lamothe,{},{},{}
+talen,Carcarès-Sainte-Croix,talent,Gouts,{'t': 1},{},{},,,,,,,,,,
+talent,Gouts,talen,Carcarès-Sainte-Croix,{},{'t': 1},{},talé̄n,Vieux-Boucau-les-Bains,{'é': 1},{'t': 1},"{('e', '̄'): 1}",talen,Lamothe,{},{'t': 1},{}
+talen,Lamothe,talen,Soorts-Hossegor,{},{},{},talen,Audon,{},{},{},talent,Gouts,{'t': 1},{},{}
+talén,Le Leuy,talen,Audon,{},{},"{('é', 'e'): 1}",talen,Sainte-Marie-de-Gosse,{},{},"{('é', 'e'): 1}",,,,,
+tallén,Meilhan,,,,,,,,,,,,,,,
+talén,Souprosse,tolan,Brassempouy,{},{},"{('a', 'o'): 1, ('é', 'a'): 1}",talén,Tartas-bis,{},{},{},,,,,
+talén,Tartas-bis,tolan,Bassercles,{},{},"{('a', 'o'): 1, ('é', 'a'): 1}",talén,Souprosse,{},{},{},,,,,

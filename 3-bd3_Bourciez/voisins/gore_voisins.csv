@@ -1,0 +1,18 @@
+Mot,Commune,Voisin_1,Commune_1,Insertions_1,Suppressions_1,Substitutions_1,Voisin_2,Commune_2,Insertions_2,Suppressions_2,Substitutions_2,Voisin_3,Commune_3,Insertions_3,Suppressions_3,Substitutions_3
+gourets,Andernos-les-Bains,gourrets,Auros-bis,{'r': 1},{},{},gorets,Audenge-bis,{},{'u': 1},{},,,,,
+gourets,Arès,gourét,Ailas,{},{'s': 1},"{('e', 'é'): 1}",gouréés,Coimères,{},{},"{('e', 'é'): 1, ('t', 'é'): 1}",,,,,
+gorets,Audenge-bis,gourets,Andernos-les-Bains,{'u': 1},{},{},,,,,,,,,,
+gouret,Audenge,,,,,,,,,,,,,,,
+gourets,Biganos,,,,,,,,,,,,,,,
+gouréts,Lacanau-de-Mios,,,,,,,,,,,,,,,
+gourréts,Lanton,,,,,,,,,,,,,,,
+gourrets,Lège,,,,,,,,,,,,,,,
+gourets,Mios,gourét,Ailas,{},{'s': 1},"{('e', 'é'): 1}",,,,,,,,,,
+gourét,Ailas,gourets,Arès,{'s': 1},{},"{('é', 'e'): 1}",gourets,Mios,{'s': 1},{},"{('é', 'e'): 1}",gourrets,Auros-bis,"{'r': 1, 's': 1}",{},"{('é', 'e'): 1}"
+gourrets,Auros-bis,gourets,Andernos-les-Bains,{},{'r': 1},{},gourét,Ailas,{},"{'e': 1, 's': 1}","{('r', 'é'): 1}",,,,,
+goureys,Auros,gourets,Brannens,{},{},"{('y', 't'): 1}",,,,,,,,,,
+gourrets,Barie,,,,,,,,,,,,,,,
+gourets,Brannens,goureys,Auros,{},{},"{('t', 'y'): 1}",gouray,Castillon-de-Castets,{},{'s': 1},"{('e', 'a'): 1, ('t', 'y'): 1}",,,,,
+gouray,Castillon-de-Castets,gourets,Brannens,{'e': 1},{},"{('a', 't'): 1, ('y', 's'): 1}",,,,,,,,,,
+gouréés,Coimères,gourets,Arès,{},{},"{('é', 'e'): 1, ('é', 't'): 1}",bourret,Lados,{},{},"{('g', 'b'): 1, ('é', 'r'): 1, ('é', 'e'): 1, ('s', 't'): 1}",,,,,
+bourret,Lados,gouréés,Coimères,{},{},"{('b', 'g'): 1, ('r', 'é'): 1, ('e', 'é'): 1, ('t', 's'): 1}",,,,,,,,,,

@@ -1,0 +1,941 @@
+Mot,Commune,Voisin_1,Commune_1,Insertions_1,Suppressions_1,Substitutions_1,Voisin_2,Commune_2,Insertions_2,Suppressions_2,Substitutions_2,Voisin_3,Commune_3,Insertions_3,Suppressions_3,Substitutions_3
+bién,Andernos-les-Bains,bien,Bazas-bis,{},{},"{('é', 'e'): 1}",bien,Auros-bis,{},{},"{('é', 'e'): 1}",bien,Audenge-bis,{},{},"{('é', 'e'): 1}"
+bien,Arès,bien,Savignac,{},{},{},bién,Ailas,{},{},"{('e', 'é'): 1}",biein,Coimères,{'i': 1},{},{}
+bien,Audenge-bis,bién,Andernos-les-Bains,{},{},"{('e', 'é'): 1}",bien,Le Porge,{},{},{},bien,Saint-Étienne-de-Lisse,{},{},{}
+bién,Audenge,bien,Lignan-de-Bazas,{},{},"{('é', 'e'): 1}",bien,Belin-Béliet,{},{},"{('é', 'e'): 1}",,,,,
+bien,Biganos,bién,Blanquefort-bis,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+bien,Lacanau-de-Mios,bien,Eysines,{},{},{},bien,Carbon-Blanc-bis,{},{},{},,,,,
+bien,Lanton,bien,Macau,{},{},{},bién,Castelnau-de-Médoc,{},{},"{('e', 'é'): 1}",bien,Saint-Loubès,{},{},{}
+bien,Lège,bién,Pompogne,{},{},"{('e', 'é'): 1}",bien,Saint-Sulpice-et-Cameyrac,{},{},{},,,,,
+bién,Mios,bién,Ailas,{},{},{},bien,Saint-Maixant,{},{},"{('é', 'e'): 1}",,,,,
+bién,Ailas,bien,Arès,{},{},"{('é', 'e'): 1}",bién,Mios,{},{},{},bien,Auros-bis,{},{},"{('é', 'e'): 1}"
+bien,Auros-bis,bién,Andernos-les-Bains,{},{},"{('e', 'é'): 1}",bién,Ailas,{},{},"{('e', 'é'): 1}",bets,Meylan,{},{},"{('i', 'e'): 1, ('e', 't'): 1, ('n', 's'): 1}"
+bién,Auros,bien,Bordeaux,{},{},"{('é', 'e'): 1}",bien,Sainte-Foy-la-Grande-bis,{},{},"{('é', 'e'): 1}",bién,Brannens,{},{},{}
+bien,Barie,bien,Yvrac,{},{},{},,,,,,,,,,
+bién,Brannens,bién,Auros,{},{},{},bien,Castillon-de-Castets,{},{},"{('é', 'e'): 1}",,,,,
+bien,Castillon-de-Castets,bien,Saint-Médard-en-Jalles,{},{},{},bién,Brannens,{},{},"{('e', 'é'): 1}",,,,,
+biein,Coimères,bien,Arès,{},{'i': 1},{},bièn,Cudos,{},{'i': 1},"{('e', 'è'): 1}",bièn,Lados,{},{'i': 1},"{('e', 'è'): 1}"
+bièn,Lados,bien,Gans,{},{},"{('è', 'e'): 1}",bién,Puybarban,{},{},"{('è', 'é'): 1}",biein,Coimères,{'e': 1},{},"{('è', 'i'): 1}"
+bien,Pondaurat,bién,Blaignan,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+bién,Puybarban,bièn,Lados,{},{},"{('é', 'è'): 1}",bien,Le Bouscat,{},{},"{('é', 'e'): 1}",bien,Savignac,{},{},"{('é', 'e'): 1}"
+bien,Savignac,bién,Sigalens,{},{},"{('e', 'é'): 1}",bien,Arès,{},{},{},bién,Puybarban,{},{},"{('e', 'é'): 1}"
+bién,Sigalens,bien,Caudéran,{},{},"{('é', 'e'): 1}",bien,Savignac,{},{},"{('é', 'e'): 1}",bien,Bayon-sur-Gironde,{},{},"{('é', 'e'): 1}"
+bien,Bazas-bis,bien,Bazas,{},{},{},bién,Andernos-les-Bains,{},{},"{('e', 'é'): 1}",,,,,
+bien,Bazas,bien,Cazats,{},{},{},bien,Bazas-bis,{},{},{},,,,,
+bien,Bernos-Beaulac,bien,Birac,{},{},{},bien,Saumos,{},{},{},biên,Gajac,{},{},"{('e', 'ê'): 1}"
+bien,Birac,bién,Saint-Magne-de-Castillon,{},{},"{('e', 'é'): 1}",bien,Bernos-Beaulac,{},{},{},bien,Cazats,{},{},{}
+bien,Cazats,bièn,Cudos,{},{},"{('e', 'è'): 1}",bien,Bazas,{},{},{},bien,Birac,{},{},{}
+bièn,Cudos,biein,Coimères,{'e': 1},{},"{('è', 'i'): 1}",bien,Cazats,{},{},"{('è', 'e'): 1}",bien,Gans,{},{},"{('è', 'e'): 1}"
+biên,Gajac,bien,Belvès-de-Castillon,{},{},"{('ê', 'e'): 1}",bien,Gans,{},{},"{('ê', 'e'): 1}",bien,Bernos-Beaulac,{},{},"{('ê', 'e'): 1}"
+bien,Gans,biên,Gajac,{},{},"{('e', 'ê'): 1}",bièn,Lados,{},{},"{('e', 'è'): 1}",bièn,Cudos,{},{},"{('e', 'è'): 1}"
+bién,Le Nizan,bien,Prignac-et-Marcamps,{},{},"{('é', 'e'): 1}",bien,Gauriac,{},{},"{('é', 'e'): 1}",bien,Saint-Antoine-sur-l'Isle,{},{},"{('é', 'e'): 1}"
+bien,Lignan-de-Bazas,bién,Audenge,{},{},"{('e', 'é'): 1}",bien,Lansac,{},{},{},bien,Béliet,{},{},{}
+bien,Saint-Côme,biéñ,Bonnetan,{},{},"{('e', 'é'): 1, ('n', 'ñ'): 1}",bien,Saint-Trojan,{},{},{},bien,Béliet,{},{},{}
+bien,Béliet,bien,Belin-Béliet,{},{},{},bien,Lignan-de-Bazas,{},{},{},bien,Saint-Côme,{},{},{}
+bien,Belin-Béliet,bieiñ,Cadillac-en-Fronsadais,{'i': 1},{},"{('n', 'ñ'): 1}",bién,Audenge,{},{},"{('e', 'é'): 1}",bien,Béliet,{},{},{}
+bién,Joué,bien,Le Barp,{},{},"{('é', 'e'): 1}",bien,Tabanac,{},{},"{('é', 'e'): 1}",,,,,
+bien,Le Barp,bien,Cabara,{},{},{},bién,Joué,{},{},"{('e', 'é'): 1}",,,,,
+bién,Lugos,bién,Saint-Magne,{},{},{},bién,Salles-bis,{},{},{},,,,,
+bién,Saint-Magne,bien,Salles,{},{},"{('é', 'e'): 1}",bién,Lugos,{},{},{},bienn,Saint-Romain-la-Virvée,{'e': 1},{},"{('é', 'n'): 1}"
+bién,Salles-bis,bién,Lugos,{},{},{},bién,Génissac,{},{},{},,,,,
+bien,Salles,bién,Saint-Magne,{},{},"{('e', 'é'): 1}",bién,Saint-Quentin-de-Baron,{},{},"{('e', 'é'): 1}",,,,,
+bién,Blanquefort-bis,biènn,Langoiran,{'è': 1},{},"{('é', 'n'): 1}",bien,Biganos,{},{},"{('é', 'e'): 1}",bien,Blanquefort,{},{},"{('é', 'e'): 1}"
+bien,Blanquefort,bién,Blanquefort-bis,{},{},"{('e', 'é'): 1}",bien,Ychoux,{},{},{},bién,La Réole,{},{},"{('e', 'é'): 1}"
+bien,Caychac,bién,Omet,{},{},"{('e', 'é'): 1}",bien,Eysines,{},{},{},bien,Giscos,{},{},{}
+bien,Eysines,bien,Caychac,{},{},{},bien,Lacanau-de-Mios,{},{},{},bien,Le Haillan,{},{},{}
+bien,Le Haillan,bién,Le Pian-Médoc,{},{},"{('e', 'é'): 1}",bien,Bénesse-Maremne,{},{},{},bien,Eysines,{},{},{}
+bién,Le Pian-Médoc,bien,Josse,{},{},"{('é', 'e'): 1}",bien,Le Haillan,{},{},"{('é', 'e'): 1}",bien,Montgaillard,{},{},"{('é', 'e'): 1}"
+bién,Le Taillan-Médoc,bien,Sainte-Croix-du-Mont,{},{},"{('é', 'e'): 1}",bièn,Bassens,{},{},"{('é', 'è'): 1}",bien,Landerrouat,{},{},"{('é', 'e'): 1}"
+bién,Ludon-Médoc,bièn,Agnac,{},{},"{('é', 'è'): 1}",bien,Macau,{},{},"{('é', 'e'): 1}",,,,,
+bien,Macau,bién,Ludon-Médoc,{},{},"{('e', 'é'): 1}",bien,Lanton,{},{},{},biénn,Lauzun,{'é': 1},{},"{('e', 'n'): 1}"
+bien,Parempuyre,bien,Arcins,{},{},{},bien,Arsac,{},{},{},,,,,
+bien,Saint-Aubin-de-Médoc,bien,Feugarolles,{},{},{},bièn,Béquin,{},{},"{('e', 'è'): 1}",bien,Labarde,{},{},{}
+bien,Saint-Médard-en-Jalles,bieun,Margaux,{'u': 1},{},{},bien,Castillon-de-Castets,{},{},{},bien,Moulis-en-Médoc-bis,{},{},{}
+bien,Bègles,bien,Lugon-et-l'Île-du-Carnay,{},{},{},bièn,Moulis-en-Médoc,{},{},"{('e', 'è'): 1}",,,,,
+bien,Bordeaux,bién,Auros,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+bién,Bruges,bien,Bégadan,{},{},"{('é', 'e'): 1}",bien,Caudéran,{},{},"{('é', 'e'): 1}",,,,,
+bien,Caudéran,bién,Bruges,{},{},"{('e', 'é'): 1}",bién,Sigalens,{},{},"{('e', 'é'): 1}",bien,Bayon-sur-Gironde,{},{},{}
+bién,Chartrons,bien,Sainte-Colombe,{},{},"{('é', 'e'): 1}",bien,Salaunes,{},{},"{('é', 'e'): 1}",,,,,
+bien,Le Bouscat,bién,Puybarban,{},{},"{('e', 'é'): 1}",bien,Castillon-la-Bataille-bis,{},{},{},bien,Bayon-sur-Gironde,{},{},{}
+bien,Bayon-sur-Gironde,bien,Caudéran,{},{},{},bién,Sigalens,{},{},"{('e', 'é'): 1}",bien,Le Bouscat,{},{},{}
+bien,Bourg-bis,bièn,Castres-Gironde,{},{},"{('e', 'è'): 1}",bien,Castillon-la-Bataille,{},{},{},bien,Bahus-Soubiran,{},{},{}
+bien,Bourg,bièn,Comps,{},{},"{('e', 'è'): 1}",bien,Rivière-Saas-et-Gourby,{},{},{},bién,Baron,{},{},"{('e', 'é'): 1}"
+bièn,Comps,bien,Gauriac,{},{},"{('è', 'e'): 1}",bien,Bourg,{},{},"{('è', 'e'): 1}",,,,,
+bien,Gauriac,bién,Le Nizan,{},{},"{('e', 'é'): 1}",bièn,Comps,{},{},"{('e', 'è'): 1}",bién,Baurech,{},{},"{('e', 'é'): 1}"
+bien,Lansac,bien,Lignan-de-Bazas,{},{},{},bien,Marcamps,{},{},{},bien,Saint-Loubouer,{},{},{}
+bien,Marcamps,bien,Prignac-et-Marcamps,{},{},{},bien,Lansac,{},{},{},,,,,
+bien,Prignac-et-Marcamps,bien,Marcamps,{},{},{},bién,Le Nizan,{},{},"{('e', 'é'): 1}",bien,Renung,{},{},{}
+bién,Saint-Seurin-de-Bourg,bien,Saint-Pandelon,{},{},"{('é', 'e'): 1}",bien,Samonac,{},{},"{('é', 'e'): 1}",bién,Baron,{},{},{}
+bien,Saint-Trojan,bien,Saint-Côme,{},{},{},bien,Tauriac,{},{},{},bien,Samonac,{},{},{}
+bien,Samonac,bién,Saint-Seurin-de-Bourg,{},{},"{('e', 'é'): 1}",bien,Fronsac,{},{},{},bien,Saint-Trojan,{},{},{}
+bien,Tauriac,bien,Saint-Trojan,{},{},{},bién,Camarsac,{},{},"{('e', 'é'): 1}",bién,Baron,{},{},"{('e', 'é'): 1}"
+bién,Baron,bien,Bourg,{},{},"{('é', 'e'): 1}",bién,Saint-Seurin-de-Bourg,{},{},{},bien,Tauriac,{},{},"{('é', 'e'): 1}"
+bien,Branne-bis,bien,Saint-Lon-les-Mines,{},{},{},bién,Bonnegarde,{},{},"{('e', 'é'): 1}",biéun,Camblanes-et-Meynac,{'é': 1},{},"{('e', 'u'): 1}"
+bien,Branne,bién,Hure,{},{},"{('e', 'é'): 1}",bien,Gironde-sur-Dropt-bis,{},{},{},bièn,Carignan-de-Bordeaux,{},{},"{('e', 'è'): 1}"
+bien,Cabara-bis,bien,Le Tourne,{},{},{},bièn,Linxe,{},{},"{('e', 'è'): 1}",bién,Dax-Saint-Vincent,{},{},"{('e', 'é'): 1}"
+bien,Cabara,bien,Saillans,{},{},{},bien,Le Barp,{},{},{},,,,,
+bien,Daignac,bién,Génissac,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+bién,Génissac,bién,Salles-bis,{},{},{},bien,Daignac,{},{},"{('é', 'e'): 1}",bién,Losse,{},{},{}
+bien,Grézillac,bien,Jugazan,{},{},{},,,,,,,,,,
+bien,Jugazan,bien,Grézillac,{},{},{},bien,Civrac,{},{},{},bièn,Gaillan-en-Médoc,{},{},"{('e', 'è'): 1}"
+bien,Moulon,bièn,Horsarrieu,{},{},"{('e', 'è'): 1}",bien,Bascons,{},{},{},bién,Naujan-et-Postiac,{},{},"{('e', 'é'): 1}"
+bién,Naujan-et-Postiac,bien,Grignols-bis,{},{},"{('é', 'e'): 1}",bien,Cazères-sur-l'Adour,{},{},"{('é', 'e'): 1}",bien,Moulon,{},{},"{('é', 'e'): 1}"
+bién,Nérigean,bien,Saint-Cricq-Chalosse,{},{},"{('é', 'e'): 1}",bien,Poudenx,{},{},"{('é', 'e'): 1}",bién,Saint-Germain-du-Puch,{},{},{}
+bién,Saint-Germain-du-Puch,bien,Uzeste,{},{},"{('é', 'e'): 1}",bien,Laurède,{},{},"{('é', 'e'): 1}",bién,Nérigean,{},{},{}
+bién,Saint-Quentin-de-Baron,bien,Salles,{},{},"{('é', 'e'): 1}",bien,Arengosse,{},{},"{('é', 'e'): 1}",,,,,
+bien,Tizac-de-Curton,bien,Arjuzanx,{},{},{},,,,,,,,,,
+bien,Béguey,bién,Sendets,{},{},"{('e', 'é'): 1}",bién,Gabarnac,{},{},"{('e', 'é'): 1}",,,,,
+bien,Cadillac,bien,Cardan,{},{},{},bién,Camiran,{},{},"{('e', 'é'): 1}",bien,Capian,{},{},{}
+bien,Capian,bien,Saint-Michel-de-Fronsac,{},{},{},bien,Cadillac,{},{},{},bien,Sindères,{},{},{}
+bien,Cardan,bien,Lerm-et-Musset,{},{},{},bien,Cadillac,{},{},{},bièn,Donzac,{},{},"{('e', 'è'): 1}"
+bièn,Donzac,bien,Saint-Médard-d'Eyrans,{},{},"{('è', 'e'): 1}",bién,Gabarnac,{},{},"{('è', 'é'): 1}",bien,Cardan,{},{},"{('è', 'e'): 1}"
+bién,Gabarnac,bièn,Donzac,{},{},"{('é', 'è'): 1}",bien,Béguey,{},{},"{('é', 'e'): 1}",bien,Marions,{},{},"{('é', 'e'): 1}"
+bien,Langoiran-bis,bien,Villeneuve-de-Marsan,{},{},{},bien,Gironde-sur-Dropt,{},{},{},,,,,
+biènn,Langoiran,bién,Blanquefort-bis,{},{'n': 1},"{('è', 'é'): 1}",,,,,,,,,,
+bién,Lestiac-sur-Garonne,bien,Solférino,{},{},"{('é', 'e'): 1}",bièn,Morizès,{},{},"{('é', 'è'): 1}",,,,,
+bién,Loupiac,bien,Biaudos,{},{},"{('é', 'e'): 1}",bien,Gujan,{},{},"{('é', 'e'): 1}",bién,Monprimblanc,{},{},{}
+bién,Monprimblanc,bièn,Saint-Hilaire-de-la-Noaille,{},{},"{('é', 'è'): 1}",bién,Loupiac,{},{},{},,,,,
+bién,Omet,bien,Paillet,{},{},"{('é', 'e'): 1}",bien,Caychac,{},{},"{('é', 'e'): 1}",bièn,La Teste-de-Buch,{},{},"{('é', 'è'): 1}"
+bien,Paillet,bién,Rions,{},{},"{('e', 'é'): 1}",bién,Omet,{},{},"{('e', 'é'): 1}",bien,Le Teich,{},{},{}
+bién,Rions,bien,Paillet,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+bien,Sainte-Croix-du-Mont,bièn,Captieux-bis,{},{},"{('e', 'è'): 1}",bién,Le Taillan-Médoc,{},{},"{('e', 'é'): 1}",bien,Mazères,{},{},{}
+bien,Villenave-de-Rions,bién,Beychac-et-Caillau,{},{},"{('e', 'é'): 1}",bièn,Captieux-bis,{},{},"{('e', 'è'): 1}",bien,Arbanats,{},{},{}
+bièn,Captieux-bis,bien,Villenave-de-Rions,{},{},"{('è', 'e'): 1}",bien,Sainte-Croix-du-Mont,{},{},"{('è', 'e'): 1}",bien,Captieux,{},{},"{('è', 'e'): 1}"
+bien,Captieux,bien,Léogeats,{},{},{},bien,Langon,{},{},{},bièn,Captieux-bis,{},{},"{('e', 'è'): 1}"
+bièn,Escaudes,bien,Bouliac,{},{},"{('è', 'e'): 1}",bien,Cérons,{},{},"{('è', 'e'): 1}",bien,Montsoué,{},{},"{('è', 'e'): 1}"
+bien,Giscos,bién,Bieujac,{},{},"{('e', 'é'): 1}",bien,Caychac,{},{},{},bien,Saint-Pardon-de-Conques,{},{},{}
+bien,Saint-Michel-de-Castelnau,bien,Cenon,{},{},{},bien,Saint-Émilion,{},{},{},bien,Toulenne,{},{},{}
+bién,Ambarès-et-Lagrave,bién,La Sauvetat-du-Dropt,{},{},{},bien,Taller,{},{},"{('é', 'e'): 1}",,,,,
+bien,Ambès,bien,Martignas-sur-Jalle,{},{},{},bets,Fieux,{},{},"{('i', 'e'): 1, ('e', 't'): 1, ('n', 's'): 1}",bién,Beychac-et-Caillau,{},{},"{('e', 'é'): 1}"
+bièn,Bassens,bién,Le Taillan-Médoc,{},{},"{('è', 'é'): 1}",bién,Beychac-et-Caillau,{},{},"{('è', 'é'): 1}",bien,Villeneuve-de-Duras,{},{},"{('è', 'e'): 1}"
+bién,Beychac-et-Caillau,bièn,Bassens,{},{},"{('é', 'è'): 1}",bien,Villenave-de-Rions,{},{},"{('é', 'e'): 1}",bien,Ambès,{},{},"{('é', 'e'): 1}"
+bien,Bouliac,bien,Podensac,{},{},{},bièn,Escaudes,{},{},"{('e', 'è'): 1}",bien,Carbon-Blanc-bis,{},{},{}
+bien,Carbon-Blanc-bis,bien,Bouliac,{},{},{},bien,Lacanau-de-Mios,{},{},{},bien,Boussès,{},{},{}
+bien,Carbon-Blanc,bièn,Pessac,{},{},"{('e', 'è'): 1}",bien,Libourne,{},{},{},biènn,Lormont,{'è': 1},{},"{('e', 'n'): 1}"
+bien,Cenon,bien,Floirac,{},{},{},bien,Saint-Michel-de-Castelnau,{},{},{},,,,,
+bien,Floirac,bien,Saint-Sulpice-de-Faleyrens,{},{},{},bien,Cenon,{},{},{},biènn,Lormont,{'è': 1},{},"{('e', 'n'): 1}"
+biènn,Lormont,bien,Houeillès-bis,{},{'n': 1},"{('è', 'e'): 1}",bien,Carbon-Blanc,{},{'n': 1},"{('è', 'e'): 1}",bien,Floirac,{},{'n': 1},"{('è', 'e'): 1}"
+bien,Montussan,bien,Saint-Loubès,{},{},{},bièn,Cussac-Fort-Médoc,{},{},"{('e', 'è'): 1}",bien,Bruch-bis,{},{},{}
+bien,Saint-Loubès,bien,Lanton,{},{},{},bien,Montussan,{},{},{},bién,Lauzun-tet,{},{},"{('e', 'é'): 1}"
+bien,Saint-Louis-de-Montferrand,bien,Virelade,{},{},{},bien,Saint-Sulpice-et-Cameyrac,{},{},{},,,,,
+bien,Saint-Sulpice-et-Cameyrac,bien,Saint-Vincent-de-Paul,{},{},{},bien,Lège,{},{},{},bien,Saint-Louis-de-Montferrand,{},{},{}
+bien,Saint-Vincent-de-Paul,bien,Flaujagues,{},{},{},bien,Saint-Sulpice-et-Cameyrac,{},{},{},,,,,
+bién,Sainte-Eulalie,bien,Saint-Martin-de-Sescas,{},{},"{('é', 'e'): 1}",bien,Juillac,{},{},"{('é', 'e'): 1}",,,,,
+bién,Tresses-bis,bien,Peujard,{},{},"{('é', 'e'): 1}",bién,Pessac-sur-Dordogne,{},{},{},,,,,
+bien,Tresses,bièn,Rauzan,{},{},"{('e', 'è'): 1}",bien,Saint-Pey-de-Castets,{},{},{},bien,Cubzac-les-Ponts,{},{},{}
+bien,Yvrac,bien,Arcins,{},{},{},bien,Barie,{},{},{},,,,,
+bien,Arcins,bien,Parempuyre,{},{},{},bien,Yvrac,{},{},{},bién,Virsac,{},{},"{('e', 'é'): 1}"
+bién,Arsac-bis,béts,Cantenac,{},{},"{('i', 'é'): 1, ('é', 't'): 1, ('n', 's'): 1}",bien,Saint-Gervais,{},{},"{('é', 'e'): 1}",bien,Lamarque,{},{},"{('é', 'e'): 1}"
+bien,Arsac,bién,Castelnau-de-Médoc,{},{},"{('e', 'é'): 1}",bien,Parempuyre,{},{},{},béts,Cantenac,{},{},"{('i', 'é'): 1, ('e', 't'): 1, ('n', 's'): 1}"
+béts,Cantenac,bien,Salignac,{},{},"{('é', 'i'): 1, ('t', 'e'): 1, ('s', 'n'): 1}",bién,Arsac-bis,{'i': 1},{'s': 1},"{('t', 'n'): 1}",bien,Arsac,{},{},"{('é', 'i'): 1, ('t', 'e'): 1, ('s', 'n'): 1}"
+bién,Castelnau-de-Médoc,bien,Lanton,{},{},"{('é', 'e'): 1}",bien,Arsac,{},{},"{('é', 'e'): 1}",bièn,Cussac-Fort-Médoc,{},{},"{('é', 'è'): 1}"
+bièn,Cussac-Fort-Médoc,bien,Montussan,{},{},"{('è', 'e'): 1}",bién,Castelnau-de-Médoc,{},{},"{('è', 'é'): 1}",bien,Lacanau,{},{},"{('è', 'e'): 1}"
+bien,Labarde,bien,Saint-Aubin-de-Médoc,{},{},{},bien,Lacanau,{},{},{},bién,Caudrot,{},{},"{('e', 'é'): 1}"
+bien,Lacanau,bien,Labarde,{},{},{},bièn,Cussac-Fort-Médoc,{},{},"{('e', 'è'): 1}",bien,Lamarque,{},{},{}
+bien,Lamarque,bién,Arsac-bis,{},{},"{('e', 'é'): 1}",bién,Saint-André-du-Bois,{},{},"{('e', 'é'): 1}",bien,Lacanau,{},{},{}
+bien,Le Porge,bien,Audenge-bis,{},{},{},bien,Saint-Germain-de-Grave,{},{},{},bien,Le Temple,{},{},{}
+bien,Le Temple,bien,Verdelais,{},{},{},bien,Le Porge,{},{},{},,,,,
+bien,Listrac-Médoc,bèts,Villeton,{},{},"{('i', 'è'): 1, ('e', 't'): 1, ('n', 's'): 1}",bien,Pujols-bis,{},{},{},,,,,
+bieun,Margaux,bien,Saint-Médard-en-Jalles,{},{'u': 1},{},,,,,,,,,,
+bien,Moulis-en-Médoc-bis,bien,Saint-Médard-en-Jalles,{},{},{},bièn,Sainte-Foy-la-Grande-ter,{},{},"{('e', 'è'): 1}",,,,,
+bièn,Moulis-en-Médoc,bien,Bègles,{},{},"{('è', 'e'): 1}",bien,Gornac,{},{},"{('è', 'e'): 1}",,,,,
+bien,Sainte-Hélène,bien,Cazalis,{},{},{},,,,,,,,,,
+bien,Salaunes,ben,Soussans,{},{'i': 1},{},bién,Chartrons,{},{},"{('e', 'é'): 1}",bien,Castillon-la-Bataille-bis,{},{},{}
+bien,Saumos,bien,Bernos-Beaulac,{},{},{},ben,Soussans,{},{'i': 1},{},bien,Belvès-de-Castillon,{},{},{}
+ben,Soussans,bien,Saumos,{'i': 1},{},{},bien,Saint-Pey-d'Armens,{'i': 1},{},{},bien,Salaunes,{'i': 1},{},{}
+bien,Belvès-de-Castillon,bien,Castillon-la-Bataille-bis,{},{},{},biên,Gajac,{},{},"{('e', 'ê'): 1}",bien,Saumos,{},{},{}
+bien,Castillon-la-Bataille-bis,bien,Le Bouscat,{},{},{},bien,Belvès-de-Castillon,{},{},{},bien,Salaunes,{},{},{}
+bien,Castillon-la-Bataille,bien,Bourg-bis,{},{},{},bien,Puisseguin,{},{},{},bien,Classun,{},{},{}
+bién,Gardegan,bien,Lucmau,{},{},"{('é', 'e'): 1}",bièn,Villandraut-bis,{},{},"{('é', 'è'): 1}",,,,,
+bien,Saint-Étienne-de-Lisse,bien,Audenge-bis,{},{},{},bien,Saint-Genès-de-Castillon,{},{},{},,,,,
+bien,Saint-Genès-de-Castillon,bien,Saint-Étienne-de-Lisse,{},{},{},bien,Balizac,{},{},{},biën,Saint-Laurent-des-Combes,{},{},"{('e', 'ë'): 1}"
+biën,Saint-Laurent-des-Combes,bien,Saint-Symphorien-bis,{},{},"{('ë', 'e'): 1}",bien,Aire-sur-l'Adour,{},{},"{('ë', 'e'): 1}",bien,Saint-Genès-de-Castillon,{},{},"{('ë', 'e'): 1}"
+bién,Saint-Magne-de-Castillon,bien,Saint-Pey-d'Armens,{},{},"{('é', 'e'): 1}",bien,Birac,{},{},"{('é', 'e'): 1}",,,,,
+bien,Saint-Pey-d'Armens,ben,Soussans,{},{'i': 1},{},bién,Saint-Magne-de-Castillon,{},{},"{('e', 'é'): 1}",bién,Saint-Philippe-d'Aiguille,{},{},"{('e', 'é'): 1}"
+bién,Saint-Philippe-d'Aiguille,bien,Sainte-Terre,{},{},"{('é', 'e'): 1}",bien,Saint-Pey-d'Armens,{},{},"{('é', 'e'): 1}",bien,Eugénie-les-Bains,{},{},"{('é', 'e'): 1}"
+bien,Sainte-Colombe,bién,Chartrons,{},{},"{('e', 'é'): 1}",bien,Sainte-Terre,{},{},{},,,,,
+bien,Sainte-Terre,bien,Sainte-Colombe,{},{},{},bién,Saint-Philippe-d'Aiguille,{},{},"{('e', 'é'): 1}",bienn,Vignonet,{'n': 1},{},{}
+bienn,Vignonet,bien,Sainte-Terre,{},{'n': 1},{},,,,,,,,,,
+bien,Saint-Antoine-sur-l'Isle,bien,Saint-Agnet,{},{},{},bién,Le Nizan,{},{},"{('e', 'é'): 1}",bién,Baurech,{},{},"{('e', 'é'): 1}"
+bién,Baurech,bien,Saint-Antoine-sur-l'Isle,{},{},"{('é', 'e'): 1}",bien,Gauriac,{},{},"{('é', 'e'): 1}",bién,Camarsac,{},{},{}
+biéñ,Bonnetan,bién,Camarsac,{},{},"{('ñ', 'n'): 1}",bien,Saint-Côme,{},{},"{('é', 'e'): 1, ('ñ', 'n'): 1}",bien,Sarron,{},{},"{('é', 'e'): 1, ('ñ', 'n'): 1}"
+bién,Camarsac,bien,Tauriac,{},{},"{('é', 'e'): 1}",biéñ,Bonnetan,{},{},"{('n', 'ñ'): 1}",bién,Baurech,{},{},{}
+bien,Cambes,bien,Cénac,{},{},{},bien,Vielle-Tursan,{},{},{},biéun,Camblanes-et-Meynac,{'é': 1},{},"{('e', 'u'): 1}"
+biéun,Camblanes-et-Meynac,bien,Branne-bis,{},{'u': 1},"{('é', 'e'): 1}",bien,Cambes,{},{'u': 1},"{('é', 'e'): 1}",bièn,Carignan-de-Bordeaux,{},{'u': 1},"{('é', 'è'): 1}"
+bièn,Carignan-de-Bordeaux,bièn,Amou,{},{},{},bien,Branne,{},{},"{('è', 'e'): 1}",biéun,Camblanes-et-Meynac,{'é': 1},{},"{('è', 'u'): 1}"
+bien,Cénac,bien,Cambes,{},{},{},bién,Bassercles,{},{},"{('e', 'é'): 1}",,,,,
+bien,Créon,bien,Brassempouy,{},{},{},,,,,,,,,,
+bien,Haux,bien,Castelnau-Chalosse,{},{},{},bien,Geloux,{},{},{},,,,,
+bien,Latresne,bien,Castel-Sarrazin,{},{},{},bien,Donzacq,{},{},{},bien,Campagne,{},{},{}
+bien,Le Tourne,bien,Cabara-bis,{},{},{},bién,Sallebœuf,{},{},"{('e', 'é'): 1}",,,,,
+bien,Lignan-de-Bordeaux,bien,Bommes,{},{},{},bien,Pompignac,{},{},{},bién,Madirac,{},{},"{('e', 'é'): 1}"
+bién,Madirac,bien,Quinsac,{},{},"{('é', 'e'): 1}",bien,Lignan-de-Bordeaux,{},{},"{('é', 'e'): 1}",,,,,
+bien,Pompignac,bien,Lignan-de-Bordeaux,{},{},{},bien,Sainte-Eulalie,{},{},{},bien,Quinsac,{},{},{}
+bien,Quinsac,bien,Uza,{},{},{},bién,Madirac,{},{},"{('e', 'é'): 1}",bien,Pompignac,{},{},{}
+bien,Sadirac,bien,Saint-Caprais-de-Bordeaux,{},{},{},,,,,,,,,,
+bien,Saint-Caprais-de-Bordeaux,bién,Sallebœuf,{},{},"{('e', 'é'): 1}",bien,Bénesse-lès-Dax,{},{},{},bien,Sadirac,{},{},{}
+bién,Sallebœuf,bien,Le Tourne,{},{},"{('é', 'e'): 1}",bien,Saint-Caprais-de-Bordeaux,{},{},"{('é', 'e'): 1}",,,,,
+bien,Tabanac,bién,Joué,{},{},"{('e', 'é'): 1}",bièn,Narrosse,{},{},"{('e', 'è'): 1}",,,,,
+bien,Asques,bien,Fronsac-bis,{},{},{},bien,La Lande-de-Fronsac,{},{},{},,,,,
+bieiñ,Cadillac-en-Fronsadais,bien,Fronsac-bis,{},{'ñ': 1},"{('i', 'n'): 1}",bien,Belin-Béliet,{},{'ñ': 1},"{('i', 'n'): 1}",bien,Fronsac,{},{'ñ': 1},"{('i', 'n'): 1}"
+bien,Fronsac-bis,bién,Mées,{},{},"{('e', 'é'): 1}",bieiñ,Cadillac-en-Fronsadais,{'i': 1},{},"{('n', 'ñ'): 1}",bien,Asques,{},{},{}
+bien,Fronsac,bien,Samonac,{},{},{},bien,La Lande-de-Fronsac,{},{},{},bieiñ,Cadillac-en-Fronsadais,{'i': 1},{},"{('n', 'ñ'): 1}"
+bien,La Lande-de-Fronsac,bien,Fronsac,{},{},{},bien,Asques,{},{},{},,,,,
+bien,Lugon-et-l'Île-du-Carnay,bien,Bègles,{},{},{},bien,Saillans,{},{},{},,,,,
+bien,Saillans,bien,Lugon-et-l'Île-du-Carnay,{},{},{},bien,Cabara,{},{},{},bien,Saint-Paul-lès-Dax,{},{},{}
+bién,Saint-Germain-de-la-Rivière,bien,Saint-Vincent-de-Paul,{},{},"{('é', 'e'): 1}",bién,Martillac,{},{},{},bien,Saint-Michel-de-Fronsac,{},{},"{('é', 'e'): 1}"
+bien,Saint-Michel-de-Fronsac,bién,Saint-Germain-de-la-Rivière,{},{},"{('e', 'é'): 1}",bien,Capian,{},{},{},,,,,
+bienn,Saint-Romain-la-Virvée,bién,Saint-Magne,{},{'n': 1},"{('e', 'é'): 1}",bien,Vérac,{},{'n': 1},{},,,,,
+bien,Vérac,bienn,Saint-Romain-la-Virvée,{'n': 1},{},{},bién,Villegouge,{},{},"{('e', 'é'): 1}",,,,,
+bién,Villegouge,bien,Campin,{},{},"{('é', 'e'): 1}",bien,Vérac,{},{},"{('é', 'e'): 1}",,,,,
+bien,Campin,bién,Villegouge,{},{},"{('e', 'é'): 1}",bien,Cours-les-Bains,{},{},{},,,,,
+bien,Cours-les-Bains,bien,Castandet,{},{},{},bets,Lagrange,{},{},"{('i', 'e'): 1, ('e', 't'): 1, ('n', 's'): 1}",bien,Campin,{},{},{}
+bien,Grignols-bis,bién,Grignols,{},{},"{('e', 'é'): 1}",bién,Naujan-et-Postiac,{},{},"{('e', 'é'): 1}",bien,Tercis-les-Bains,{},{},{}
+bién,Grignols,bien,Grignols-bis,{},{},"{('é', 'e'): 1}",bièn,Yzosse,{},{},"{('é', 'è'): 1}",,,,,
+bién,Lavazan,bién,Arx,{},{},{},bien,Saucats,{},{},"{('é', 'e'): 1}",,,,,
+bien,Lerm-et-Musset,bien,Cardan,{},{},{},bien,Marions,{},{},{},,,,,
+bien,Marions,bién,Gabarnac,{},{},"{('e', 'é'): 1}",bien,Lerm-et-Musset,{},{},{},,,,,
+bién,Sendets,bien,Béguey,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+bien,Bégadan,bién,Blaignan,{},{},"{('e', 'é'): 1}",bién,Bruges,{},{},"{('e', 'é'): 1}",,,,,
+bién,Blaignan,bien,Pondaurat,{},{},"{('é', 'e'): 1}",bien,Bégadan,{},{},"{('é', 'e'): 1}",,,,,
+bien,Civrac,bien,Jugazan,{},{},{},bien,Brocas,{},{},{},bien,Sorbets,{},{},{}
+bièn,Gaillan-en-Médoc,bien,Jugazan,{},{},"{('è', 'e'): 1}",bien,Samadet,{},{},"{('è', 'e'): 1}",,,,,
+bièn,Lesparre-Médoc,bien,Labrit,{},{},"{('è', 'e'): 1}",bién,Naujac-sur-Mer,{},{},"{('è', 'é'): 1}",,,,,
+bién,Naujac-sur-Mer,bièn,Lesparre-Médoc,{},{},"{('é', 'è'): 1}",,,,,,,,,,
+bien,Ordonnac,bien,Urgons,{},{},{},bien,Serres-Gaston,{},{},{},bién,Saint-Christoly-Médoc,{},{},"{('e', 'é'): 1}"
+bien,Queyrac,bien,Hinx,{},{},{},bién,Saint-Christoly-Médoc,{},{},"{('e', 'é'): 1}",bien,Sainte-Colombe,{},{},{}
+bién,Saint-Christoly-Médoc,bien,Queyrac,{},{},"{('é', 'e'): 1}",bién,Valeyrac,{},{},{},bien,Ordonnac,{},{},"{('é', 'e'): 1}"
+bien,Saint-Germain-d'Esteuil,bien,Serreslous-et-Arribans,{},{},{},bien,Artassenx,{},{},{},bien,Canenx-et-Réaut,{},{},{}
+bién,Saint-Seurin-de-Cadourne,bien,Cère,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+bién,Saint-Yzans-de-Médoc,bièn,Isle-Saint-Georges,{},{},"{('é', 'è'): 1}",bien,Mont-de-Marsan-bis,{},{},"{('é', 'e'): 1}",,,,,
+bién,Valeyrac,bién,Saint-Christoly-Médoc,{},{},{},bien,Saint-Avit,{},{},"{('é', 'e'): 1}",,,,,
+bién,Vendays-Montalivet,bién,Beautiran,{},{},{},,,,,,,,,,
+bién,Beautiran,bien,Saint-Martin-d'Oney,{},{},"{('é', 'e'): 1}",bien,Mimizan,{},{},"{('é', 'e'): 1}",bién,Vendays-Montalivet,{},{},{}
+bién,Cabanac-et-Villagrains,bien,Préchac,{},{},"{('é', 'e'): 1}",bièn,Castres-Gironde,{},{},"{('é', 'è'): 1}",bienn,Louer,{'e': 1},{},"{('é', 'n'): 1}"
+bien,Cadaujac,bien,Saint-Pierre-du-Mont,{},{},{},bien,Gousse,{},{},{},bien,Cassen,{},{},{}
+bièn,Castres-Gironde,bién,Cabanac-et-Villagrains,{},{},"{('è', 'é'): 1}",bien,Bourg-bis,{},{},"{('è', 'e'): 1}",bièn,Garrey,{},{},{}
+bièn,Isle-Saint-Georges,bien,Nousse,{},{},"{('è', 'e'): 1}",bién,Saint-Yzans-de-Médoc,{},{},"{('è', 'é'): 1}",bien,Ozourt,{},{},"{('è', 'e'): 1}"
+bien,La Brède-bis,bien,Poyanne,{},{},{},bien,Louchats,{},{},{},bien,Onard,{},{},{}
+bièn,La Brède,bien,Ousse-Suzan,{},{},"{('è', 'e'): 1}",bien,Léognan,{},{},"{('è', 'e'): 1}",,,,,
+bien,Léognan,bièn,La Brède,{},{},"{('e', 'è'): 1}",,,,,,,,,,
+bién,Martillac,bién,Saint-Germain-de-la-Rivière,{},{},{},bién,Saugnac-et-Cambran,{},{},{},bien,Saint-Médard-d'Eyrans,{},{},"{('é', 'e'): 1}"
+bien,Saint-Médard-d'Eyrans,bien,Saint-Morillon,{},{},{},bièn,Donzac,{},{},"{('e', 'è'): 1}",bién,Martillac,{},{},"{('e', 'é'): 1}"
+bien,Saint-Morillon,bien,Saint-Médard-d'Eyrans,{},{},{},bien,Blaignac,{},{},{},,,,,
+bien,Saint-Selve,bien,Saucats,{},{},{},bien,Blaignac,{},{},{},,,,,
+bien,Saucats,bién,Lavazan,{},{},"{('e', 'é'): 1}",bien,Saint-Selve,{},{},{},bien,Bagas,{},{},{}
+bien,Bagas,bien,Saubusse,{},{},{},bien,Estigarde,{},{},{},bien,Saucats,{},{},{}
+bien,Blaignac,bien,Saint-Selve,{},{},{},bien,Saint-Morillon,{},{},{},bièn,Siest,{},{},"{('e', 'è'): 1}"
+bién,Camiran-bis,bien,Ygos-Saint-Saturnin,{},{},"{('é', 'e'): 1}",bien,Onesse-Laharie,{},{},"{('é', 'e'): 1}",,,,,
+bién,Camiran,bien,Cadillac,{},{},"{('é', 'e'): 1}",bién,Baigts,{},{},{},,,,,
+bién,Casseuil,bién,Puyol-Cazalet,{},{},{},bien,Fontet,{},{},"{('é', 'e'): 1}",,,,,
+bien,Fontet,bién,Casseuil,{},{},"{('e', 'é'): 1}",bien,Biscarosse-bis,{},{},{},bien,Doazit,{},{},{}
+bien,Gironde-sur-Dropt-bis,bien,Branne,{},{},{},bien,Gaas,{},{},{},bièn,Sorde-l'Abbaye,{},{},"{('e', 'è'): 1}"
+bien,Gironde-sur-Dropt,bien,Langoiran-bis,{},{},{},bién,Moustey,{},{},"{('e', 'é'): 1}",,,,,
+bién,Hure,bien,Estibeaux,{},{},"{('é', 'e'): 1}",bien,Branne,{},{},"{('é', 'e'): 1}",bien,Cagnotte,{},{},"{('é', 'e'): 1}"
+bién,La Réole-bis,bien,Saugnacq-et-Muret,{},{},"{('é', 'e'): 1}",bien,Mimbaste,{},{},"{('é', 'e'): 1}",,,,,
+bién,La Réole,bien,Blanquefort,{},{},"{('é', 'e'): 1}",bien,Mouscardès,{},{},"{('é', 'e'): 1}",,,,,
+bien,Lamothe-Landerron,bien,Loupiac-de-la-Réole,{},{},{},bien,Tilh,{},{},{},,,,,
+bien,Loupiac-de-la-Réole,bien,Lamothe-Landerron,{},{},{},,,,,,,,,,
+bièn,Mongauzy,bien,Arue,{},{},"{('è', 'e'): 1}",,,,,,,,,,
+bièn,Morizès,bién,Lestiac-sur-Garonne,{},{},"{('è', 'é'): 1}",bien,Arouille,{},{},"{('è', 'e'): 1}",,,,,
+bien,Noaillac,bièn,Arveyres,{},{},"{('e', 'è'): 1}",bien,Lugaut,{},{},{},,,,,
+bién,Pompéjac,bièn,Arcachon-bis,{},{},"{('é', 'è'): 1}",bien,Roquefort,{},{},"{('é', 'e'): 1}",,,,,
+bién,Saint-Hilaire-de-la-Noaille-bis,bièn,Saint-Hilaire-de-la-Noaille,{},{},"{('é', 'è'): 1}",bién,Civrac-sur-Dordogne,{},{},{},,,,,
+bièn,Saint-Hilaire-de-la-Noaille,bién,Monprimblanc,{},{},"{('è', 'é'): 1}",bién,Saint-Hilaire-de-la-Noaille-bis,{},{},"{('è', 'é'): 1}",,,,,
+bièn,Arcachon-bis,bién,Pompéjac,{},{},"{('è', 'é'): 1}",bién,Arcachon,{},{},"{('è', 'é'): 1}",,,,,
+bién,Arcachon,bièn,Arcachon-bis,{},{},"{('é', 'è'): 1}",bién,La Teste-de-Buch-bis,{},{},{},,,,,
+bién,Cazaux,bien,Gujan,{},{},"{('é', 'e'): 1}",bien,Lue,{},{},"{('é', 'e'): 1}",,,,,
+bien,Gujan,bién,Loupiac,{},{},"{('e', 'é'): 1}",bién,Cazaux,{},{},"{('e', 'é'): 1}",bién,La Teste-de-Buch-bis,{},{},"{('e', 'é'): 1}"
+bién,La Teste-de-Buch-bis,bién,Arcachon,{},{},{},bien,Gujan,{},{},"{('é', 'e'): 1}",,,,,
+bien,La Teste-de-Buch-ter,bien,Saint-Laurent-de-Gosse,{},{},{},bien,Aurice,{},{},{},,,,,
+bièn,La Teste-de-Buch,bién,Omet,{},{},"{('è', 'é'): 1}",bién,Bieujac,{},{},"{('è', 'é'): 1}",bien,Le Teich,{},{},"{('è', 'e'): 1}"
+bien,Le Teich,bé,Mestras,{},"{'e': 1, 'n': 1}","{('i', 'é'): 1}",bien,Paillet,{},{},{},bièn,La Teste-de-Buch,{},{},"{('e', 'è'): 1}"
+bé,Mestras,bien,Le Teich,"{'i': 1, 'e': 1}",{},"{('é', 'n'): 1}",bien,Bommes,"{'i': 1, 'e': 1}",{},"{('é', 'n'): 1}",,,,,
+bién,Bieujac,bièn,La Teste-de-Buch,{},{},"{('é', 'è'): 1}",bien,Giscos,{},{},"{('é', 'e'): 1}",bien,Castets-en-Dorthe,{},{},"{('é', 'e'): 1}"
+bien,Bommes,bien,Castets-en-Dorthe,{},{},{},bien,Lignan-de-Bordeaux,{},{},{},bé,Mestras,{},"{'e': 1, 'n': 1}","{('i', 'é'): 1}"
+bien,Castets-en-Dorthe,biën,Saint-Maurice-sur-Adour,{},{},"{('e', 'ë'): 1}",bien,Bommes,{},{},{},bién,Bieujac,{},{},"{('e', 'é'): 1}"
+bien,Fargues,bien,Langon-bis,{},{},{},,,,,,,,,,
+bien,Langon-bis,bien,Fargues,{},{},{},bien,Fargues,{},{},{},,,,,
+bien,Langon,bien,Captieux,{},{},{},bien,Larrivière-Saint-Savin,{},{},{},bien,Budos,{},{},{}
+bien,Léogeats,bien,Saint-Pierre-de-Mons,{},{},{},bien,Captieux,{},{},{},bien,Mazères,{},{},{}
+bien,Mazères,bien,Sainte-Croix-du-Mont,{},{},{},bien,Roaillan,{},{},{},bien,Léogeats,{},{},{}
+bien,Roaillan,bien,Mazères,{},{},{},bien,Sarraziet,{},{},{},,,,,
+bien,Saint-Pardon-de-Conques,bien,Giscos,{},{},{},bien,Capbreton,{},{},{},bién,Sauternes,{},{},"{('e', 'é'): 1}"
+bien,Saint-Pierre-de-Mons,bien,Labenne,{},{},{},bien,Léogeats,{},{},{},bién,Sauternes,{},{},"{('e', 'é'): 1}"
+bién,Sauternes,bien,Saint-Sever,{},{},"{('é', 'e'): 1}",bien,Saint-Pardon-de-Conques,{},{},"{('é', 'e'): 1}",bien,Saint-Pierre-de-Mons,{},{},"{('é', 'e'): 1}"
+bien,Toulenne,bien,Saint-Michel-de-Castelnau,{},{},{},bièn,Soustons,{},{},"{('e', 'è'): 1}",,,,,
+bièn,Arveyres,bién,Tosse,{},{},"{('è', 'é'): 1}",bien,Noaillac,{},{},"{('è', 'e'): 1}",,,,,
+bién,Civrac-sur-Dordogne,bién,Saint-Hilaire-de-la-Noaille-bis,{},{},{},bien,Saint-Estèphe,{},{},"{('é', 'e'): 1}",,,,,
+bién,Izon,bien,Orx,{},{},"{('é', 'e'): 1}",bién,Cissac-Médoc,{},{},{},beücou,Saubrigues,"{'e': 1, 'ü': 1}",{},"{('i', 'c'): 1, ('é', 'o'): 1, ('n', 'u'): 1}"
+bien,Libourne-bis,bien,Libourne,{},{},{},bien,Saubion,{},{},{},bien,Pomerol,{},{},{}
+bien,Libourne,bien,Carbon-Blanc,{},{},{},bien,Libourne-bis,{},{},{},bien,Vayres,{},{},{}
+bien,Pomerol,bien,Libourne-bis,{},{},{},bien,Pauillac,{},{},{},bien,Vayres,{},{},{}
+bien,Saint-Émilion,bien,Saint-Michel-de-Castelnau,{},{},{},bien,Saint-Sulpice-de-Faleyrens,{},{},{},bien,Roquebrune,{},{},{}
+bien,Saint-Sulpice-de-Faleyrens,bien,Saint-Émilion,{},{},{},bien,Floirac,{},{},{},bien,Vayres,{},{},{}
+bien,Vayres,bien,Saint-Sulpice-de-Faleyrens,{},{},{},bien,Libourne,{},{},{},bien,Pomerol,{},{},{}
+bien,Landerrouet-sur-Ségur,bien,Argelouse,{},{},{},bien,Angresse,{},{},{},bien,Monségur,{},{},{}
+bien,Monségur,bien,Callen,{},{},{},bien,Saint-Jean-de-Marsacq,{},{},{},bien,Landerrouet-sur-Ségur,{},{},{}
+bien,Roquebrune,bien,Soorts-Hossegor,{},{},{},bien,Saint-Émilion,{},{},{},bien,Pauillac,{},{},{}
+bién,Cissac-Médoc,bién,Izon,{},{},{},bién,Messanges,{},{},{},bien,Pauillac,{},{},"{('é', 'e'): 1}"
+bien,Pauillac,bien,Pomerol,{},{},{},bién,Cissac-Médoc,{},{},"{('e', 'é'): 1}",bien,Roquebrune,{},{},{}
+bien,Saint-Estèphe,bién,Civrac-sur-Dordogne,{},{},"{('e', 'é'): 1}",bién,Saint-Julien-Beychevelle,{},{},"{('e', 'é'): 1}",,,,,
+bién,Saint-Julien-Beychevelle,bien,Saint-Vincent-de-Tyrosse,{},{},"{('é', 'e'): 1}",bien,Sore,{},{},"{('é', 'e'): 1}",bien,Saint-Estèphe,{},{},"{('é', 'e'): 1}"
+bién,Saint-Sauveur,bien,Saint-Yaguen,{},{},"{('é', 'e'): 1}",bien,Vertheuil,{},{},"{('é', 'e'): 1}",,,,,
+bien,Vertheuil,bien,Auriac-sur-Dropt,{},{},{},bién,Saint-Sauveur,{},{},"{('e', 'é'): 1}",bién,Cazaugitat,{},{},"{('e', 'é'): 1}"
+bién,Cazaugitat,bien,Saint-Sernin,{},{},"{('é', 'e'): 1}",bien,Vertheuil,{},{},"{('é', 'e'): 1}",,,,,
+bien,Landerrouat,bien,Massugas,{},{},{},bién,Le Taillan-Médoc,{},{},"{('e', 'é'): 1}",bien,Listrac-de-Durèze,{},{},{}
+bien,Listrac-de-Durèze,bien,Landerrouat,{},{},{},bien,Soumensac,{},{},{},bièn,Monheurt,{},{},"{('e', 'è'): 1}"
+bien,Massugas,bien,Landerrouat,{},{},{},bien,Pellegrue,{},{},{},,,,,
+bien,Pellegrue,bien,Puch-d'Agenais,{},{},{},bien,Lamontjoie,{},{},{},bien,Massugas,{},{},{}
+bièn,Canéjan,bien,Cestas,{},{},"{('è', 'e'): 1}",bièn,Illats,{},{},{},bién,Durance,{},{},"{('è', 'é'): 1}"
+bien,Cestas,bien,Villenave-d'Ornon,{},{},{},bièn,Canéjan,{},{},"{('e', 'è'): 1}",bién,Allons,{},{},"{('e', 'é'): 1}"
+bièn,Gradignan,bien,Landiras,{},{},"{('è', 'e'): 1}",bien,Villenave-d'Ornon,{},{},"{('è', 'e'): 1}",bien,Mérignac,{},{},"{('è', 'e'): 1}"
+bien,Martignas-sur-Jalle,bién,Saint-Jean-d'Illac,{},{},"{('e', 'é'): 1}",bien,Ambès,{},{},{},bien,Mérignac,{},{},{}
+bien,Mérignac,bien,Martignas-sur-Jalle,{},{},{},bién,Barsac,{},{},"{('e', 'é'): 1}",bièn,Gradignan,{},{},"{('e', 'è'): 1}"
+bièn,Pessac,bién,Talence,{},{},"{('è', 'é'): 1}",bien,Carbon-Blanc,{},{},"{('è', 'e'): 1}",bién,Saint-Jean-d'Illac,{},{},"{('è', 'é'): 1}"
+bién,Saint-Jean-d'Illac,bien,Pujols-sur-Ciron,{},{},"{('é', 'e'): 1}",bien,Martignas-sur-Jalle,{},{},"{('é', 'e'): 1}",bièn,Pessac,{},{},"{('é', 'è'): 1}"
+bién,Talence,bièn,Pessac,{},{},"{('é', 'è'): 1}",bien,Villenave-d'Ornon,{},{},"{('é', 'e'): 1}",,,,,
+bien,Villenave-d'Ornon,bièn,Gradignan,{},{},"{('e', 'è'): 1}",bien,Cestas,{},{},{},bién,Talence,{},{},"{('e', 'é'): 1}"
+bien,Arbanats,bién,Barsac,{},{},"{('e', 'é'): 1}",bien,Villenave-de-Rions,{},{},{},bien,Budos,{},{},{}
+bién,Barsac,bien,Mérignac,{},{},"{('é', 'e'): 1}",bien,Arbanats,{},{},"{('é', 'e'): 1}",bién,Budos-bis,{},{},{}
+bién,Budos-bis,bien,Cérons,{},{},"{('é', 'e'): 1}",bien,Portets,{},{},"{('é', 'e'): 1}",bién,Barsac,{},{},{}
+bien,Budos,bien,Arbanats,{},{},{},bien,Langon,{},{},{},bién,Guillos,{},{},"{('e', 'é'): 1}"
+bien,Cérons,bièn,Escaudes,{},{},"{('e', 'è'): 1}",bién,Budos-bis,{},{},"{('e', 'é'): 1}",bién,Guillos,{},{},"{('e', 'é'): 1}"
+bién,Guillos,bien,Montaut,{},{},"{('é', 'e'): 1}",bien,Cérons,{},{},"{('é', 'e'): 1}",bien,Budos,{},{},"{('é', 'e'): 1}"
+bièn,Illats,bièn,Canéjan,{},{},{},bien,Landiras,{},{},"{('è', 'e'): 1}",bien,Podensac,{},{},"{('è', 'e'): 1}"
+bien,Landiras,bièn,Illats,{},{},"{('e', 'è'): 1}",bièn,Gradignan,{},{},"{('e', 'è'): 1}",bien,Portets,{},{},{}
+bien,Podensac,bien,Portets,{},{},{},bien,Bouliac,{},{},{},bièn,Illats,{},{},"{('e', 'è'): 1}"
+bien,Portets,bién,Budos-bis,{},{},"{('e', 'é'): 1}",bien,Podensac,{},{},{},bien,Landiras,{},{},{}
+bién,Preignac,bién,Nomdieu,{},{},{},,,,,,,,,,
+bien,Pujols-sur-Ciron,bien,Francescas,{},{},{},bién,Saint-Jean-d'Illac,{},{},"{('e', 'é'): 1}",bien,Houeillès,{},{},{}
+bién,Saint-Michel-de-Rieufret,bièn,Bourgougnague,{},{},"{('é', 'è'): 1}",bien,Aubie-et-Espessas,{},{},"{('é', 'e'): 1}",bien,Sainte-Radegonde,{},{},"{('é', 'e'): 1}"
+bien,Virelade,bien,Saint-Vincent-de-Pertignas,{},{},{},bien,Saint-Louis-de-Montferrand,{},{},{},bièn,Doulezon,{},{},"{('e', 'è'): 1}"
+bièn,Doulezon,bien,Virelade,{},{},"{('è', 'e'): 1}",bién,Sauméjan,{},{},"{('è', 'é'): 1}",bién,Laperche,{},{},"{('è', 'é'): 1}"
+bien,Flaujagues,bien,Gensac,{},{},{},bien,Saint-Vincent-de-Paul,{},{},{},bién,Saint-Pierre de Nogaret,{},{},"{('e', 'é'): 1}"
+bien,Gensac,bien,Juillac,{},{},{},bien,Flaujagues,{},{},{},,,,,
+bien,Juillac,bién,Sainte-Eulalie,{},{},"{('e', 'é'): 1}",bien,Gensac,{},{},{},bién,Sainte-Bazeille,{},{},"{('e', 'é'): 1}"
+bien,Mouliets,bién,Sainte-Maure-de-Peyriac,{},{},"{('e', 'é'): 1}",bien,Saint-Macaire,{},{},{},bién,Pessac-sur-Dordogne,{},{},"{('e', 'é'): 1}"
+bién,Pessac-sur-Dordogne,bien,Mouliets,{},{},"{('é', 'e'): 1}",bién,Tresses-bis,{},{},{},bien,Montignac-de-Lauzun,{},{},"{('é', 'e'): 1}"
+bien,Pujols-bis,bien,Listrac-Médoc,{},{},{},,,,,,,,,,
+bien,Pujols,bien,Saint-Jean-de-Blaignac,{},{},{},,,,,,,,,,
+bièn,Rauzan,bien,Saint-Colomb-de-Lauzun,{},{},"{('è', 'e'): 1}",bien,Tresses,{},{},"{('è', 'e'): 1}",bièn,Sérignac-Péboudou,{},{},{}
+bien,Saint-Jean-de-Blaignac,bien,Saint-Nazaire,{},{},{},bien,Pujols,{},{},{},,,,,
+bien,Saint-Pey-de-Castets,bien,Tresses,{},{},{},bién,Longueville,{},{},"{('e', 'é'): 1}",bien,Sainte-Radegonde,{},{},{}
+bien,Saint-Vincent-de-Pertignas,bién,Fauguerolles,{},{},"{('e', 'é'): 1}",bien,Virelade,{},{},{},bien,Sainte-Radegonde,{},{},{}
+bien,Sainte-Radegonde,bién,Saint-Michel-de-Rieufret,{},{},"{('e', 'é'): 1}",bien,Saint-Pey-de-Castets,{},{},{},bien,Saint-Vincent-de-Pertignas,{},{},{}
+bien,Aubie-et-Espessas,bién,Saint-Michel-de-Rieufret,{},{},"{('e', 'é'): 1}",bien,Barbaste,{},{},{},bien,Cubzac-les-Ponts,{},{},{}
+bien,Cubzac-les-Ponts,bién,Méneau,{},{},"{('e', 'é'): 1}",bien,Tresses,{},{},{},bien,Aubie-et-Espessas,{},{},{}
+bien,Peujard,bién,Tresses-bis,{},{},"{('e', 'é'): 1}",bièn,Saint-André-de-Cubzac,{},{},"{('e', 'è'): 1}",bien,Vianne,{},{},{}
+bièn,Saint-André-de-Cubzac,bien,Peujard,{},{},"{('è', 'e'): 1}",bien,Xaintrailles,{},{},"{('è', 'e'): 1}",,,,,
+bien,Saint-Antoine,bien,Saint-Pardoux-du-Breuil,{},{},{},bién,Gontaud-de-Nogaret-bis,{},{},"{('e', 'é'): 1}",,,,,
+bien,Saint-Gervais,bién,Arsac-bis,{},{},"{('e', 'é'): 1}",bièn,Benon,{},{},"{('e', 'è'): 1}",bien,Saint-Laurent-d'Arce,{},{},{}
+bien,Saint-Laurent-d'Arce,bien,Le Pian-sur-Garonne,{},{},{},bien,Saint-Gervais,{},{},{},,,,,
+bien,Salignac,bièn,Benon,{},{},"{('e', 'è'): 1}",béts,Cantenac,{},{},"{('i', 'é'): 1, ('e', 't'): 1, ('n', 's'): 1}",bién,Virsac,{},{},"{('e', 'é'): 1}"
+bién,Virsac,bien,Salignac,{},{},"{('é', 'e'): 1}",bien,Arcins,{},{},"{('é', 'e'): 1}",,,,,
+bièn,Benon,bien,Saint-Gervais,{},{},"{('è', 'e'): 1}",bien,Salignac,{},{},"{('è', 'e'): 1}",bién,Carcans,{},{},"{('è', 'é'): 1}"
+bién,Carcans,bien,Hourtin,{},{},"{('é', 'e'): 1}",bièn,Benon,{},{},"{('é', 'è'): 1}",,,,,
+bien,Hourtin,bién,Carcans,{},{},"{('e', 'é'): 1}",bién,Saint-Quentin-de-Caplong,{},{},"{('e', 'é'): 1}",,,,,
+bien,Saint-Laurent-Médoc,bien,Le Pian-sur-Garonne,{},{},{},besh,Taillebourg,{},{},"{('i', 'e'): 1, ('e', 's'): 1, ('n', 'h'): 1}",bién,Caudrot,{},{},"{('e', 'é'): 1}"
+bién,Caudrot,bien,Saint-Laurent-Médoc,{},{},"{('é', 'e'): 1}",bien,Labarde,{},{},"{('é', 'e'): 1}",bién,Saint-André-du-Bois,{},{},{}
+bien,Le Pian-sur-Garonne,bien,Saint-Laurent-d'Arce,{},{},{},bien,Saint-Laurent-Médoc,{},{},{},bién,Saint-André-du-Bois,{},{},"{('e', 'é'): 1}"
+bién,Saint-André-du-Bois,bien,Lamarque,{},{},"{('é', 'e'): 1}",bien,Le Pian-sur-Garonne,{},{},"{('é', 'e'): 1}",bién,Caudrot,{},{},{}
+bien,Saint-Germain-de-Grave,bien,Le Porge,{},{},{},bién,Saint-Sauveur-de-Meilhan,{},{},"{('e', 'é'): 1}",bien,Saint-Laurent-du-Bois,{},{},{}
+bien,Saint-Laurent-du-Bois,bien,Saint-Germain-de-Grave,{},{},{},,,,,,,,,,
+bien,Saint-Macaire,bien,Mouliets,{},{},{},bién,Poudenas,{},{},"{('e', 'é'): 1}",bien,Saint-Martin-de-Sescas,{},{},{}
+bien,Saint-Maixant,bién,Mios,{},{},"{('e', 'é'): 1}",bien,Saint-Martin-de-Sescas,{},{},{},,,,,
+bien,Saint-Martin-de-Sescas,bien,Saint-Maixant,{},{},{},bién,Sainte-Eulalie,{},{},"{('e', 'é'): 1}",bien,Saint-Macaire,{},{},{}
+bien,Saint-Pierre-d'Aurillac,béts,Peyrière,{},{},"{('i', 'é'): 1, ('e', 't'): 1, ('n', 's'): 1}",betcop,Espiens,"{'e': 1, 't': 1}",{},"{('i', 'c'): 1, ('e', 'o'): 1, ('n', 'p'): 1}",bién,Sos,{},{},"{('e', 'é'): 1}"
+bien,Verdelais,bien,Le Temple,{},{},{},bien,Grayan-bis,{},{},{},bien,Balizac,{},{},{}
+bien,Balizac,bien,Saint-Genès-de-Castillon,{},{},{},bien,Verdelais,{},{},{},bien,Grayan,{},{},{}
+bien,Hostens,bien,Le Verdon-sur-Mer,{},{},{},bien,Le Tuzan,{},{},{},,,,,
+bien,Le Tuzan,bien,Hostens,{},{},{},bien,Louchats,{},{},{},,,,,
+bien,Louchats,bien,La Brède-bis,{},{},{},bièn,Origne,{},{},"{('e', 'è'): 1}",bien,Le Tuzan,{},{},{}
+bièn,Origne,bien,Uchacq,{},{},"{('è', 'e'): 1}",biènn,Saint-Léger-de-Balson,{'n': 1},{},{},bien,Louchats,{},{},"{('è', 'e'): 1}"
+biènn,Saint-Léger-de-Balson,bièn,Origne,{},{'n': 1},{},bien,Clermont,{},{'n': 1},"{('è', 'e'): 1}",bien,Saint-Symphorien-bis,{},{'n': 1},"{('è', 'e'): 1}"
+bien,Saint-Symphorien-bis,biènn,Saint-Léger-de-Balson,{'è': 1},{},"{('e', 'n'): 1}",biën,Saint-Laurent-des-Combes,{},{},"{('e', 'ë'): 1}",bién,Montagnac-sur-Auvignon,{},{},"{('e', 'é'): 1}"
+bièn,Saint-Symphorien,bien,Castelnau-sur-Gupie,{},{},"{('è', 'e'): 1}",,,,,,,,,,
+bien,Grayan-bis,bien,Verdelais,{},{},{},bien,Grayan,{},{},{},,,,,
+bien,Grayan,bién,Nérac-bis,{},{},"{('e', 'é'): 1}",bien,Balizac,{},{},{},bien,Grayan-bis,{},{},{}
+biè̄n,Jau-Dignac-et-Loirac,bien,Lourquen,{},{'̄': 1},"{('è', 'e'): 1}",bien,Le Verdon-sur-Mer,{},{'̄': 1},"{('è', 'e'): 1}",,,,,
+bien,Le Verdon-sur-Mer,biè̄n,Jau-Dignac-et-Loirac,{'è': 1},{},"{('e', '̄'): 1}",bien,Hostens,{},{},{},bien,Saint-Vivien-de-Médoc,{},{},{}
+bien,Saint-Vivien-de-Médoc,bien,Le Verdon-sur-Mer,{},{},{},,,,,,,,,,
+bien,Soulac-sur-Mer,bién,Mauvezin-sur-Gupie,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+bien,Talais,bien,Calonges,{},{},{},,,,,,,,,,
+bien,Vensac,bièn,La Roquille,{},{},"{('e', 'è'): 1}",bién,Appelles,{},{},"{('e', 'é'): 1}",,,,,
+bién,Appelles,bien,Vensac,{},{},"{('é', 'e'): 1}",bién,Caplong,{},{},{},,,,,
+bién,Caplong,béts,Puymiclan,{},{},"{('i', 'é'): 1, ('é', 't'): 1, ('n', 's'): 1}",bién,Appelles,{},{},{},,,,,
+bien,Eynesse,bets,Sénestis,{},{},"{('i', 'e'): 1, ('e', 't'): 1, ('n', 's'): 1}",bièn,La Roquille,{},{},"{('e', 'è'): 1}",,,,,
+bièn,La Roquille,bién,Lachapelle,{},{},"{('è', 'é'): 1}",bien,Vensac,{},{},"{('è', 'e'): 1}",bien,Eynesse,{},{},"{('è', 'e'): 1}"
+bien,Les Lèves-et-Thoumeyragues,bétz,Samazan,{},{},"{('i', 'é'): 1, ('e', 't'): 1, ('n', 'z'): 1}",bièn,Riocaud,{},{},"{('e', 'è'): 1}",bién,Ligueux,{},{},"{('e', 'é'): 1}"
+bién,Ligueux,bién,Lagruère,{},{},{},bien,Les Lèves-et-Thoumeyragues,{},{},"{('é', 'e'): 1}",bien,Pineuilh,{},{},"{('é', 'e'): 1}"
+bien,Pineuilh,bién,Ligueux,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+bièn,Riocaud,bien,Les Lèves-et-Thoumeyragues,{},{},"{('è', 'e'): 1}",bien,Saint-Avit-de-Soulège,{},{},"{('è', 'e'): 1}",,,,,
+bien,Saint-Avit-de-Soulège,bièn,Riocaud,{},{},"{('e', 'è'): 1}",,,,,,,,,,
+bièn,Saint-Avit-Saint-Nazaire,,,,,,,,,,,,,,,
+bién,Saint-Quentin-de-Caplong,bien,Hourtin,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+bien,Sainte-Foy-la-Grande-bis,bién,Auros,{},{},"{('e', 'é'): 1}",bièn,Sainte-Foy-la-Grande-ter,{},{},"{('e', 'è'): 1}",,,,,
+bièn,Sainte-Foy-la-Grande-ter,bien,Moulis-en-Médoc-bis,{},{},"{('è', 'e'): 1}",bien,Sainte-Foy-la-Grande-bis,{},{},"{('è', 'e'): 1}",,,,,
+bien,Sainte-Foy-la-Grande,bien,Blasimon,{},{},{},,,,,,,,,,
+bien,Blasimon,bien,Sainte-Foy-la-Grande,{},{},{},bien,Castelviel,{},{},{},,,,,
+bien,Castelviel,bien,Blasimon,{},{},{},,,,,,,,,,
+bien,Cleyrac,,,,,,,,,,,,,,,
+bien,Coirac,,,,,,,,,,,,,,,
+bien,Gornac,bièn,Moulis-en-Médoc,{},{},"{('e', 'è'): 1}",,,,,,,,,,
+bien,Mérignas,bién,Saint-Sulpice-de-Pommiers,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+bien,Mourens,bien,Ruch,{},{},{},,,,,,,,,,
+bien,Ruch,bien,Mourens,{},{},{},bién,Saint-Brice,{},{},"{('e', 'é'): 1}",,,,,
+bién,Saint-Brice,bien,Ruch,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+bien̈,Saint-Félix-de-Foncaude,,,,,,,,,,,,,,,
+bien,Saint-Léger-de-Vignague,bién,Saint-Sulpice-de-Pommiers,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+bién,Saint-Sulpice-de-Pommiers,bien,Saint-Léger-de-Vignague,{},{},"{('é', 'e'): 1}",bien,Mérignas,{},{},"{('é', 'e'): 1}",bien,Sauveterre-de-Guyenne-bis,{},{},"{('é', 'e'): 1}"
+bien,Sauveterre-de-Guyenne-bis,bién,Saint-Sulpice-de-Pommiers,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+bien,Sauveterre-de-Guyenne-ter,bien,Arbis,{},{},{},,,,,,,,,,
+bien,Sauveterre-de-Guyenne,bien,Escoussans,{},{},{},,,,,,,,,,
+bien,Arbis,bien,Sauveterre-de-Guyenne-ter,{},{},{},bièn,Baigneaux,{},{},"{('e', 'è'): 1}",,,,,
+bièn,Baigneaux,bien,Arbis,{},{},"{('è', 'e'): 1}",,,,,,,,,,
+bien,Escoussans,bien,Sauveterre-de-Guyenne,{},{},{},,,,,,,,,,
+bien,Faleyras,bien,Frontenac,{},{},{},,,,,,,,,,
+bien,Frontenac,bien,Romagne,{},{},{},bien,Faleyras,{},{},{},,,,,
+bien,Ladaux,bien,Lugasson,{},{},{},bihen,Soulignac,{'h': 1},{},{},,,,,
+bien,Lugasson,bien,Ladaux,{},{},{},bien,Romagne,{},{},{},,,,,
+bien,Romagne,bien,Frontenac,{},{},{},bien,Lugasson,{},{},{},,,,,
+bien,Saint-Pierre-de-Bat,,,,,,,,,,,,,,,
+bihen,Soulignac,bien,Ladaux,{},{'h': 1},{},,,,,,,,,,
+bien,Targon-bis,,,,,,,,,,,,,,,
+bien,Targon,bien,Cazalis,{},{},{},,,,,,,,,,
+bien,Cazalis,bien,Sainte-Hélène,{},{},{},bien,Targon,{},{},{},,,,,
+bien,Lucmau,bién,Gardegan,{},{},"{('e', 'é'): 1}",bien,Gours,{},{},{},,,,,
+bien,Noaillan,bien,Préchac-bis,{},{},{},,,,,,,,,,
+bien,Préchac-bis,bien,Noaillan,{},{},{},bien,Francs,{},{},{},,,,,
+bien,Préchac,bien,Puynormand,{},{},{},bién,Cabanac-et-Villagrains,{},{},"{('e', 'é'): 1}",bien,Uzeste,{},{},{}
+bien,Uzeste,bien,Préchac,{},{},{},bién,Saint-Germain-du-Puch,{},{},"{('e', 'é'): 1}",bièn,Villandraut-bis,{},{},"{('e', 'è'): 1}"
+bièn,Villandraut-bis,bien,Uzeste,{},{},"{('è', 'e'): 1}",bién,Gardegan,{},{},"{('è', 'é'): 1}",biein,Saint-Christophe-des-Bardes,{'e': 1},{},"{('è', 'i'): 1}"
+bien,Villandraut,bien,Francs,{},{},{},bien,Duhort-Bachen,{},{},{},bien,Puisseguin,{},{},{}
+bien,Francs,bien,Préchac-bis,{},{},{},bien,Villandraut,{},{},{},bien,Gours,{},{},{}
+bien,Gours,biein,Saint-Christophe-des-Bardes,{'i': 1},{},{},bien,Lucmau,{},{},{},bien,Francs,{},{},{}
+bien,Puisseguin,bien,Castillon-la-Bataille,{},{},{},bien,Puynormand,{},{},{},bien,Villandraut,{},{},{}
+bien,Puynormand,bien,Puisseguin,{},{},{},bien,Préchac,{},{},{},biein,Saint-Christophe-des-Bardes,{'i': 1},{},{}
+biein,Saint-Christophe-des-Bardes,bièn,Villandraut-bis,{},{'i': 1},"{('e', 'è'): 1}",bien,Gours,{},{'i': 1},{},bien,Puynormand,{},{'i': 1},{}
+bien,Aire-sur-l'Adour,biën,Saint-Laurent-des-Combes,{},{},"{('e', 'ë'): 1}",bien,Buanes,{},{},{},,,,,
+bien,Bahus-Soubiran,bien,Bourg-bis,{},{},{},bien,Classun,{},{},{},bien,Buanes,{},{},{}
+bien,Buanes,bien,Aire-sur-l'Adour,{},{},{},bien,Gamarde-les-Bains,{},{},{},bien,Bahus-Soubiran,{},{},{}
+bien,Classun,bien,Bahus-Soubiran,{},{},{},bien,Castillon-la-Bataille,{},{},{},bien,Duhort-Bachen,{},{},{}
+bien,Duhort-Bachen,bien,Villandraut,{},{},{},bien,Classun,{},{},{},,,,,
+bien,Eugénie-les-Bains,bién,Saint-Philippe-d'Aiguille,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+bien,Latrille,bien,Maillères,{},{},{},bien,Lussagnet,{},{},{},,,,,
+bien,Renung,bien,Prignac-et-Marcamps,{},{},{},bien,Saint-Agnet,{},{},{},bien,Saint-Loubouer,{},{},{}
+bien,Saint-Agnet,bien,Renung,{},{},{},bien,Saint-Antoine-sur-l'Isle,{},{},{},bien,Sarron,{},{},{}
+bien,Saint-Loubouer,bien,Sarron,{},{},{},bien,Lansac,{},{},{},bien,Renung,{},{},{}
+bien,Sarron,biéñ,Bonnetan,{},{},"{('e', 'é'): 1, ('n', 'ñ'): 1}",bien,Saint-Loubouer,{},{},{},bien,Saint-Agnet,{},{},{}
+bien,Vielle-Tursan,bien,Cambes,{},{},{},bien,Amou-bis,{},{},{},bièn,Amou,{},{},"{('e', 'è'): 1}"
+bien,Amou-bis,bien,Vielle-Tursan,{},{},{},,,,,,,,,,
+bièn,Amou,bièn,Carignan-de-Bordeaux,{},{},{},bien,Vielle-Tursan,{},{},"{('è', 'e'): 1}",,,,,
+bién,Bassercles,bien,Cénac,{},{},"{('é', 'e'): 1}",bién,Bonnegarde,{},{},{},bien,Tartas-bis,{},{},"{('é', 'e'): 1}"
+bién,Bonnegarde,bien,Branne-bis,{},{},"{('é', 'e'): 1}",bien,Brassempouy,{},{},"{('é', 'e'): 1}",bién,Bassercles,{},{},{}
+bien,Brassempouy,bién,Bonnegarde,{},{},"{('e', 'é'): 1}",bien,Créon,{},{},{},bien,Souprosse,{},{},{}
+bien,Castaignos-Souslens,,,,,,,,,,,,,,,
+bien,Castel-Sarrazin,bien,Latresne,{},{},{},,,,,,,,,,
+bien,Castelnau-Chalosse,bien,Haux,{},{},{},,,,,,,,,,
+bien,Donzacq,bien,Latresne,{},{},{},bien,Marpaps,{},{},{},bien,Gaujacq,{},{},{}
+bien,Gaujacq,bién,Laglorieuse,{},{},"{('e', 'é'): 1}",bien,Campet,{},{},{},bien,Donzacq,{},{},{}
+bien,Marpaps,bien,Donzacq,{},{},{},,,,,,,,,,
+bien,Nassiet,,,,,,,,,,,,,,,
+bien,Pomarez,bién,Castets,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+bién,Castets,bien,Pomarez,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+bien,Léon,,,,,,,,,,,,,,,
+bièn,Lévignacq,,,,,,,,,,,,,,,
+bièn,Linxe,bien,Cabara-bis,{},{},"{('è', 'e'): 1}",bien,Lit-et-Mixe,{},{},"{('è', 'e'): 1}",,,,,
+bien,Lit-et-Mixe,bién,Saint-Michel-Escalus,{},{},"{('e', 'é'): 1}",bièn,Linxe,{},{},"{('e', 'è'): 1}",,,,,
+bien,Saint-Julien-en-Born,bien,Taller,{},{},{},bién,Savignac-de-Duras,{},{},"{('e', 'é'): 1}",bién,Saint-Michel-Escalus,{},{},"{('e', 'é'): 1}"
+bién,Saint-Michel-Escalus,bien,Saint-Julien-en-Born,{},{},"{('é', 'e'): 1}",bien,Lit-et-Mixe,{},{},"{('é', 'e'): 1}",bién,Vielle-Saint-Girons,{},{},{}
+bien,Taller,bién,Ambarès-et-Lagrave,{},{},"{('e', 'é'): 1}",bien,Saint-Julien-en-Born,{},{},{},bien,Uza,{},{},{}
+bien,Uza,bién,Vielle-Saint-Girons,{},{},"{('e', 'é'): 1}",bien,Quinsac,{},{},{},bien,Taller,{},{},{}
+bién,Vielle-Saint-Girons,bien,Uza,{},{},"{('é', 'e'): 1}",bién,Saint-Michel-Escalus,{},{},{},,,,,
+bien,Bénesse-lès-Dax,bien,Saint-Caprais-de-Bordeaux,{},{},{},bién,Dax-Saint-Vincent,{},{},"{('e', 'é'): 1}",,,,,
+bien,Candresse,bién,Dax-Saint-Vincent,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+bién,Dax-Saint-Vincent,bien,Cabara-bis,{},{},"{('é', 'e'): 1}",bien,Candresse,{},{},"{('é', 'e'): 1}",bien,Bénesse-lès-Dax,{},{},"{('é', 'e'): 1}"
+bien,Dax,bien,Herm,{},{},{},,,,,,,,,,
+bien,Herm,bien,Heugas,{},{},{},bien,Dax,{},{},{},,,,,
+bien,Heugas,bien,Herm,{},{},{},,,,,,,,,,
+bién,Mées,bièn,Narrosse,{},{},"{('é', 'è'): 1}",bien,Fronsac-bis,{},{},"{('é', 'e'): 1}",bien,Oeyreluy,{},{},"{('é', 'e'): 1}"
+bièn,Narrosse,bien,Tabanac,{},{},"{('è', 'e'): 1}",bién,Mées,{},{},"{('è', 'é'): 1}",bien,Oeyreluy,{},{},"{('è', 'e'): 1}"
+bien,Oeyreluy,bién,Mées,{},{},"{('e', 'é'): 1}",bièn,Narrosse,{},{},"{('e', 'è'): 1}",,,,,
+bien,Rivière-Saas-et-Gourby,bien,Bourg,{},{},{},bien,Sablar,{},{},{},bien,Saint-Pandelon,{},{},{}
+bien,Sablar,bien,Rivière-Saas-et-Gourby,{},{},{},bién,Coudures,{},{},"{('e', 'é'): 1}",,,,,
+bien,Saint-Pandelon,bién,Saint-Seurin-de-Bourg,{},{},"{('e', 'é'): 1}",bien,Rivière-Saas-et-Gourby,{},{},{},,,,,
+bien,Saint-Paul-lès-Dax,bien,Saillans,{},{},{},,,,,,,,,,
+bien,Saint-Vincent-de-Paul,bién,Saugnac-et-Cambran,{},{},"{('e', 'é'): 1}",bién,Saint-Germain-de-la-Rivière,{},{},"{('e', 'é'): 1}",bien,Herré,{},{},{}
+bien,Saubusse,bièn,Gabarret,{},{},"{('e', 'è'): 1}",bien,Bagas,{},{},{},bièn,Siest,{},{},"{('e', 'è'): 1}"
+bién,Saugnac-et-Cambran,bién,Martillac,{},{},{},bien,Saint-Vincent-de-Paul,{},{},"{('é', 'e'): 1}",bièn,Siest,{},{},"{('é', 'è'): 1}"
+bièn,Siest,bien,Blaignac,{},{},"{('è', 'e'): 1}",bién,Saugnac-et-Cambran,{},{},"{('è', 'é'): 1}",bien,Saubusse,{},{},"{('è', 'e'): 1}"
+bien,Tercis-les-Bains,bien,Grignols-bis,{},{},{},bien,Créon-d'Armagnac,{},{},{},,,,,
+bien,Téthieu,bien,Saint-Julien-d'Armagnac,{},{},{},bien,Betbezer-d'Armagnac,{},{},{},,,,,
+bièn,Yzosse,bién,Arx,{},{},"{('è', 'é'): 1}",bién,Grignols,{},{},"{('è', 'é'): 1}",bien,Créon-d'Armagnac,{},{},"{('è', 'e'): 1}"
+bién,Arx,bién,Baudignan,{},{},{},bién,Lavazan,{},{},{},bièn,Yzosse,{},{},"{('é', 'è'): 1}"
+bién,Baudignan,bien,Sainte-Meille,{},{},"{('é', 'e'): 1}",bién,Arx,{},{},{},bien,Betbezer-d'Armagnac,{},{},"{('é', 'e'): 1}"
+bien,Betbezer-d'Armagnac,bien,Téthieu,{},{},{},bién,Baudignan,{},{},"{('e', 'é'): 1}",bien,Créon-d'Armagnac,{},{},{}
+bien,Créon-d'Armagnac,bièn,Yzosse,{},{},"{('e', 'è'): 1}",bien,Tercis-les-Bains,{},{},{},bien,Betbezer-d'Armagnac,{},{},{}
+bien,Estigarde,bien,Bagas,{},{},{},bièn,Gabarret,{},{},"{('e', 'è'): 1}",,,,,
+bièn,Gabarret,bien,Estigarde,{},{},"{('è', 'e'): 1}",bien,Saubusse,{},{},"{('è', 'e'): 1}",bien,Herré,{},{},"{('è', 'e'): 1}"
+bien,Herré,bien,Saint-Vincent-de-Paul,{},{},{},bets,Lagrange,{},{},"{('i', 'e'): 1, ('e', 't'): 1, ('n', 's'): 1}",bièn,Gabarret,{},{},"{('e', 'è'): 1}"
+bets,Lagrange,bien,Cours-les-Bains,{'i': 1},{'s': 1},"{('t', 'n'): 1}",bien,Herré,{'i': 1},{'s': 1},"{('t', 'n'): 1}",,,,,
+bién,Losse,bién,Génissac,{},{},{},,,,,,,,,,
+bièn,Mauvezin-d'Armagnac,bien,Nerbis,{},{},"{('è', 'e'): 1}",,,,,,,,,,
+bien,Parleboscq,,,,,,,,,,,,,,,
+bex,Rimbez-et-Baudiets,bien,Saint-Julien-d'Armagnac,{'i': 1},{},"{('x', 'n'): 1}",bien,Bordères,{'i': 1},{},"{('x', 'n'): 1}",bien,Castelnau-Tursan,{'i': 1},{},"{('x', 'n'): 1}"
+bien,Saint-Julien-d'Armagnac,bien,Téthieu,{},{},{},bex,Rimbez-et-Baudiets,{},{'i': 1},"{('n', 'x'): 1}",bien,Sainte-Meille,{},{},{}
+bien,Sainte-Meille,bién,Baudignan,{},{},"{('e', 'é'): 1}",bien,Saint-Julien-d'Armagnac,{},{},{},,,,,
+bien,Arboucave,béouco,Lauret,"{'é': 1, 'o': 1}",{},"{('i', 'u'): 1, ('e', 'c'): 1, ('n', 'o'): 1}",bien,Bats,{},{},{},bien,Lacajunte,{},{},{}
+bien,Bats,bien,Arboucave,{},{},{},bien,Castelnau-Tursan,{},{},{},,,,,
+bien,Castelnau-Tursan,bex,Rimbez-et-Baudiets,{},{'i': 1},"{('n', 'x'): 1}",bien,Bats,{},{},{},,,,,
+bien,Geaune-bis,bien,Geaune,{},{},{},,,,,,,,,,
+bien,Geaune,bien,Geaune-bis,{},{},{},bien,Lacajunte,{},{},{},,,,,
+bien,Lacajunte,bien,Arboucave,{},{},{},bien,Geaune,{},{},{},,,,,
+béouco,Lauret,bien,Arboucave,{},"{'c': 1, 'o': 1}","{('é', 'i'): 1, ('o', 'e'): 1, ('u', 'n'): 1}",bien,Mauries,{},"{'c': 1, 'o': 1}","{('é', 'i'): 1, ('o', 'e'): 1, ('u', 'n'): 1}",,,,,
+bien,Mauries,béouco,Miramont-Sensacq,"{'é': 1, 'o': 1}",{},"{('i', 'u'): 1, ('e', 'c'): 1, ('n', 'o'): 1}",béouco,Lauret,"{'é': 1, 'o': 1}",{},"{('i', 'u'): 1, ('e', 'c'): 1, ('n', 'o'): 1}",,,,,
+béouco,Miramont-Sensacq,bien,Mauries,{},"{'c': 1, 'o': 1}","{('é', 'i'): 1, ('o', 'e'): 1, ('u', 'n'): 1}",,,,,,,,,,
+bien,Philondenx,,,,,,,,,,,,,,,
+bien,Pimbo,bien,Oeyregave,{},{},{},,,,,,,,,,
+bién,Puyol-Cazalet,bién,Casseuil,{},{},{},,,,,,,,,,
+bien,Samadet,bièn,Gaillan-en-Médoc,{},{},"{('e', 'è'): 1}",bien,Sorbets,{},{},{},,,,,
+bien,Sorbets,bien,Samadet,{},{},{},bien,Civrac,{},{},{},bien,Artassenx,{},{},{}
+bien,Urgons,bien,Artassenx,{},{},{},bien,Ordonnac,{},{},{},,,,,
+bien,Artassenx,bien,Saint-Germain-d'Esteuil,{},{},{},bien,Urgons,{},{},{},bien,Sorbets,{},{},{}
+bien,Bascons,bien,Moulon,{},{},{},,,,,,,,,,
+bien,Benquet,,,,,,,,,,,,,,,
+bien,Bordères,bex,Rimbez-et-Baudiets,{},{'i': 1},"{('n', 'x'): 1}",,,,,,,,,,
+bien,Castandet,bien,Cazères-sur-l'Adour,{},{},{},bien,Cours-les-Bains,{},{},{},bien,Grenade-sur-l'Adour,{},{},{}
+bien,Cazères-sur-l'Adour,bién,Naujan-et-Postiac,{},{},"{('e', 'é'): 1}",bien,Castandet,{},{},{},bien,Grenade-sur-l'Adour-bis,{},{},{}
+bien,Grenade-sur-l'Adour-bis,bien,Morganx,{},{},{},bien,Cazères-sur-l'Adour,{},{},{},,,,,
+bien,Grenade-sur-l'Adour,bien,Castandet,{},{},{},,,,,,,,,,
+bien,Le Vignau,bien,Lussagnet,{},{},{},,,,,,,,,,
+bien,Lussagnet,bien,Latrille,{},{},{},bien,Le Vignau,{},{},{},bien,Maurrin,{},{},{}
+bien,Maurrin,bien,Lussagnet,{},{},{},,,,,,,,,,
+bien,Aubagnan,bien,Cazalis,{},{},{},bién,Castelner,{},{},"{('e', 'é'): 1}",,,,,
+bién,Castelner,bien,Aubagnan,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+bien,Cazalis,bien,Aubagnan,{},{},{},,,,,,,,,,
+bien,Hagetmau-bis,bién,Labastide-Chalosse,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+bien,Hagetmau,bièn,Horsarrieu,{},{},"{('e', 'è'): 1}",bien,Peyre,{},{},{},,,,,
+bièn,Horsarrieu,bien,Moulon,{},{},"{('è', 'e'): 1}",bien,Hagetmau,{},{},"{('è', 'e'): 1}",,,,,
+bién,Labastide-Chalosse,bién,Momuy,{},{},{},bien,Hagetmau-bis,{},{},"{('é', 'e'): 1}",,,,,
+bien,Lacrabe,bien,Monségur,{},{},{},,,,,,,,,,
+bien,Mant,bién,Momuy,{},{},"{('e', 'é'): 1}",bien,Morganx,{},{},{},,,,,
+bién,Momuy,bien,Mant,{},{},"{('é', 'e'): 1}",bién,Labastide-Chalosse,{},{},{},bien,Monségur,{},{},"{('é', 'e'): 1}"
+bien,Monségur,bien,Lacrabe,{},{},{},bien,Peyre,{},{},{},bién,Momuy,{},{},"{('e', 'é'): 1}"
+bien,Morganx,bien,Peyre,{},{},{},bien,Grenade-sur-l'Adour-bis,{},{},{},bien,Mant,{},{},{}
+bien,Peyre,bien,Hagetmau,{},{},{},bien,Morganx,{},{},{},bien,Monségur,{},{},{}
+bien,Poudenx,bién,Nérigean,{},{},"{('e', 'é'): 1}",bien,Saint-Cricq-Chalosse,{},{},{},,,,,
+bien,Saint-Cricq-Chalosse,bien,Poudenx,{},{},{},bién,Nérigean,{},{},"{('e', 'é'): 1}",bien,Sainte-Colombe,{},{},{}
+bien,Sainte-Colombe,bien,Saint-Cricq-Chalosse,{},{},{},bien,Queyrac,{},{},{},,,,,
+bien,Serres-Gaston,bien,Ordonnac,{},{},{},bien,Serreslous-et-Arribans,{},{},{},bien,Mézos,{},{},{}
+bien,Serreslous-et-Arribans,bien,Serres-Gaston,{},{},{},bien,Saint-Germain-d'Esteuil,{},{},{},bien,Bélis,{},{},{}
+bien,Bélis,bien,Aureilhan,{},{},{},bien,Serreslous-et-Arribans,{},{},{},,,,,
+bien,Brocas,bien,Civrac,{},{},{},bien,Garein,{},{},{},bien,Canenx-et-Réaut,{},{},{}
+bien,Canenx-et-Réaut,bien,Saint-Germain-d'Esteuil,{},{},{},bien,Brocas,{},{},{},bien,Cère,{},{},{}
+bien,Cère,bien,Labrit,{},{},{},bién,Saint-Seurin-de-Cadourne,{},{},"{('e', 'é'): 1}",bien,Canenx-et-Réaut,{},{},{}
+bien,Garein,bien,Labrit,{},{},{},bien,Brocas,{},{},{},,,,,
+bien,Labrit,bien,Garein,{},{},{},bièn,Lesparre-Médoc,{},{},"{('e', 'è'): 1}",bien,Cère,{},{},{}
+bien,Maillères,bien,Latrille,{},{},{},,,,,,,,,,
+bien,Vert,,,,,,,,,,,,,,,
+bien,Aureilhan,bien,Bélis,{},{},{},bien,Mézos,{},{},{},,,,,
+bien,Mézos,bien,Serres-Gaston,{},{},{},bien,Aureilhan,{},{},{},,,,,
+bien,Mimizan-bis,bién,Mazerolles,{},{},"{('e', 'é'): 1}",bien,Pontenx-les-Forges,{},{},{},bien,Mimizan,{},{},{}
+bien,Mimizan,bién,Beautiran,{},{},"{('e', 'é'): 1}",bien,Mimizan-bis,{},{},{},,,,,
+bien,Pontenx-les-Forges,bien,Mimizan-bis,{},{},{},bien,Saint-Paul-en-Born,{},{},{},,,,,
+bien,Saint-Paul-en-Born,bien,Pontenx-les-Forges,{},{},{},,,,,,,,,,
+bien,Bostens,,,,,,,,,,,,,,,
+bien,Bretagne-de-Marsan,bien,Préchacq-les-Bains,{},{},{},bien,Campagne,{},{},{},,,,,
+bien,Campagne,bien,Bretagne-de-Marsan,{},{},{},bien,Latresne,{},{},{},bien,Campet,{},{},{}
+bien,Campet,bien,Gaujacq,{},{},{},bien,Gaillères,{},{},{},bien,Campagne,{},{},{}
+bien,Gaillères,bien,Campet,{},{},{},bien,Haut-Mauco,{},{},{},,,,,
+bien,Geloux,bien,Haux,{},{},{},,,,,,,,,,
+bien,Haut-Mauco,bien,Gaillères,{},{},{},bién,Laglorieuse,{},{},"{('e', 'é'): 1}",,,,,
+bién,Laglorieuse,bien,Haut-Mauco,{},{},"{('é', 'e'): 1}",bien,Gaujacq,{},{},"{('é', 'e'): 1}",,,,,
+bien,Lucbardez-et-Bargues,,,,,,,,,,,,,,,
+bién,Mazerolles,bien,Mimizan-bis,{},{},"{('é', 'e'): 1}",bien,Montfort-en-Chalosse-bis,{},{},"{('é', 'e'): 1}",,,,,
+bien,Mont-de-Marsan-bis,bien,Montfort-en-Chalosse,{},{},{},bién,Saint-Yzans-de-Médoc,{},{},"{('e', 'é'): 1}",,,,,
+bién,Mont-de-Marsan,bien,Saint-Avit,{},{},"{('é', 'e'): 1}",bien,Goos,{},{},"{('é', 'e'): 1}",bien,Saint-Pierre-du-Mont,{},{},"{('é', 'e'): 1}"
+bien,Saint-Avit,bién,Valeyrac,{},{},"{('e', 'é'): 1}",bién,Mont-de-Marsan,{},{},"{('e', 'é'): 1}",bien,Saint-Martin-d'Oney,{},{},{}
+bien,Saint-Martin-d'Oney,bien,Saint-Perdon,{},{},{},bién,Beautiran,{},{},"{('e', 'é'): 1}",bien,Saint-Avit,{},{},{}
+bien,Saint-Perdon,bien,Saint-Martin-d'Oney,{},{},{},bien,Saint-Pierre-du-Mont,{},{},{},,,,,
+bien,Saint-Pierre-du-Mont,bién,Mont-de-Marsan,{},{},"{('e', 'é'): 1}",bien,Cadaujac,{},{},{},bien,Saint-Perdon,{},{},{}
+bien,Uchacq,bien,Clermont,{},{},{},bièn,Origne,{},{},"{('e', 'è'): 1}",,,,,
+bien,Cassen,bien,Cadaujac,{},{},{},bièn,Garrey,{},{},"{('e', 'è'): 1}",,,,,
+bien,Clermont,biènn,Saint-Léger-de-Balson,{'è': 1},{},"{('e', 'n'): 1}",bien,Uchacq,{},{},{},bien,Gamarde-les-Bains,{},{},{}
+bien,Gamarde-les-Bains,bien,Buanes,{},{},{},bien,Clermont,{},{},{},bièn,Garrey,{},{},"{('e', 'è'): 1}"
+bièn,Garrey,bièn,Castres-Gironde,{},{},{},bien,Gamarde-les-Bains,{},{},"{('è', 'e'): 1}",bien,Cassen,{},{},"{('è', 'e'): 1}"
+bien,Goos,bién,Mont-de-Marsan,{},{},"{('e', 'é'): 1}",bien,Hinx,{},{},{},bien,Gousse,{},{},{}
+bien,Gousse,bien,Cadaujac,{},{},{},bien,Goos,{},{},{},bienn,Louer,{'n': 1},{},{}
+bien,Hinx,bien,Goos,{},{},{},bien,Queyrac,{},{},{},bien,Laurède,{},{},{}
+bien,Laurède,bién,Saint-Germain-du-Puch,{},{},"{('e', 'é'): 1}",bienn,Louer,{'n': 1},{},{},bien,Hinx,{},{},{}
+bienn,Louer,bien,Laurède,{},{'n': 1},{},bién,Cabanac-et-Villagrains,{},{'n': 1},"{('e', 'é'): 1}",bien,Gousse,{},{'n': 1},{}
+bien,Lourquen,biè̄n,Jau-Dignac-et-Loirac,{'è': 1},{},"{('e', '̄'): 1}",,,,,,,,,,
+bien,Montfort-en-Chalosse-bis,bién,Mazerolles,{},{},"{('e', 'é'): 1}",bien,Montfort-en-Chalosse,{},{},{},,,,,
+bien,Montfort-en-Chalosse,bien,Mont-de-Marsan-bis,{},{},{},bien,Montfort-en-Chalosse-bis,{},{},{},,,,,
+bien,Nousse,bièn,Isle-Saint-Georges,{},{},"{('e', 'è'): 1}",bien,Onard,{},{},{},,,,,
+bien,Onard,bien,La Brède-bis,{},{},{},bien,Nousse,{},{},{},,,,,
+bien,Ozourt,bièn,Isle-Saint-Georges,{},{},"{('e', 'è'): 1}",bien,Poyanne,{},{},{},,,,,
+bien,Poyanne,bien,La Brède-bis,{},{},{},bien,Ozourt,{},{},{},,,,,
+bien,Poyartin,bien,Saint-Geours-d'Auribat,{},{},{},,,,,,,,,,
+bien,Préchacq-les-Bains,bien,Bretagne-de-Marsan,{},{},{},,,,,,,,,,
+bien,Saint-Geours-d'Auribat,bien,Poyartin,{},{},{},,,,,,,,,,
+bien,Saint-Jean-de-Lier,,,,,,,,,,,,,,,
+bien,Sort-en-Chalosse,bien,Vicq-d'Auribat,{},{},{},,,,,,,,,,
+bien,Vicq-d'Auribat,bien,Sort-en-Chalosse,{},{},{},,,,,,,,,,
+bien,Arengosse,bien,Arjuzanx,{},{},{},bién,Saint-Quentin-de-Baron,{},{},"{('e', 'é'): 1}",,,,,
+bien,Arjuzanx,bien,Garrosse,{},{},{},bien,Tizac-de-Curton,{},{},{},bien,Arengosse,{},{},{}
+bien,Garrosse,bien,Morcenx-bourg,{},{},{},bien,Arjuzanx,{},{},{},,,,,
+bien,Lesperon,bien,Morcenx,{},{},{},bien,Morcenx-bourg,{},{},{},,,,,
+bien,Morcenx-bourg,bien,Lesperon,{},{},{},bien,Garrosse,{},{},{},,,,,
+bien,Morcenx-gare,,,,,,,,,,,,,,,
+bien,Morcenx,bien,Lesperon,{},{},{},,,,,,,,,,
+bien,Onesse-Laharie,bien,Sindères,{},{},{},bién,Camiran-bis,{},{},"{('e', 'é'): 1}",,,,,
+bien,Ousse-Suzan,bièn,La Brède,{},{},"{('e', 'è'): 1}",bien,Sindères,{},{},{},,,,,
+bien,Sindères,bien,Ousse-Suzan,{},{},{},bien,Capian,{},{},{},bien,Onesse-Laharie,{},{},{}
+bien,Ygos-Saint-Saturnin,bién,Camiran-bis,{},{},"{('e', 'é'): 1}",bién,Baigts,{},{},"{('e', 'é'): 1}",,,,,
+bién,Baigts,bien,Ygos-Saint-Saturnin,{},{},"{('é', 'e'): 1}",bién,Camiran,{},{},{},,,,,
+bien,Bergouey,,,,,,,,,,,,,,,
+bien,Caupenne,bien,Saint-Aubin,{},{},{},bien,Hauriet,{},{},{},,,,,
+bien,Doazit,bien,Fontet,{},{},{},bien,Toulouzette,{},{},{},,,,,
+bien,Hauriet,bien,Caupenne,{},{},{},bien,Lahosse,{},{},{},,,,,
+bien,Lahosse,bièn,Larbey,{},{},"{('e', 'è'): 1}",bien,Hauriet,{},{},{},,,,,
+bièn,Larbey,bien,Lahosse,{},{},"{('è', 'e'): 1}",bién,Maylis,{},{},"{('è', 'é'): 1}",,,,,
+bién,Maylis,bièn,Larbey,{},{},"{('é', 'è'): 1}",,,,,,,,,,
+bien,Mugron-bis,bien,Nerbis,{},{},{},,,,,,,,,,
+bien,Mugron,bien,Nerbis,{},{},{},,,,,,,,,,
+bien,Nerbis,bièn,Mauvezin-d'Armagnac,{},{},"{('e', 'è'): 1}",bien,Mugron-bis,{},{},{},bien,Mugron,{},{},{}
+bien,Saint-Aubin,bien,Caupenne,{},{},{},bien,Toulouzette,{},{},{},,,,,
+bien,Toulouzette,bien,Doazit,{},{},{},bien,Biscarosse-bis,{},{},{},bien,Saint-Aubin,{},{},{}
+bien,Biscarosse-bis,bien,Fontet,{},{},{},bien,Toulouzette,{},{},{},,,,,
+bien,Biscarosse,bien,Gastes,{},{},{},,,,,,,,,,
+bien,Gastes,bien,Biscarosse,{},{},{},,,,,,,,,,
+bien,Parentis-en-Born,bien,Misson,{},{},{},bien,Sainte-Eulalie-en-Born,{},{},{},,,,,
+bien,Sainte-Eulalie-en-Born,bien,Parentis-en-Born,{},{},{},bien,Bélus,{},{},{},,,,,
+bien,Sanguinet,bien,Ychoux,{},{},{},,,,,,,,,,
+bien,Ychoux,bien,Blanquefort,{},{},{},bien,Sanguinet,{},{},{},bien,Bélus,{},{},{}
+bien,Bélus,bien,Sainte-Eulalie-en-Born,{},{},{},bien,Ychoux,{},{},{},,,,,
+bien,Cauneille,bien,Peyrehorade,{},{},{},,,,,,,,,,
+bien,Hastingues,bien,Port-de-Lanne,{},{},{},,,,,,,,,,
+bien,Oeyregave,bien,Pimbo,{},{},{},bien,Orthevielle,{},{},{},,,,,
+bien,Orist,bien,Saint-Étienne-d'Orthe,{},{},{},bien,Orthevielle,{},{},{},bien,Peyrehorade-bis,{},{},{}
+bien,Orthevielle,bien,Orist,{},{},{},bien,Oeyregave,{},{},{},bien,Pey,{},{},{}
+bien,Pey,bien,Port-de-Lanne,{},{},{},bien,Orthevielle,{},{},{},,,,,
+bien,Peyrehorade-bis,bien,Peyrehorade,{},{},{},bien,Orist,{},{},{},,,,,
+bien,Peyrehorade,bien,Cauneille,{},{},{},bien,Peyrehorade-bis,{},{},{},bien,Port-de-Lanne,{},{},{}
+bien,Port-de-Lanne,bien,Pey,{},{},{},bien,Hastingues,{},{},{},bien,Peyrehorade,{},{},{}
+bien,Saint-Cricq-du-Gave,bien,Saint-Étienne-d'Orthe,{},{},{},,,,,,,,,,
+bien,Saint-Étienne-d'Orthe,bien,Saint-Cricq-du-Gave,{},{},{},bien,Orist,{},{},{},,,,,
+bien,Saint-Lon-les-Mines,bien,Branne-bis,{},{},{},bièn,Sorde-l'Abbaye,{},{},"{('e', 'è'): 1}",,,,,
+bièn,Sorde-l'Abbaye,bien,Saint-Lon-les-Mines,{},{},"{('è', 'e'): 1}",bien,Gironde-sur-Dropt-bis,{},{},"{('è', 'e'): 1}",bien,Belhade,{},{},"{('è', 'e'): 1}"
+bien,Belhade,bièn,Sorde-l'Abbaye,{},{},"{('e', 'è'): 1}",,,,,,,,,,
+bien,Biganon,bien,Liposthey,{},{},{},,,,,,,,,,
+bien,Liposthey,bien,Mano,{},{},{},bien,Pissos,{},{},{},bien,Biganon,{},{},{}
+bien,Mano,bièn,Antagnac,{},{},"{('e', 'è'): 1}",bien,Liposthey,{},{},{},bién,Moustey,{},{},"{('e', 'é'): 1}"
+bién,Moustey,bien,Gironde-sur-Dropt,{},{},"{('é', 'e'): 1}",bien,Mano,{},{},"{('é', 'e'): 1}",,,,,
+bien,Pissos-bis,bien,Pissos,{},{},{},bien,Saint-Gein,{},{},{},,,,,
+bien,Pissos,bien,Liposthey,{},{},{},bien,Pissos-bis,{},{},{},bien,Richet,{},{},{}
+bien,Richet,biem,Saugnacq-et-Muret-bis,{},{},"{('n', 'm'): 1}",bien,Pissos,{},{},{},,,,,
+biem,Saugnacq-et-Muret-bis,bien,Richet,{},{},"{('m', 'n'): 1}",bien,Saugnacq-et-Muret,{},{},"{('m', 'n'): 1}",,,,,
+bien,Saugnacq-et-Muret,biem,Saugnacq-et-Muret-bis,{},{},"{('n', 'm'): 1}",bién,La Réole-bis,{},{},"{('e', 'é'): 1}",bien,Cagnotte,{},{},{}
+bien,Cagnotte,bién,Hure,{},{},"{('e', 'é'): 1}",bien,Saugnacq-et-Muret,{},{},{},,,,,
+bien,Estibeaux,bien,Gaas,{},{},{},bién,Hure,{},{},"{('e', 'é'): 1}",bien,Mimbaste,{},{},{}
+bien,Gaas,bien,Gironde-sur-Dropt-bis,{},{},{},bien,Estibeaux,{},{},{},bien,Habas,{},{},{}
+bien,Habas,bien,Labatut,{},{},{},bien,Gaas,{},{},{},,,,,
+bien,Labatut,bien,Habas,{},{},{},bien,Mimbaste,{},{},{},,,,,
+bien,Mimbaste,bién,La Réole-bis,{},{},"{('e', 'é'): 1}",bien,Labatut,{},{},{},bien,Estibeaux,{},{},{}
+bien,Misson,bien,Parentis-en-Born,{},{},{},bien,Mouscardès,{},{},{},,,,,
+bien,Mouscardès,bién,La Réole,{},{},"{('e', 'é'): 1}",bien,Misson,{},{},{},bien,Ossages,{},{},{}
+bien,Ossages,bien,Pouillon,{},{},{},bien,Mouscardès,{},{},{},,,,,
+bien,Pouillon,bien,Ossages,{},{},{},,,,,,,,,,
+bien,Tilh,bien,Lamothe-Landerron,{},{},{},,,,,,,,,,
+bien,Arouille,bièn,Morizès,{},{},"{('e', 'è'): 1}",bien,Luglon,{},{},{},bien,Arue,{},{},{}
+bien,Arue,bién,Sabres,{},{},"{('e', 'é'): 1}",bièn,Mongauzy,{},{},"{('e', 'è'): 1}",bien,Arouille,{},{},{}
+bien,Cachen,bién,Lencouacq,{},{},"{('e', 'é'): 1}",bien,Lue-bis,{},{},{},bien,Commensacq-bis,{},{},{}
+bien,Labastide-d'Armagnac,bien,Maillas,{},{},{},bien,Commensacq,{},{},{},,,,,
+bién,Lencouacq,bien,Lugaut,{},{},"{('é', 'e'): 1}",bien,Cachen,{},{},"{('é', 'e'): 1}",bien,Maillas,{},{},"{('é', 'e'): 1}"
+bien,Lugaut,bien,Noaillac,{},{},{},bién,Lencouacq,{},{},"{('e', 'é'): 1}",,,,,
+bien,Maillas,bien,Labastide-d'Armagnac,{},{},{},bién,Lencouacq,{},{},"{('e', 'é'): 1}",,,,,
+bien,Pouydesseaux,bién,Saint-Justin,{},{},"{('e', 'é'): 1}",bien,Saint-Gor,{},{},{},,,,,
+bien,Roquefort,bién,Pompéjac,{},{},"{('e', 'é'): 1}",bien,Sarbazan,{},{},{},bien,Saint-Gor,{},{},{}
+bien,Saint-Gor,bien,Pouydesseaux,{},{},{},bien,Roquefort,{},{},{},,,,,
+bién,Saint-Justin,bien,Escource-bis,{},{},"{('é', 'e'): 1}",bien,Pouydesseaux,{},{},"{('é', 'e'): 1}",,,,,
+bien,Sarbazan,bien,Roquefort,{},{},{},,,,,,,,,,
+bien,Vielle-Soubiran,bien,Labouheyre,{},{},{},bien,Commensacq-bis,{},{},{},,,,,
+bien,Commensacq-bis,bien,Commensacq,{},{},{},bien,Cachen,{},{},{},bien,Vielle-Soubiran,{},{},{}
+bien,Commensacq,bien,Labastide-d'Armagnac,{},{},{},bien,Commensacq-bis,{},{},{},,,,,
+bien,Escource-bis,bién,Saint-Justin,{},{},"{('e', 'é'): 1}",bién,Escource,{},{},"{('e', 'é'): 1}",,,,,
+bién,Escource,bien,Labouheyre,{},{},"{('é', 'e'): 1}",bien,Escource-bis,{},{},"{('é', 'e'): 1}",,,,,
+bien,Labouheyre,bién,Escource,{},{},"{('e', 'é'): 1}",bien,Vielle-Soubiran,{},{},{},bien,Lue-bis,{},{},{}
+bien,Lue-bis,bien,Cachen,{},{},{},bien,Labouheyre,{},{},{},,,,,
+bien,Lue,bién,Cazaux,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+bien,Luglon,bien,Arouille,{},{},{},bien,Solférino,{},{},{},bién,Sabres,{},{},"{('e', 'é'): 1}"
+bien,Sabres-bis,bien,Trensacq,{},{},{},,,,,,,,,,
+bién,Sabres,bien,Arue,{},{},"{('é', 'e'): 1}",bien,Luglon,{},{},"{('é', 'e'): 1}",,,,,
+bien,Solférino,bien,Luglon,{},{},{},bién,Lestiac-sur-Garonne,{},{},"{('e', 'é'): 1}",bien,Trensacq,{},{},{}
+bien,Trensacq,bien,Solférino,{},{},{},bien,Sabres-bis,{},{},{},,,,,
+bien,Barthes,bien,Biaudos,{},{},{},bien,Tarnos,{},{},{},bien,Biarrotte,{},{},{}
+bien,Biarrotte,bien,Barthes,{},{},{},,,,,,,,,,
+bien,Biaudos,bién,Loupiac,{},{},"{('e', 'é'): 1}",bien,Barthes,{},{},{},,,,,
+bien,Ondres,,,,,,,,,,,,,,,
+bien,Saint-André-de-Seignanx,,,,,,,,,,,,,,,
+bien,Saint-Barthélemy,bien,Saint-Laurent-de-Gosse,{},{},{},,,,,,,,,,
+bien,Saint-Laurent-de-Gosse,bien,Saint-Barthélemy,{},{},{},bien,La Teste-de-Buch-ter,{},{},{},bien,Saint-Martin-de-Seignanx-bis,{},{},{}
+bien,Saint-Martin-de-Seignanx-bis,bien,Saint-Laurent-de-Gosse,{},{},{},,,,,,,,,,
+bien,Saint-Martin-de-Seignanx,,,,,,,,,,,,,,,
+bien,Tarnos,bien,Barthes,{},{},{},,,,,,,,,,
+bien,Audignon,,,,,,,,,,,,,,,
+bien,Aurice,bien,La Teste-de-Buch-ter,{},{},{},bien,Banos,{},{},{},,,,,
+bien,Banos,bien,Aurice,{},{},{},bien,Cachon,{},{},{},,,,,
+bien,Cachon,bien,Banos,{},{},{},,,,,,,,,,
+ben,Cauna,,,,,,,,,,,,,,,
+bién,Coudures,bien,Sablar,{},{},"{('é', 'e'): 1}",bien,Dumes,{},{},"{('é', 'e'): 1}",bien,Eyres-Moncube,{},{},"{('é', 'e'): 1}"
+bien,Dumes,bién,Coudures,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+bien,Eyres-Moncube,bién,Coudures,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+bien,Fargues,bien,Langon-bis,{},{},{},,,,,,,,,,
+bien,Larrivière-Saint-Savin,bien,Langon,{},{},{},bien,Montgaillard,{},{},{},bien,Montaut,{},{},{}
+bien,Montaut,bien,Montsoué,{},{},{},bién,Guillos,{},{},"{('e', 'é'): 1}",bien,Larrivière-Saint-Savin,{},{},{}
+bien,Montgaillard,bién,Le Pian-Médoc,{},{},"{('e', 'é'): 1}",bien,Montsoué,{},{},{},bien,Larrivière-Saint-Savin,{},{},{}
+bien,Montsoué,bien,Montgaillard,{},{},{},bièn,Escaudes,{},{},"{('e', 'è'): 1}",bien,Montaut,{},{},{}
+biën,Saint-Maurice-sur-Adour,bien,Sainte-Eulalie,{},{},"{('ë', 'e'): 1}",bien,Castets-en-Dorthe,{},{},"{('ë', 'e'): 1}",bien,Saint-Sever,{},{},"{('ë', 'e'): 1}"
+bien,Saint-Sever,biën,Saint-Maurice-sur-Adour,{},{},"{('e', 'ë'): 1}",bién,Sauternes,{},{},"{('e', 'é'): 1}",bien,Sarraziet,{},{},{}
+bien,Sainte-Eulalie,bien,Pompignac,{},{},{},biën,Saint-Maurice-sur-Adour,{},{},"{('e', 'ë'): 1}",bien,Sarraziet,{},{},{}
+bien,Sarraziet,bien,Roaillan,{},{},{},bien,Sainte-Eulalie,{},{},{},bien,Saint-Sever,{},{},{}
+bien,Bénesse-Maremne,bien,Le Haillan,{},{},{},bien,Josse,{},{},{},bien,Capbreton,{},{},{}
+bien,Capbreton,bien,Saint-Pardon-de-Conques,{},{},{},bien,Bénesse-Maremne,{},{},{},bien,Labenne,{},{},{}
+bien,Josse,bien,Bénesse-Maremne,{},{},{},bién,Le Pian-Médoc,{},{},"{('e', 'é'): 1}",bien,Labenne,{},{},{}
+bien,Labenne,bien,Josse,{},{},{},bien,Saint-Pierre-de-Mons,{},{},{},bien,Capbreton,{},{},{}
+bien,Orx,bien,Saint-Geours-de-Maremne,{},{},{},bién,Izon,{},{},"{('e', 'é'): 1}",bien,Saint-Jean-de-Marsacq,{},{},{}
+bien,Saint-Jean-de-Marsacq,bien,Monségur,{},{},{},bien,Saint-Martin-de-Hinx,{},{},{},bien,Orx,{},{},{}
+bien,Saint-Martin-de-Hinx,bien,Luxey,{},{},{},bien,Saint-Vincent-de-Tyrosse,{},{},{},bien,Saint-Jean-de-Marsacq,{},{},{}
+bien,Saint-Vincent-de-Tyrosse,bien,Saint-Martin-de-Hinx,{},{},{},bién,Saint-Julien-Beychevelle,{},{},"{('e', 'é'): 1}",bien,Sainte-Marie-de-Gosse,{},{},{}
+bien,Sainte-Marie-de-Gosse,bien,Le Leuy,{},{},{},béts,Seignosse,{},{},"{('i', 'é'): 1, ('e', 't'): 1, ('n', 's'): 1}",bien,Saint-Vincent-de-Tyrosse,{},{},{}
+bien,Saubion,bien,Libourne-bis,{},{},{},beücou,Saubrigues,"{'e': 1, 'ü': 1}",{},"{('i', 'c'): 1, ('e', 'o'): 1, ('n', 'u'): 1}",,,,,
+beücou,Saubrigues,bién,Izon,{},"{'o': 1, 'u': 1}","{('e', 'i'): 1, ('ü', 'é'): 1, ('c', 'n'): 1}",bien,Saubion,{'i': 1},"{'c': 1, 'o': 1, 'u': 1}","{('ü', 'n'): 1}",bien,Argelouse,{'i': 1},"{'c': 1, 'o': 1, 'u': 1}","{('ü', 'n'): 1}"
+bien,Argelouse,bien,Landerrouet-sur-Ségur,{},{},{},beücou,Saubrigues,"{'e': 1, 'ü': 1}",{},"{('i', 'c'): 1, ('e', 'o'): 1, ('n', 'u'): 1}",,,,,
+bien,Callen,bien,Luxey,{},{},{},bien,Monségur,{},{},{},,,,,
+bien,Houaste,bien,Sore,{},{},{},,,,,,,,,,
+bien,Luxey,bien,Sore,{},{},{},bien,Saint-Martin-de-Hinx,{},{},{},bien,Callen,{},{},{}
+bien,Sore,bién,Saint-Julien-Beychevelle,{},{},"{('e', 'é'): 1}",bien,Luxey,{},{},{},bien,Houaste,{},{},{}
+bien,Angresse,bien,Landerrouet-sur-Ségur,{},{},{},,,,,,,,,,
+béngouc,Azur,bien,Magescq,{'i': 1},"{'g': 1, 'o': 1, 'u': 1, 'c': 1}","{('é', 'e'): 1}",,,,,,,,,,
+bien,Magescq,béngouc,Azur,"{'é': 1, 'n': 1, 'g': 1}",{},"{('i', 'o'): 1, ('e', 'u'): 1, ('n', 'c'): 1}",bïen,Messanges-bis,{},{},"{('i', 'ï'): 1}",,,,,
+bïen,Messanges-bis,bien,Magescq,{},{},"{('ï', 'i'): 1}",,,,,,,,,,
+bién,Messanges,bién,Cissac-Médoc,{},{},{},bien,Saint-Geours-de-Maremne,{},{},"{('é', 'e'): 1}",bién,Moliets-et-Maa,{},{},{}
+bién,Moliets-et-Maa,béts,Seignosse,{},{},"{('i', 'é'): 1, ('é', 't'): 1, ('n', 's'): 1}",bién,Audon,{},{},{},bién,Messanges,{},{},{}
+bien,Saint-Geours-de-Maremne,bién,Messanges,{},{},"{('e', 'é'): 1}",bien,Orx,{},{},{},béts,Seignosse,{},{},"{('i', 'é'): 1, ('e', 't'): 1, ('n', 's'): 1}"
+béts,Seignosse,bien,Sainte-Marie-de-Gosse,{},{},"{('é', 'i'): 1, ('t', 'e'): 1, ('s', 'n'): 1}",bién,Moliets-et-Maa,{'i': 1},{'s': 1},"{('t', 'n'): 1}",bien,Saint-Geours-de-Maremne,{},{},"{('é', 'i'): 1, ('t', 'e'): 1, ('s', 'n'): 1}"
+bien,Soorts-Hossegor,bièn,Soustons,{},{},"{('e', 'è'): 1}",bien,Roquebrune,{},{},{},bien,Lamothe,{},{},{}
+bièn,Soustons,bien,Toulenne,{},{},"{('è', 'e'): 1}",bien,Soorts-Hossegor,{},{},"{('è', 'e'): 1}",bién,Tosse,{},{},"{('è', 'é'): 1}"
+bién,Tosse,bien,Vieux-Boucau-les-Bains,{},{},"{('é', 'e'): 1}",bièn,Arveyres,{},{},"{('é', 'è'): 1}",bièn,Soustons,{},{},"{('é', 'è'): 1}"
+bien,Vieux-Boucau-les-Bains,bién,Tosse,{},{},"{('e', 'é'): 1}",bien,Gouts,{},{},{},,,,,
+bién,Audon,bién,Moliets-et-Maa,{},{},{},bien,Le Leuy,{},{},"{('é', 'e'): 1}",bien,Lamothe,{},{},"{('é', 'e'): 1}"
+bien,Carcarès-Sainte-Croix,bien,Gouts,{},{},{},,,,,,,,,,
+bien,Gouts,bien,Carcarès-Sainte-Croix,{},{},{},bien,Vieux-Boucau-les-Bains,{},{},{},bien,Lamothe,{},{},{}
+bien,Lamothe,bien,Soorts-Hossegor,{},{},{},bién,Audon,{},{},"{('e', 'é'): 1}",bien,Gouts,{},{},{}
+bien,Le Leuy,bién,Audon,{},{},"{('e', 'é'): 1}",bien,Sainte-Marie-de-Gosse,{},{},{},,,,,
+bien,Meilhan,,,,,,,,,,,,,,,
+bien,Souprosse,bien,Brassempouy,{},{},{},bien,Tartas-bis,{},{},{},,,,,
+bien,Tartas-bis,bién,Bassercles,{},{},"{('e', 'é'): 1}",bien,Souprosse,{},{},{},,,,,
+bién,Tartas-ville-haute-bis,bien,Tartas-ville-haute,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+bien,Tartas-ville-haute,bién,Anzex,{},{},"{('e', 'é'): 1}",bién,Tartas-ville-haute-bis,{},{},"{('e', 'é'): 1}",,,,,
+biën,Tartas,,,,,,,,,,,,,,,
+bien,Bégaar,bien,Fargues-sur-Ourbise,{},{},{},,,,,,,,,,
+bien,Beylongue,bien,Rion-des-Landes-bis,{},{},{},bién,Boos,{},{},"{('e', 'é'): 1}",,,,,
+bién,Boos,bien,Beylongue,{},{},"{('é', 'e'): 1}",béts,Arthez-d'Armagnac,{},{},"{('i', 'é'): 1, ('é', 't'): 1, ('n', 's'): 1}",bièn,Carcen-Ponson,{},{},"{('é', 'è'): 1}"
+bièn,Carcen-Ponson,bièn,Saint-Léon,{},{},{},bién,Boos,{},{},"{('è', 'é'): 1}",,,,,
+béts,Laluque,,,,,,,,,,,,,,,
+bién,Lesgor,bièn,Rion-des-Landes,{},{},"{('é', 'è'): 1}",bien,Rion-des-Landes-bis,{},{},"{('é', 'e'): 1}",,,,,
+bex,Pontonx-sur-l'Adour,bien,Rion-des-Landes-bis,{'i': 1},{},"{('x', 'n'): 1}",,,,,,,,,,
+bien,Rion-des-Landes-bis,bién,Lesgor,{},{},"{('e', 'é'): 1}",bien,Beylongue,{},{},{},bex,Pontonx-sur-l'Adour,{},{'i': 1},"{('n', 'x'): 1}"
+bièn,Rion-des-Landes,béts,Arthez-d'Armagnac,{},{},"{('i', 'é'): 1, ('è', 't'): 1, ('n', 's'): 1}",bién,Lesgor,{},{},"{('è', 'é'): 1}",bièn,Lacquy,{},{},{}
+bien,Saint-Yaguen,bien,Villenave,{},{},{},bién,Saint-Sauveur,{},{},"{('e', 'é'): 1}",bién,Bourdalat,{},{},"{('e', 'é'): 1}"
+bien,Villenave,bien,Saint-Yaguen,{},{},{},bien,Hontanx,{},{},{},,,,,
+béts,Arthez-d'Armagnac,bién,Boos,{'i': 1},{'s': 1},"{('t', 'n'): 1}",bièn,Rion-des-Landes,{},{},"{('é', 'i'): 1, ('t', 'è'): 1, ('s', 'n'): 1}",bién,Bourdalat,{'i': 1},{'s': 1},"{('t', 'n'): 1}"
+bién,Bourdalat,bien,Saint-Yaguen,{},{},"{('é', 'e'): 1}",bién,Razimet,{},{},{},béts,Arthez-d'Armagnac,{},{},"{('i', 'é'): 1, ('é', 't'): 1, ('n', 's'): 1}"
+bien,Hontanx,bien,Villenave,{},{},{},bièn,Lacquy,{},{},"{('e', 'è'): 1}",,,,,
+bièn,Lacquy,bièn,Rion-des-Landes,{},{},{},bien,Hontanx,{},{},"{('è', 'e'): 1}",,,,,
+bien,Le Frêche,bien,Montégut,{},{},{},,,,,,,,,,
+bien,Montégut,bien,Le Frêche,{},{},{},,,,,,,,,,
+biénn,Perquie,,,,,,,,,,,,,,,
+bien,Pujo-le-Plan,,,,,,,,,,,,,,,
+bièn,Saint-Cricq-Villeneuve,,,,,,,,,,,,,,,
+bien,Saint-Gein,bien,Pissos-bis,{},{},{},bièn,Antagnac,{},{},"{('e', 'è'): 1}",bién,Sainte-Foy,{},{},"{('e', 'é'): 1}"
+bién,Sainte-Foy,bien,Saint-Gein,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+bien,Villeneuve-de-Marsan,bien,Langoiran-bis,{},{},{},bièn,Antagnac,{},{},"{('e', 'è'): 1}",,,,,
+bièn,Antagnac,bien,Saint-Gein,{},{},"{('è', 'e'): 1}",bien,Mano,{},{},"{('è', 'e'): 1}",bien,Villeneuve-de-Marsan,{},{},"{('è', 'e'): 1}"
+bien,Argenton,,,,,,,,,,,,,,,
+béts,Bouglon,,,,,,,,,,,,,,,
+bièn,Grézet-Cavagnan,bien,Guérin,{},{},"{('è', 'e'): 1}",bien,Labastide-Castel-Amouroux,{},{},"{('è', 'e'): 1}",bién,Casteljaloux,{},{},"{('è', 'é'): 1}"
+bien,Guérin,bien,Caubeyres,{},{},{},bièn,Grézet-Cavagnan,{},{},"{('e', 'è'): 1}",,,,,
+bien,Labastide-Castel-Amouroux,bièn,Grézet-Cavagnan,{},{},"{('e', 'è'): 1}",bièn,Poussignac,{},{},"{('e', 'è'): 1}",,,,,
+bièn,Poussignac,biénn,Ruffiac,{'é': 1},{},"{('è', 'n'): 1}",bien,Labastide-Castel-Amouroux,{},{},"{('è', 'e'): 1}",,,,,
+bien,Romestaing,bien,Ruffiac_bis,{},{},{},,,,,,,,,,
+bien,Ruffiac_bis,bién,Anzex,{},{},"{('e', 'é'): 1}",bien,Romestaing,{},{},{},bién,Leyritz-Moncassin,{},{},"{('e', 'é'): 1}"
+biénn,Ruffiac,bièn,Poussignac,{},{'n': 1},"{('é', 'è'): 1}",bièn,Saint-Gemme-Martaillac,{},{'n': 1},"{('é', 'è'): 1}",bién,Heuliès,{},{'n': 1},{}
+bièn,Saint-Gemme-Martaillac,biénn,Ruffiac,{'é': 1},{},"{('è', 'n'): 1}",bién,Anzex,{},{},"{('è', 'é'): 1}",,,,,
+bién,Anzex,bien,Tartas-ville-haute,{},{},"{('é', 'e'): 1}",bien,Ruffiac_bis,{},{},"{('é', 'e'): 1}",bièn,Saint-Gemme-Martaillac,{},{},"{('é', 'è'): 1}"
+bien,Beauziac,bién̈,Casteljaloux-bis,{'̈': 1},{},"{('e', 'é'): 1}",bién,Leyritz-Moncassin,{},{},"{('e', 'é'): 1}",,,,,
+bién̈,Casteljaloux-bis,bien,Beauziac,{},{'̈': 1},"{('é', 'e'): 1}",bien,Damazan-bis,{},{'̈': 1},"{('é', 'e'): 1}",bién,Casteljaloux,{},{'̈': 1},{}
+bién,Casteljaloux,bièn,Grézet-Cavagnan,{},{},"{('é', 'è'): 1}",bién,Heuliès,{},{},{},bién̈,Casteljaloux-bis,{'̈': 1},{},{}
+bién,Heuliès,bién,Casteljaloux,{},{},{},biénn,Ruffiac,{'n': 1},{},{},bién,Leyritz-Moncassin,{},{},{}
+bién,Leyritz-Moncassin,bien,Ruffiac_bis,{},{},"{('é', 'e'): 1}",bien,Beauziac,{},{},"{('é', 'e'): 1}",bién,Heuliès,{},{},{}
+bién,Saint-Martin-Curton,bièn,Laparade,{},{},"{('é', 'è'): 1}",,,,,,,,,,
+bièn,Villefranche-du-Queyran,bién,Castelmoron-sur-Lot,{},{},"{('è', 'é'): 1}",bien,Brugnac,{},{},"{('è', 'e'): 1}",,,,,
+bien,Brugnac,biénn,Castelmoron-sur-Lot-bis,{'é': 1},{},"{('e', 'n'): 1}",bièn,Villefranche-du-Queyran,{},{},"{('e', 'è'): 1}",,,,,
+biénn,Castelmoron-sur-Lot-bis,bien,Brugnac,{},{'n': 1},"{('é', 'e'): 1}",bién,Castelmoron-sur-Lot,{},{'n': 1},{},,,,,
+bién,Castelmoron-sur-Lot,bièn,Villefranche-du-Queyran,{},{},"{('é', 'è'): 1}",bién,Coulx,{},{},{},biénn,Castelmoron-sur-Lot-bis,{'n': 1},{},{}
+bién,Coulx,bién,Castelmoron-sur-Lot,{},{},{},bién,Grateloup,{},{},{},,,,,
+bién,Grateloup,bien,Saint-Gayrand,{},{},"{('é', 'e'): 1}",bién,Coulx,{},{},{},,,,,
+bien,Labretonie,bien,Ambrus,{},{},{},,,,,,,,,,
+bièn,Laparade,bién,Saint-Martin-Curton,{},{},"{('è', 'é'): 1}",bien,Saint-Gayrand,{},{},"{('è', 'e'): 1}",,,,,
+bien,Saint-Gayrand,bièn,Laparade,{},{},"{('e', 'è'): 1}",bién,Grateloup,{},{},"{('e', 'é'): 1}",bién,Verteuil-d'Agenais,{},{},"{('e', 'é'): 1}"
+bién,Verteuil-d'Agenais,bien,Saint-Gayrand,{},{},"{('é', 'e'): 1}",bien,Ambrus,{},{},"{('é', 'e'): 1}",,,,,
+bien,Ambrus,bien,Labretonie,{},{},{},bien,Caubeyres,{},{},{},bién,Verteuil-d'Agenais,{},{},"{('e', 'é'): 1}"
+bien,Buzet-sur-Baïse,bien,Damazan-bis,{},{},{},,,,,,,,,,
+bien,Caubeyres,bien,Ambrus,{},{},{},bien,Guérin,{},{},{},bien,Damazan-bis,{},{},{}
+bien,Damazan-bis,bién̈,Casteljaloux-bis,{'̈': 1},{},"{('e', 'é'): 1}",bien,Buzet-sur-Baïse,{},{},{},bien,Caubeyres,{},{},{}
+béts,Damazan,bièn,Esclottes,{},{},"{('é', 'i'): 1, ('t', 'è'): 1, ('s', 'n'): 1}",bién,Moncrabeau-bis,{'i': 1},{'s': 1},"{('t', 'n'): 1}",bièn,Saint-Léger,{},{},"{('é', 'i'): 1, ('t', 'è'): 1, ('s', 'n'): 1}"
+bien,Fargues-sur-Ourbise,bien,Bégaar,{},{},{},bien,Saint-Pierre-de-Buzet,{},{},{},bièn,Monheurt,{},{},"{('e', 'è'): 1}"
+bièn,Monheurt,bien,Listrac-de-Durèze,{},{},"{('è', 'e'): 1}",bien,Fargues-sur-Ourbise,{},{},"{('è', 'e'): 1}",bien,Puch-d'Agenais,{},{},"{('è', 'e'): 1}"
+bien,Puch-d'Agenais,bièn,Moncrabeau,{},{},"{('e', 'è'): 1}",bien,Pellegrue,{},{},{},bièn,Monheurt,{},{},"{('e', 'è'): 1}"
+bién,Razimet,bién,Bourdalat,{},{},{},bién,Baleyssagues,{},{},{},bièn,Saint-Léon,{},{},"{('é', 'è'): 1}"
+bièn,Saint-Léger,bién,Duras,{},{},"{('è', 'é'): 1}",béts,Damazan,{},{},"{('i', 'é'): 1, ('è', 't'): 1, ('n', 's'): 1}",bien,Saint-Pierre-de-Buzet,{},{},"{('è', 'e'): 1}"
+bièn,Saint-Léon,bien,Saint-Pierre-de-Buzet,{},{},"{('è', 'e'): 1}",bièn,Carcen-Ponson,{},{},{},bién,Razimet,{},{},"{('è', 'é'): 1}"
+bien,Saint-Pierre-de-Buzet,bien,Fargues-sur-Ourbise,{},{},{},bièn,Saint-Léon,{},{},"{('e', 'è'): 1}",bièn,Saint-Léger,{},{},"{('e', 'è'): 1}"
+bien,Auriac-sur-Dropt,bién,Baleyssagues,{},{},"{('e', 'é'): 1}",bien,Vertheuil,{},{},{},bièn,Moustier,{},{},"{('e', 'è'): 1}"
+bién,Baleyssagues,bién,Razimet,{},{},{},bien,Auriac-sur-Dropt,{},{},"{('é', 'e'): 1}",bién,Duras,{},{},{}
+bién,Duras,bièn,Esclottes,{},{},"{('é', 'è'): 1}",bièn,Saint-Léger,{},{},"{('é', 'è'): 1}",bién,Baleyssagues,{},{},{}
+bièn,Esclottes,bién,La Sauvetat-du-Dropt,{},{},"{('è', 'é'): 1}",béts,Damazan,{},{},"{('i', 'é'): 1, ('è', 't'): 1, ('n', 's'): 1}",bién,Duras,{},{},"{('è', 'é'): 1}"
+bién,La Sauvetat-du-Dropt,bièn,Moustier,{},{},"{('é', 'è'): 1}",bién,Ambarès-et-Lagrave,{},{},{},bièn,Esclottes,{},{},"{('é', 'è'): 1}"
+bièn,Moustier,bien,Saint-Astier,{},{},"{('è', 'e'): 1}",bién,La Sauvetat-du-Dropt,{},{},"{('è', 'é'): 1}",bien,Auriac-sur-Dropt,{},{},"{('è', 'e'): 1}"
+bien,Saint-Astier,bién,Savignac-de-Duras,{},{},"{('e', 'é'): 1}",bièn,Moustier,{},{},"{('e', 'è'): 1}",bien,Saint-Sernin,{},{},{}
+bien,Saint-Sernin,bién,Cazaugitat,{},{},"{('e', 'é'): 1}",bien,Saint-Astier,{},{},{},,,,,
+bién,Savignac-de-Duras,bien,Saint-Julien-en-Born,{},{},"{('é', 'e'): 1}",bien,Saint-Astier,{},{},"{('é', 'e'): 1}",,,,,
+bien,Soumensac,bien,Listrac-de-Durèze,{},{},{},bien,Villeneuve-de-Duras,{},{},{},,,,,
+bien,Villeneuve-de-Duras,bien,Soumensac,{},{},{},bièn,Bassens,{},{},"{('e', 'è'): 1}",,,,,
+bets,Fieux,bien,Ambès,{'i': 1},{'s': 1},"{('t', 'n'): 1}",bien,Francescas,{'i': 1},{'s': 1},"{('t', 'n'): 1}",,,,,
+bien,Francescas,bets,Fieux,{},{},"{('i', 'e'): 1, ('e', 't'): 1, ('n', 's'): 1}",bien,Pujols-sur-Ciron,{},{},{},,,,,
+bien,Lamontjoie,bien,Pellegrue,{},{},{},bièn,Moncrabeau,{},{},"{('e', 'è'): 1}",,,,,
+bién,Moncrabeau-bis,béts,Damazan,{},{},"{('i', 'é'): 1, ('é', 't'): 1, ('n', 's'): 1}",bièn,Moncrabeau,{},{},"{('é', 'è'): 1}",,,,,
+bièn,Moncrabeau,bien,Lamontjoie,{},{},"{('è', 'e'): 1}",bien,Puch-d'Agenais,{},{},"{('è', 'e'): 1}",bién,Moncrabeau-bis,{},{},"{('è', 'é'): 1}"
+bién,Nomdieu,bien,Boussès,{},{},"{('é', 'e'): 1}",bién,Preignac,{},{},{},bién,Allons,{},{},{}
+bién,Allons,bién,Nomdieu,{},{},{},bien,Cestas,{},{},"{('é', 'e'): 1}",bién,Durance,{},{},{}
+bien,Boussès,bien,Carbon-Blanc-bis,{},{},{},bién,Nomdieu,{},{},"{('e', 'é'): 1}",bién,Durance,{},{},"{('e', 'é'): 1}"
+bién,Durance,bièn,Canéjan,{},{},"{('é', 'è'): 1}",bien,Boussès,{},{},"{('é', 'e'): 1}",bién,Allons,{},{},{}
+bien,Houeillès-bis,bien,Houeillès,{},{},{},biènn,Lormont,{'è': 1},{},"{('e', 'n'): 1}",,,,,
+bien,Houeillès,bien,Pujols-sur-Ciron,{},{},{},bien,Houeillès-bis,{},{},{},,,,,
+bièn,Pindères,bién,Lauzun-bis,{},{},"{('è', 'é'): 1}",bién,Sauméjan,{},{},"{('è', 'é'): 1}",bien,Armillac,{},{},"{('è', 'e'): 1}"
+bién,Pompogne,bien,Lège,{},{},"{('é', 'e'): 1}",bièn,Agnac,{},{},"{('é', 'è'): 1}",bién,Sauméjan,{},{},{}
+bién,Sauméjan,bièn,Doulezon,{},{},"{('é', 'è'): 1}",bién,Pompogne,{},{},{},bièn,Pindères,{},{},"{('é', 'è'): 1}"
+bièn,Agnac,bién,Pompogne,{},{},"{('è', 'é'): 1}",bién,Ludon-Médoc,{},{},"{('è', 'é'): 1}",bien,Armillac,{},{},"{('è', 'e'): 1}"
+bien,Armillac,bièn,Agnac,{},{},"{('e', 'è'): 1}",bien,Lavergne,{},{},{},bièn,Pindères,{},{},"{('e', 'è'): 1}"
+bièn,Bourgougnague,bién,Lauzun-ter,{},{},"{('è', 'é'): 1}",bién,Saint-Michel-de-Rieufret,{},{},"{('è', 'é'): 1}",bién,Laperche,{},{},"{('è', 'é'): 1}"
+bién,Laperche,bièn,Doulezon,{},{},"{('é', 'è'): 1}",bién,Lauzun-bis,{},{},{},bièn,Bourgougnague,{},{},"{('é', 'è'): 1}"
+bién,Lauzun-bis,bién,Laperche,{},{},{},bièn,Pindères,{},{},"{('é', 'è'): 1}",bien,Lavergne,{},{},"{('é', 'e'): 1}"
+bién,Lauzun-ter,bien,Bruch,{},{},"{('é', 'e'): 1}",bièn,Bourgougnague,{},{},"{('é', 'è'): 1}",bién,Lauzun-tet,{},{},{}
+bién,Lauzun-tet,biénn,Lauzun,{'n': 1},{},{},bien,Saint-Loubès,{},{},"{('é', 'e'): 1}",bién,Lauzun-ter,{},{},{}
+biénn,Lauzun,bien,Macau,{},{'n': 1},"{('é', 'e'): 1}",bién,Lauzun-tet,{},{'n': 1},{},bien,Lavergne,{},{'n': 1},"{('é', 'e'): 1}"
+bien,Lavergne,bien,Armillac,{},{},{},biénn,Lauzun,{'é': 1},{},"{('e', 'n'): 1}",bién,Lauzun-bis,{},{},"{('e', 'é'): 1}"
+bien,Lévignac-de-Guyenne,bien,Thouars-sur-Garonne,{},{},{},bién,Miramont-de-Guyenne,{},{},"{('e', 'é'): 1}",bien,Montignac-de-Lauzun,{},{},{}
+bién,Miramont-de-Guyenne,bien,Lévignac-de-Guyenne,{},{},"{('é', 'e'): 1}",bién,Fréchou,{},{},{},béts,Peyrière,{},{},"{('i', 'é'): 1, ('é', 't'): 1, ('n', 's'): 1}"
+bien,Montignac-de-Lauzun,bién,Pessac-sur-Dordogne,{},{},"{('e', 'é'): 1}",bien,Lévignac-de-Guyenne,{},{},{},béts,Peyrière,{},{},"{('i', 'é'): 1, ('e', 't'): 1, ('n', 's'): 1}"
+béts,Peyrière,bién,Miramont-de-Guyenne,{'i': 1},{'s': 1},"{('t', 'n'): 1}",bien,Saint-Pierre-d'Aurillac,{},{},"{('é', 'i'): 1, ('t', 'e'): 1, ('s', 'n'): 1}",bien,Montignac-de-Lauzun,{},{},"{('é', 'i'): 1, ('t', 'e'): 1, ('s', 'n'): 1}"
+bets,Puysserampion,bien,Lavardac-bis,{'i': 1},{'s': 1},"{('t', 'n'): 1}",bièn,Virazeil,{},{},"{('e', 'i'): 1, ('t', 'è'): 1, ('s', 'n'): 1}",bién,Roumagne,{},{},"{('e', 'i'): 1, ('t', 'é'): 1, ('s', 'n'): 1}"
+bién,Roumagne,bets,Puysserampion,{},{},"{('i', 'e'): 1, ('é', 't'): 1, ('n', 's'): 1}",,,,,,,,,,
+bien,Saint-Colomb-de-Lauzun,bien,Marmande,{},{},{},bièn,Rauzan,{},{},"{('e', 'è'): 1}",,,,,
+bien,Saint-Nazaire,bien,Saint-Jean-de-Blaignac,{},{},{},bièn,Sérignac-Péboudou,{},{},"{('e', 'è'): 1}",,,,,
+bien,Ségalas,bièn,Sérignac-Péboudou,{},{},"{('e', 'è'): 1}",bien,Lavardac,{},{},{},,,,,
+bièn,Sérignac-Péboudou,bièn,Rauzan,{},{},{},bien,Ségalas,{},{},"{('è', 'e'): 1}",bien,Saint-Nazaire,{},{},"{('è', 'e'): 1}"
+bien,Barbaste,bien,Aubie-et-Espessas,{},{},{},bien,Bruch,{},{},{},bièn,Saint-Laurent,{},{},"{('e', 'è'): 1}"
+bièn,Béquin,bien,Saint-Aubin-de-Médoc,{},{},"{('è', 'e'): 1}",bien,Pompiey,{},{},"{('è', 'e'): 1}",bien,Bruch-bis,{},{},"{('è', 'e'): 1}"
+bien,Bruch-bis,bien,Montussan,{},{},{},bièn,Béquin,{},{},"{('e', 'è'): 1}",bien,Bruch,{},{},{}
+bien,Bruch,bien,Barbaste,{},{},{},bién,Lauzun-ter,{},{},"{('e', 'é'): 1}",bien,Bruch-bis,{},{},{}
+bien,Feugarolles,bièn,Montesquieu,{},{},"{('e', 'è'): 1}",bien,Saint-Aubin-de-Médoc,{},{},{},bien,Lavardac-bis,{},{},{}
+bien,Lavardac-bis,bien,Feugarolles,{},{},{},bets,Puysserampion,{},{},"{('i', 'e'): 1, ('e', 't'): 1, ('n', 's'): 1}",,,,,
+bien,Lavardac,bien,Ségalas,{},{},{},bién,Méneau,{},{},"{('e', 'é'): 1}",bièn,Mongaillard,{},{},"{('e', 'è'): 1}"
+bién,Méneau,bien,Lavardac,{},{},"{('é', 'e'): 1}",bien,Cubzac-les-Ponts,{},{},"{('é', 'e'): 1}",bièn,Saint-Laurent,{},{},"{('é', 'è'): 1}"
+bièn,Mongaillard,bien,Lavardac,{},{},"{('è', 'e'): 1}",bièn,Montesquieu,{},{},{},,,,,
+bièn,Montesquieu,bien,Pompiey,{},{},"{('è', 'e'): 1}",bien,Feugarolles,{},{},"{('è', 'e'): 1}",bièn,Mongaillard,{},{},{}
+bien,Pompiey,bièn,Béquin,{},{},"{('e', 'è'): 1}",bièn,Montesquieu,{},{},"{('e', 'è'): 1}",bièn,Saint-Laurent,{},{},"{('e', 'è'): 1}"
+bièn,Saint-Laurent,bién,Méneau,{},{},"{('è', 'é'): 1}",bien,Barbaste,{},{},"{('è', 'e'): 1}",bien,Pompiey,{},{},"{('è', 'e'): 1}"
+bien,Thouars-sur-Garonne,bien,Lévignac-de-Guyenne,{},{},{},bien,Vianne,{},{},{},,,,,
+bien,Vianne,bien,Thouars-sur-Garonne,{},{},{},bien,Peujard,{},{},{},bien,Birac-sur-Trec,{},{},{}
+bien,Xaintrailles,bièn,Saint-André-de-Cubzac,{},{},"{('e', 'è'): 1}",bién,Beaupuy,{},{},"{('e', 'é'): 1}",bien,Birac-sur-Trec,{},{},{}
+bien,Agmé,bién,Beaupuy,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+bién,Beaupuy,bien,Xaintrailles,{},{},"{('é', 'e'): 1}",bien,Agmé,{},{},"{('é', 'e'): 1}",,,,,
+bien,Birac-sur-Trec,bien,Vianne,{},{},{},bien,Xaintrailles,{},{},{},,,,,
+bién,Fauguerolles,bien,Saint-Vincent-de-Pertignas,{},{},"{('é', 'e'): 1}",bèccop,Marmande-bis,"{'è': 1, 'c': 1}",{},"{('i', 'c'): 1, ('é', 'o'): 1, ('n', 'p'): 1}",,,,,
+bién,Gontaud-de-Nogaret-bis,bien,Saint-Antoine,{},{},"{('é', 'e'): 1}",bién,Gontaud-de-Nogaret,{},{},{},bién,Hautesvignes,{},{},{}
+bién,Gontaud-de-Nogaret,bién,Gontaud-de-Nogaret-bis,{},{},{},bèccop,Marmande-bis,"{'è': 1, 'c': 1}",{},"{('i', 'c'): 1, ('é', 'o'): 1, ('n', 'p'): 1}",,,,,
+bién,Hautesvignes,bién,Marmande-ter,{},{},{},bien,Caumont-sur-Garonne,{},{},"{('é', 'e'): 1}",bién,Gontaud-de-Nogaret-bis,{},{},{}
+bién,Longueville,bien,Saint-Pey-de-Castets,{},{},"{('é', 'e'): 1}",bien,Marmande,{},{},"{('é', 'e'): 1}",bèccop,Marmande-bis,"{'è': 1, 'c': 1}",{},"{('i', 'c'): 1, ('é', 'o'): 1, ('n', 'p'): 1}"
+bèccop,Marmande-bis,bién,Fauguerolles,{},"{'o': 1, 'p': 1}","{('è', 'i'): 1, ('c', 'é'): 1, ('c', 'n'): 1}",bién,Longueville,{},"{'o': 1, 'p': 1}","{('è', 'i'): 1, ('c', 'é'): 1, ('c', 'n'): 1}",bién,Gontaud-de-Nogaret,{},"{'o': 1, 'p': 1}","{('è', 'i'): 1, ('c', 'é'): 1, ('c', 'n'): 1}"
+bién,Marmande-ter,bién,Hautesvignes,{},{},{},bien,Marmande,{},{},"{('é', 'e'): 1}",,,,,
+bien,Marmande,bién,Longueville,{},{},"{('e', 'é'): 1}",bien,Saint-Colomb-de-Lauzun,{},{},{},bién,Marmande-ter,{},{},"{('e', 'é'): 1}"
+bien,Saint-Pardoux-du-Breuil,bien,Saint-Antoine,{},{},{},,,,,,,,,,
+bién,Saint-Pierre de Nogaret,bien,Flaujagues,{},{},"{('é', 'e'): 1}",bién,Sainte-Bazeille,{},{},{},,,,,
+bién,Sainte-Bazeille,bien,Juillac,{},{},"{('é', 'e'): 1}",bién,Saint-Pierre de Nogaret,{},{},{},,,,,
+besh,Taillebourg,bien,Saint-Laurent-Médoc,{'i': 1},{'h': 1},"{('s', 'n'): 1}",bièn,Virazeil,{},{},"{('e', 'i'): 1, ('s', 'è'): 1, ('h', 'n'): 1}",,,,,
+bièn,Virazeil,bets,Puysserampion,{},{},"{('i', 'e'): 1, ('è', 't'): 1, ('n', 's'): 1}",besh,Taillebourg,{},{},"{('i', 'e'): 1, ('è', 's'): 1, ('n', 'h'): 1}",,,,,
+bién,Cocumont,bién,Couthures-sur-Garonne,{},{},{},bién,Jusix,{},{},{},,,,,
+bién,Couthures-sur-Garonne,bién,Cocumont,{},{},{},bién,Montpouillan,{},{},{},bién,Lisse,{},{},{}
+bés,Gaujac,bién,Réaup-Lisse,{'i': 1},{},"{('s', 'n'): 1}",bién,Jusix,{'i': 1},{},"{('s', 'n'): 1}",bien,Lannes,{'i': 1},{},"{('é', 'e'): 1, ('s', 'n'): 1}"
+bién,Jusix,bés,Gaujac,{},{'i': 1},"{('n', 's'): 1}",bién,Cocumont,{},{},{},,,,,
+bién,Meilhan-sur-Garonne,bién,Montpouillan,{},{},{},bién,Saint-Sauveur-de-Meilhan,{},{},{},,,,,
+bién,Montpouillan,bién,Couthures-sur-Garonne,{},{},{},bién,Meilhan-sur-Garonne,{},{},{},bien,Gueyze,{},{},"{('é', 'e'): 1}"
+bién,Saint-Sauveur-de-Meilhan,bien,Saint-Germain-de-Grave,{},{},"{('é', 'e'): 1}",bien,Gueyze,{},{},"{('é', 'e'): 1}",bién,Meilhan-sur-Garonne,{},{},{}
+bien,Gueyze,bién,Saint-Sauveur-de-Meilhan,{},{},"{('e', 'é'): 1}",bièn,Mézin,{},{},"{('e', 'è'): 1}",bién,Montpouillan,{},{},"{('e', 'é'): 1}"
+bien,Lannes,bés,Gaujac,{},{'n': 1},"{('i', 'é'): 1, ('e', 's'): 1}",bién,Lisse,{},{},"{('e', 'é'): 1}",,,,,
+bién,Lisse,bién,Couthures-sur-Garonne,{},{},{},bièn,Mézin,{},{},"{('é', 'è'): 1}",bien,Lannes,{},{},"{('é', 'e'): 1}"
+bets,Meylan,bièn,Mézin,{},{},"{('e', 'i'): 1, ('t', 'è'): 1, ('s', 'n'): 1}",bien,Auros-bis,{'i': 1},{'s': 1},"{('t', 'n'): 1}",,,,,
+bièn,Mézin,bien,Gueyze,{},{},"{('è', 'e'): 1}",bets,Meylan,{},{},"{('i', 'e'): 1, ('è', 't'): 1, ('n', 's'): 1}",bién,Lisse,{},{},"{('è', 'é'): 1}"
+bién,Poudenas,bien,Saint-Macaire,{},{},"{('é', 'e'): 1}",bién,Andiran,{},{},{},,,,,
+bién,Réaup-Lisse,bés,Gaujac,{},{'i': 1},"{('n', 's'): 1}",bién,Saint-Pé-Saint-Simon,{},{},{},,,,,
+bién,Saint-Pé-Saint-Simon,bién,Réaup-Lisse,{},{},{},,,,,,,,,,
+bién,Sainte-Maure-de-Peyriac,bién,Andiran,{},{},{},bien,Mouliets,{},{},"{('é', 'e'): 1}",bién,Sos,{},{},{}
+bién,Sos,bién,Sainte-Maure-de-Peyriac,{},{},{},bien,Saint-Pierre-d'Aurillac,{},{},"{('é', 'e'): 1}",bién,Villeneuve-de-Mézin,{},{},{}
+bién,Villeneuve-de-Mézin,bién,Calignac,{},{},{},bién,Sos,{},{},{},,,,,
+bién,Andiran,bién,Poudenas,{},{},{},bién,Sainte-Maure-de-Peyriac,{},{},{},bién,Calignac,{},{},{}
+bién,Calignac,bién,Villeneuve-de-Mézin,{},{},{},bién,Andiran,{},{},{},,,,,
+bién,Fréchou,bién,Miramont-de-Guyenne,{},{},{},betcop,Espiens,"{'e': 1, 't': 1}",{},"{('i', 'c'): 1, ('é', 'o'): 1, ('n', 'p'): 1}",,,,,
+betcop,Espiens,bien,Saint-Pierre-d'Aurillac,{'i': 1},"{'c': 1, 'o': 1, 'p': 1}","{('t', 'n'): 1}",bién,Fréchou,{},"{'o': 1, 'p': 1}","{('e', 'i'): 1, ('t', 'é'): 1, ('c', 'n'): 1}",bien,Moncaut,{'i': 1},"{'c': 1, 'o': 1, 'p': 1}","{('t', 'n'): 1}"
+bien,Moncaut,betcop,Espiens,"{'e': 1, 't': 1}",{},"{('i', 'c'): 1, ('e', 'o'): 1, ('n', 'p'): 1}",,,,,,,,,,
+bién,Montagnac-sur-Auvignon,bien,Saint-Symphorien-bis,{},{},"{('é', 'e'): 1}",bién,Nérac-bis,{},{},{},,,,,
+bién,Nérac-bis,bién,Montagnac-sur-Auvignon,{},{},{},bien,Grayan,{},{},"{('é', 'e'): 1}",bién,Nérac,{},{},{}
+bién,Nérac-ter,bién,Cambes,{},{},{},bién,Nérac,{},{},{},,,,,
+bién,Nérac,bién,Nérac-ter,{},{},{},bién,Nérac-bis,{},{},{},,,,,
+bién,Saumont,,,,,,,,,,,,,,,
+bién,Cambes,bien,Castelnau-sur-Gupie,{},{},"{('é', 'e'): 1}",bién,Nérac-ter,{},{},{},,,,,
+bien,Castelnau-sur-Gupie,bièn,Saint-Symphorien,{},{},"{('e', 'è'): 1}",bién,Cambes,{},{},"{('e', 'é'): 1}",,,,,
+bien,Caubon-Saint-Sauveur,bién,Escassefort,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+bién,Escassefort,bien,Caubon-Saint-Sauveur,{},{},"{('é', 'e'): 1}",bièn,Lagupie,{},{},"{('é', 'è'): 1}",,,,,
+bién,Lachapelle,bièn,La Roquille,{},{},"{('é', 'è'): 1}",,,,,,,,,,
+bièn,Lagupie,bién,Escassefort,{},{},"{('è', 'é'): 1}",bién,Monteton,{},{},"{('è', 'é'): 1}",,,,,
+bién,Mauvezin-sur-Gupie,bien,Soulac-sur-Mer,{},{},"{('é', 'e'): 1}",bién,Monteton,{},{},{},,,,,
+bién,Monteton,bién,Mauvezin-sur-Gupie,{},{},{},bièn,Lagupie,{},{},"{('é', 'è'): 1}",,,,,
+bién,Montignac-Toupinerie,,,,,,,,,,,,,,,
+béts,Puymiclan,bien,Saint-Avit,{},{},"{('é', 'i'): 1, ('t', 'e'): 1, ('s', 'n'): 1}",bién,Caplong,{'i': 1},{'s': 1},"{('t', 'n'): 1}",,,,,
+bien,Saint-Avit,bién,Tonneins_bis,{},{},"{('e', 'é'): 1}",béts,Puymiclan,{},{},"{('i', 'é'): 1, ('e', 't'): 1, ('n', 's'): 1}",bién,Saint-Barthélemy-d'Agenais,{},{},"{('e', 'é'): 1}"
+bién,Saint-Barthélemy-d'Agenais,bien,Saint-Avit,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+bién,Saint-Martin-Petit,bién,Tonneins_ter,{},{},{},bién,Lafitte-sur-Lot,{},{},{},,,,,
+bién,Saint-Pierre-sur-Dropt,bien,Unet,{},{},"{('é', 'e'): 1}",bién,Seyches,{},{},{},bién,Lafitte-sur-Lot,{},{},{}
+bién,Seyches,bién,Saint-Pierre-sur-Dropt,{},{},{},bien,Clairac,{},{},"{('é', 'e'): 1}",,,,,
+bien,Clairac,bién,Seyches,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+béx,Fauillet,bién,Lafitte-sur-Lot,{'i': 1},{},"{('x', 'n'): 1}",,,,,,,,,,
+bién,Lafitte-sur-Lot,bién,Saint-Martin-Petit,{},{},{},bién,Saint-Pierre-sur-Dropt,{},{},{},béx,Fauillet,{},{'i': 1},"{('n', 'x'): 1}"
+bién,Tonneins_bis,bién,Tonneins_ter,{},{},{},bien,Saint-Avit,{},{},"{('é', 'e'): 1}",bién,Tonneins,{},{},{}
+bién,Tonneins_ter,bién,Saint-Martin-Petit,{},{},{},bién,Tonneins_bis,{},{},{},bien,Unet,{},{},"{('é', 'e'): 1}"
+bién,Tonneins,bien,Unet,{},{},"{('é', 'e'): 1}",bién,Tonneins_bis,{},{},{},,,,,
+bien,Unet,bién,Tonneins,{},{},"{('e', 'é'): 1}",bién,Saint-Pierre-sur-Dropt,{},{},"{('e', 'é'): 1}",bién,Tonneins_ter,{},{},"{('e', 'é'): 1}"
+bién,Varès,,,,,,,,,,,,,,,
+bien,Calonges,bien,Talais,{},{},{},,,,,,,,,,
+bien,Caumont-sur-Garonne,bién,Hautesvignes,{},{},"{('e', 'é'): 1}",bién,Fourques,{},{},"{('e', 'é'): 1}",,,,,
+bién,Fourques,bien,Caumont-sur-Garonne,{},{},"{('é', 'e'): 1}",bién,Le Mas-d'Agenais-bis,{},{},{},,,,,
+bién,Lagruère,bién,Lamarque,{},{},{},bién,Ligueux,{},{},{},,,,,
+bién,Lamarque,bién,Lagruère,{},{},{},bién,Le Mas-d'Agenais-bis,{},{},{},,,,,
+bién,Le Mas-d'Agenais-bis,bién,Fourques,{},{},{},bién,Lamarque,{},{},{},,,,,
+bién,Le Mas-d'Agenais,bien,Sainte-Marthe,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+bien,Sainte-Marthe,bién,Le Mas-d'Agenais,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+bétz,Samazan,bien,Les Lèves-et-Thoumeyragues,{},{},"{('é', 'i'): 1, ('t', 'e'): 1, ('z', 'n'): 1}",,,,,,,,,,
+bets,Sénestis,bèts,Villeton,{},{},"{('e', 'è'): 1}",bien,Eynesse,{'i': 1},{'s': 1},"{('t', 'n'): 1}",,,,,
+bèts,Villeton,bien,Listrac-Médoc,{},{},"{('è', 'i'): 1, ('t', 'e'): 1, ('s', 'n'): 1}",bets,Sénestis,{},{},"{('è', 'e'): 1}",,,,,

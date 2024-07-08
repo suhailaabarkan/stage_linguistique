@@ -1,0 +1,21 @@
+Mot,Commune,Voisin_1,Commune_1,Insertions_1,Suppressions_1,Substitutions_1,Voisin_2,Commune_2,Insertions_2,Suppressions_2,Substitutions_2,Voisin_3,Commune_3,Insertions_3,Suppressions_3,Substitutions_3
+freum,Andernos-les-Bains,freum,Auros-bis,{},{},{},freum,Audenge-bis,{},{},{},,,,,
+freum,Arès,fréc,Savignac,{},{'m': 1},"{('e', 'é'): 1, ('u', 'c'): 1}",frém,Ailas,{},{'u': 1},"{('e', 'é'): 1}",frém,Coimères,{},{'u': 1},"{('e', 'é'): 1}"
+freum,Audenge-bis,freum,Andernos-les-Bains,{},{},{},,,,,,,,,,
+freum,Audenge,,,,,,,,,,,,,,,
+freum,Biganos,,,,,,,,,,,,,,,
+freum,Lacanau-de-Mios,,,,,,,,,,,,,,,
+frem,Lanton,,,,,,,,,,,,,,,
+frém,Lège,,,,,,,,,,,,,,,
+frem,Mios,frém,Ailas,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+frém,Ailas,freum,Arès,{'e': 1},{},"{('é', 'u'): 1}",frem,Mios,{},{},"{('é', 'e'): 1}",freum,Auros-bis,{'e': 1},{},"{('é', 'u'): 1}"
+freum,Auros-bis,freum,Andernos-les-Bains,{},{},{},frém,Ailas,{},{'u': 1},"{('e', 'é'): 1}",,,,,
+frem,Auros,freum,Brannens,{'u': 1},{},{},,,,,,,,,,
+frém,Barie,,,,,,,,,,,,,,,
+freum,Brannens,frem,Auros,{},{'u': 1},{},frém,Castillon-de-Castets,{},{'u': 1},"{('e', 'é'): 1}",,,,,
+frém,Castillon-de-Castets,freum,Brannens,{'e': 1},{},"{('é', 'u'): 1}",,,,,,,,,,
+frém,Coimères,freum,Arès,{'e': 1},{},"{('é', 'u'): 1}",frém,Lados,{},{},{},,,,,
+frém,Lados,frémm,Puybarban,{'m': 1},{},{},frém,Coimères,{},{},{},,,,,
+freum,Pondaurat,,,,,,,,,,,,,,,
+frémm,Puybarban,frém,Lados,{},{'m': 1},{},fréc,Savignac,{},{'m': 1},"{('m', 'c'): 1}",,,,,
+fréc,Savignac,freum,Arès,{'e': 1},{},"{('é', 'u'): 1, ('c', 'm'): 1}",frémm,Puybarban,{'m': 1},{},"{('c', 'm'): 1}",,,,,

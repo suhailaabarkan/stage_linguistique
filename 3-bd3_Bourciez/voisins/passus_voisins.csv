@@ -1,0 +1,2049 @@
+Mot,Commune,Voisin_1,Commune_1,Insertions_1,Suppressions_1,Substitutions_1,Voisin_2,Commune_2,Insertions_2,Suppressions_2,Substitutions_2,Voisin_3,Commune_3,Insertions_3,Suppressions_3,Substitutions_3
+pas,Andernos-les-Bains,pas,Bazas-bis,{},{},{},pas,Auros-bis,{},{},{},pa,Audenge-bis,{},{'s': 1},{}
+pas,Arès,pas,Savignac,{},{},{},pas,Ailas,{},{},{},pas,Coimères,{},{},{}
+pa,Audenge-bis,pas,Andernos-les-Bains,{'s': 1},{},{},pa,Le Porge,{},{},{},pa,Saint-Étienne-de-Lisse,{},{},{}
+pa,Audenge,pas,Saint-Léon-sur-l'Isle,{'s': 1},{},{},pas,Lignan-de-Bazas,{'s': 1},{},{},pas,Belin-Béliet,{'s': 1},{},{}
+pas,Biganos,pa,Blanquefort-bis,{},{'s': 1},{},,,,,,,,,,
+pas,Lacanau-de-Mios,pas,Eysines,{},{},{},pas,Carbon-Blanc-bis,{},{},{},,,,,
+pas,Lanton,pas,Macau,{},{},{},pas,Castelnau-de-Médoc,{},{},{},pa,Saint-Loubès,{},{'s': 1},{}
+pa,Lège,pa,Pompogne,{},{},{},pas,Saint-Sulpice-et-Cameyrac,{'s': 1},{},{},,,,,
+pa,Mios,pas,Ailas,{'s': 1},{},{},pas,Saint-Maixant,{'s': 1},{},{},,,,,
+pas,Ailas,pas,Arès,{},{},{},pa,Mios,{},{'s': 1},{},pas,Auros-bis,{},{},{}
+pas,Auros-bis,pas,Andernos-les-Bains,{},{},{},pas,Ailas,{},{},{},pa,Meylan,{},{'s': 1},{}
+pa,Auros,pa,Bordeaux,{},{},{},pas,Sainte-Foy-la-Grande-bis,{'s': 1},{},{},pas,Brannens,{'s': 1},{},{}
+pas,Barie,pa,Yvrac,{},{'s': 1},{},pas,Atur,{},{},{},,,,,
+pas,Brannens,pah,Bassillac,{},{},"{('s', 'h'): 1}",pa,Auros,{},{'s': 1},{},pas,Castillon-de-Castets,{},{},{}
+pas,Castillon-de-Castets,pas,Saint-Médard-en-Jalles,{},{},{},pas,Boé,{},{},{},pas,Brannens,{},{},{}
+pas,Coimères,pas,Arès,{},{},{},pa,Cudos,{},{'s': 1},{},pa,Lados,{},{'s': 1},{}
+pa,Lados,pas,Gans,{'s': 1},{},{},pa,Puybarban,{},{},{},pas,Coimères,{'s': 1},{},{}
+pas,Pondaurat,pas,Blaignan,{},{},{},pas,Bescat,{},{},{},,,,,
+pa,Puybarban,pa,Lados,{},{},{},pas,Le Bouscat,{'s': 1},{},{},pas,Savignac,{'s': 1},{},{}
+pas,Savignac,pa,Sigalens,{},{'s': 1},{},pas,Arès,{},{},{},pa,Puybarban,{},{'s': 1},{}
+pa,Sigalens,pas,Caudéran,{'s': 1},{},{},pas,Savignac,{'s': 1},{},{},pas,Bayon-sur-Gironde,{'s': 1},{},{}
+pas,Bazas-bis,pas,Bazas,{},{},{},pas,Andernos-les-Bains,{},{},{},pas,Saint-Aubin,{},{},{}
+pas,Bazas,pas,Cazats,{},{},{},pas,Bazas-bis,{},{},{},pas,Prats-de-Carlux,{},{},{}
+pa,Bernos-Beaulac,pa,Birac,{},{},{},pas,Saumos,{'s': 1},{},{},pas,Gajac,{'s': 1},{},{}
+pa,Birac,pas,Saint-Magne-de-Castillon,{'s': 1},{},{},pa,Bernos-Beaulac,{},{},{},pas,Cazats,{'s': 1},{},{}
+pas,Cazats,pa,Cudos,{},{'s': 1},{},pas,Bazas,{},{},{},pa,Birac,{},{'s': 1},{}
+pa,Cudos,pas,Coimères,{'s': 1},{},{},pas,Cazats,{'s': 1},{},{},pas,Gans,{'s': 1},{},{}
+pas,Gajac,pas,Belvès-de-Castillon,{},{},{},pas,Gans,{},{},{},pa,Bernos-Beaulac,{},{'s': 1},{}
+pas,Gans,pas,Gajac,{},{},{},pa,Lados,{},{'s': 1},{},pa,Cudos,{},{'s': 1},{}
+pas,Le Nizan,pas,Prignac-et-Marcamps,{},{},{},pas,Gauriac,{},{},{},pas,Saint-Antoine-sur-l'Isle,{},{},{}
+pas,Lignan-de-Bazas,pa,Audenge,{},{'s': 1},{},pas,Lansac,{},{},{},pas,Béliet,{},{},{}
+pas,Saint-Côme,pas,Bonnetan,{},{},{},pas,Saint-Trojan,{},{},{},pas,Béliet,{},{},{}
+pas,Béliet,pas,Belin-Béliet,{},{},{},pas,Lignan-de-Bazas,{},{},{},pas,Saint-Côme,{},{},{}
+pas,Belin-Béliet,pas,Cadillac-en-Fronsadais,{},{},{},pa,Audenge,{},{'s': 1},{},pas,Béliet,{},{},{}
+pas,Joué,pas,Le Barp,{},{},{},pas,Tabanac,{},{},{},,,,,
+pas,Le Barp,pas,Cabara,{},{},{},pas,Joué,{},{},{},,,,,
+pas,Lugos,pas,Saint-Magne,{},{},{},pas,Salles-bis,{},{},{},,,,,
+pas,Saint-Magne,pas,Salles,{},{},{},pas,Lugos,{},{},{},pas,Saint-Romain-la-Virvée,{},{},{}
+pas,Salles-bis,pas,Lugos,{},{},{},pas,Génissac,{},{},{},pas,Osse-en-Aspe,{},{},{}
+pas,Salles,pas,Saint-Magne,{},{},{},pas,Saint-Quentin-de-Baron,{},{},{},,,,,
+pa,Blanquefort-bis,pas,Langoiran,{'s': 1},{},{},pas,Biganos,{'s': 1},{},{},pa,Blanquefort,{},{},{}
+pa,Blanquefort,pa,Blanquefort-bis,{},{},{},pas,Ychoux,{'s': 1},{},{},pas,La Réole,{'s': 1},{},{}
+pa,Caychac,pas,Omet,{'s': 1},{},{},pas,Eysines,{'s': 1},{},{},pas,Giscos,{'s': 1},{},{}
+pas,Eysines,pa,Caychac,{},{'s': 1},{},pas,Lacanau-de-Mios,{},{},{},pas,Le Haillan,{},{},{}
+pas,Le Haillan,pas,Le Pian-Médoc,{},{},{},pas,Bénesse-Maremne,{},{},{},pas,Eysines,{},{},{}
+pas,Le Pian-Médoc,pas,Josse,{},{},{},pas,Le Haillan,{},{},{},pa,Montgaillard,{},{'s': 1},{}
+pas,Le Taillan-Médoc,pa,Sainte-Croix-du-Mont,{},{'s': 1},{},pa,Bassens,{},{'s': 1},{},pas,Landerrouat,{},{},{}
+pas,Ludon-Médoc,pas,Agnac,{},{},{},pas,Macau,{},{},{},,,,,
+pas,Macau,pas,Ludon-Médoc,{},{},{},pas,Lanton,{},{},{},pa,Lauzun,{},{'s': 1},{}
+pas,Parempuyre,pas,Arcins,{},{},{},pas,Arsac,{},{},{},,,,,
+pas,Saint-Aubin-de-Médoc,pas,Feugarolles,{},{},{},pas,Béquin,{},{},{},pas,Labarde,{},{},{}
+pas,Saint-Médard-en-Jalles,pa,Margaux,{},{'s': 1},{},pas,Castillon-de-Castets,{},{},{},pas,Moulis-en-Médoc-bis,{},{},{}
+pas,Bègles,pas,Castelnaud-de-Gratecambe,{},{},{},pa,Lugon-et-l'Île-du-Carnay,{},{'s': 1},{},pas,Moulis-en-Médoc,{},{},{}
+pa,Bordeaux,pa,Auros,{},{},{},,,,,,,,,,
+pas,Bruges,pas,Bégadan,{},{},{},pas,Caudéran,{},{},{},pas,Ribarrouy,{},{},{}
+pas,Caudéran,pas,Bruges,{},{},{},pa,Sigalens,{},{'s': 1},{},pas,Bayon-sur-Gironde,{},{},{}
+pas,Chartrons,pas,Sainte-Colombe,{},{},{},pas,Mont-Disse,{},{},{},pas,Salaunes,{},{},{}
+pas,Le Bouscat,pa,Puybarban,{},{'s': 1},{},pas,Castillon-la-Bataille-bis,{},{},{},pas,Bayon-sur-Gironde,{},{},{}
+pas,Bayon-sur-Gironde,pas,Caudéran,{},{},{},pa,Sigalens,{},{'s': 1},{},pas,Le Bouscat,{},{},{}
+pas,Bourg-bis,pas,Castres-Gironde,{},{},{},pas,Castillon-la-Bataille,{},{},{},pa,Bahus-Soubiran,{},{'s': 1},{}
+pas,Bourg,pa,Comps,{},{'s': 1},{},pas,Rivière-Saas-et-Gourby,{},{},{},pa,Baron,{},{'s': 1},{}
+pa,Comps,pas,Gauriac,{'s': 1},{},{},pas,Os-Marsillon,{'s': 1},{},{},pas,Bourg,{'s': 1},{},{}
+pas,Gauriac,pas,Le Nizan,{},{},{},pa,Comps,{},{'s': 1},{},pa,Baurech,{},{'s': 1},{}
+pas,Lansac,pas,Lignan-de-Bazas,{},{},{},pas,Marcamps,{},{},{},pas,Saint-Loubouer,{},{},{}
+pas,Marcamps,pas,Prignac-et-Marcamps,{},{},{},pas,Lansac,{},{},{},,,,,
+pas,Prignac-et-Marcamps,pas,Marcamps,{},{},{},pas,Le Nizan,{},{},{},pas,Renung,{},{},{}
+pas,Saint-Seurin-de-Bourg,pas,Saint-Pandelon,{},{},{},pa,Samonac,{},{'s': 1},{},pa,Baron,{},{'s': 1},{}
+pas,Saint-Trojan,pas,Saint-Côme,{},{},{},pas,Tauriac,{},{},{},pa,Samonac,{},{'s': 1},{}
+pa,Samonac,pas,Saint-Seurin-de-Bourg,{'s': 1},{},{},pas,Fronsac,{'s': 1},{},{},pas,Saint-Trojan,{'s': 1},{},{}
+pas,Tauriac,pas,Saint-Trojan,{},{},{},pa,Camarsac,{},{'s': 1},{},pa,Baron,{},{'s': 1},{}
+pa,Baron,pas,Bourg,{'s': 1},{},{},pas,Saint-Seurin-de-Bourg,{'s': 1},{},{},pas,Tauriac,{'s': 1},{},{}
+pas,Branne-bis,pas,Saint-Lon-les-Mines,{},{},{},pas,Bonnegarde,{},{},{},pas,Camblanes-et-Meynac,{},{},{}
+pas,Branne,pa,Hure,{},{'s': 1},{},pas,Gironde-sur-Dropt-bis,{},{},{},pa,Carignan-de-Bordeaux,{},{'s': 1},{}
+pas,Cabara-bis,pas,Le Tourne,{},{},{},pas,Linxe,{},{},{},päs,Dax-Saint-Vincent,{},{},"{('a', 'ä'): 1}"
+pas,Cabara,pa,Saillans,{},{'s': 1},{},pas,Le Barp,{},{},{},pas,Pujols,{},{},{}
+pas,Daignac,pas,Génissac,{},{},{},pas,Aramits,{},{},{},,,,,
+pas,Génissac,pas,Salles-bis,{},{},{},pas,Daignac,{},{},{},pas,Losse,{},{},{}
+pas,Grézillac,paï,Pardies,{},{},"{('s', 'ï'): 1}",pas,Jugazan,{},{},{},,,,,
+pas,Jugazan,pas,Grézillac,{},{},{},pa,Civrac,{},{'s': 1},{},pas,Gaillan-en-Médoc,{},{},{}
+pas,Moulon,pa,Horsarrieu,{},{'s': 1},{},pas,Bascons,{},{},{},pas,Naujan-et-Postiac,{},{},{}
+pas,Naujan-et-Postiac,pas,Grignols-bis,{},{},{},pa,Cazères-sur-l'Adour,{},{'s': 1},{},pas,Moulon,{},{},{}
+pas,Nérigean,pas,Saint-Cricq-Chalosse,{},{},{},pa,Poudenx,{},{'s': 1},{},pas,Saint-Germain-du-Puch,{},{},{}
+pas,Saint-Germain-du-Puch,pas,Uzeste,{},{},{},pas,Laurède,{},{},{},pas,Nérigean,{},{},{}
+pas,Saint-Quentin-de-Baron,pas,Salles,{},{},{},pas,Sedzère,{},{},{},pas,Arengosse,{},{},{}
+pa,Tizac-de-Curton,pa,Arjuzanx,{},{},{},,,,,,,,,,
+pas,Béguey,pas,Précilhon,{},{},{},pas,Sendets,{},{},{},pas,Gabarnac,{},{},{}
+pas,Cadillac,pas,Cardan,{},{},{},pas,Camiran,{},{},{},pas,Capian,{},{},{}
+pas,Capian,pa,Saint-Michel-de-Fronsac,{},{'s': 1},{},pas,Cadillac,{},{},{},pa,Sindères,{},{'s': 1},{}
+pas,Cardan,pas,Lerm-et-Musset,{},{},{},pas,Cadillac,{},{},{},pas,Donzac,{},{},{}
+pas,Donzac,pas,Saint-Médard-d'Eyrans,{},{},{},pas,Gabarnac,{},{},{},pas,Cardan,{},{},{}
+pas,Gabarnac,pas,Donzac,{},{},{},pas,Béguey,{},{},{},pas,Marions,{},{},{}
+pas,Langoiran-bis,pas,Montauban-Est,{},{},{},pas,Villeneuve-de-Marsan,{},{},{},pas,Gironde-sur-Dropt,{},{},{}
+pas,Langoiran,pa,Blanquefort-bis,{},{'s': 1},{},pas,Cescau,{},{},{},,,,,
+pas,Lestiac-sur-Garonne,pa,Solférino,{},{'s': 1},{},pas,Morizès,{},{},{},,,,,
+pa,Loupiac,pas,Biaudos,{'s': 1},{},{},pas,Gujan,{'s': 1},{},{},pa,Monprimblanc,{},{},{}
+pa,Monprimblanc,pas,Navarrenx-bis,{'s': 1},{},{},pas,Saint-Hilaire-de-la-Noaille,{'s': 1},{},{},pa,Loupiac,{},{},{}
+pas,Omet,pa,Paillet,{},{'s': 1},{},pa,Caychac,{},{'s': 1},{},pas,La Teste-de-Buch,{},{},{}
+pa,Paillet,pa,Rions,{},{},{},pas,Omet,{'s': 1},{},{},pas,Le Teich,{'s': 1},{},{}
+pa,Rions,pa,Paillet,{},{},{},,,,,,,,,,
+pa,Sainte-Croix-du-Mont,pas,Captieux-bis,{'s': 1},{},{},pas,Le Taillan-Médoc,{'s': 1},{},{},pas,Mazères,{'s': 1},{},{}
+pa,Villenave-de-Rions,pa,Beychac-et-Caillau,{},{},{},pas,Captieux-bis,{'s': 1},{},{},pas,Arbanats,{'s': 1},{},{}
+pas,Captieux-bis,pa,Villenave-de-Rions,{},{'s': 1},{},pa,Sainte-Croix-du-Mont,{},{'s': 1},{},pa,Captieux,{},{'s': 1},{}
+pa,Captieux,pas,Léogeats,{'s': 1},{},{},pas,Langon,{'s': 1},{},{},pas,Captieux-bis,{'s': 1},{},{}
+pa,Escaudes,pa,Bouliac,{},{},{},pas,Cérons,{'s': 1},{},{},pa,Montsoué,{},{},{}
+pas,Giscos,pas,Bieujac,{},{},{},pa,Caychac,{},{'s': 1},{},pas,Saint-Pardon-de-Conques,{},{},{}
+pas,Saint-Michel-de-Castelnau,pas,Cenon,{},{},{},paméy,Saint-Émilion,"{'m': 1, 'é': 1}",{},"{('s', 'y'): 1}",pamey,Toulenne,"{'m': 1, 'e': 1}",{},"{('s', 'y'): 1}"
+pas,Ambarès-et-Lagrave,pas,La Sauvetat-du-Dropt,{},{},{},pas,Taller,{},{},{},pas,Monbéqui,{},{},{}
+pas,Ambès,pas,Martignas-sur-Jalle,{},{},{},pas,Fieux,{},{},{},pa,Beychac-et-Caillau,{},{'s': 1},{}
+pa,Bassens,pas,Le Taillan-Médoc,{'s': 1},{},{},pa,Beychac-et-Caillau,{},{},{},pas,Villeneuve-de-Duras,{'s': 1},{},{}
+pa,Beychac-et-Caillau,pa,Bassens,{},{},{},pa,Villenave-de-Rions,{},{},{},pas,Ambès,{'s': 1},{},{}
+pa,Bouliac,pas,Podensac,{'s': 1},{},{},pa,Escaudes,{},{},{},pas,Carbon-Blanc-bis,{'s': 1},{},{}
+pas,Carbon-Blanc-bis,pa,Bouliac,{},{'s': 1},{},pas,Lacanau-de-Mios,{},{},{},pas,Boussès,{},{},{}
+pas,Carbon-Blanc,pas,Pessac,{},{},{},pas,Libourne,{},{},{},pa,Lormont,{},{'s': 1},{}
+pas,Cenon,pas,Floirac,{},{},{},pas,Saint-Michel-de-Castelnau,{},{},{},pas,Orgueil,{},{},{}
+pas,Floirac,pamey,Saint-Sulpice-de-Faleyrens,"{'m': 1, 'e': 1}",{},"{('s', 'y'): 1}",pas,Cenon,{},{},{},pa,Lormont,{},{'s': 1},{}
+pa,Lormont,pas,Houeillès-bis,{'s': 1},{},{},pas,Carbon-Blanc,{'s': 1},{},{},pas,Floirac,{'s': 1},{},{}
+pas,Montussan,pa,Saint-Loubès,{},{'s': 1},{},pa,Cussac-Fort-Médoc,{},{'s': 1},{},pas,Bruch-bis,{},{},{}
+pa,Saint-Loubès,pas,Lanton,{'s': 1},{},{},pas,Montussan,{'s': 1},{},{},pas,Lauzun-tet,{'s': 1},{},{}
+pa,Saint-Louis-de-Montferrand,pas,Virelade,{'s': 1},{},{},pas,Caumont,{'s': 1},{},{},pas,Saint-Sulpice-et-Cameyrac,{'s': 1},{},{}
+pas,Saint-Sulpice-et-Cameyrac,pas,Saint-Vincent-de-Paul,{},{},{},pa,Lège,{},{'s': 1},{},pa,Saint-Louis-de-Montferrand,{},{'s': 1},{}
+pas,Saint-Vincent-de-Paul,pas,Flaujagues,{},{},{},pas,Saint-Sulpice-et-Cameyrac,{},{},{},paï,Cordes-Tolosannes,{},{},"{('s', 'ï'): 1}"
+pa,Sainte-Eulalie,pas,Saint-Martin-de-Sescas,{'s': 1},{},{},pa,Juillac,{},{},{},,,,,
+pas,Tresses-bis,pa,Peujard,{},{'s': 1},{},pas,Pessac-sur-Dordogne,{},{},{},,,,,
+pa,Tresses,pas,Rauzan,{'s': 1},{},{},pas,Saint-Pey-de-Castets,{'s': 1},{},{},pas,Cubzac-les-Ponts,{'s': 1},{},{}
+pa,Yvrac,pas,Arcins,{'s': 1},{},{},pas,Barie,{'s': 1},{},{},pas,Bon-Encontre,{'s': 1},{},{}
+pas,Arcins,pas,Parempuyre,{},{},{},pa,Yvrac,{},{'s': 1},{},pa,Virsac,{},{'s': 1},{}
+pas,Arsac-bis,pas,Cantenac,{},{},{},pas,Saint-Gervais,{},{},{},pa,Lamarque,{},{'s': 1},{}
+pas,Arsac,pas,Castelnau-de-Médoc,{},{},{},pas,Parempuyre,{},{},{},pas,Cantenac,{},{},{}
+pas,Cantenac,pas,Salignac,{},{},{},pas,Arsac-bis,{},{},{},pas,Arsac,{},{},{}
+pas,Castelnau-de-Médoc,pas,Lanton,{},{},{},pas,Arsac,{},{},{},pa,Cussac-Fort-Médoc,{},{'s': 1},{}
+pa,Cussac-Fort-Médoc,pas,Montussan,{'s': 1},{},{},pas,Castelnau-de-Médoc,{'s': 1},{},{},pa,Lacanau,{},{},{}
+pas,Labarde,pas,Saint-Aubin-de-Médoc,{},{},{},pa,Lacanau,{},{'s': 1},{},pas,Caudrot,{},{},{}
+pa,Lacanau,pas,Labarde,{'s': 1},{},{},pa,Cussac-Fort-Médoc,{},{},{},pa,Lamarque,{},{},{}
+pa,Lamarque,pas,Arsac-bis,{'s': 1},{},{},pas,Saint-André-du-Bois,{'s': 1},{},{},pa,Lacanau,{},{},{}
+pa,Le Porge,pa,Audenge-bis,{},{},{},pas,Saint-Germain-de-Grave,{'s': 1},{},{},pas,Le Temple,{'s': 1},{},{}
+pas,Le Temple,pas,Verdelais,{},{},{},pa,Le Porge,{},{'s': 1},{},,,,,
+pas,Listrac-Médoc,pas,Villeton,{},{},{},pa,Pujols-bis,{},{'s': 1},{},,,,,
+pa,Margaux,pas,Artigues,{'s': 1},{},{},pas,Saint-Médard-en-Jalles,{'s': 1},{},{},pas,Saint-Front-sur-Lémance-Bonaguil,{'s': 1},{},{}
+pas,Moulis-en-Médoc-bis,pas,Saint-Médard-en-Jalles,{},{},{},pa,Sainte-Foy-la-Grande-ter,{},{'s': 1},{},pas,Estillac,{},{},{}
+pas,Moulis-en-Médoc,pas,Bègles,{},{},{},pas,Gornac,{},{},{},,,,,
+pas,Sainte-Hélène,pas,Blis-et-Born,{},{},{},pas,Cazalis,{},{},{},,,,,
+pas,Salaunes,pas,Soussans,{},{},{},pas,Chartrons,{},{},{},pas,Castillon-la-Bataille-bis,{},{},{}
+pas,Saumos,pa,Bernos-Beaulac,{},{'s': 1},{},pas,Soussans,{},{},{},pas,Belvès-de-Castillon,{},{},{}
+pas,Soussans,pas,Saumos,{},{},{},pa,Saint-Pey-d'Armens,{},{'s': 1},{},pas,Salaunes,{},{},{}
+pas,Belvès-de-Castillon,pas,Castillon-la-Bataille-bis,{},{},{},pas,Gajac,{},{},{},pas,Saumos,{},{},{}
+pas,Castillon-la-Bataille-bis,pas,Le Bouscat,{},{},{},pas,Belvès-de-Castillon,{},{},{},pas,Salaunes,{},{},{}
+pas,Castillon-la-Bataille,pas,Bourg-bis,{},{},{},pa,Puisseguin,{},{'s': 1},{},pa,Classun,{},{'s': 1},{}
+pas,Gardegan,pa,Lucmau,{},{'s': 1},{},pa,Villandraut-bis,{},{'s': 1},{},,,,,
+pa,Saint-Étienne-de-Lisse,pas,Paulhiac,{'s': 1},{},{},pa,Audenge-bis,{},{},{},pas,Saint-Genès-de-Castillon,{'s': 1},{},{}
+pas,Saint-Genès-de-Castillon,pa,Saint-Étienne-de-Lisse,{},{'s': 1},{},pa,Balizac,{},{'s': 1},{},pa,Saint-Laurent-des-Combes,{},{'s': 1},{}
+pa,Saint-Laurent-des-Combes,pas,Saint-Symphorien-bis,{'s': 1},{},{},pas,Aire-sur-l'Adour,{'s': 1},{},{},pas,Saint-Genès-de-Castillon,{'s': 1},{},{}
+pas,Saint-Magne-de-Castillon,pa,Saint-Pey-d'Armens,{},{'s': 1},{},pa,Birac,{},{'s': 1},{},pas,Peyrillac,{},{},{}
+pa,Saint-Pey-d'Armens,pas,Soussans,{'s': 1},{},{},pas,Saint-Magne-de-Castillon,{'s': 1},{},{},pa,Saint-Philippe-d'Aiguille,{},{},{}
+pa,Saint-Philippe-d'Aiguille,pas,Sainte-Terre,{'s': 1},{},{},pa,Saint-Pey-d'Armens,{},{},{},pa,Eugénie-les-Bains,{},{},{}
+pas,Sainte-Colombe,pas,Mouhous,{},{},{},pas,Chartrons,{},{},{},pas,Sainte-Terre,{},{},{}
+pas,Sainte-Terre,pas,Sainte-Colombe,{},{},{},pa,Saint-Philippe-d'Aiguille,{},{'s': 1},{},pa,Vignonet,{},{'s': 1},{}
+pa,Vignonet,pas,Sainte-Terre,{'s': 1},{},{},pas,Savignac-sur-Leyze,{'s': 1},{},{},,,,,
+pas,Saint-Antoine-sur-l'Isle,pas,Saint-Agnet,{},{},{},pas,Le Nizan,{},{},{},pa,Baurech,{},{'s': 1},{}
+pa,Baurech,pas,Saint-Antoine-sur-l'Isle,{'s': 1},{},{},pas,Gauriac,{'s': 1},{},{},pa,Camarsac,{},{},{}
+pas,Bonnetan,pa,Camarsac,{},{'s': 1},{},pas,Saint-Côme,{},{},{},pas,Sarron,{},{},{}
+pa,Camarsac,pas,Tauriac,{'s': 1},{},{},pas,Bonnetan,{'s': 1},{},{},pa,Baurech,{},{},{}
+pas,Cambes,pas,Cénac,{},{},{},pa,Vielle-Tursan,{},{'s': 1},{},pas,Camblanes-et-Meynac,{},{},{}
+pas,Camblanes-et-Meynac,pas,Branne-bis,{},{},{},pas,Cambes,{},{},{},pa,Carignan-de-Bordeaux,{},{'s': 1},{}
+pa,Carignan-de-Bordeaux,pas,Amou,{'s': 1},{},{},pas,Branne,{'s': 1},{},{},pas,Camblanes-et-Meynac,{'s': 1},{},{}
+pas,Cénac,pas,Cambes,{},{},{},pa,Bassercles,{},{'s': 1},{},,,,,
+pa,Créon,pas,Brassempouy,{'s': 1},{},{},,,,,,,,,,
+pas,Haux,pas,Castelnau-Chalosse,{},{},{},pa,Geloux,{},{'s': 1},{},pas,Saint-Vincent-le-Paluel,{},{},{}
+pa,Latresne,pas,Castel-Sarrazin,{'s': 1},{},{},pa,Donzacq,{},{},{},pas,Campagne,{'s': 1},{},{}
+pas,Le Tourne,pas,Tournon-d'Agenais,{},{},{},pas,Cabara-bis,{},{},{},pas,Sallebœuf,{},{},{}
+pas,Lignan-de-Bordeaux,pas,Bommes,{},{},{},pa,Pompignac,{},{'s': 1},{},pas,Madirac,{},{},{}
+pas,Madirac,pas,Quinsac,{},{},{},pas,Lamonzie-Montastruc,{},{},{},pas,Lignan-de-Bordeaux,{},{},{}
+pa,Pompignac,pas,Lignan-de-Bordeaux,{'s': 1},{},{},pas,Sainte-Eulalie,{'s': 1},{},{},pas,Quinsac,{'s': 1},{},{}
+pas,Quinsac,pas,Uza,{},{},{},pas,Madirac,{},{},{},pa,Pompignac,{},{'s': 1},{}
+pas,Sadirac,pa,Saint-Caprais-de-Bordeaux,{},{'s': 1},{},,,,,,,,,,
+pa,Saint-Caprais-de-Bordeaux,pas,Sallebœuf,{'s': 1},{},{},pas,Bénesse-lès-Dax,{'s': 1},{},{},pas,Sadirac,{'s': 1},{},{}
+pas,Sallebœuf,pas,Le Tourne,{},{},{},pa,Saint-Caprais-de-Bordeaux,{},{'s': 1},{},pas,Bias,{},{},{}
+pas,Tabanac,pas,Joué,{},{},{},pas,Narrosse,{},{},{},pas,La Force,{},{},{}
+pas,Asques,pas,Fraisse,{},{},{},pas,Fronsac-bis,{},{},{},pa,La Lande-de-Fronsac,{},{'s': 1},{}
+pas,Cadillac-en-Fronsadais,pas,Fronsac-bis,{},{},{},pas,Belin-Béliet,{},{},{},pas,Fronsac,{},{},{}
+pas,Fronsac-bis,pas,Mées,{},{},{},pas,Cadillac-en-Fronsadais,{},{},{},pas,Asques,{},{},{}
+pas,Fronsac,pa,Samonac,{},{'s': 1},{},pa,La Lande-de-Fronsac,{},{'s': 1},{},pas,Cadillac-en-Fronsadais,{},{},{}
+pa,La Lande-de-Fronsac,pas,Fronsac,{'s': 1},{},{},pas,Dévillac,{'s': 1},{},{},pas,Asques,{'s': 1},{},{}
+pa,Lugon-et-l'Île-du-Carnay,pas,Bègles,{'s': 1},{},{},pa,Saillans,{},{},{},pas,Tourliac,{'s': 1},{},{}
+pa,Saillans,pa,Lugon-et-l'Île-du-Carnay,{},{},{},pas,Cabara,{'s': 1},{},{},pa,Saint-Paul-lès-Dax,{},{},{}
+pa,Saint-Germain-de-la-Rivière,pa,Saint-Vincent-de-Paul,{},{},{},pas,Martillac,{'s': 1},{},{},pa,Saint-Michel-de-Fronsac,{},{},{}
+pa,Saint-Michel-de-Fronsac,pa,Saint-Germain-de-la-Rivière,{},{},{},pas,Capian,{'s': 1},{},{},,,,,
+pas,Saint-Romain-la-Virvée,pas,Saint-Magne,{},{},{},pas,Vérac,{},{},{},,,,,
+pas,Vérac,pas,Saint-Romain-la-Virvée,{},{},{},pas,Lescun,{},{},{},pas,Villegouge,{},{},{}
+pas,Villegouge,pas,Campin,{},{},{},pas,Vérac,{},{},{},,,,,
+pas,Campin,pas,Villegouge,{},{},{},pas,Cours-les-Bains,{},{},{},,,,,
+pas,Cours-les-Bains,pa,Castandet,{},{'s': 1},{},pah,Lagrange,{},{},"{('s', 'h'): 1}",pas,Campin,{},{},{}
+pas,Grignols-bis,pas,Grignols,{},{},{},pas,Naujan-et-Postiac,{},{},{},pa,Tercis-les-Bains,{},{'s': 1},{}
+pas,Grignols,pas,Cette-Eygun,{},{},{},pas,Grignols-bis,{},{},{},pas,Yzosse,{},{},{}
+pa,Lavazan,pas,Arx,{'s': 1},{},{},pas,Saucats,{'s': 1},{},{},pas,Bedous,{'s': 1},{},{}
+pas,Lerm-et-Musset,pas,Izeste,{},{},{},pas,Cardan,{},{},{},pas,Marions,{},{},{}
+pas,Marions,pas,Gabarnac,{},{},{},pas,Lerm-et-Musset,{},{},{},,,,,
+pas,Sendets,pas,Béguey,{},{},{},pas,Oloron-ouest,{},{},{},,,,,
+pas,Bégadan,pas,Blaignan,{},{},{},pas,Bruges,{},{},{},paÿ,Garlin-bis,{},{},"{('s', 'ÿ'): 1}"
+pas,Blaignan,pas,Pondaurat,{},{},{},pas,Bégadan,{},{},{},pas,Vergt-de-Biron,{},{},{}
+pa,Civrac,pas,Jugazan,{'s': 1},{},{},pas,Brocas,{'s': 1},{},{},pas,Sorbets,{'s': 1},{},{}
+pas,Gaillan-en-Médoc,pas,Louvie-Soubiron,{},{},{},pas,Jugazan,{},{},{},pas,Samadet,{},{},{}
+pas,Lesparre-Médoc,pa,Labrit,{},{'s': 1},{},pa,Naujac-sur-Mer,{},{'s': 1},{},pas,Lescar,{},{},{}
+pa,Naujac-sur-Mer,pas,Lesparre-Médoc,{'s': 1},{},{},pas,Lannecaube,{'s': 1},{},{},,,,,
+pas,Ordonnac,pas,Urgons,{},{},{},pa,Serres-Gaston,{},{'s': 1},{},pas,Saint-Christoly-Médoc,{},{},{}
+pa,Queyrac,pa,Hinx,{},{},{},pas,Saint-Christoly-Médoc,{'s': 1},{},{},pas,Sainte-Colombe,{'s': 1},{},{}
+pas,Saint-Christoly-Médoc,pa,Queyrac,{},{'s': 1},{},pa,Valeyrac,{},{'s': 1},{},pas,Ordonnac,{},{},{}
+pas,Saint-Germain-d'Esteuil,pa,Serreslous-et-Arribans,{},{'s': 1},{},pa,Artassenx,{},{'s': 1},{},pa,Canenx-et-Réaut,{},{'s': 1},{}
+pas,Saint-Seurin-de-Cadourne,pa,Cère,{},{'s': 1},{},pas,Poey-de-Lescar,{},{},{},,,,,
+pa,Saint-Yzans-de-Médoc,pa,Isle-Saint-Georges,{},{},{},pas,Andoins,{'s': 1},{},{},pas,Mont-de-Marsan-bis,{'s': 1},{},{}
+pa,Valeyrac,pas,Saint-Christoly-Médoc,{'s': 1},{},{},pas,Saint-Avit,{'s': 1},{},{},pay,Lasseube-bis,{'y': 1},{},{}
+pas,Vendays-Montalivet,paï,Lacommande,{},{},"{('s', 'ï'): 1}",pa,Beautiran,{},{'s': 1},{},,,,,
+pa,Beautiran,pas,Saint-Martin-d'Oney,{'s': 1},{},{},pas,Mimizan,{'s': 1},{},{},pas,Vendays-Montalivet,{'s': 1},{},{}
+pas,Cabanac-et-Villagrains,pas,Préchac,{},{},{},pas,Castres-Gironde,{},{},{},pas,Louer,{},{},{}
+pa,Cadaujac,pas,Saint-Pierre-du-Mont,{'s': 1},{},{},pa,Gousse,{},{},{},pas,Cassen,{'s': 1},{},{}
+pas,Castres-Gironde,pas,Cabanac-et-Villagrains,{},{},{},pas,Bourg-bis,{},{},{},pa,Garrey,{},{'s': 1},{}
+pa,Isle-Saint-Georges,pas,Nousse,{'s': 1},{},{},pa,Saint-Yzans-de-Médoc,{},{},{},pa,Ozourt,{},{},{}
+pa,La Brède-bis,pas,Poyanne,{'s': 1},{},{},pas,Louchats,{'s': 1},{},{},pas,Onard,{'s': 1},{},{}
+pas,La Brède,pas,Ousse-Suzan,{},{},{},pas,Léognan,{},{},{},,,,,
+pas,Léognan,pas,Bénéjacq,{},{},{},pas,La Brède,{},{},{},pa,Serres-Morlaàs,{},{'s': 1},{}
+pas,Martillac,pa,Saint-Germain-de-la-Rivière,{},{'s': 1},{},pa,Saugnac-et-Cambran,{},{'s': 1},{},pas,Saint-Médard-d'Eyrans,{},{},{}
+pas,Saint-Médard-d'Eyrans,pas,Saint-Morillon,{},{},{},pas,Donzac,{},{},{},pas,Martillac,{},{},{}
+pas,Saint-Morillon,pas,Saucède,{},{},{},pas,Saint-Médard-d'Eyrans,{},{},{},pa,Blaignac,{},{'s': 1},{}
+pas,Saint-Selve,pas,Saucats,{},{},{},pas,Gurmençon,{},{},{},pa,Blaignac,{},{'s': 1},{}
+pas,Saucats,pa,Lavazan,{},{'s': 1},{},pas,Saint-Selve,{},{},{},pa,Bagas,{},{'s': 1},{}
+pa,Bagas,pas,Saubusse,{'s': 1},{},{},pa,Estigarde,{},{},{},pas,Saucats,{'s': 1},{},{}
+pa,Blaignac,pas,Saint-Selve,{'s': 1},{},{},pas,Saint-Morillon,{'s': 1},{},{},pas,Siest,{'s': 1},{},{}
+pas,Camiran-bis,pa,Ygos-Saint-Saturnin,{},{'s': 1},{},pas,Arthez-d'Asson,{},{},{},pas,Onesse-Laharie,{},{},{}
+pas,Camiran,pas,Cadillac,{},{},{},pas,Louvie-Juzon,{},{},{},pa,Baigts,{},{'s': 1},{}
+pas,Casseuil,pas,Puyol-Cazalet,{},{},{},pas,Fontet,{},{},{},pas,Bayonne-Nord-Ouest,{},{},{}
+pas,Fontet,pas,Casseuil,{},{},{},pa,Biscarosse-bis,{},{'s': 1},{},pa,Doazit,{},{'s': 1},{}
+pas,Gironde-sur-Dropt-bis,pas,Branne,{},{},{},pas,Gaas,{},{},{},pas,Sorde-l'Abbaye,{},{},{}
+pas,Gironde-sur-Dropt,pas,Pouliacq,{},{},{},pas,Langoiran-bis,{},{},{},pa,Moustey,{},{'s': 1},{}
+pa,Hure,pas,Estibeaux,{'s': 1},{},{},pas,Branne,{'s': 1},{},{},pas,Cagnotte,{'s': 1},{},{}
+pa,La Réole-bis,pas,Saugnacq-et-Muret,{'s': 1},{},{},pas,Sévignacq,{'s': 1},{},{},pa,Mimbaste,{},{},{}
+pas,La Réole,pas,Castillon,{},{},{},pa,Blanquefort,{},{'s': 1},{},pas,Mouscardès,{},{},{}
+pas,Lamothe-Landerron,pas,Loupiac-de-la-Réole,{},{},{},pas,Labeyrie,{},{},{},pas,Tilh,{},{},{}
+pas,Loupiac-de-la-Réole,pas,Artix,{},{},{},pas,Lamothe-Landerron,{},{},{},,,,,
+pa,Mongauzy,pa,Balansun,{},{},{},pas,Arue,{'s': 1},{},{},,,,,
+pas,Morizès,pas,Lestiac-sur-Garonne,{},{},{},pa,Arouille,{},{'s': 1},{},,,,,
+pas,Noaillac,pas,Arveyres,{},{},{},pas,Uzan,{},{},{},pas,Lugaut,{},{},{}
+pa,Pompéjac,pas,Arcachon-bis,{'s': 1},{},{},pa,Roquefort,{},{},{},pas,Morlanne,{'s': 1},{},{}
+pas,Saint-Hilaire-de-la-Noaille-bis,pas,Saint-Hilaire-de-la-Noaille,{},{},{},pas,Civrac-sur-Dordogne,{},{},{},,,,,
+pas,Saint-Hilaire-de-la-Noaille,pa,Monprimblanc,{},{'s': 1},{},pas,Saint-Hilaire-de-la-Noaille-bis,{},{},{},,,,,
+pas,Arcachon-bis,pa,Pompéjac,{},{'s': 1},{},pas,Arcachon,{},{},{},,,,,
+pas,Arcachon,pas,Arcachon-bis,{},{},{},pas,La Teste-de-Buch-bis,{},{},{},,,,,
+pas,Cazaux,pas,Gujan,{},{},{},pas,Saint-Girons-en-Béarn,{},{},{},pa,Lue,{},{'s': 1},{}
+pas,Gujan,pa,Loupiac,{},{'s': 1},{},pas,Cazaux,{},{},{},pas,La Teste-de-Buch-bis,{},{},{}
+pas,La Teste-de-Buch-bis,pas,Arcachon,{},{},{},pas,Gujan,{},{},{},,,,,
+pas,La Teste-de-Buch-ter,pas,Saint-Laurent-de-Gosse,{},{},{},pas,Bonnut,{},{},{},pas,Aurice,{},{},{}
+pas,La Teste-de-Buch,pas,Omet,{},{},{},pas,Bieujac,{},{},{},pas,Le Teich,{},{},{}
+pas,Le Teich,pa,Mestras,{},{'s': 1},{},pa,Paillet,{},{'s': 1},{},pas,La Teste-de-Buch,{},{},{}
+pa,Mestras,pas,Eysses,{'s': 1},{},{},pas,Le Teich,{'s': 1},{},{},pas,Bommes,{'s': 1},{},{}
+pas,Bieujac,pas,La Teste-de-Buch,{},{},{},pas,Giscos,{},{},{},pas,Castets-en-Dorthe,{},{},{}
+pas,Bommes,pas,Castets-en-Dorthe,{},{},{},pas,Lignan-de-Bordeaux,{},{},{},pa,Mestras,{},{'s': 1},{}
+pas,Castets-en-Dorthe,pas,Saint-Maurice-sur-Adour,{},{},{},pas,Bommes,{},{},{},pas,Bieujac,{},{},{}
+pas,Fargues,pas,Langon-bis,{},{},{},,,,,,,,,,
+pas,Langon-bis,pas,Fargues,{},{},{},pas,Rampieux,{},{},{},pa,Fargues,{},{'s': 1},{}
+pas,Langon,pa,Captieux,{},{'s': 1},{},pas,Larrivière-Saint-Savin,{},{},{},pas,Budos,{},{},{}
+pas,Léogeats,pa,Saint-Pierre-de-Mons,{},{'s': 1},{},pa,Captieux,{},{'s': 1},{},pas,Mazères,{},{},{}
+pas,Mazères,pa,Sainte-Croix-du-Mont,{},{'s': 1},{},pas,Roaillan,{},{},{},pas,Léogeats,{},{},{}
+pas,Roaillan,pas,Mazères,{},{},{},paï,Grisolles,{},{},"{('s', 'ï'): 1}",pa,Sarraziet,{},{'s': 1},{}
+pas,Saint-Pardon-de-Conques,pas,Giscos,{},{},{},pa,Capbreton,{},{'s': 1},{},pas,Sauternes,{},{},{}
+pa,Saint-Pierre-de-Mons,pa,Labenne,{},{},{},pas,Léogeats,{'s': 1},{},{},pas,Sauternes,{'s': 1},{},{}
+pas,Sauternes,pa,Saint-Sever,{},{'s': 1},{},pas,Saint-Pardon-de-Conques,{},{},{},pa,Saint-Pierre-de-Mons,{},{'s': 1},{}
+pamey,Toulenne,pas,Fichous-Riumayou,{},"{'e': 1, 'y': 1}","{('m', 's'): 1}",pas,Saint-Michel-de-Castelnau,{},"{'e': 1, 'y': 1}","{('m', 's'): 1}",pas,Soustons,{},"{'e': 1, 'y': 1}","{('m', 's'): 1}"
+pas,Arveyres,pa,Tosse,{},{'s': 1},{},pas,Noaillac,{},{},{},pas,Cabidos,{},{},{}
+pas,Civrac-sur-Dordogne,pas,Saint-Hilaire-de-la-Noaille-bis,{},{},{},pas,Saint-Estèphe,{},{},{},,,,,
+pa,Izon,pa,Orx,{},{},{},pas,Cissac-Médoc,{'s': 1},{},{},pas,Saubrigues,{'s': 1},{},{}
+pas,Libourne-bis,pas,Libourne,{},{},{},pas,Saubion,{},{},{},pas,Pomerol,{},{},{}
+pas,Libourne,pas,Carbon-Blanc,{},{},{},pas,Libourne-bis,{},{},{},pas,Vayres,{},{},{}
+pas,Pomerol,pas,Libourne-bis,{},{},{},pas,Pauillac,{},{},{},pas,Vayres,{},{},{}
+paméy,Saint-Émilion,pas,Saint-Michel-de-Castelnau,{},"{'é': 1, 'y': 1}","{('m', 's'): 1}",pamey,Saint-Sulpice-de-Faleyrens,{},{},"{('é', 'e'): 1}",pas,Roquebrune,{},"{'é': 1, 'y': 1}","{('m', 's'): 1}"
+pamey,Saint-Sulpice-de-Faleyrens,paméy,Saint-Émilion,{},{},"{('e', 'é'): 1}",pas,Floirac,{},"{'e': 1, 'y': 1}","{('m', 's'): 1}",pas,Vayres,{},"{'e': 1, 'y': 1}","{('m', 's'): 1}"
+pas,Vayres,pamey,Saint-Sulpice-de-Faleyrens,"{'m': 1, 'e': 1}",{},"{('s', 'y'): 1}",pas,Libourne,{},{},{},pas,Pomerol,{},{},{}
+pas,Landerrouet-sur-Ségur,pas,Argelouse,{},{},{},pas,Angresse,{},{},{},pas,Monségur,{},{},{}
+pas,Monségur,pa,Callen,{},{'s': 1},{},pas,Saint-Jean-de-Marsacq,{},{},{},pas,Landerrouet-sur-Ségur,{},{},{}
+pas,Roquebrune,pa,Soorts-Hossegor,{},{'s': 1},{},paméy,Saint-Émilion,"{'m': 1, 'é': 1}",{},"{('s', 'y'): 1}",pas,Pauillac,{},{},{}
+pas,Cissac-Médoc,pa,Izon,{},{'s': 1},{},pas,Messanges,{},{},{},pas,Pauillac,{},{},{}
+pas,Pauillac,pas,Pomerol,{},{},{},pas,Cissac-Médoc,{},{},{},pas,Roquebrune,{},{},{}
+pas,Saint-Estèphe,pas,Civrac-sur-Dordogne,{},{},{},pas,Lay-Lamidou,{},{},{},pas,Saint-Julien-Beychevelle,{},{},{}
+pas,Saint-Julien-Beychevelle,pa,Saint-Vincent-de-Tyrosse,{},{'s': 1},{},pa,Sore,{},{'s': 1},{},pas,Saint-Estèphe,{},{},{}
+pas,Saint-Sauveur,pas,Saint-Yaguen,{},{},{},pas,Vertheuil,{},{},{},,,,,
+pas,Vertheuil,pas,Auriac-sur-Dropt,{},{},{},pas,Saint-Sauveur,{},{},{},pas,Cazaugitat,{},{},{}
+pas,Cazaugitat,pa,Saint-Sernin,{},{'s': 1},{},pas,Vertheuil,{},{},{},,,,,
+pas,Landerrouat,pas,Massugas,{},{},{},pas,Le Taillan-Médoc,{},{},{},pas,Listrac-de-Durèze,{},{},{}
+pas,Listrac-de-Durèze,pas,Landerrouat,{},{},{},pas,Soumensac,{},{},{},pa,Monheurt,{},{'s': 1},{}
+pas,Massugas,paï,Labastide-Saint-Pierre,{},{},"{('s', 'ï'): 1}",pas,Landerrouat,{},{},{},pa,Pellegrue,{},{'s': 1},{}
+pa,Pellegrue,pa,Puch-d'Agenais,{},{},{},pas,Lamontjoie,{'s': 1},{},{},pas,Massugas,{'s': 1},{},{}
+pa,Canéjan,pas,Cestas,{'s': 1},{},{},pas,Illats,{'s': 1},{},{},pas,Durance,{'s': 1},{},{}
+pas,Cestas,pas,Villenave-d'Ornon,{},{},{},pa,Canéjan,{},{'s': 1},{},pa,Allons,{},{'s': 1},{}
+pas,Gradignan,pas,Landiras,{},{},{},pas,Villenave-d'Ornon,{},{},{},pas,Mérignac,{},{},{}
+pas,Martignas-sur-Jalle,pa,Saint-Jean-d'Illac,{},{'s': 1},{},pas,Ambès,{},{},{},pas,Mérignac,{},{},{}
+pas,Mérignac,pas,Martignas-sur-Jalle,{},{},{},pas,Barsac,{},{},{},pas,Gradignan,{},{},{}
+pas,Pessac,pas,Talence,{},{},{},pas,Carbon-Blanc,{},{},{},pa,Saint-Jean-d'Illac,{},{'s': 1},{}
+pa,Saint-Jean-d'Illac,pas,Pujols-sur-Ciron,{'s': 1},{},{},pas,Martignas-sur-Jalle,{'s': 1},{},{},pas,Pessac,{'s': 1},{},{}
+pas,Talence,pa,Audaux,{},{'s': 1},{},pas,Pessac,{},{},{},pas,Villenave-d'Ornon,{},{},{}
+pas,Villenave-d'Ornon,pas,Gradignan,{},{},{},pas,Cestas,{},{},{},pas,Talence,{},{},{}
+pas,Arbanats,pas,Barsac,{},{},{},pa,Villenave-de-Rions,{},{'s': 1},{},pas,Budos,{},{},{}
+pas,Barsac,pas,Mérignac,{},{},{},pas,Arbanats,{},{},{},pa,Budos-bis,{},{'s': 1},{}
+pa,Budos-bis,pas,Cérons,{'s': 1},{},{},pas,Portets,{'s': 1},{},{},pas,Barsac,{'s': 1},{},{}
+pas,Budos,pas,Arbanats,{},{},{},pas,Langon,{},{},{},pas,Guillos,{},{},{}
+pas,Cérons,pa,Escaudes,{},{'s': 1},{},pa,Budos-bis,{},{'s': 1},{},pas,Guillos,{},{},{}
+pas,Guillos,pa,Montaut,{},{'s': 1},{},pas,Cérons,{},{},{},pas,Budos,{},{},{}
+pas,Illats,pa,Canéjan,{},{'s': 1},{},pas,Landiras,{},{},{},pas,Podensac,{},{},{}
+pas,Landiras,pas,Illats,{},{},{},pas,Gradignan,{},{},{},pas,Portets,{},{},{}
+pas,Podensac,pas,Portets,{},{},{},pa,Bouliac,{},{'s': 1},{},pas,Illats,{},{},{}
+pas,Portets,pa,Budos-bis,{},{'s': 1},{},pas,Podensac,{},{},{},pas,Landiras,{},{},{}
+pas,Preignac,pas,Nomdieu,{},{},{},pas,Araux,{},{},{},,,,,
+pas,Pujols-sur-Ciron,pa,Francescas,{},{'s': 1},{},pa,Saint-Jean-d'Illac,{},{'s': 1},{},pa,Houeillès,{},{'s': 1},{}
+pas,Saint-Michel-de-Rieufret,pas,Bourgougnague,{},{},{},pa,Aubie-et-Espessas,{},{'s': 1},{},pa,Sainte-Radegonde,{},{'s': 1},{}
+pas,Virelade,pas,Saint-Vincent-de-Pertignas,{},{},{},pa,Saint-Louis-de-Montferrand,{},{'s': 1},{},pas,Doulezon,{},{},{}
+pas,Doulezon,pas,Virelade,{},{},{},pas,Sauméjan,{},{},{},pas,Laperche,{},{},{}
+pas,Flaujagues,pa,Gensac,{},{'s': 1},{},pas,Saint-Vincent-de-Paul,{},{},{},pas,Saint-Pierre de Nogaret,{},{},{}
+pa,Gensac,pa,Juillac,{},{},{},pas,Flaujagues,{'s': 1},{},{},,,,,
+pa,Juillac,pa,Sainte-Eulalie,{},{},{},pa,Gensac,{},{},{},pas,Sainte-Bazeille,{'s': 1},{},{}
+pas,Mouliets,pas,Sainte-Maure-de-Peyriac,{},{},{},pas,Saint-Macaire,{},{},{},pas,Pessac-sur-Dordogne,{},{},{}
+pas,Pessac-sur-Dordogne,pas,Mouliets,{},{},{},pas,Tresses-bis,{},{},{},pas,Montignac-de-Lauzun,{},{},{}
+pa,Pujols-bis,pas,Listrac-Médoc,{'s': 1},{},{},pas,Valence-bis,{'s': 1},{},{},,,,,
+pa,Pujols,pa,Saint-Jean-de-Blaignac,{},{},{},pés,Sainte-Foy-de-Belvès,{'é': 1},{},"{('a', 's'): 1}",pas,Excideuil,{'s': 1},{},{}
+pas,Rauzan,pas,Saint-Colomb-de-Lauzun,{},{},{},pa,Tresses,{},{'s': 1},{},pas,Sérignac-Péboudou,{},{},{}
+pa,Saint-Jean-de-Blaignac,pas,Saint-Nazaire,{'s': 1},{},{},pa,Pujols,{},{},{},,,,,
+pas,Saint-Pey-de-Castets,pa,Tresses,{},{'s': 1},{},pas,Longueville,{},{},{},pa,Sainte-Radegonde,{},{'s': 1},{}
+pas,Saint-Vincent-de-Pertignas,pas,Fauguerolles,{},{},{},pas,Virelade,{},{},{},pa,Sainte-Radegonde,{},{'s': 1},{}
+pa,Sainte-Radegonde,pas,Saint-Michel-de-Rieufret,{'s': 1},{},{},pas,Saint-Pey-de-Castets,{'s': 1},{},{},pas,Saint-Vincent-de-Pertignas,{'s': 1},{},{}
+pa,Aubie-et-Espessas,pas,Saint-Michel-de-Rieufret,{'s': 1},{},{},pas,Barbaste,{'s': 1},{},{},pas,Cubzac-les-Ponts,{'s': 1},{},{}
+pas,Cubzac-les-Ponts,pas,Méneau,{},{},{},pa,Tresses,{},{'s': 1},{},pa,Aubie-et-Espessas,{},{'s': 1},{}
+pa,Peujard,pas,Tresses-bis,{'s': 1},{},{},pas,Saint-André-de-Cubzac,{'s': 1},{},{},pas,Vianne,{'s': 1},{},{}
+pas,Saint-André-de-Cubzac,pa,Peujard,{},{'s': 1},{},pas,Labourgade,{},{},{},pas,Xaintrailles,{},{},{}
+pas,Saint-Antoine,pah,Lamagistère,{},{},"{('s', 'h'): 1}",pas,Saint-Pardoux-du-Breuil,{},{},{},pas,Gontaud-de-Nogaret-bis,{},{},{}
+pas,Saint-Gervais,pas,Arsac-bis,{},{},{},pa,Benon,{},{'s': 1},{},pas,Saint-Laurent-d'Arce,{},{},{}
+pas,Saint-Laurent-d'Arce,pas,Fossemagne,{},{},{},pa,Le Pian-sur-Garonne,{},{'s': 1},{},pas,Saint-Gervais,{},{},{}
+pas,Salignac,pa,Benon,{},{'s': 1},{},pas,Cantenac,{},{},{},pa,Virsac,{},{'s': 1},{}
+pa,Virsac,pas,Salignac,{'s': 1},{},{},pas,Arcins,{'s': 1},{},{},pas,Colayrac-Saint-Cirq,{'s': 1},{},{}
+pa,Benon,pas,Saint-Gervais,{'s': 1},{},{},pas,Salignac,{'s': 1},{},{},pas,Carcans,{'s': 1},{},{}
+pas,Carcans,pas,Foulayronnes,{},{},{},pa,Hourtin,{},{'s': 1},{},pa,Benon,{},{'s': 1},{}
+pa,Hourtin,pas,Carcans,{'s': 1},{},{},pas,Saint-Quentin-de-Caplong,{'s': 1},{},{},pah,Gabillou,{'h': 1},{},{}
+pas,Saint-Laurent-Médoc,pa,Le Pian-sur-Garonne,{},{'s': 1},{},pas,Taillebourg,{},{},{},pas,Caudrot,{},{},{}
+pas,Caudrot,pas,Saint-Laurent-Médoc,{},{},{},pas,Labarde,{},{},{},pas,Saint-André-du-Bois,{},{},{}
+pa,Le Pian-sur-Garonne,pas,Saint-Laurent-d'Arce,{'s': 1},{},{},pas,Saint-Laurent-Médoc,{'s': 1},{},{},pas,Saint-André-du-Bois,{'s': 1},{},{}
+pas,Saint-André-du-Bois,pa,Lamarque,{},{'s': 1},{},pa,Le Pian-sur-Garonne,{},{'s': 1},{},pas,Caudrot,{},{},{}
+pas,Saint-Germain-de-Grave,pa,Le Porge,{},{'s': 1},{},pa,Saint-Sauveur-de-Meilhan,{},{'s': 1},{},pa,Saint-Laurent-du-Bois,{},{'s': 1},{}
+pa,Saint-Laurent-du-Bois,pas,Saint-Germain-de-Grave,{'s': 1},{},{},,,,,,,,,,
+pas,Saint-Macaire,pas,Mouliets,{},{},{},pas,Poudenas,{},{},{},pas,Saint-Martin-de-Sescas,{},{},{}
+pas,Saint-Maixant,pa,Mios,{},{'s': 1},{},pas,Saint-Martin-de-Sescas,{},{},{},pas,Bouillac,{},{},{}
+pas,Saint-Martin-de-Sescas,pas,Saint-Maixant,{},{},{},pa,Sainte-Eulalie,{},{'s': 1},{},pas,Saint-Macaire,{},{},{}
+pas,Saint-Pierre-d'Aurillac,pas,Peyrière,{},{},{},pas,Espiens,{},{},{},pas,Sos,{},{},{}
+pas,Verdelais,pas,Le Temple,{},{},{},pa,Grayan-bis,{},{'s': 1},{},pa,Balizac,{},{'s': 1},{}
+pa,Balizac,pas,Saint-Genès-de-Castillon,{'s': 1},{},{},pas,Verdelais,{'s': 1},{},{},pa,Grayan,{},{},{}
+pa,Hostens,pas,Le Verdon-sur-Mer,{'s': 1},{},{},pa,Le Tuzan,{},{},{},pah,Brassac,{'h': 1},{},{}
+pa,Le Tuzan,pa,Hostens,{},{},{},pas,Montardon,{'s': 1},{},{},pas,Louchats,{'s': 1},{},{}
+pas,Louchats,pa,La Brède-bis,{},{'s': 1},{},pas,Origne,{},{},{},pa,Le Tuzan,{},{'s': 1},{}
+pas,Origne,pas,Uchacq,{},{},{},pas,Saint-Léger-de-Balson,{},{},{},pas,Louchats,{},{},{}
+pas,Saint-Léger-de-Balson,pas,Origne,{},{},{},pas,Clermont,{},{},{},pas,Saint-Symphorien-bis,{},{},{}
+pas,Saint-Symphorien-bis,pas,Saint-Léger-de-Balson,{},{},{},pa,Saint-Laurent-des-Combes,{},{'s': 1},{},pas,Montagnac-sur-Auvignon,{},{},{}
+pas,Saint-Symphorien,pas,Saint-Nazaire-de-Valentane,{},{},{},pas,Bourg-de-Visa-bis,{},{},{},pas,Castelnau-sur-Gupie,{},{},{}
+pa,Grayan-bis,pas,Verdelais,{'s': 1},{},{},pa,Grayan,{},{},{},,,,,
+pa,Grayan,pas,Nérac-bis,{'s': 1},{},{},pa,Balizac,{},{},{},pa,Grayan-bis,{},{},{}
+pas,Jau-Dignac-et-Loirac,pas,Lourquen,{},{},{},pas,Le Verdon-sur-Mer,{},{},{},,,,,
+pas,Le Verdon-sur-Mer,pas,Jau-Dignac-et-Loirac,{},{},{},pa,Hostens,{},{'s': 1},{},pas,Saint-Vivien-de-Médoc,{},{},{}
+pas,Saint-Vivien-de-Médoc,pas,Le Verdon-sur-Mer,{},{},{},pas,Montagudet,{},{},{},,,,,
+pas,Soulac-sur-Mer,pah,Miramont-de-Quercy,{},{},"{('s', 'h'): 1}",pas,Mauvezin-sur-Gupie,{},{},{},,,,,
+pas,Talais,pass,Calonges,{'s': 1},{},{},,,,,,,,,,
+pa,Vensac,pas,La Roquille,{'s': 1},{},{},pas,Appelles,{'s': 1},{},{},pas,Lacour,{'s': 1},{},{}
+pas,Appelles,pa,Vensac,{},{'s': 1},{},pas,Caplong,{},{},{},,,,,
+pas,Caplong,pas,Puymiclan,{},{},{},pas,Appelles,{},{},{},,,,,
+pas,Eynesse,pas,Sénestis,{},{},{},pas,La Roquille,{},{},{},,,,,
+pas,La Roquille,pas,Lachapelle,{},{},{},pa,Vensac,{},{'s': 1},{},pas,Eynesse,{},{},{}
+pas,Les Lèves-et-Thoumeyragues,pas,Samazan,{},{},{},pa,Riocaud,{},{'s': 1},{},pas,Ligueux,{},{},{}
+pas,Ligueux,pas,Lagruère,{},{},{},pas,Les Lèves-et-Thoumeyragues,{},{},{},pa,Pineuilh,{},{'s': 1},{}
+pa,Pineuilh,pas,Ligueux,{'s': 1},{},{},,,,,,,,,,
+pa,Riocaud,pas,Les Lèves-et-Thoumeyragues,{'s': 1},{},{},pas,Valence,{'s': 1},{},{},pa,Saint-Avit-de-Soulège,{},{},{}
+pa,Saint-Avit-de-Soulège,pas,Saint-Beauzeil,{'s': 1},{},{},pa,Riocaud,{},{},{},,,,,
+pas,Saint-Avit-Saint-Nazaire,pas,Monsempron-Libos,{},{},{},pas,La Boissière-d'Ans,{},{},{},pas,Agen,{},{},{}
+pas,Saint-Quentin-de-Caplong,pa,Hourtin,{},{'s': 1},{},pas,Le Passage,{},{},{},pàs,Limeyrat,{},{},"{('a', 'à'): 1}"
+pas,Sainte-Foy-la-Grande-bis,pa,Auros,{},{'s': 1},{},pas,Sainte-Orse,{},{},{},pa,Sainte-Foy-la-Grande-ter,{},{'s': 1},{}
+pa,Sainte-Foy-la-Grande-ter,pas,Moulis-en-Médoc-bis,{'s': 1},{},{},pas,Sainte-Foy-la-Grande-bis,{'s': 1},{},{},pas,Laplume-bis,{'s': 1},{},{}
+pas,Sainte-Foy-la-Grande,pas,Blasimon,{},{},{},,,,,,,,,,
+pas,Blasimon,pas,Sainte-Foy-la-Grande,{},{},{},pa,Castelviel,{},{'s': 1},{},,,,,
+pa,Castelviel,pas,Caudecoste,{'s': 1},{},{},pas,Blasimon,{'s': 1},{},{},,,,,
+pas,Cleyrac,pas,Belvès-bis,{},{},{},,,,,,,,,,
+pas,Coirac,pas,Sauveterre-Saint-Denis,{},{},{},pas,Cancon-bis,{},{},{},pas,Engayrac,{},{},{}
+pas,Gornac,pas,Moulis-en-Médoc,{},{},{},,,,,,,,,,
+pa,Mérignas,pas,Saint-Sulpice-de-Pommiers,{'s': 1},{},{},pas,Blanquefort-sur-Briolance-La-Sauvetat,{'s': 1},{},{},pad,Ligueux,{'d': 1},{},{}
+pas,Mourens,pas,Ruch,{},{},{},pas,Belvès-ter,{},{},{},,,,,
+pas,Ruch,pas,Négrondes,{},{},{},pas,Mourens,{},{},{},pas,Saint-Brice,{},{},{}
+pas,Saint-Brice,pas,Ferrensac,{},{},{},pas,Le Parnet,{},{},{},pas,Ruch,{},{},{}
+pas,Saint-Félix-de-Foncaude,pas,Trémons,{},{},{},pas,Fumel-bis,{},{},{},,,,,
+pas,Saint-Léger-de-Vignague,pas,Saint-Nicolas-de-la-Balerme,{},{},{},pas,Saint-Sulpice-de-Pommiers,{},{},{},pas,Blanquefort-sur-Briolance,{},{},{}
+pas,Saint-Sulpice-de-Pommiers,pas,Saint-Léger-de-Vignague,{},{},{},pa,Mérignas,{},{'s': 1},{},pas,Sauveterre-de-Guyenne-bis,{},{},{}
+pas,Sauveterre-de-Guyenne-bis,pas,Saint-Sulpice-de-Pommiers,{},{},{},,,,,,,,,,
+pas,Sauveterre-de-Guyenne-ter,pas,Fouleix,{},{},{},pa,Arbis,{},{'s': 1},{},pas,Fongalop,{},{},{}
+pas,Sauveterre-de-Guyenne,pas,Castang,{},{},{},pas,Escoussans,{},{},{},,,,,
+pa,Arbis,pas,Sauveterre-de-Guyenne-ter,{'s': 1},{},{},pas,Saint-Michel-de-Villadeix,{'s': 1},{},{},pas,Baigneaux,{'s': 1},{},{}
+pas,Baigneaux,pas,Roquefort,{},{},{},pas,Bonnenouvelle,{},{},{},pa,Arbis,{},{'s': 1},{}
+pas,Escoussans,pas,Sauveterre-de-Guyenne,{},{},{},pas,La Croix-Blanche,{},{},{},pas,Vergt,{},{},{}
+pas,Faleyras,pas,Montastruc,{},{},{},pas,La Sauvetat-de-Savères,{},{},{},pa,Frontenac,{},{'s': 1},{}
+pa,Frontenac,pas,Saint-Martin-de-Beauville,{'s': 1},{},{},pa,Romagne,{},{},{},pas,Faleyras,{'s': 1},{},{}
+pas,Ladaux,pas,Lugasson,{},{},{},pas,Soulignac,{},{},{},,,,,
+pas,Lugasson,pas,Saint-Léon-sur-Vézère,{},{},{},pas,Ladaux,{},{},{},pa,Romagne,{},{'s': 1},{}
+pa,Romagne,pa,Frontenac,{},{},{},pas,Tayrac,{'s': 1},{},{},pas,Lugasson,{'s': 1},{},{}
+pa,Saint-Pierre-de-Bat,pas,Monclar-bis,{'s': 1},{},{},pas,Carlux,{'s': 1},{},{},pas,Sérignac-sur-Garonne,{'s': 1},{},{}
+pas,Soulignac,pas,Ladaux,{},{},{},pas,Monclar,{},{},{},pas,Saint-Étienne-de-Fougères,{},{},{}
+pas,Targon-bis,pas,Puygaillard-de-Lomagne,{},{},{},pas,La Sauvetat-sur-Lède,{},{},{},pas,Lacapelle-Biron,{},{},{}
+pas,Targon,pas,Pailloles,{},{},{},pas,Cazalis,{},{},{},,,,,
+pas,Cazalis,pas,Laussou,{},{},{},pas,Sainte-Hélène,{},{},{},pas,Targon,{},{},{}
+pa,Lucmau,pas,Gardegan,{'s': 1},{},{},pa,Gours,{},{},{},,,,,
+pas,Noaillan,pas,Domme-bis,{},{},{},pa,Préchac-bis,{},{'s': 1},{},,,,,
+pa,Préchac-bis,pas,Noaillan,{'s': 1},{},{},pah,Florimont-Gaumier,{'h': 1},{},{},pa,Francs,{},{},{}
+pas,Préchac,pas,Puynormand,{},{},{},pas,Cabanac-et-Villagrains,{},{},{},pas,Uzeste,{},{},{}
+pas,Uzeste,pas,Préchac,{},{},{},pas,Saint-Germain-du-Puch,{},{},{},pa,Villandraut-bis,{},{'s': 1},{}
+pa,Villandraut-bis,pas,Uzeste,{'s': 1},{},{},pas,Gardegan,{'s': 1},{},{},pa,Saint-Christophe-des-Bardes,{},{},{}
+pas,Villandraut,pa,Francs,{},{'s': 1},{},pas,Duhort-Bachen,{},{},{},pa,Puisseguin,{},{'s': 1},{}
+pa,Francs,pa,Préchac-bis,{},{},{},pas,Villandraut,{'s': 1},{},{},pa,Gours,{},{},{}
+pa,Gours,pa,Saint-Christophe-des-Bardes,{},{},{},pa,Lucmau,{},{},{},pa,Francs,{},{},{}
+pa,Puisseguin,pas,Castillon-la-Bataille,{'s': 1},{},{},pas,Puynormand,{'s': 1},{},{},pas,Villandraut,{'s': 1},{},{}
+pas,Puynormand,pa,Puisseguin,{},{'s': 1},{},pas,Préchac,{},{},{},pa,Saint-Christophe-des-Bardes,{},{'s': 1},{}
+pa,Saint-Christophe-des-Bardes,pa,Villandraut-bis,{},{},{},pa,Gours,{},{},{},pas,Puynormand,{'s': 1},{},{}
+pas,Aire-sur-l'Adour,pa,Saint-Laurent-des-Combes,{},{'s': 1},{},pa,Buanes,{},{'s': 1},{},pas,Montagnac-sur-Lède,{},{},{}
+pa,Bahus-Soubiran,pas,Bourg-bis,{'s': 1},{},{},pa,Classun,{},{},{},pa,Buanes,{},{},{}
+pa,Buanes,pas,Aire-sur-l'Adour,{'s': 1},{},{},pa,Gamarde-les-Bains,{},{},{},pa,Bahus-Soubiran,{},{},{}
+pa,Classun,pa,Bahus-Soubiran,{},{},{},pas,Castillon-la-Bataille,{'s': 1},{},{},pas,Duhort-Bachen,{'s': 1},{},{}
+pas,Duhort-Bachen,pas,Villandraut,{},{},{},pas,Monségur,{},{},{},pa,Classun,{},{'s': 1},{}
+pa,Eugénie-les-Bains,pas,Auradou,{'s': 1},{},{},pa,Saint-Philippe-d'Aiguille,{},{},{},pas,Millac,{'s': 1},{},{}
+pas,Latrille,pas,Maillères,{},{},{},pas,Lussagnet,{},{},{},pas,Domme,{},{},{}
+pas,Renung,pas,Prignac-et-Marcamps,{},{},{},pas,Saint-Agnet,{},{},{},pas,Saint-Loubouer,{},{},{}
+pas,Saint-Agnet,pas,Renung,{},{},{},pas,Saint-Antoine-sur-l'Isle,{},{},{},pas,Sarron,{},{},{}
+pas,Saint-Loubouer,pas,Sarron,{},{},{},pas,Lansac,{},{},{},pas,Renung,{},{},{}
+pas,Sarron,pas,Bonnetan,{},{},{},pas,Saint-Loubouer,{},{},{},pas,Saint-Agnet,{},{},{}
+pa,Vielle-Tursan,pas,Cambes,{'s': 1},{},{},pas,Amou-bis,{'s': 1},{},{},pas,Amou,{'s': 1},{},{}
+pas,Amou-bis,pa,Vielle-Tursan,{},{'s': 1},{},pas,Groléjac,{},{},{},,,,,
+pas,Amou,pa,Argagnon,{},{'s': 1},{},pa,Carignan-de-Bordeaux,{},{'s': 1},{},pa,Vielle-Tursan,{},{'s': 1},{}
+pa,Bassercles,pas,Cénac,{'s': 1},{},{},pas,Bonnegarde,{'s': 1},{},{},pas,Tartas-bis,{'s': 1},{},{}
+pas,Bonnegarde,pas,Branne-bis,{},{},{},pas,Brassempouy,{},{},{},pa,Bassercles,{},{'s': 1},{}
+pas,Brassempouy,pas,Bonnegarde,{},{},{},pa,Créon,{},{'s': 1},{},pa,Souprosse,{},{'s': 1},{}
+pa,Castaignos-Souslens,pas,Trentels,{'s': 1},{},{},pas,Montignac,{'s': 1},{},{},,,,,
+pas,Castel-Sarrazin,pa,Latresne,{},{'s': 1},{},pas,Port-Sainte-Marie,{},{},{},,,,,
+pas,Castelnau-Chalosse,pa,Casteide-Doat,{},{'s': 1},{},pas,Haux,{},{},{},pas,Pazayac,{},{},{}
+pa,Donzacq,pa,Latresne,{},{},{},pas,Marpaps,{'s': 1},{},{},pa,Gaujacq,{},{},{}
+pa,Gaujacq,pa,Laglorieuse,{},{},{},pas,Campet,{'s': 1},{},{},pa,Donzacq,{},{},{}
+pas,Marpaps,pa,Donzacq,{},{'s': 1},{},pas,Sarlat,{},{},{},,,,,
+pas,Nassiet,pa,Eyvirat,{},{'s': 1},{},pas,Allez-et-Cazeneuve,{},{},{},pas,Saint-Hilaire-de-Lusignan,{},{},{}
+pas,Pomarez,pas,Astaffort-bis,{},{},{},pas,Castets,{},{},{},,,,,
+pas,Castets,pas,Pomarez,{},{},{},pas,Prats-du-Périgord,{},{},{},,,,,
+pa,Léon,pas,Bourlens,{'s': 1},{},{},,,,,,,,,,
+pas,Lévignacq,pas,Lisle,{},{},{},pas,Sainte-Livrade-sur-Lot-bis,{},{},{},,,,,
+pas,Linxe,pas,Cabara-bis,{},{},{},pas,Bergerac-bis,{},{},{},pas,Lit-et-Mixe,{},{},{}
+pas,Lit-et-Mixe,pas,Saint-Michel-Escalus,{},{},{},pas,Linxe,{},{},{},pas,Bergerac,{},{},{}
+pas,Saint-Julien-en-Born,pas,Taller,{},{},{},pas,Savignac-de-Duras,{},{},{},pas,Saint-Michel-Escalus,{},{},{}
+pas,Saint-Michel-Escalus,pas,Saint-Julien-en-Born,{},{},{},pas,Lit-et-Mixe,{},{},{},pas,Vielle-Saint-Girons,{},{},{}
+pas,Taller,pas,Ambarès-et-Lagrave,{},{},{},pas,Saint-Julien-en-Born,{},{},{},pas,Uza,{},{},{}
+pas,Uza,pas,Vielle-Saint-Girons,{},{},{},pas,Quinsac,{},{},{},pas,Taller,{},{},{}
+pas,Vielle-Saint-Girons,pas,Lembras,{},{},{},pas,Uza,{},{},{},pas,Saint-Michel-Escalus,{},{},{}
+pas,Bénesse-lès-Dax,pa,Saint-Caprais-de-Bordeaux,{},{'s': 1},{},päs,Dax-Saint-Vincent,{},{},"{('a', 'ä'): 1}",pas,Sainte-Croix,{},{},{}
+pas,Candresse,pas,Orion,{},{},{},pas,Sainte-Sabine-Born,{},{},{},päs,Dax-Saint-Vincent,{},{},"{('a', 'ä'): 1}"
+päs,Dax-Saint-Vincent,pas,Cabara-bis,{},{},"{('ä', 'a'): 1}",pas,Candresse,{},{},"{('ä', 'a'): 1}",pas,Bénesse-lès-Dax,{},{},"{('ä', 'a'): 1}"
+pas,Dax,pas,Saint-Antoine-de-Ficalba,{},{},{},pas,Saint-Nexans,{},{},{},pa,Herm,{},{'s': 1},{}
+pa,Herm,pas,Heugas,{'s': 1},{},{},pas,Rayet,{'s': 1},{},{},pas,Dax,{'s': 1},{},{}
+pas,Heugas,pas,Sembas,{},{},{},pa,Herm,{},{'s': 1},{},pas,Bosset,{},{},{}
+pas,Mées,pas,Narrosse,{},{},{},pas,Fronsac-bis,{},{},{},pa,Oeyreluy,{},{'s': 1},{}
+pas,Narrosse,pas,Tabanac,{},{},{},pas,Mées,{},{},{},pa,Oeyreluy,{},{'s': 1},{}
+pa,Oeyreluy,pas,Mées,{'s': 1},{},{},paï,La Force-bis,{'ï': 1},{},{},pas,Narrosse,{'s': 1},{},{}
+pas,Rivière-Saas-et-Gourby,pas,Bourg,{},{},{},pas,Sablar,{},{},{},pas,Saint-Pandelon,{},{},{}
+pas,Sablar,pas,Rivière-Saas-et-Gourby,{},{},{},pa,Coudures,{},{'s': 1},{},,,,,
+pas,Saint-Pandelon,pas,Doudrac,{},{},{},pas,Saint-Seurin-de-Bourg,{},{},{},pas,Rivière-Saas-et-Gourby,{},{},{}
+pa,Saint-Paul-lès-Dax,pa,Saillans,{},{},{},pas,Saint-Germain,{'s': 1},{},{},pos,Saint-Géry,{'o': 1},{},"{('a', 's'): 1}"
+pa,Saint-Vincent-de-Paul,pa,Saugnac-et-Cambran,{},{},{},pa,Saint-Germain-de-la-Rivière,{},{},{},pas,Herré,{'s': 1},{},{}
+pas,Saubusse,pas,Gabarret,{},{},{},pa,Bagas,{},{'s': 1},{},pas,Siest,{},{},{}
+pa,Saugnac-et-Cambran,pas,Martillac,{'s': 1},{},{},pa,Saint-Vincent-de-Paul,{},{},{},pas,Siest,{'s': 1},{},{}
+pas,Siest,pa,Blaignac,{},{'s': 1},{},pa,Saugnac-et-Cambran,{},{'s': 1},{},pas,Saubusse,{},{},{}
+pa,Tercis-les-Bains,pas,Grignols-bis,{'s': 1},{},{},pas,Cuqueron,{'s': 1},{},{},pa,Créon-d'Armagnac,{},{},{}
+pas,Téthieu,pas,Abos,{},{},{},pa,Saint-Julien-d'Armagnac,{},{'s': 1},{},pas,Betbezer-d'Armagnac,{},{},{}
+pas,Yzosse,pas,Arx,{},{},{},pas,Grignols,{},{},{},pa,Créon-d'Armagnac,{},{'s': 1},{}
+pas,Arx,pas,Baudignan,{},{},{},pa,Lavazan,{},{'s': 1},{},pas,Yzosse,{},{},{}
+pas,Baudignan,pas,Sainte-Meille,{},{},{},pas,Arx,{},{},{},pas,Betbezer-d'Armagnac,{},{},{}
+pas,Betbezer-d'Armagnac,pas,Téthieu,{},{},{},pas,Baudignan,{},{},{},pa,Créon-d'Armagnac,{},{'s': 1},{}
+pa,Créon-d'Armagnac,pas,Yzosse,{'s': 1},{},{},pa,Tercis-les-Bains,{},{},{},pas,Betbezer-d'Armagnac,{'s': 1},{},{}
+pa,Estigarde,pa,Bagas,{},{},{},pas,Gabarret,{'s': 1},{},{},pas,Borce,{'s': 1},{},{}
+pas,Gabarret,pa,Estigarde,{},{'s': 1},{},pas,Saubusse,{},{},{},pas,Herré,{},{},{}
+pas,Herré,pa,Saint-Vincent-de-Paul,{},{'s': 1},{},pah,Lagrange,{},{},"{('s', 'h'): 1}",pas,Gabarret,{},{},{}
+pah,Lagrange,pas,Cours-les-Bains,{},{},"{('h', 's'): 1}",pas,Escot,{},{},"{('h', 's'): 1}",pas,Herré,{},{},"{('h', 's'): 1}"
+pas,Losse,pas,Etsaut,{},{},{},pas,Génissac,{},{},{},pas,Arette,{},{},{}
+pas,Mauvezin-d'Armagnac,pas,Castet,{},{},{},pas,Bidache,{},{},{},pa,Nerbis,{},{'s': 1},{}
+pas,Parleboscq,pas,Buziet,{},{},{},pas,Cardesse,{},{},{},,,,,
+pas,Rimbez-et-Baudiets,pa,Saint-Julien-d'Armagnac,{},{'s': 1},{},pa,Bordères,{},{'s': 1},{},pa,Castelnau-Tursan,{},{'s': 1},{}
+pa,Saint-Julien-d'Armagnac,pas,Téthieu,{'s': 1},{},{},pas,Rimbez-et-Baudiets,{'s': 1},{},{},pas,Sainte-Meille,{'s': 1},{},{}
+pas,Sainte-Meille,pas,Geüs-d'Oloron,{},{},{},pas,Baudignan,{},{},{},pa,Saint-Julien-d'Armagnac,{},{'s': 1},{}
+pas,Arboucave,pas,Lauret,{},{},{},pas,Bats,{},{},{},pa,Lacajunte,{},{'s': 1},{}
+pas,Bats,pas,Arboucave,{},{},{},pas,Géronce,{},{},{},pa,Castelnau-Tursan,{},{'s': 1},{}
+pa,Castelnau-Tursan,pas,Rimbez-et-Baudiets,{'s': 1},{},{},pas,Bats,{'s': 1},{},{},,,,,
+pas,Geaune-bis,pa,Geaune,{},{'s': 1},{},pas,Escou,{},{},{},,,,,
+pa,Geaune,pas,Geaune-bis,{'s': 1},{},{},pa,Lacajunte,{},{},{},,,,,
+pa,Lacajunte,pas,Escout,{'s': 1},{},{},pas,Arboucave,{'s': 1},{},{},pa,Geaune,{},{},{}
+pas,Lauret,pas,Asasp-Arros-bis,{},{},{},pas,Arboucave,{},{},{},pa,Mauries,{},{'s': 1},{}
+pa,Mauries,pas,Eysus,{'s': 1},{},{},pas,Miramont-Sensacq,{'s': 1},{},{},pas,Lauret,{'s': 1},{},{}
+pas,Miramont-Sensacq,pa,Mauries,{},{'s': 1},{},pas,Goès,{},{},{},pas,Asasp-Arros,{},{},{}
+pas,Philondenx,pas,Saint-Médard,{},{},{},pas,Bassussarry,{},{},{},,,,,
+pas,Pimbo,pas,Bergouey,{},{},{},pas,Oeyregave,{},{},{},,,,,
+pas,Puyol-Cazalet,pas,Casseuil,{},{},{},pas,Saint-Pierre-d'Irube,{},{},{},,,,,
+pas,Samadet,pas,Gaillan-en-Médoc,{},{},{},pas,Sorbets,{},{},{},pas,Estialescq,{},{},{}
+pas,Sorbets,pas,Samadet,{},{},{},pa,Civrac,{},{'s': 1},{},pa,Artassenx,{},{'s': 1},{}
+pas,Urgons,pa,Artassenx,{},{'s': 1},{},pas,Ordonnac,{},{},{},pas,Lasseube,{},{},{}
+pa,Artassenx,pas,Saint-Germain-d'Esteuil,{'s': 1},{},{},pas,Urgons,{'s': 1},{},{},pas,Sorbets,{'s': 1},{},{}
+pas,Bascons,pas,Moulon,{},{},{},pas,Caubios-Loos,{},{},{},pas,Lahourcade,{},{},{}
+pa,Benquet,pas,Ogeu-les-Bains,{'s': 1},{},{},pas,Lasseubetat,{'s': 1},{},{},,,,,
+pa,Bordères,pas,Rimbez-et-Baudiets,{'s': 1},{},{},pas,Lucq-de-Béarn,{'s': 1},{},{},pas,Notre-Dame,{'s': 1},{},{}
+pa,Castandet,pa,Cazères-sur-l'Adour,{},{},{},pas,Cours-les-Bains,{'s': 1},{},{},pas,Grenade-sur-l'Adour,{'s': 1},{},{}
+pa,Cazères-sur-l'Adour,pas,Naujan-et-Postiac,{'s': 1},{},{},pa,Castandet,{},{},{},pa,Grenade-sur-l'Adour-bis,{},{},{}
+pa,Grenade-sur-l'Adour-bis,pas,Morganx,{'s': 1},{},{},pa,Cazères-sur-l'Adour,{},{},{},,,,,
+pas,Grenade-sur-l'Adour,pa,Castandet,{},{'s': 1},{},pas,Baliracq-Maumusson,{},{},{},pas,Urt,{},{},{}
+pas,Le Vignau,pas,Lussagnet,{},{},{},pas,Arrosès,{},{},{},,,,,
+pas,Lussagnet,pas,Latrille,{},{},{},pas,Le Vignau,{},{},{},pas,Maurrin,{},{},{}
+pas,Maurrin,pas,Portet,{},{},{},pas,Lussagnet,{},{},{},,,,,
+pas,Aubagnan,pa,Cazalis,{},{'s': 1},{},pas,Notre-Dame-bis,{},{},{},pa,Castelner,{},{'s': 1},{}
+pa,Castelner,pa,Lespielle,{},{},{},pas,Cadillon,{'s': 1},{},{},pas,Aubagnan,{'s': 1},{},{}
+pa,Cazalis,pas,Aubagnan,{'s': 1},{},{},pay,Lalongue,{'y': 1},{},{},,,,,
+pas,Hagetmau-bis,pa,Labastide-Chalosse,{},{'s': 1},{},pas,Aussevielle,{},{},{},pas,Séméacq-Blachon,{},{},{}
+pas,Hagetmau,pa,Horsarrieu,{},{'s': 1},{},pa,Peyre,{},{'s': 1},{},,,,,
+pa,Horsarrieu,pas,Bougarber,{'s': 1},{},{},pas,Moulon,{'s': 1},{},{},pas,Hagetmau,{'s': 1},{},{}
+pa,Labastide-Chalosse,pas,Momuy,{'s': 1},{},{},pas,Hagetmau-bis,{'s': 1},{},{},,,,,
+pas,Lacrabe,pa,Monségur,{},{'s': 1},{},,,,,,,,,,
+pas,Mant,pa,Artiguelouve,{},{'s': 1},{},pas,Momuy,{},{},{},pas,Morganx,{},{},{}
+pas,Momuy,pas,Mant,{},{},{},pa,Labastide-Chalosse,{},{'s': 1},{},pa,Monségur,{},{'s': 1},{}
+pa,Monségur,pas,Lacrabe,{'s': 1},{},{},pa,Peyre,{},{},{},pas,Momuy,{'s': 1},{},{}
+pas,Morganx,pa,Peyre,{},{'s': 1},{},pa,Grenade-sur-l'Adour-bis,{},{'s': 1},{},pas,Mant,{},{},{}
+pa,Peyre,pas,Hagetmau,{'s': 1},{},{},pas,Morganx,{'s': 1},{},{},pa,Monségur,{},{},{}
+pa,Poudenx,pas,Nérigean,{'s': 1},{},{},pas,Saint-Cricq-Chalosse,{'s': 1},{},{},,,,,
+pas,Saint-Cricq-Chalosse,pa,Poudenx,{},{'s': 1},{},pas,Nérigean,{},{},{},pas,Sainte-Colombe,{},{},{}
+pas,Sainte-Colombe,pas,Saint-Cricq-Chalosse,{},{},{},pa,Queyrac,{},{'s': 1},{},,,,,
+pa,Serres-Gaston,pas,Ordonnac,{'s': 1},{},{},pa,Serreslous-et-Arribans,{},{},{},pa,Mézos,{},{},{}
+pa,Serreslous-et-Arribans,pa,Serres-Gaston,{},{},{},pas,Saint-Germain-d'Esteuil,{'s': 1},{},{},pa,Bélis,{},{},{}
+pa,Bélis,pas,Momas,{'s': 1},{},{},pa,Aureilhan,{},{},{},pa,Serreslous-et-Arribans,{},{},{}
+pas,Brocas,pa,Civrac,{},{'s': 1},{},pa,Garein,{},{'s': 1},{},pa,Canenx-et-Réaut,{},{'s': 1},{}
+pa,Canenx-et-Réaut,pas,Saint-Germain-d'Esteuil,{'s': 1},{},{},pas,Brocas,{'s': 1},{},{},pa,Cère,{},{},{}
+pa,Cère,pa,Labrit,{},{},{},pas,Saint-Seurin-de-Cadourne,{'s': 1},{},{},pa,Canenx-et-Réaut,{},{},{}
+pa,Garein,päy,Coslédaà-Lube-Boast,{'ä': 1},{},"{('a', 'y'): 1}",pa,Labrit,{},{},{},pas,Brocas,{'s': 1},{},{}
+pa,Labrit,pa,Garein,{},{},{},pas,Lesparre-Médoc,{'s': 1},{},{},pa,Cère,{},{},{}
+pas,Maillères,pas,Latrille,{},{},{},,,,,,,,,,
+pa,Vert,pa,Sauvagnon,{},{},{},,,,,,,,,,
+pa,Aureilhan,pa,Bélis,{},{},{},pa,Mézos,{},{},{},,,,,
+pa,Mézos,pa,Serres-Gaston,{},{},{},pa,Aureilhan,{},{},{},,,,,
+pas,Mimizan-bis,pa,Mazerolles,{},{'s': 1},{},pas,Pontenx-les-Forges,{},{},{},pas,Mimizan,{},{},{}
+pas,Mimizan,pa,Beautiran,{},{'s': 1},{},pas,Mimizan-bis,{},{},{},,,,,
+pas,Pontenx-les-Forges,pas,Mimizan-bis,{},{},{},pa,Saint-Paul-en-Born,{},{'s': 1},{},,,,,
+pa,Saint-Paul-en-Born,pas,Pontenx-les-Forges,{'s': 1},{},{},pas,Uzein,{'s': 1},{},{},,,,,
+pa,Bostens,,,,,,,,,,,,,,,
+pa,Bretagne-de-Marsan,pas,Sedze-Maubecq,{'s': 1},{},{},pas,Préchacq-les-Bains,{'s': 1},{},{},pas,Campagne,{'s': 1},{},{}
+pas,Campagne,pa,Bretagne-de-Marsan,{},{'s': 1},{},pa,Latresne,{},{'s': 1},{},pas,Campet,{},{},{}
+pas,Campet,pa,Gaujacq,{},{'s': 1},{},pas,Gaillères,{},{},{},pas,Campagne,{},{},{}
+pas,Gaillères,pas,Campet,{},{},{},pas,Haut-Mauco,{},{},{},pas,Abère,{},{},{}
+pa,Geloux,pas,Haux,{'s': 1},{},{},pas,Ponson-Debat-Pouts,{'s': 1},{},{},pas,Tamniès,{'s': 1},{},{}
+pas,Haut-Mauco,pas,Gaillères,{},{},{},pa,Laglorieuse,{},{'s': 1},{},paz,Montaner,{},{},"{('s', 'z'): 1}"
+pa,Laglorieuse,pas,Haut-Mauco,{'s': 1},{},{},pa,Gaujacq,{},{},{},pas,Vézac,{'s': 1},{},{}
+pa,Lucbardez-et-Bargues,pa,Montaner-bis,{},{},{},pas,Pontiacq-Viellepinte,{'s': 1},{},{},,,,,
+pa,Mazerolles,pas,Mimizan-bis,{'s': 1},{},{},pa,Montfort-en-Chalosse-bis,{},{},{},,,,,
+pas,Mont-de-Marsan-bis,pa,Montfort-en-Chalosse,{},{'s': 1},{},pa,Saint-Yzans-de-Médoc,{},{'s': 1},{},,,,,
+pas,Mont-de-Marsan,pas,Saint-Avit,{},{},{},pas,Goos,{},{},{},pas,Saint-Pierre-du-Mont,{},{},{}
+pas,Saint-Avit,pa,Valeyrac,{},{'s': 1},{},pas,Mont-de-Marsan,{},{},{},pas,Saint-Martin-d'Oney,{},{},{}
+pas,Saint-Martin-d'Oney,pa,Saint-Perdon,{},{'s': 1},{},pa,Beautiran,{},{'s': 1},{},pas,Saint-Avit,{},{},{}
+pa,Saint-Perdon,pas,Escoubès,{'s': 1},{},{},pas,Saint-Martin-d'Oney,{'s': 1},{},{},pas,Saint-Pierre-du-Mont,{'s': 1},{},{}
+pas,Saint-Pierre-du-Mont,pas,Mont-de-Marsan,{},{},{},pa,Cadaujac,{},{'s': 1},{},pa,Saint-Perdon,{},{'s': 1},{}
+pas,Uchacq,pas,Clermont,{},{},{},pas,Origne,{},{},{},pas,Bernadets,{},{},{}
+pas,Cassen,pas,Barinque,{},{},{},pa,Cadaujac,{},{'s': 1},{},pa,Garrey,{},{'s': 1},{}
+pas,Clermont,pas,Saint-Léger-de-Balson,{},{},{},pas,Uchacq,{},{},{},pa,Gamarde-les-Bains,{},{'s': 1},{}
+pa,Gamarde-les-Bains,pa,Buanes,{},{},{},pas,Clermont,{'s': 1},{},{},pa,Garrey,{},{},{}
+pa,Garrey,pas,Castres-Gironde,{'s': 1},{},{},pa,Gamarde-les-Bains,{},{},{},pas,Cassen,{'s': 1},{},{}
+pas,Goos,pas,Mont-de-Marsan,{},{},{},pa,Hinx,{},{'s': 1},{},pa,Gousse,{},{'s': 1},{}
+pa,Gousse,pa,Cadaujac,{},{},{},pas,Goos,{'s': 1},{},{},pas,Louer,{'s': 1},{},{}
+pa,Hinx,pas,Goos,{'s': 1},{},{},pa,Queyrac,{},{},{},pas,Laurède,{'s': 1},{},{}
+pas,Laurède,pas,Saint-Germain-du-Puch,{},{},{},pas,Louer,{},{},{},pa,Hinx,{},{'s': 1},{}
+pas,Louer,pas,Laurède,{},{},{},pas,Cabanac-et-Villagrains,{},{},{},pa,Gousse,{},{'s': 1},{}
+pas,Lourquen,pas,Jau-Dignac-et-Loirac,{},{},{},pas,Morlaàs,{},{},{},pas,Morlaàs-bis,{},{},{}
+pa,Montfort-en-Chalosse-bis,pa,Mazerolles,{},{},{},pas,Buros,{'s': 1},{},{},pa,Montfort-en-Chalosse,{},{},{}
+pa,Montfort-en-Chalosse,pas,Espéchède,{'s': 1},{},{},pas,Mont-de-Marsan-bis,{'s': 1},{},{},pa,Montfort-en-Chalosse-bis,{},{},{}
+pas,Nousse,pa,Isle-Saint-Georges,{},{'s': 1},{},pas,Onard,{},{},{},,,,,
+pas,Onard,pa,La Brède-bis,{},{'s': 1},{},pas,Lombia,{},{},{},pas,Nousse,{},{},{}
+pa,Ozourt,pa,Isle-Saint-Georges,{},{},{},pas,Gabaston,{'s': 1},{},{},pas,Poyanne,{'s': 1},{},{}
+pas,Poyanne,pa,La Brède-bis,{},{'s': 1},{},pa,Ozourt,{},{'s': 1},{},,,,,
+pa,Poyartin,pa,Saint-Geours-d'Auribat,{},{},{},pas,Saint-Crépin-et-Carlucet-bis,{'s': 1},{},{},,,,,
+pas,Préchacq-les-Bains,pa,Bretagne-de-Marsan,{},{'s': 1},{},pas,Salignac,{},{},{},,,,,
+pa,Saint-Geours-d'Auribat,pa,Poyartin,{},{},{},,,,,,,,,,
+pas,Saint-Jean-de-Lier,pas,Ouillon,{},{},{},pas,Saint-Armou,{},{},{},,,,,
+pas,Sort-en-Chalosse,pa,Vicq-d'Auribat,{},{'s': 1},{},,,,,,,,,,
+pa,Vicq-d'Auribat,pas,Saubole,{'s': 1},{},{},pas,Sort-en-Chalosse,{'s': 1},{},{},,,,,
+pas,Arengosse,pa,Arjuzanx,{},{'s': 1},{},pas,Saint-Quentin-de-Baron,{},{},{},pa,Angaïs,{},{'s': 1},{}
+pa,Arjuzanx,pa,Garrosse,{},{},{},pa,Tizac-de-Curton,{},{},{},pas,Arengosse,{'s': 1},{},{}
+pa,Garrosse,pas,Morcenx-bourg,{'s': 1},{},{},pa,Arjuzanx,{},{},{},,,,,
+pas,Lesperon,pas,Morcenx,{},{},{},pas,Morcenx-bourg,{},{},{},pas,Nay-bis,{},{},{}
+pas,Morcenx-bourg,pas,Lesperon,{},{},{},pa,Garrosse,{},{'s': 1},{},,,,,
+pa,Morcenx-gare,pas,Montaut,{'s': 1},{},{},,,,,,,,,,
+pas,Morcenx,pas,Lesperon,{},{},{},,,,,,,,,,
+pas,Onesse-Laharie,pa,Sindères,{},{'s': 1},{},pas,Camiran-bis,{},{},{},pas,Asson,{},{},{}
+pas,Ousse-Suzan,pas,La Brède,{},{},{},pa,Sindères,{},{'s': 1},{},,,,,
+pa,Sindères,pas,Ousse-Suzan,{'s': 1},{},{},pas,Capian,{'s': 1},{},{},pas,Onesse-Laharie,{'s': 1},{},{}
+pa,Ygos-Saint-Saturnin,pas,Camiran-bis,{'s': 1},{},{},pa,Baigts,{},{},{},,,,,
+pa,Baigts,pa,Ygos-Saint-Saturnin,{},{},{},pas,Camiran,{'s': 1},{},{},pas,Rébénacq,{'s': 1},{},{}
+pas,Bergouey,pas,Sainte-Colome,{},{},{},pas,Baliros,{},{},{},,,,,
+pa,Caupenne,pa,Saint-Aubin,{},{},{},pas,Hauriet,{'s': 1},{},{},pas,Gelos,{'s': 1},{},{}
+pa,Doazit,pas,Fontet,{'s': 1},{},{},pas,Toulouzette,{'s': 1},{},{},pas,Pau-Ouest-bis,{'s': 1},{},{}
+pas,Hauriet,pa,Caupenne,{},{'s': 1},{},pa,Lahosse,{},{'s': 1},{},paï,Jurançon,{},{},"{('s', 'ï'): 1}"
+pa,Lahosse,pas,Larbey,{'s': 1},{},{},pas,Hauriet,{'s': 1},{},{},,,,,
+pas,Larbey,pa,Lahosse,{},{'s': 1},{},pas,Bourdettes,{},{},{},pas,Maylis,{},{},{}
+pas,Maylis,pas,Haut-de-Bosdarros,{},{},{},pas,Larbey,{},{},{},,,,,
+pas,Mugron-bis,pa,Nerbis,{},{'s': 1},{},pas,Came,{},{},{},pas,Saint-Faust,{},{},{}
+pas,Mugron,pas,Narcastet,{},{},{},pas,Buzy,{},{},{},pa,Nerbis,{},{'s': 1},{}
+pa,Nerbis,pas,Mauvezin-d'Armagnac,{'s': 1},{},{},pas,Mugron-bis,{'s': 1},{},{},pas,Mugron,{'s': 1},{},{}
+pa,Saint-Aubin,pa,Caupenne,{},{},{},pas,Toulouzette,{'s': 1},{},{},,,,,
+pas,Toulouzette,pa,Doazit,{},{'s': 1},{},pa,Biscarosse-bis,{},{'s': 1},{},pa,Saint-Aubin,{},{'s': 1},{}
+pa,Biscarosse-bis,pas,Fontet,{'s': 1},{},{},pas,Toulouzette,{'s': 1},{},{},,,,,
+pa,Biscarosse,pay,Doumy,{'y': 1},{},{},pas,Gastes,{'s': 1},{},{},,,,,
+pas,Gastes,pas̈,Pontacq,{'̈': 1},{},{},pa,Biscarosse,{},{'s': 1},{},,,,,
+pas,Parentis-en-Born,pah,Misson,{},{},"{('s', 'h'): 1}",pas,Sainte-Eulalie-en-Born,{},{},{},,,,,
+pas,Sainte-Eulalie-en-Born,pas,Parentis-en-Born,{},{},{},pa,Bélus,{},{'s': 1},{},,,,,
+pa,Sanguinet,pas,Ychoux,{'s': 1},{},{},pas,Nay,{'s': 1},{},{},,,,,
+pas,Ychoux,pa,Blanquefort,{},{'s': 1},{},pa,Sanguinet,{},{'s': 1},{},pa,Bélus,{},{'s': 1},{}
+pa,Bélus,pas,Sainte-Eulalie-en-Born,{'s': 1},{},{},pas,Ychoux,{'s': 1},{},{},,,,,
+pa,Cauneille,pa,Peyrehorade,{},{},{},,,,,,,,,,
+pas,Hastingues,pas,Navailles-Angos,{},{},{},pa,Port-de-Lanne,{},{'s': 1},{},,,,,
+pas,Oeyregave,pas,Pimbo,{},{},{},pa,Orthevielle,{},{'s': 1},{},,,,,
+pas,Orist,pas,Saint-Étienne-d'Orthe,{},{},{},pa,Orthevielle,{},{'s': 1},{},pas,Peyrehorade-bis,{},{},{}
+pa,Orthevielle,pas,Orist,{'s': 1},{},{},pas,Oeyregave,{'s': 1},{},{},pas,Pey,{'s': 1},{},{}
+pas,Pey,pa,Port-de-Lanne,{},{'s': 1},{},pa,Orthevielle,{},{'s': 1},{},,,,,
+pas,Peyrehorade-bis,pa,Peyrehorade,{},{'s': 1},{},pas,Gomer,{},{},{},pas,Orist,{},{},{}
+pa,Peyrehorade,pa,Cauneille,{},{},{},pas,Peyrehorade-bis,{'s': 1},{},{},pa,Port-de-Lanne,{},{},{}
+pa,Port-de-Lanne,pas,Pey,{'s': 1},{},{},pas,Hastingues,{'s': 1},{},{},pa,Peyrehorade,{},{},{}
+pa,Saint-Cricq-du-Gave,pas,Bidache-bis,{'s': 1},{},{},pas,Saint-Étienne-d'Orthe,{'s': 1},{},{},,,,,
+pas,Saint-Étienne-d'Orthe,pa,Saint-Cricq-du-Gave,{},{'s': 1},{},pas,Orist,{},{},{},pas,Hours,{},{},{}
+pas,Saint-Lon-les-Mines,pas,Branne-bis,{},{},{},pas,Sorde-l'Abbaye,{},{},{},,,,,
+pas,Sorde-l'Abbaye,pas,Saint-Lon-les-Mines,{},{},{},pas,Gironde-sur-Dropt-bis,{},{},{},pas,Belhade,{},{},{}
+pas,Belhade,pas,Sorde-l'Abbaye,{},{},{},pas,Eymet,{},{},{},,,,,
+pas,Biganon,pas,Viven,{},{},{},pa,Liposthey,{},{'s': 1},{},,,,,
+pa,Liposthey,pas,Mano,{'s': 1},{},{},pas,Pissos,{'s': 1},{},{},pas,Biganon,{'s': 1},{},{}
+pas,Mano,pas,Antagnac,{},{},{},pa,Liposthey,{},{'s': 1},{},pa,Moustey,{},{'s': 1},{}
+pa,Moustey,pas,Gironde-sur-Dropt,{'s': 1},{},{},pas,Mano,{'s': 1},{},{},,,,,
+pas,Pissos-bis,pas,Pissos,{},{},{},pas,Saint-Gein,{},{},{},,,,,
+pas,Pissos,pa,Liposthey,{},{'s': 1},{},pas,Pissos-bis,{},{},{},pas,Richet,{},{},{}
+pas,Richet,pas,Thèze-bis,{},{},{},pa,Saugnacq-et-Muret-bis,{},{'s': 1},{},pas,Pissos,{},{},{}
+pa,Saugnacq-et-Muret-bis,pas,Richet,{'s': 1},{},{},pas,Saugnacq-et-Muret,{'s': 1},{},{},pa,Thèze,{},{},{}
+pas,Saugnacq-et-Muret,pa,Saugnacq-et-Muret-bis,{},{'s': 1},{},pa,La Réole-bis,{},{'s': 1},{},pas,Cagnotte,{},{},{}
+pas,Cagnotte,pa,Hure,{},{'s': 1},{},pas,Arnos,{},{},{},pas,Saugnacq-et-Muret,{},{},{}
+pas,Estibeaux,pas,Gaas,{},{},{},pa,Hure,{},{'s': 1},{},pa,Mimbaste,{},{'s': 1},{}
+pas,Gaas,pas,Gironde-sur-Dropt-bis,{},{},{},pas,Estibeaux,{},{},{},pa,Habas,{},{'s': 1},{}
+pa,Habas,pas,Labatut,{'s': 1},{},{},pas,Gaas,{'s': 1},{},{},,,,,
+pas,Labatut,pa,Habas,{},{'s': 1},{},pa,Mimbaste,{},{'s': 1},{},,,,,
+pa,Mimbaste,pa,La Réole-bis,{},{},{},pas,Labatut,{'s': 1},{},{},pas,Estibeaux,{'s': 1},{},{}
+pah,Misson,pas,Parentis-en-Born,{},{},"{('h', 's'): 1}",pas,Mouscardès,{},{},"{('h', 's'): 1}",,,,,
+pas,Mouscardès,pas,La Réole,{},{},{},pah,Misson,{},{},"{('s', 'h'): 1}",pa,Ossages,{},{'s': 1},{}
+pa,Ossages,pa,Pouillon,{},{},{},pas,Mouscardès,{'s': 1},{},{},,,,,
+pa,Pouillon,pas,Serres-Sainte-Marie,{'s': 1},{},{},pa,Ossages,{},{},{},pas,Arzacq,{'s': 1},{},{}
+pas,Tilh,pas,Lamothe-Landerron,{},{},{},pa,Labastide-Cézéracq,{},{'s': 1},{},,,,,
+pa,Arouille,pas,Morizès,{'s': 1},{},{},pas,Luglon,{'s': 1},{},{},pas,Arue,{'s': 1},{},{}
+pas,Arue,pas,Sabres,{},{},{},pa,Mongauzy,{},{'s': 1},{},pa,Arouille,{},{'s': 1},{}
+pas,Cachen,pas,Lencouacq,{},{},{},pa,Lue-bis,{},{'s': 1},{},pa,Commensacq-bis,{},{'s': 1},{}
+pa,Labastide-d'Armagnac,pas,Lavit,{'s': 1},{},{},pas,Maillas,{'s': 1},{},{},pas,Commensacq,{'s': 1},{},{}
+pas,Lencouacq,pas,Lugaut,{},{},{},pas,Cachen,{},{},{},pas,Maillas,{},{},{}
+pas,Lugaut,pas,Noaillac,{},{},{},pas,Lencouacq,{},{},{},pa,Coublucq,{},{'s': 1},{}
+pas,Maillas,pa,Labastide-d'Armagnac,{},{'s': 1},{},pas,Garos,{},{},{},pas,Lencouacq,{},{},{}
+pa,Pouydesseaux,pa,Saint-Justin,{},{},{},pa,Saint-Gor,{},{},{},,,,,
+pa,Roquefort,pa,Pompéjac,{},{},{},pa,Sarbazan,{},{},{},pa,Saint-Gor,{},{},{}
+pa,Saint-Gor,pa,Pouydesseaux,{},{},{},pa,Mialos,{},{},{},pa,Roquefort,{},{},{}
+pa,Saint-Justin,pas,Escource-bis,{'s': 1},{},{},pa,Pouydesseaux,{},{},{},pas,Lonçon,{'s': 1},{},{}
+pa,Sarbazan,pa,Roquefort,{},{},{},,,,,,,,,,
+pa,Vielle-Soubiran,pas,Labouheyre,{'s': 1},{},{},pas,Géus-d'Arzacq,{'s': 1},{},{},pa,Commensacq-bis,{},{},{}
+pa,Commensacq-bis,pas,Commensacq,{'s': 1},{},{},pas,Cachen,{'s': 1},{},{},pa,Vielle-Soubiran,{},{},{}
+pas,Commensacq,pa,Labastide-d'Armagnac,{},{'s': 1},{},pa,Commensacq-bis,{},{'s': 1},{},pas,Louvigny,{},{},{}
+pas,Escource-bis,pas,Montagut,{},{},{},pa,Saint-Justin,{},{'s': 1},{},pa,Escource,{},{'s': 1},{}
+pa,Escource,pas,Larreule,{'s': 1},{},{},pas,Labouheyre,{'s': 1},{},{},pas,Escource-bis,{'s': 1},{},{}
+pas,Labouheyre,pa,Escource,{},{'s': 1},{},pa,Vielle-Soubiran,{},{'s': 1},{},pa,Lue-bis,{},{'s': 1},{}
+pa,Lue-bis,pas,Cachen,{'s': 1},{},{},pas,Poursiugues-Boucoue,{'s': 1},{},{},pas,Labouheyre,{'s': 1},{},{}
+pa,Lue,pas,Cazaux,{'s': 1},{},{},pa,Sainte-Suzanne,{},{},{},,,,,
+pas,Luglon,pa,Arouille,{},{'s': 1},{},pa,Solférino,{},{'s': 1},{},pas,Sabres,{},{},{}
+pa,Sabres-bis,pas,Trensacq,{'s': 1},{},{},,,,,,,,,,
+pas,Sabres,pas,Arue,{},{},{},pas,Luglon,{},{},{},,,,,
+pa,Solférino,pas,Luglon,{'s': 1},{},{},pas,Lestiac-sur-Garonne,{'s': 1},{},{},pas,Trensacq,{'s': 1},{},{}
+pas,Trensacq,pa,Solférino,{},{'s': 1},{},pa,Lanneplaà,{},{'s': 1},{},pa,Sabres-bis,{},{'s': 1},{}
+pas,Barthes,pas,Biaudos,{},{},{},pa,Tarnos,{},{'s': 1},{},pa,Biarrotte,{},{'s': 1},{}
+pa,Biarrotte,pas,Barthes,{'s': 1},{},{},pas,Sault-de-Navailles,{'s': 1},{},{},,,,,
+pas,Biaudos,pa,Loupiac,{},{'s': 1},{},pas,Barthes,{},{},{},,,,,
+pa,Ondres,pas,Malaussanne,{'s': 1},{},{},pas,Arance,{'s': 1},{},{},,,,,
+pa,Saint-André-de-Seignanx,pa,Mazerolles,{},{},{},,,,,,,,,,
+pa,Saint-Barthélemy,pas,Saint-Laurent-de-Gosse,{'s': 1},{},{},pa,Biron,{},{},{},,,,,
+pas,Saint-Laurent-de-Gosse,pa,Saint-Barthélemy,{},{'s': 1},{},pas,La Teste-de-Buch-ter,{},{},{},pa,Saint-Martin-de-Seignanx-bis,{},{'s': 1},{}
+pa,Saint-Martin-de-Seignanx-bis,pas,Lagor,{'s': 1},{},{},pas,Bésingrand,{'s': 1},{},{},pas,Saint-Laurent-de-Gosse,{'s': 1},{},{}
+pas,Saint-Martin-de-Seignanx,pa,Orthez,{},{'s': 1},{},pa,Laà-Mondrans,{},{'s': 1},{},,,,,
+pa,Tarnos,pas,Barthes,{'s': 1},{},{},paï,Lacq,{'ï': 1},{},{},,,,,
+pas,Audignon,pa,Orthez-bis,{},{'s': 1},{},pas,Ramous,{},{},{},,,,,
+pas,Aurice,pas,La Teste-de-Buch-ter,{},{},{},pa,Banos,{},{'s': 1},{},pas,Maslacq,{},{},{}
+pa,Banos,pas,Aurice,{'s': 1},{},{},pa,Cachon,{},{},{},,,,,
+pa,Cachon,pas,Mont,{'s': 1},{},{},pa,Loubieng,{},{},{},pa,Banos,{},{},{}
+pa,Cauna,pas,Saint-Avit-Sénieur,{'s': 1},{},{},,,,,,,,,,
+pa,Coudures,pas,Sablar,{'s': 1},{},{},pas,Dumes,{'s': 1},{},{},pas,Eyres-Moncube,{'s': 1},{},{}
+pas,Dumes,pa,Coudures,{},{'s': 1},{},pas,Ozenx,{},{},{},pa,Noguères,{},{'s': 1},{}
+pas,Eyres-Moncube,pas,Mourenx-et-Abidos,{},{},{},pas,Lunas,{},{},{},pa,Coudures,{},{'s': 1},{}
+pa,Fargues,pas,Langon-bis,{'s': 1},{},{},,,,,,,,,,
+pas,Larrivière-Saint-Savin,pas,Langon,{},{},{},pa,Montgaillard,{},{'s': 1},{},pa,Montaut,{},{'s': 1},{}
+pa,Montaut,pa,Montsoué,{},{},{},pas,Guillos,{'s': 1},{},{},pas,Larrivière-Saint-Savin,{'s': 1},{},{}
+pa,Montgaillard,pas,Le Pian-Médoc,{'s': 1},{},{},pa,Montsoué,{},{},{},pas,Larrivière-Saint-Savin,{'s': 1},{},{}
+pa,Montsoué,pa,Montgaillard,{},{},{},pa,Escaudes,{},{},{},pa,Montaut,{},{},{}
+pas,Saint-Maurice-sur-Adour,pas,Sainte-Eulalie,{},{},{},pas,Castets-en-Dorthe,{},{},{},pa,Saint-Sever,{},{'s': 1},{}
+pa,Saint-Sever,pas,Saint-Maurice-sur-Adour,{'s': 1},{},{},pas,Sauternes,{'s': 1},{},{},pa,Sarraziet,{},{},{}
+pas,Sainte-Eulalie,pa,Pompignac,{},{'s': 1},{},pas,Saint-Maurice-sur-Adour,{},{},{},pa,Sarraziet,{},{'s': 1},{}
+pa,Sarraziet,pas,Roaillan,{'s': 1},{},{},pas,Sainte-Eulalie,{'s': 1},{},{},pa,Saint-Sever,{},{},{}
+pas,Bénesse-Maremne,pas,Le Haillan,{},{},{},pas,Josse,{},{},{},pa,Capbreton,{},{'s': 1},{}
+pa,Capbreton,pas,Saint-Pardon-de-Conques,{'s': 1},{},{},pas,Bénesse-Maremne,{'s': 1},{},{},pa,Labenne,{},{},{}
+pas,Josse,pas,Bénesse-Maremne,{},{},{},pas,Le Pian-Médoc,{},{},{},pa,Labenne,{},{'s': 1},{}
+pa,Labenne,pas,Josse,{'s': 1},{},{},pa,Saint-Pierre-de-Mons,{},{},{},pa,Capbreton,{},{},{}
+pa,Orx,pas,Saint-Geours-de-Maremne,{'s': 1},{},{},pa,Izon,{},{},{},pas,Saint-Jean-de-Marsacq,{'s': 1},{},{}
+pas,Saint-Jean-de-Marsacq,pas,Monségur,{},{},{},pas,Saint-Martin-de-Hinx,{},{},{},pa,Orx,{},{'s': 1},{}
+pas,Saint-Martin-de-Hinx,pas,Luxey,{},{},{},pa,Saint-Vincent-de-Tyrosse,{},{'s': 1},{},pas,Saint-Jean-de-Marsacq,{},{},{}
+pa,Saint-Vincent-de-Tyrosse,pas,Saint-Martin-de-Hinx,{'s': 1},{},{},pas,Saint-Julien-Beychevelle,{'s': 1},{},{},pas,Sainte-Marie-de-Gosse,{'s': 1},{},{}
+pas,Sainte-Marie-de-Gosse,pa,Le Leuy,{},{'s': 1},{},pa,Seignosse,{},{'s': 1},{},pa,Saint-Vincent-de-Tyrosse,{},{'s': 1},{}
+pas,Saubion,pas,Libourne-bis,{},{},{},pa,Bastanès,{},{'s': 1},{},pas,Saubrigues,{},{},{}
+pas,Saubrigues,pa,Izon,{},{'s': 1},{},pas,Saubion,{},{},{},pas,Argelouse,{},{},{}
+pas,Argelouse,pas,Landerrouet-sur-Ségur,{},{},{},pas,Saubrigues,{},{},{},,,,,
+pa,Callen,pas,Luxey,{'s': 1},{},{},pas,Monségur,{'s': 1},{},{},pa,Bugnein,{},{},{}
+pas,Houaste,pas,Gurs,{},{},{},pas,Sauvelade,{},{},{},pa,Sore,{},{'s': 1},{}
+pas,Luxey,pa,Sore,{},{'s': 1},{},pas,Saint-Martin-de-Hinx,{},{},{},pa,Callen,{},{'s': 1},{}
+pa,Sore,pas,Saint-Julien-Beychevelle,{'s': 1},{},{},pas,Luxey,{'s': 1},{},{},pas,Houaste,{'s': 1},{},{}
+pas,Angresse,pas,Landerrouet-sur-Ségur,{},{},{},pa,Jasses,{},{'s': 1},{},pas,Charre,{},{},{}
+pas,Azur,pas,Magescq,{},{},{},,,,,,,,,,
+pas,Magescq,pas,Azur,{},{},{},pas,Araujuzon,{},{},{},pas,Messanges-bis,{},{},{}
+pas,Messanges-bis,pas,Sarpourenx,{},{},{},pa,Castetnau-Camblong,{},{'s': 1},{},pas,Magescq,{},{},{}
+pas,Messanges,pas,Cissac-Médoc,{},{},{},pas,Saint-Geours-de-Maremne,{},{},{},pas,Moliets-et-Maa,{},{},{}
+pas,Moliets-et-Maa,pa,Seignosse,{},{'s': 1},{},pas,Audon,{},{},{},pas,Messanges,{},{},{}
+pas,Saint-Geours-de-Maremne,pas,Messanges,{},{},{},pa,Orx,{},{'s': 1},{},pa,Seignosse,{},{'s': 1},{}
+pa,Seignosse,pas,Sainte-Marie-de-Gosse,{'s': 1},{},{},pas,Moliets-et-Maa,{'s': 1},{},{},pas,Saint-Geours-de-Maremne,{'s': 1},{},{}
+pa,Soorts-Hossegor,pas,Soustons,{'s': 1},{},{},pas,Roquebrune,{'s': 1},{},{},pa,Lamothe,{},{},{}
+pas,Soustons,pamey,Toulenne,"{'m': 1, 'e': 1}",{},"{('s', 'y'): 1}",pa,Soorts-Hossegor,{},{'s': 1},{},pa,Tosse,{},{'s': 1},{}
+pa,Tosse,pas,Vieux-Boucau-les-Bains,{'s': 1},{},{},pas,Arveyres,{'s': 1},{},{},pas,Soustons,{'s': 1},{},{}
+pas,Vieux-Boucau-les-Bains,pa,Vignes,{},{'s': 1},{},pa,Tosse,{},{'s': 1},{},pas,Gouts,{},{},{}
+pas,Audon,pas,Moliets-et-Maa,{},{},{},pa,Le Leuy,{},{'s': 1},{},pa,Lamothe,{},{'s': 1},{}
+pas,Carcarès-Sainte-Croix,pas,Nabas,{},{},{},pa,Baigts-de-Béarn,{},{'s': 1},{},pas,Gouts,{},{},{}
+pas,Gouts,pas,Carcarès-Sainte-Croix,{},{},{},pas,Vieux-Boucau-les-Bains,{},{},{},pa,Lamothe,{},{'s': 1},{}
+pa,Lamothe,pa,Soorts-Hossegor,{},{},{},pas,Audon,{'s': 1},{},{},pas,Gouts,{'s': 1},{},{}
+pa,Le Leuy,pas,Audon,{'s': 1},{},{},pas,Sainte-Marie-de-Gosse,{'s': 1},{},{},pas,Méritein,{'s': 1},{},{}
+pas,Meilhan,pas,Perricard,{},{},{},paé,Espiute,{},{},"{('s', 'é'): 1}",,,,,
+pa,Souprosse,pas,Brassempouy,{'s': 1},{},{},pas,Tartas-bis,{'s': 1},{},{},,,,,
+pas,Tartas-bis,pa,Bassercles,{},{'s': 1},{},pa,Souprosse,{},{'s': 1},{},,,,,
+pas,Tartas-ville-haute-bis,pas,Tartas-ville-haute,{},{},{},,,,,,,,,,
+pas,Tartas-ville-haute,pas,Saint-Georges,{},{},{},pas,Anzex,{},{},{},pas,Tartas-ville-haute-bis,{},{},{}
+pas,Tartas,pas,Cazideroque,{},{},{},pas,Caylus,{},{},{},pas,Saint-Pé-de-Léren,{},{},{}
+pa,Bégaar,pas,Molières,{'s': 1},{},{},pas,Fargues-sur-Ourbise,{'s': 1},{},{},,,,,
+pas,Beylongue,pas,Rion-des-Landes-bis,{},{},{},pas,Boos,{},{},{},,,,,
+pas,Boos,pas,Beylongue,{},{},{},pas,Arthez-d'Armagnac,{},{},{},pas,Carcen-Ponson,{},{},{}
+pas,Carcen-Ponson,pa,Saint-Léon,{},{'s': 1},{},pas,Puycornet,{},{},{},pas,Boos,{},{},{}
+pas,Laluque,,,,,,,,,,,,,,,
+pas,Lesgor,pas,Rion-des-Landes,{},{},{},pas,Rion-des-Landes-bis,{},{},{},,,,,
+pas,Pontonx-sur-l'Adour,pas,Puygaillard-de-Quercy,{},{},{},pa,Montauban-Est-ter,{},{'s': 1},{},pas,Rion-des-Landes-bis,{},{},{}
+pas,Rion-des-Landes-bis,pas,Lesgor,{},{},{},pas,Beylongue,{},{},{},pas,Pontonx-sur-l'Adour,{},{},{}
+pas,Rion-des-Landes,pas,Arthez-d'Armagnac,{},{},{},pas,Lesgor,{},{},{},pas,Lacquy,{},{},{}
+pas,Saint-Yaguen,pas,Villenave,{},{},{},pas,Saint-Sauveur,{},{},{},pas,Bourdalat,{},{},{}
+pas,Villenave,pad,Laàs,{},{},"{('s', 'd'): 1}",pas,Saint-Yaguen,{},{},{},pa,Hontanx,{},{'s': 1},{}
+pas,Arthez-d'Armagnac,pas,Boos,{},{},{},pas,Rion-des-Landes,{},{},{},pas,Bourdalat,{},{},{}
+pas,Bourdalat,pas,Saint-Yaguen,{},{},{},pas,Razimet,{},{},{},pas,Arthez-d'Armagnac,{},{},{}
+pa,Hontanx,pas,Villenave,{'s': 1},{},{},pas,Lacquy,{'s': 1},{},{},,,,,
+pas,Lacquy,pas,Rion-des-Landes,{},{},{},pa,Hontanx,{},{'s': 1},{},,,,,
+pas,Le Frêche,pas,Montégut,{},{},{},pas,Lapenche,{},{},{},pas,Montauban-Ouest,{},{},{}
+pas,Montégut,pas,Montauban-Fau,{},{},{},pas,Athos-Aspis,{},{},{},pas,Le Frêche,{},{},{}
+pa,Perquie,pa,Montalzat,{},{},{},,,,,,,,,,
+pa,Pujo-le-Plan,pas,Montauban,{'s': 1},{},{},pas,Vigueron,{'s': 1},{},{},,,,,
+pa,Saint-Cricq-Villeneuve,pas,Lamothe-Cumont,{'s': 1},{},{},pas,Beaumont-de-Lomagne-bis,{'s': 1},{},{},,,,,
+pas,Saint-Gein,pas,Pissos-bis,{},{},{},pas,Antagnac,{},{},{},pas,Sainte-Foy,{},{},{}
+pas,Sainte-Foy,pas,Saint-Gein,{},{},{},pas,Montpezat-de-Quercy,{},{},{},,,,,
+pas,Villeneuve-de-Marsan,pas,Langoiran-bis,{},{},{},pas,Bioule,{},{},{},pas,Antagnac,{},{},{}
+pas,Antagnac,pas,Saint-Gein,{},{},{},pas,Mano,{},{},{},pas,Villeneuve-de-Marsan,{},{},{}
+pa,Argenton,pa,Montricoux,{},{},{},,,,,,,,,,
+pas,Bouglon,pa,Nègrepelisse-bis,{},{'s': 1},{},pas,Corbarieu,{},{},{},,,,,
+pa,Grézet-Cavagnan,pas,Guérin,{'s': 1},{},{},pas,Labastide-Castel-Amouroux,{'s': 1},{},{},pas,Casteljaloux,{'s': 1},{},{}
+pas,Guérin,pas,Caubeyres,{},{},{},pa,Grézet-Cavagnan,{},{'s': 1},{},,,,,
+pas,Labastide-Castel-Amouroux,pa,Grézet-Cavagnan,{},{'s': 1},{},paé,Barraute,{},{},"{('s', 'é'): 1}",pas,Poussignac,{},{},{}
+pas,Poussignac,pas,Salies-de-Béarn-bis,{},{},{},pas,Ruffiac,{},{},{},pas,Labastide-Castel-Amouroux,{},{},{}
+pas,Romestaing,pas,Ruffiac_bis,{},{},{},pas,Saint-Vincent-d'Autéjac,{},{},{},pas,Saint-Antonin-Noble-Val,{},{},{}
+pas,Ruffiac_bis,pas,Anzex,{},{},{},pas,Romestaing,{},{},{},pas,Leyritz-Moncassin,{},{},{}
+pas,Ruffiac,pas,Poussignac,{},{},{},pas,Saint-Gemme-Martaillac,{},{},{},pas,Heuliès,{},{},{}
+pas,Saint-Gemme-Martaillac,pas,Ruffiac,{},{},{},pas,Salles-Mongiscard,{},{},{},pas,Anzex,{},{},{}
+pas,Anzex,pas,Tartas-ville-haute,{},{},{},pas,Ruffiac_bis,{},{},{},pas,Saint-Gemme-Martaillac,{},{},{}
+pa,Beauziac,pas,Varen,{'s': 1},{},{},pa,Casteljaloux-bis,{},{},{},pas,Leyritz-Moncassin,{'s': 1},{},{}
+pa,Casteljaloux-bis,pa,Beauziac,{},{},{},pa,Damazan-bis,{},{},{},pas,Casteljaloux,{'s': 1},{},{}
+pas,Casteljaloux,pa,Grézet-Cavagnan,{},{'s': 1},{},pas,Heuliès,{},{},{},pa,Casteljaloux-bis,{},{'s': 1},{}
+pas,Heuliès,pas,Casteljaloux,{},{},{},pas,Ruffiac,{},{},{},pas,Leyritz-Moncassin,{},{},{}
+pas,Leyritz-Moncassin,pas,Ruffiac_bis,{},{},{},pa,Beauziac,{},{'s': 1},{},pas,Heuliès,{},{},{}
+pas,Saint-Martin-Curton,pas,Laparade,{},{},{},pas,Esparsac,{},{},{},,,,,
+pa,Villefranche-du-Queyran,pass,Sérignac,{'s': 2},{},{},pa,Castelmoron-sur-Lot,{},{},{},pa,Brugnac,{},{},{}
+pa,Brugnac,pa,Castelmoron-sur-Lot-bis,{},{},{},pa,Villefranche-du-Queyran,{},{},{},,,,,
+pa,Castelmoron-sur-Lot-bis,pas,Marignac,{'s': 1},{},{},pa,Brugnac,{},{},{},pa,Castelmoron-sur-Lot,{},{},{}
+pa,Castelmoron-sur-Lot,pa,Villefranche-du-Queyran,{},{},{},pa,Coulx,{},{},{},pa,Castelmoron-sur-Lot-bis,{},{},{}
+pa,Coulx,pa,Castelmoron-sur-Lot,{},{},{},pay,Maubec,{'y': 1},{},{},pas,Grateloup,{'s': 1},{},{}
+pas,Grateloup,pas,Saint-Gayrand,{},{},{},pas,Faudoas,{},{},{},pa,Coulx,{},{'s': 1},{}
+pa,Labretonie,pa,Ambrus,{},{},{},,,,,,,,,,
+pas,Laparade,pas,Saint-Martin-Curton,{},{},{},pas,Saint-Gayrand,{},{},{},,,,,
+pas,Saint-Gayrand,pas,Laparade,{},{},{},pas,Grateloup,{},{},{},pa,Verteuil-d'Agenais,{},{'s': 1},{}
+pa,Verteuil-d'Agenais,pas,Saint-Gayrand,{'s': 1},{},{},pa,Ambrus,{},{},{},,,,,
+pa,Ambrus,pa,Labretonie,{},{},{},pas,Caubeyres,{'s': 1},{},{},pa,Verteuil-d'Agenais,{},{},{}
+pas,Buzet-sur-Baïse,pa,Damazan-bis,{},{'s': 1},{},pas,Corbarieu-bis,{},{},{},,,,,
+pas,Caubeyres,pa,Ambrus,{},{'s': 1},{},pas,Guérin,{},{},{},pa,Damazan-bis,{},{'s': 1},{}
+pa,Damazan-bis,pa,Casteljaloux-bis,{},{},{},pas,Buzet-sur-Baïse,{'s': 1},{},{},pas,Caubeyres,{'s': 1},{},{}
+pas,Damazan,pas,Esclottes,{},{},{},pas,Moncrabeau-bis,{},{},{},pa,Saint-Léger,{},{'s': 1},{}
+pas,Fargues-sur-Ourbise,pa,Bégaar,{},{'s': 1},{},pas,Saint-Pierre-de-Buzet,{},{},{},pa,Monheurt,{},{'s': 1},{}
+pa,Monheurt,pas,Listrac-de-Durèze,{'s': 1},{},{},pas,Fargues-sur-Ourbise,{'s': 1},{},{},pa,Puch-d'Agenais,{},{},{}
+pa,Puch-d'Agenais,pas,Moncrabeau,{'s': 1},{},{},pa,Pellegrue,{},{},{},pa,Monheurt,{},{},{}
+pas,Razimet,pas,Bourdalat,{},{},{},pas,Baleyssagues,{},{},{},pa,Saint-Léon,{},{'s': 1},{}
+pa,Saint-Léger,pas,Duras,{'s': 1},{},{},pas,Damazan,{'s': 1},{},{},pas,Saint-Pierre-de-Buzet,{'s': 1},{},{}
+pa,Saint-Léon,pas,Saint-Pierre-de-Buzet,{'s': 1},{},{},pas,Carcen-Ponson,{'s': 1},{},{},pas,Razimet,{'s': 1},{},{}
+pas,Saint-Pierre-de-Buzet,pas,Fargues-sur-Ourbise,{},{},{},pa,Saint-Léon,{},{'s': 1},{},pa,Saint-Léger,{},{'s': 1},{}
+pas,Auriac-sur-Dropt,pas,Baleyssagues,{},{},{},pas,Vertheuil,{},{},{},pa,Moustier,{},{'s': 1},{}
+pas,Baleyssagues,pas,Razimet,{},{},{},pas,Auriac-sur-Dropt,{},{},{},pas,Duras,{},{},{}
+pas,Duras,pas,Esclottes,{},{},{},pa,Saint-Léger,{},{'s': 1},{},pas,Baleyssagues,{},{},{}
+pas,Esclottes,pas,La Sauvetat-du-Dropt,{},{},{},pas,Damazan,{},{},{},pas,Duras,{},{},{}
+pas,La Sauvetat-du-Dropt,pa,Moustier,{},{'s': 1},{},pas,Ambarès-et-Lagrave,{},{},{},pas,Esclottes,{},{},{}
+pa,Moustier,pas,Saint-Astier,{'s': 1},{},{},pas,La Sauvetat-du-Dropt,{'s': 1},{},{},pas,Auriac-sur-Dropt,{'s': 1},{},{}
+pas,Saint-Astier,pas,Savignac-de-Duras,{},{},{},pa,Moustier,{},{'s': 1},{},pa,Saint-Sernin,{},{'s': 1},{}
+pa,Saint-Sernin,pas,Cazaugitat,{'s': 1},{},{},pas,Narp-Ossenx,{'s': 1},{},{},pas,Saint-Astier,{'s': 1},{},{}
+pas,Savignac-de-Duras,pas,Saint-Julien-en-Born,{},{},{},pas,Saint-Astier,{},{},{},pae,Orriule,{},{},"{('s', 'e'): 1}"
+pas,Soumensac,pas,Listrac-de-Durèze,{},{},{},pas,Villeneuve-de-Duras,{},{},{},pas,Dieupentale,{},{},{}
+pas,Villeneuve-de-Duras,pas,Soumensac,{},{},{},pa,Bassens,{},{'s': 1},{},pas,Castelsarrasin,{},{},{}
+pas,Fieux,pas,Ambès,{},{},{},pa,Francescas,{},{'s': 1},{},pas,Labastide-du-Temple,{},{},{}
+pa,Francescas,pas,Fieux,{'s': 1},{},{},pas,Pujols-sur-Ciron,{'s': 1},{},{},,,,,
+pas,Lamontjoie,pa,Pellegrue,{},{'s': 1},{},pas,Moncrabeau,{},{},{},,,,,
+pas,Moncrabeau-bis,pas,Damazan,{},{},{},pas,Moncrabeau,{},{},{},,,,,
+pas,Moncrabeau,pas,Lamontjoie,{},{},{},pa,Puch-d'Agenais,{},{'s': 1},{},pas,Moncrabeau-bis,{},{},{}
+pas,Nomdieu,pas,Boussès,{},{},{},pas,Preignac,{},{},{},pa,Allons,{},{'s': 1},{}
+pa,Allons,pas,Nomdieu,{'s': 1},{},{},pas,Cestas,{'s': 1},{},{},pas,Durance,{'s': 1},{},{}
+pas,Boussès,pas,Carbon-Blanc-bis,{},{},{},pas,Nomdieu,{},{},{},pas,Durance,{},{},{}
+pas,Durance,pa,Canéjan,{},{'s': 1},{},pas,Boussès,{},{},{},pa,Allons,{},{'s': 1},{}
+pas,Houeillès-bis,pa,Houeillès,{},{'s': 1},{},pa,Lormont,{},{'s': 1},{},pas,Asques,{},{},{}
+pa,Houeillès,pas,Pujols-sur-Ciron,{'s': 1},{},{},pas,Houeillès-bis,{'s': 1},{},{},pas,Nohic,{'s': 1},{},{}
+paï,Pindères,pas,Lauzun-bis,{},{},"{('ï', 's'): 1}",pas,Sauméjan,{},{},"{('ï', 's'): 1}",pas,Armillac,{},{},"{('ï', 's'): 1}"
+pa,Pompogne,pa,Lège,{},{},{},pas,Agnac,{'s': 1},{},{},pas,Sauméjan,{'s': 1},{},{}
+pas,Sauméjan,pas,Doulezon,{},{},{},pa,Pompogne,{},{'s': 1},{},paï,Pindères,{},{},"{('s', 'ï'): 1}"
+pas,Agnac,pa,Pompogne,{},{'s': 1},{},pas,Ludon-Médoc,{},{},{},pas,Armillac,{},{},{}
+pas,Armillac,pas,Agnac,{},{},{},pas,Lavergne,{},{},{},paï,Pindères,{},{},"{('s', 'ï'): 1}"
+pas,Bourgougnague,pas,Lauzun-ter,{},{},{},pas,Saint-Michel-de-Rieufret,{},{},{},pas,Laperche,{},{},{}
+pas,Laperche,pas,Doulezon,{},{},{},pas,Lauzun-bis,{},{},{},pas,Bourgougnague,{},{},{}
+pas,Lauzun-bis,pas,Laperche,{},{},{},paï,Pindères,{},{},"{('s', 'ï'): 1}",pas,Lavergne,{},{},{}
+pas,Lauzun-ter,pas,Bruch,{},{},{},pas,Bourgougnague,{},{},{},pas,Lauzun-tet,{},{},{}
+pas,Lauzun-tet,pa,Lauzun,{},{'s': 1},{},pa,Saint-Loubès,{},{'s': 1},{},pas,Lauzun-ter,{},{},{}
+pa,Lauzun,pas,Macau,{'s': 1},{},{},pas,Lauzun-tet,{'s': 1},{},{},pas,Lavergne,{'s': 1},{},{}
+pas,Lavergne,pas,Armillac,{},{},{},pa,Lauzun,{},{'s': 1},{},pas,Lauzun-bis,{},{},{}
+pas,Lévignac-de-Guyenne,pas,Thouars-sur-Garonne,{},{},{},pas,Miramont-de-Guyenne,{},{},{},pas,Montignac-de-Lauzun,{},{},{}
+pas,Miramont-de-Guyenne,pas,Lévignac-de-Guyenne,{},{},{},pas,Fréchou,{},{},{},pas,Peyrière,{},{},{}
+pas,Montignac-de-Lauzun,pas,Pessac-sur-Dordogne,{},{},{},pas,Lévignac-de-Guyenne,{},{},{},pas,Peyrière,{},{},{}
+pas,Peyrière,pas,Miramont-de-Guyenne,{},{},{},pas,Saint-Pierre-d'Aurillac,{},{},{},pas,Montignac-de-Lauzun,{},{},{}
+pas,Puysserampion,pas,Lavardac-bis,{},{},{},pas,Virazeil,{},{},{},pas,Roumagne,{},{},{}
+pas,Roumagne,pas,Puysserampion,{},{},{},pas,Poupas,{},{},{},pas,Castelferrus,{},{},{}
+pas,Saint-Colomb-de-Lauzun,pas,Marmande,{},{},{},pas,Rauzan,{},{},{},pas,Saint-Jean-du-Bouzet,{},{},{}
+pas,Saint-Nazaire,pas,Montbeton,{},{},{},pa,Saint-Jean-de-Blaignac,{},{'s': 1},{},pas,Sérignac-Péboudou,{},{},{}
+pas,Ségalas,pas,Sérignac-Péboudou,{},{},{},pas,Lavardac,{},{},{},pas,Montbartier,{},{},{}
+pas,Sérignac-Péboudou,pas,Rauzan,{},{},{},pas,Ségalas,{},{},{},pas,Saint-Nazaire,{},{},{}
+pas,Barbaste,pa,Aubie-et-Espessas,{},{'s': 1},{},pas,Bruch,{},{},{},pas,Saint-Laurent,{},{},{}
+pas,Béquin,pas,Saint-Aubin-de-Médoc,{},{},{},pas,Pompiey,{},{},{},pas,Bruch-bis,{},{},{}
+pas,Bruch-bis,pas,Montussan,{},{},{},pas,Béquin,{},{},{},pas,Bruch,{},{},{}
+pas,Bruch,pas,Barbaste,{},{},{},pas,Lauzun-ter,{},{},{},pas,Bruch-bis,{},{},{}
+pas,Feugarolles,pas,Montesquieu,{},{},{},pas,Saint-Aubin-de-Médoc,{},{},{},pas,Lavardac-bis,{},{},{}
+pas,Lavardac-bis,pas,Feugarolles,{},{},{},pas,Puysserampion,{},{},{},pas,Lacourt-Saint-Pierre,{},{},{}
+pas,Lavardac,pas,Ségalas,{},{},{},pas,Méneau,{},{},{},pas,Mongaillard,{},{},{}
+pas,Méneau,pas,Lavardac,{},{},{},pas,Cubzac-les-Ponts,{},{},{},pas,Saint-Laurent,{},{},{}
+pas,Mongaillard,pas,Finhan,{},{},{},pas,Lavardac,{},{},{},pas,Montesquieu,{},{},{}
+pas,Montesquieu,pas,Pompiey,{},{},{},pas,Feugarolles,{},{},{},pas,Mongaillard,{},{},{}
+pas,Pompiey,pas,Béquin,{},{},{},pas,Montesquieu,{},{},{},pas,Saint-Laurent,{},{},{}
+pas,Saint-Laurent,pas,Méneau,{},{},{},pas,Barbaste,{},{},{},pas,Pompiey,{},{},{}
+pas,Thouars-sur-Garonne,pas,Lévignac-de-Guyenne,{},{},{},pas,Vianne,{},{},{},,,,,
+pas,Vianne,pas,Thouars-sur-Garonne,{},{},{},pa,Peujard,{},{'s': 1},{},pas,Birac-sur-Trec,{},{},{}
+pas,Xaintrailles,pas,Saint-André-de-Cubzac,{},{},{},pas,Beaupuy,{},{},{},pas,Birac-sur-Trec,{},{},{}
+pas,Agmé,pas,Marsac,{},{},{},pas,Beaupuy,{},{},{},,,,,
+pas,Beaupuy,pas,Xaintrailles,{},{},{},pas,Fajolles,{},{},{},pas,Agmé,{},{},{}
+pas,Birac-sur-Trec,pas,Vianne,{},{},{},pas,Xaintrailles,{},{},{},,,,,
+pas,Fauguerolles,pas,Castelmayran,{},{},{},pas,Saint-Vincent-de-Pertignas,{},{},{},pas,Marmande-bis,{},{},{}
+pas,Gontaud-de-Nogaret-bis,pas,Saint-Antoine,{},{},{},pas,Gontaud-de-Nogaret,{},{},{},pas,Hautesvignes,{},{},{}
+pas,Gontaud-de-Nogaret,pas,Gontaud-de-Nogaret-bis,{},{},{},pas,Marmande-bis,{},{},{},,,,,
+pas,Hautesvignes,pas,Marmande-ter,{},{},{},pas,Caumont-sur-Garonne,{},{},{},pas,Gontaud-de-Nogaret-bis,{},{},{}
+pas,Longueville,pas,Saint-Pey-de-Castets,{},{},{},pas,Marmande,{},{},{},pas,Marmande-bis,{},{},{}
+pas,Marmande-bis,pas,Fauguerolles,{},{},{},pas,Longueville,{},{},{},pas,Gontaud-de-Nogaret,{},{},{}
+pas,Marmande-ter,pas,Bressols,{},{},{},pas,Hautesvignes,{},{},{},pas,Marmande,{},{},{}
+pas,Marmande,pas,Longueville,{},{},{},pas,Saint-Colomb-de-Lauzun,{},{},{},pas,Marmande-ter,{},{},{}
+pas,Saint-Pardoux-du-Breuil,pas,Saint-Antoine,{},{},{},,,,,,,,,,
+pas,Saint-Pierre de Nogaret,pas,Flaujagues,{},{},{},paÿ,Coutures,{},{},"{('s', 'ÿ'): 1}",pas,Sainte-Bazeille,{},{},{}
+pas,Sainte-Bazeille,pa,Juillac,{},{'s': 1},{},pas,Saint-Pierre de Nogaret,{},{},{},,,,,
+pas,Taillebourg,pas,Saint-Laurent-Médoc,{},{},{},pas,Aubiac,{},{},{},pas,Virazeil,{},{},{}
+pas,Virazeil,pas,Puysserampion,{},{},{},pas,Taillebourg,{},{},{},,,,,
+pas,Cocumont,pas,Auvillar,{},{},{},pas,Couthures-sur-Garonne,{},{},{},pas,Jusix,{},{},{}
+pas,Couthures-sur-Garonne,pas,Cocumont,{},{},{},pas,Montpouillan,{},{},{},pa,Lisse,{},{'s': 1},{}
+pa,Gaujac,pa,Réaup-Lisse,{},{},{},pas,Jusix,{'s': 1},{},{},pas,Lannes,{'s': 1},{},{}
+pas,Jusix,pa,Gaujac,{},{'s': 1},{},pas,Mas-Grenier,{},{},{},pas,Cocumont,{},{},{}
+pas,Meilhan-sur-Garonne,pas,Montpouillan,{},{},{},pas,Le Pin,{},{},{},pa,Saint-Sauveur-de-Meilhan,{},{'s': 1},{}
+pas,Montpouillan,pas,Couthures-sur-Garonne,{},{},{},pas,Meilhan-sur-Garonne,{},{},{},pas,Gueyze,{},{},{}
+pa,Saint-Sauveur-de-Meilhan,pas,Saint-Germain-de-Grave,{'s': 1},{},{},pas,Gueyze,{'s': 1},{},{},pas,Meilhan-sur-Garonne,{'s': 1},{},{}
+pas,Gueyze,pa,Saint-Sauveur-de-Meilhan,{},{'s': 1},{},pa,Mézin,{},{'s': 1},{},pas,Montpouillan,{},{},{}
+pas,Lannes,pas,Saint-Aignan,{},{},{},pa,Gaujac,{},{'s': 1},{},pa,Lisse,{},{'s': 1},{}
+pa,Lisse,pas,Couthures-sur-Garonne,{'s': 1},{},{},pa,Mézin,{},{},{},pas,Lannes,{'s': 1},{},{}
+pa,Meylan,pa,Mézin,{},{},{},pas,Auros-bis,{'s': 1},{},{},pas,Saint-Arroumex,{'s': 1},{},{}
+pa,Mézin,pas,Gueyze,{'s': 1},{},{},pa,Meylan,{},{},{},pa,Lisse,{},{},{}
+pas,Poudenas,pas,Saint-Macaire,{},{},{},pas,Andiran,{},{},{},pas,Bourret,{},{},{}
+pa,Réaup-Lisse,pas,Verdun-sur-Garonne,{'s': 1},{},{},pa,Gaujac,{},{},{},pas,Saint-Pé-Saint-Simon,{'s': 1},{},{}
+pas,Saint-Pé-Saint-Simon,pa,Réaup-Lisse,{},{'s': 1},{},pas,Montaïn,{},{},{},,,,,
+pas,Sainte-Maure-de-Peyriac,pas,Andiran,{},{},{},pas,Mouliets,{},{},{},pas,Sos,{},{},{}
+pas,Sos,pas,Sainte-Maure-de-Peyriac,{},{},{},pas,Saint-Pierre-d'Aurillac,{},{},{},pas,Villeneuve-de-Mézin,{},{},{}
+pas,Villeneuve-de-Mézin,pas,Calignac,{},{},{},pas,Sos,{},{},{},,,,,
+pas,Andiran,pas,Poudenas,{},{},{},pas,Sainte-Maure-de-Peyriac,{},{},{},pas,Calignac,{},{},{}
+pas,Calignac,pas,Villeneuve-de-Mézin,{},{},{},pas,Saint-Nicolas-de-la-Grave-bis,{},{},{},pas,Andiran,{},{},{}
+pas,Fréchou,pas,Miramont-de-Guyenne,{},{},{},pas,Espiens,{},{},{},,,,,
+pas,Espiens,pas,Saint-Pierre-d'Aurillac,{},{},{},pas,Fréchou,{},{},{},pas,Moncaut,{},{},{}
+pas,Moncaut,pas,Merles,{},{},{},pas,Espiens,{},{},{},,,,,
+pas,Montagnac-sur-Auvignon,pas,Saint-Symphorien-bis,{},{},{},pas,Nérac-bis,{},{},{},pas,Saint-Michel,{},{},{}
+pas,Nérac-bis,pas,Montagnac-sur-Auvignon,{},{},{},pa,Grayan,{},{'s': 1},{},pas,Nérac,{},{},{}
+pas,Nérac-ter,pas,Cambes,{},{},{},pas,Bourg-de-Visa,{},{},{},pas,Nérac,{},{},{}
+pas,Nérac,pas,Nérac-ter,{},{},{},pas,Nérac-bis,{},{},{},,,,,
+pas,Saumont,pas,Sistels,{},{},{},pas,Belvèze,{},{},{},pah,Fouroux,{},{},"{('s', 'h'): 1}"
+pas,Cambes,pas,Castelnau-sur-Gupie,{},{},{},pas,Nérac-ter,{},{},{},,,,,
+pas,Castelnau-sur-Gupie,pas,Saint-Symphorien,{},{},{},pas,Cambes,{},{},{},pas,Saint-Paul-d'Espis,{},{},{}
+pas,Caubon-Saint-Sauveur,pas̈,Saint-Amans-de-Pellagal,{'̈': 1},{},{},pas,Escassefort,{},{},{},,,,,
+pas,Escassefort,pas,Caubon-Saint-Sauveur,{},{},{},pas,Lagupie,{},{},{},,,,,
+pas,Lachapelle,pas,La Roquille,{},{},{},,,,,,,,,,
+pas,Lagupie,pas,Escassefort,{},{},{},pa,Monteton,{},{'s': 1},{},,,,,
+pas,Mauvezin-sur-Gupie,pas,Soulac-sur-Mer,{},{},{},pa,Monteton,{},{'s': 1},{},,,,,
+pa,Monteton,pas,Mauvezin-sur-Gupie,{'s': 1},{},{},pah,Bouloc-en-Quercy,{'h': 1},{},{},pas,Lagupie,{'s': 1},{},{}
+pas,Montignac-Toupinerie,pas,Lizac,{},{},{},pas,Tréjouls,{},{},{},,,,,
+pas,Puymiclan,pas,Saint-Avit,{},{},{},pas,Caplong,{},{},{},pad,Montesquieu,{},{},"{('s', 'd'): 1}"
+pas,Saint-Avit,pas,Tonneins_bis,{},{},{},pas,Puymiclan,{},{},{},pas,Saint-Barthélemy-d'Agenais,{},{},{}
+pas,Saint-Barthélemy-d'Agenais,pas,Malause,{},{},{},pas,Saint-Avit,{},{},{},,,,,
+pas,Saint-Martin-Petit,pas,Tonneins_ter,{},{},{},pas,Lafitte-sur-Lot,{},{},{},,,,,
+pas,Saint-Pierre-sur-Dropt,pas,Unet,{},{},{},pas,Seyches,{},{},{},pas,Lafitte-sur-Lot,{},{},{}
+pas,Seyches,pas,Saint-Pierre-sur-Dropt,{},{},{},pas,Clairac,{},{},{},,,,,
+pas,Clairac,pah,Touffailles,{},{},"{('s', 'h'): 1}",pas,Saint-Vincent-Lespinasse,{},{},{},pas,Seyches,{},{},{}
+pas,Fauillet,pas,Lafitte-sur-Lot,{},{},{},,,,,,,,,,
+pas,Lafitte-sur-Lot,pas,Saint-Martin-Petit,{},{},{},pas,Saint-Pierre-sur-Dropt,{},{},{},pas,Fauillet,{},{},{}
+pas,Tonneins_bis,pas,Tonneins_ter,{},{},{},pas,Saint-Avit,{},{},{},pas,Tonneins,{},{},{}
+pas,Tonneins_ter,pas,Saint-Martin-Petit,{},{},{},pas,Tonneins_bis,{},{},{},pas,Unet,{},{},{}
+pas,Tonneins,pas,Unet,{},{},{},pas,Tonneins_bis,{},{},{},,,,,
+pas,Unet,pas,Tonneins,{},{},{},pas,Saint-Pierre-sur-Dropt,{},{},{},pas,Tonneins_ter,{},{},{}
+pas,Varès,pas,Montaigu-de-Quercy,{},{},{},,,,,,,,,,
+pass,Calonges,pas,Talais,{},{'s': 1},{},,,,,,,,,,
+pas,Caumont-sur-Garonne,pas,Hautesvignes,{},{},{},pas,Fourques,{},{},{},pas,Montjoi,{},{},{}
+pas,Fourques,pas,Caumont-sur-Garonne,{},{},{},pas,Le Mas-d'Agenais-bis,{},{},{},,,,,
+pas,Lagruère,pas,Lamarque,{},{},{},pas,Ligueux,{},{},{},,,,,
+pas,Lamarque,pas,Lagruère,{},{},{},pas,Le Mas-d'Agenais-bis,{},{},{},,,,,
+pas,Le Mas-d'Agenais-bis,pas,Fourques,{},{},{},pas,Lamarque,{},{},{},pas,Perville,{},{},{}
+pas,Le Mas-d'Agenais,pas,Génis,{},{},{},pas,Sainte-Marthe,{},{},{},,,,,
+pas,Sainte-Marthe,pas,Le Mas-d'Agenais,{},{},{},,,,,,,,,,
+pas,Samazan,pad,Saint-Clair,{},{},"{('s', 'd'): 1}",pas,Les Lèves-et-Thoumeyragues,{},{},{},,,,,
+pas,Sénestis,pas,Villeton,{},{},{},pas,Eynesse,{},{},{},pas,Saint-Amans-du-Pech,{},{},{}
+pas,Villeton,pas,Listrac-Médoc,{},{},{},pas,Sénestis,{},{},{},pas,Agen-bis,{},{},{}
+pas,Agen-bis,pas,Excideuil-bis,{},{},{},pas,Villeton,{},{},{},pas,Castelsagrat,{},{},{}
+pas,Agen-ter,pas,Dolmayrac,{},{},{},pas,Bon-Encontre,{},{},{},pas,Agen,{},{},{}
+pas,Agen,pas,Artigues,{},{},{},pas,Saint-Avit-Saint-Nazaire,{},{},{},pas,Agen-ter,{},{},{}
+pas,Artigues,pas,Boé,{},{},{},pa,Margaux,{},{'s': 1},{},pas,Agen,{},{},{}
+pas,Boé,pas,Castillon-de-Castets,{},{},{},pas,Artigues,{},{},{},pas,Bon-Encontre,{},{},{}
+pas,Bon-Encontre,pa,Yvrac,{},{'s': 1},{},pas,Boé,{},{},{},pas,Agen-ter,{},{},{}
+pas,Colayrac-Saint-Cirq,pa,Virsac,{},{'s': 1},{},pas,Dolmayrac,{},{},{},pas,Foulayronnes,{},{},{}
+pas,Dolmayrac,pas,Colayrac-Saint-Cirq,{},{},{},pas,Agen-ter,{},{},{},pas,Le Passage,{},{},{}
+pas,Foulayronnes,pas,Le Passage,{},{},{},pas,Carcans,{},{},{},pas,Colayrac-Saint-Cirq,{},{},{}
+pas,Le Passage,pas,Saint-Quentin-de-Caplong,{},{},{},pas,Foulayronnes,{},{},{},pas,Dolmayrac,{},{},{}
+pas,Pont-du-Casse,pas,Saint-Pantaly-d'Excideuil,{},{},{},,,,,,,,,,
+pas,Saint-Hilaire-de-Lusignan,pas,Saint-Front-d'Alemps,{},{},{},pas,Nassiet,{},{},{},pas,Terrasson,{},{},{}
+pas,Astaffort-bis,pas,Hautefort-bis,{},{},{},pas,Pomarez,{},{},{},pas,Château-l'Évêque,{},{},{}
+pas,Astaffort,pahs,Marsac-sur-l'Isle,{'h': 1},{},{},pas,Caudecoste,{},{},{},,,,,
+pas,Caudecoste,pas,Astaffort,{},{},{},pa,Castelviel,{},{'s': 1},{},,,,,
+pas,Cuq,pas,Condezaygues,{},{},{},pas,Fals,{},{},{},pas,Saint-Nicolas-de-la-Balerme,{},{},{}
+pas,Fals,pas,Cuq,{},{},{},pas,Coursac,{},{},{},pah,Périgueux,{},{},"{('s', 'h'): 1}"
+pas,Layrac,pâh,Annesse-et-Beaulieu,{},{},"{('a', 'â'): 1, ('s', 'h'): 1}",pas,Saint-Quentin-du-Dropt,{},{},{},pas,Saint-Nicolas-de-la-Balerme,{},{},{}
+pas,Saint-Nicolas-de-la-Balerme,pas,Layrac,{},{},{},pas,Saint-Léger-de-Vignague,{},{},{},pas,Cuq,{},{},{}
+pas,Sauveterre-Saint-Denis,pas,Cauzac,{},{},{},pas,Coirac,{},{},{},pas,Beauville,{},{},{}
+pas,Beauville,pas,Saint-Robert,{},{},{},pas,Sauveterre-Saint-Denis,{},{},{},,,,,
+pas,Blaymont,pas,Boudy-de-Beauregard,{},{},{},pas,Cauzac,{},{},{},,,,,
+pas,Cauzac,pas,Blaymont,{},{},{},pas,Sauveterre-Saint-Denis,{},{},{},pas,Dondas,{},{},{}
+pas,Dondas,pas,Trélissac,{},{},{},pas,Jaure,{},{},{},pas,Cauzac,{},{},{}
+pas,Engayrac,pas,Sauvagnas,{},{},{},pas,Coirac,{},{},{},pas,Gandaille,{},{},{}
+pas,Gandaille,pâs,Saint-Maurin,{},{},"{('a', 'â'): 1}",pas,Saint-Martin-de-Beauville,{},{},{},pas,Engayrac,{},{},{}
+pas,Saint-Martin-de-Beauville,pas,Gandaille,{},{},{},pa,Frontenac,{},{'s': 1},{},pas,Fongrave,{},{},{}
+pâs,Saint-Maurin,pas,Tayrac,{},{},"{('â', 'a'): 1}",pas,Gandaille,{},{},"{('â', 'a'): 1}",pas,Cancon-bis,{},{},"{('â', 'a'): 1}"
+pas,Tayrac,pa,Romagne,{},{'s': 1},{},pâs,Saint-Maurin,{},{},"{('a', 'â'): 1}",pas,Beaugas,{},{},{}
+pas,Beaugas,pas,Boudy-de-Beauregard,{},{},{},pas,Tayrac,{},{},{},,,,,
+pas,Boudy-de-Beauregard,pas,Cancon-bis,{},{},{},pas,Blaymont,{},{},{},pas,Beaugas,{},{},{}
+pas,Cancon-bis,pas,Coirac,{},{},{},pas,Boudy-de-Beauregard,{},{},{},pâs,Saint-Maurin,{},{},"{('a', 'â'): 1}"
+pas,Cancon,pas,Lougratte,{},{},{},pas,Casseneuil,{},{},{},,,,,
+pas,Casseneuil,pas,Lalandusse,{},{},{},pass,Monviel,{'s': 1},{},{},pas,Cancon,{},{},{}
+pas,Castelnaud-de-Gratecambe,pas,Coulaures,{},{},{},pas,Bègles,{},{},{},pas,Montanceix,{},{},{}
+pass,Monviel,pas,Casseneuil,{},{'s': 1},{},pas,Cubjac,{},{'s': 1},{},pas,Moulinet,{},{'s': 1},{}
+pas,Moulinet,pas,Montrem,{},{},{},pass,Monviel,{'s': 1},{},{},,,,,
+pas,Pailloles,pas,Targon,{},{},{},pas,Saint-Maurice-de-Lestapel,{},{},{},,,,,
+pas,Saint-Maurice-de-Lestapel,pas,Monflanquin-bis,{},{},{},pas,Pailloles,{},{},{},,,,,
+pas,Cahuzac,pas,Saint-Eutrope-de-Born,{},{},{},,,,,,,,,,
+pas,Castang,pas,Sauveterre-de-Guyenne,{},{},{},,,,,,,,,,
+pas,Castillonnès,pas,Le Change,{},{},{},pas,Ferrensac,{},{},{},pas,Lalandusse,{},{},{}
+pas,Cavarc,pah,Eyliac,{},{},"{('s', 'h'): 1}",pahd,Manzac-sur-Vern,{'h': 1},{},"{('s', 'd'): 1}",pas,Ferrensac,{},{},{}
+pas,Ferrensac,pas,Castillonnès,{},{},{},pas,Saint-Brice,{},{},{},pas,Cavarc,{},{},{}
+pas,Lalandusse,pas,Saint-Pierre-de-Chignac,{},{},{},pas,Casseneuil,{},{},{},pas,Castillonnès,{},{},{}
+pas,Lougratte,pas,Cancon,{},{},{},pas,Montauriol,{},{},{},pad,Le Parnet-bis,{},{},"{('s', 'd'): 1}"
+pas,Montauriol,pas,Lougratte,{},{},{},pae,Mayac,{},{},"{('s', 'e'): 1}",,,,,
+pas,Saint-Quentin-du-Dropt,pas,Layrac,{},{},{},pas,Saint-Vincent-sur-l'Isle,{},{},{},pas,Blanquefort-sur-Briolance-La-Sauvetat,{},{},{}
+pas,Blanquefort-sur-Briolance-La-Sauvetat,pa,Mérignas,{},{'s': 1},{},pas,Saint-Quentin-du-Dropt,{},{},{},pas,Saint-Pantaly-d'Ans,{},{},{}
+pas,Blanquefort-sur-Briolance,pas,Condezaygues,{},{},{},pas,Saint-Léger-de-Vignague,{},{},{},pas,Fumel,{},{},{}
+pas,Condezaygues,pas,Cuzorn,{},{},{},pas,Cuq,{},{},{},pas,Blanquefort-sur-Briolance,{},{},{}
+pas,Cuzorn,pas,Saint-Sylvestre-sur-Lot,{},{},{},pas,Condezaygues,{},{},{},pas,Fumel-bis,{},{},{}
+pas,Fumel-bis,pas,Saint-Félix-de-Foncaude,{},{},{},pas,Cuzorn,{},{},{},pas,Fumel,{},{},{}
+pas,Fumel,pas,Fumel-bis,{},{},{},pas,Blanquefort-sur-Briolance,{},{},{},,,,,
+pas,Monsempron-Libos,pas,Brouchaud,{},{},{},pas,Saint-Avit-Saint-Nazaire,{},{},{},pas,Saint-Front-sur-Lémance-Bonaguil,{},{},{}
+pas,Saint-Front-sur-Lémance-Bonaguil,pa,Margaux,{},{'s': 1},{},pas,Savignac-les-Églises-bis,{},{},{},pas,Monsempron-Libos,{},{},{}
+pas,Saint-Front-sur-Lémance,pas,Brax,{},{},{},pas,Ajat,{},{},{},,,,,
+pas,Sauveterre-la-Lémance,pas,Marmont-Pachas,{},{},{},pas,Aubiac,{},{},{},,,,,
+pas,Aubiac,pas,Taillebourg,{},{},{},pah,Bars,{},{},"{('s', 'h'): 1}",pas,Sauveterre-la-Lémance,{},{},{}
+pas,Brax,pas,Moirax,{},{},{},pas,Laplume,{},{},{},pas,Saint-Front-sur-Lémance,{},{},{}
+pas,Estillac,pas,Sorges,{},{},{},pas,Moulis-en-Médoc-bis,{},{},{},pas,Laplume-bis,{},{},{}
+pas,Laplume-bis,pas,Estillac,{},{},{},pa,Sainte-Foy-la-Grande-ter,{},{'s': 1},{},pas,Thenon,{},{},{}
+pas,Laplume,pas,Brax,{},{},{},pas,Église-Neuve-de-Vergt,{},{},{},pas,Marmont-Pachas,{},{},{}
+pas,Marmont-Pachas,pas,Sauveterre-la-Lémance,{},{},{},pas,Laplume,{},{},{},,,,,
+pas,Moirax,pas,Brax,{},{},{},,,,,,,,,,
+pas,Roquefort,pas,Sainte-Colombe-en-Bruilhois,{},{},{},pas,Baigneaux,{},{},{},pas,Monbalen,{},{},{}
+pas,Sainte-Colombe-en-Bruilhois,pas,Tourtrès,{},{},{},pas,Roquefort,{},{},{},pas,Sérignac-sur-Garonne,{},{},{}
+pas,Sérignac-sur-Garonne,pa,Saint-Pierre-de-Bat,{},{'s': 1},{},pas,Sainte-Colombe-en-Bruilhois,{},{},{},pas,Tombebœuf,{},{},{}
+pas,La Croix-Blanche,pas,Escoussans,{},{},{},pas,Laroque-Timbaut-bis,{},{},{},pas,Monbalen,{},{},{}
+pas,La Sauvetat-de-Savères,pas,Faleyras,{},{},{},pas,Laroque-Timbaut,{},{},{},pas,Laroque-Timbaut-bis,{},{},{}
+pas,Laroque-Timbaut-bis,pas,La Croix-Blanche,{},{},{},pas,La Sauvetat-de-Savères,{},{},{},,,,,
+pas,Laroque-Timbaut,pas,La Sauvetat-de-Savères,{},{},{},pas,Saint-Pastour,{},{},{},pas,Monbalen,{},{},{}
+pas,Monbalen,pas,Roquefort,{},{},{},pas,La Croix-Blanche,{},{},{},pas,Laroque-Timbaut,{},{},{}
+pas,Saint-Robert,pas,Veyrines-de-Vergt,{},{},{},pas,Beauville,{},{},{},pas,Sauvagnas,{},{},{}
+pas,Sauvagnas,pas,Saint-Robert,{},{},{},pas,Engayrac,{},{},{},pas,Fongrave,{},{},{}
+pas,Fongrave,pas,Saint-Martin-de-Beauville,{},{},{},pas,Sauvagnas,{},{},{},,,,,
+pas,Monclar-bis,pas,Belvès,{},{},{},pa,Saint-Pierre-de-Bat,{},{'s': 1},{},pas,Monclar,{},{},{}
+pas,Monclar,pas,Soulignac,{},{},{},pas,Monclar-bis,{},{},{},,,,,
+pas,Montastruc,pas,Saint-Pastour,{},{},{},pas,Faleyras,{},{},{},pas,Saint-Étienne-de-Fougères,{},{},{}
+pas,Saint-Étienne-de-Fougères,pas,Montastruc,{},{},{},pas,Soulignac,{},{},{},pas,Tombebœuf,{},{},{}
+pas,Saint-Pastour,pas,Laroque-Timbaut,{},{},{},pas,Montastruc,{},{},{},pas,Tombebœuf,{},{},{}
+pas,Tombebœuf,pas,Saint-Étienne-de-Fougères,{},{},{},pas,Sérignac-sur-Garonne,{},{},{},pas,Saint-Pastour,{},{},{}
+pas,Tourtrès,pas,Villebramar,{},{},{},pas,Sainte-Colombe-en-Bruilhois,{},{},{},pas,Cazoulès,{},{},{}
+pas,Villebramar,pas,Gavaudun,{},{},{},pas,Tourtrès,{},{},{},pas,Lacaussade,{},{},{}
+pas,Bonnenouvelle,pas,Baigneaux,{},{},{},pas,Gavaudun,{},{},{},,,,,
+pas,Gavaudun,pas,Bonnenouvelle,{},{},{},pas,Villebramar,{},{},{},pas,La Sauvetat-sur-Lède,{},{},{}
+pas,La Sauvetat-sur-Lède,pas,Targon-bis,{},{},{},pas,Gavaudun,{},{},{},,,,,
+pas,Lacapelle-Biron,pas,Monplaisant,{},{},{},pas,Targon-bis,{},{},{},pas,Lacaussade,{},{},{}
+pas,Lacaussade,pas,Lacapelle-Biron,{},{},{},pas,Villebramar,{},{},{},pas,Calviac-en-Périgord,{},{},{}
+pas,Laussou,pas,Cazalis,{},{},{},pas,Monflanquin-bis,{},{},{},,,,,
+pas,Monflanquin-bis,pas,Saint-Maurice-de-Lestapel,{},{},{},pas,Monflanquin-Lamothe,{},{},{},pas,Laussou,{},{},{}
+pas,Monflanquin-Lamothe,pas,Monflanquin-bis,{},{},{},pa̱s,Saint-Laurent-sur-Manoire,{'̱': 1},{},{},,,,,
+pas,Monségur,pas,Duhort-Bachen,{},{},{},pas,Montagnac-sur-Lède,{},{},{},,,,,
+pas,Montagnac-sur-Lède,pas,Sainte-Mondane,{},{},{},pas,Aire-sur-l'Adour,{},{},{},pas,Monségur,{},{},{}
+pas,Paulhiac,pas,Salles,{},{},{},pa,Saint-Étienne-de-Lisse,{},{'s': 1},{},pas,Simeyrols,{},{},{}
+pas,Saint-Aubin,pas,Bazas-bis,{},{},{},pas,Salles,{},{},{},pas,Saint-Julien-de-Lampon,{},{},{}
+pas,Salles,pas,Saint-Aubin,{},{},{},pas,Paulhiac,{},{},{},pas,Veyrignac,{},{},{}
+pas,Savignac-sur-Leyze,pa,Vignonet,{},{'s': 1},{},pas,Auradou,{},{},{},pas,Daglan,{},{},{}
+pas,Auradou,pas,Savignac-sur-Leyze,{},{},{},pa,Eugénie-les-Bains,{},{'s': 1},{},pas,Cénac,{},{},{}
+pas,Dausse,pas,Frespech,{},{},{},pas,Grézelle,{},{},{},,,,,
+pas,Frespech,pas,Dausse,{},{},{},pas,La Chapelle-Péchaud,{},{},{},,,,,
+pas,Hautefage-la-Tour,pas,Massoulès,{},{},{},,,,,,,,,,
+pas,Massoulès,pas,Hautefage-la-Tour,{},{},{},,,,,,,,,,
+pas,Saint-Sylvestre-sur-Lot,pas,Cuzorn,{},{},{},pas,Bazens,{},{},{},,,,,
+pas,Trémons,pas,Saint-Félix-de-Foncaude,{},{},{},pas,Trentels,{},{},{},pas,Bazens,{},{},{}
+pas,Trentels,pas,Trémons,{},{},{},pa,Castaignos-Souslens,{},{'s': 1},{},pas,Bourran,{},{},{}
+pas,Bazens,pas,Saint-Sylvestre-sur-Lot,{},{},{},pas,Trémons,{},{},{},pas,Marnac,{},{},{}
+pas,Bourran,pas,Trentels,{},{},{},pas,Plazac,{},{},{},pas,Clermont-Dessous,{},{},{}
+pas,Clermont-Dessous,pas,Saint-Chamassy,{},{},{},pas,Bourran,{},{},{},,,,,
+pas,Galapian,pas,Cazenac,{},{},{},pas,Monmarvès,{},{},{},,,,,
+pas,Lusinhan-Grand,pay,Tursac,{},{},"{('s', 'y'): 1}",pas,Saint-Cyprien,{},{},{},,,,,
+pas,Nicole,pas,Eyvigues,{},{},{},pas,Borrèze,{},{},{},,,,,
+pas,Port-Sainte-Marie,pas,Castel-Sarrazin,{},{},{},pas,Beynac,{},{},{},pas,Paulin,{},{},{}
+pas,Saint-Médard,pas,Lacépède,{},{},{},pas,Philondenx,{},{},{},pas,Cours,{},{},{}
+pas,Saint-Salvy,pas,Saint-Sardos,{},{},{},pay,Condat-sur-Vézère,{},{},"{('s', 'y'): 1}",pas,Laugnac,{},{},{}
+pas,Cours,pas,Eaux-Bonnes,{},{},{},pas,Chavagnac,{},{},{},pas,Saint-Médard,{},{},{}
+pas,Granges-sur-Lot,pas,Grèzes,{},{},{},pas,Saint-André-d'Allas,{},{},{},pas,Laugnac,{},{},{}
+pas,Lacépède,pas,Marcillac-Saint-Quentin,{},{},{},pas,Saint-Médard,{},{},{},pas,Laugnac,{},{},{}
+pas,Laugnac,pas,Saint-Salvy,{},{},{},pas,Granges-sur-Lot,{},{},{},pas,Lacépède,{},{},{}
+pas,Lusignan-Petit,pas,Prayssas-bis,{},{},{},pay,Marcillac,{},{},"{('s', 'y'): 1}",,,,,
+pas,Madaillan,pas,Castelculier,{},{},{},pas,Sainte-Nathalène,{},{},{},pas,Montpezat,{},{},{}
+pas,Montpezat,pas,Marquay,{},{},{},pas,Madaillan,{},{},{},pas,Prayssas-bis,{},{},{}
+pas,Prayssas-bis,pas,Prayssas,{},{},{},pas,Lusignan-Petit,{},{},{},pas,Montpezat,{},{},{}
+pas,Prayssas,pas,Prayssas-bis,{},{},{},pay,Sarlat-bis,{},{},"{('s', 'y'): 1}",,,,,
+pas,Saint-Sardos,pas,La Bachellerie,{},{},{},pas,Saint-Salvy,{},{},{},,,,,
+pas,Castelculier,pas,Lavilledieu,{},{},{},pas,Madaillan,{},{},{},pas,La Bachellerie-Laularie,{},{},{}
+pas,Clermont-Soubiran,pas,La Feuillade,{},{},{},pas,La Dornac,{},{},{},,,,,
+pas,Grayssas,pas,Fontenilles-d'Aigueparse,{},{},{},pas,Puymirol-bis,{},{},{},pas,Valeuil,{},{},{}
+pas,Puymirol-bis,pas,Grayssas,{},{},{},,,,,,,,,,
+pas,Puymirol,pas,Villefranche-du-Périgord,{},{},{},pas,Saint-Caprais-de-Lerm,{},{},{},,,,,
+pas,Saint-Caprais-de-Lerm,pas,Saint-Vincent-de-Cosse,{},{},{},pay,Archignac,{},{},"{('s', 'y'): 1}",pas,Puymirol,{},{},{}
+pas,Saint-Jean-de-Thurac,paÿ,Bardou,{},{},"{('s', 'ÿ'): 1}",pas,Razac-d'Eymet,{},{},{},,,,,
+pas,Allez-et-Cazeneuve,pas,Nassiet,{},{},{},,,,,,,,,,
+pas,Dolmayrac,pas,Mandacou,{},{},{},pas,Faux,{},{},{},,,,,
+pas,Le-Temple-sur-Lot,pas,Saint-Laurent-la-Vallée,{},{},{},pas,Anthé,{},{},{},pas,Sainte-Livrade-sur-Lot-bis,{},{},{}
+pas,Sainte-Livrade-sur-Lot-bis,pas,Lévignacq,{},{},{},pas,Le-Temple-sur-Lot,{},{},{},pas,Sainte-Livrade-sur-Lot,{},{},{}
+pas,Sainte-Livrade-sur-Lot,pas,Bourlens,{},{},{},pas,Sainte-Livrade-sur-Lot-bis,{},{},{},,,,,
+pas,Anthé,pas,Le-Temple-sur-Lot,{},{},{},pas,Saint-Cybranet,{},{},{},pas,Bourlens,{},{},{}
+pas,Bourlens,pa,Léon,{},{'s': 1},{},pas,Sainte-Livrade-sur-Lot,{},{},{},pas,Anthé,{},{},{}
+pas,Cazideroque,pas,Tartas,{},{},{},pas,Courbiac,{},{},{},,,,,
+pas,Courbiac,pas,Cazideroque,{},{},{},pas,Léren,{},{},{},pas,Masquières,{},{},{}
+pas,Masquières,pas,Andrein,{},{},{},pas,Courbiac,{},{},{},,,,,
+pas,Montayral,pas,Naussannes,{},{},{},pas,Perricard,{},{},{},,,,,
+pas,Perricard,pas,Meilhan,{},{},{},pas,Beaumont-du-Périgord,{},{},{},pas,Montayral,{},{},{}
+pas,Saint-Georges,pas,Bayac,{},{},{},pas,Montferrand-du-Périgord,{},{},{},,,,,
+pas,Saint-Vite,pos,Nojals-et-Clotte,{},{},"{('a', 'o'): 1}",,,,,,,,,,
+pas,Thézac,pas,Saint-Germain-et-Mons,{},{},{},,,,,,,,,,
+pas,Tournon-d'Agenais,pas,Bergerac-Sainte-Madeleine,{},{},{},pas,Le Tourne,{},{},{},pas,Bias,{},{},{}
+pas,Bias,pas,Tournon-d'Agenais,{},{},{},pas,Sallebœuf,{},{},{},pas,Courbiac,{},{},{}
+pas,Courbiac,pas,Bias,{},{},{},pas,Creysse,{},{},{},,,,,
+pas,Eysses,pas,Mouleydier,{},{},{},pa,Mestras,{},{'s': 1},{},pas,Lédat,{},{},{}
+pas,Lédat,pas,Eysses,{},{},{},pay,Cours-de-Pile,{},{},"{('s', 'y'): 1}",,,,,
+pas,Pujols,pas,Cabara,{},{},{},pas,Saint-Antoine-de-Ficalba,{},{},{},pas,Saint-Germain,{},{},{}
+pas,Saint-Antoine-de-Ficalba,pas,Pujols,{},{},{},pas,Dax,{},{},{},pas,Sainte-Colombe-de-Villeneuve,{},{},{}
+pas,Saint-Germain,pa,Saint-Paul-lès-Dax,{},{'s': 1},{},pas,Pujols,{},{},{},pas,Sainte-Colombe-de-Villeneuve,{},{},{}
+pas,Sainte-Colombe-de-Villeneuve,pas,Saint-Antoine-de-Ficalba,{},{},{},pas,Rives,{},{},{},pas,Saint-Germain,{},{},{}
+pas,Sembas,pas,Villeneuve-sur-Lot-ter,{},{},{},pas,Heugas,{},{},{},,,,,
+pas,Villeneuve-sur-Lot-ter,pas,Saint-Étienne-de-Villeréal,{},{},{},pas,Sembas,{},{},{},,,,,
+pas,Villeneuve-sur-Lot,pas,Parranquet,{},{},{},pas,Bournel,{},{},{},,,,,
+pas,Bournel,pas,Villeneuve-sur-Lot,{},{},{},,,,,,,,,,
+pas,Dévillac,pa,La Lande-de-Fronsac,{},{'s': 1},{},pas,Doudrac,{},{},{},pas,Ginestet,{},{},{}
+pas,Doudrac,pas,Dévillac,{},{},{},pas,Saint-Pandelon,{},{},{},pas,Montaut,{},{},{}
+pas,Mazières-Naresse,pas,Le Fleix,{},{},{},pas,Montaut,{},{},{},,,,,
+pas,Montaut,pas,Doudrac,{},{},{},pas,Mazières-Naresse,{},{},{},,,,,
+pas,Parranquet,pas,Villeneuve-sur-Lot,{},{},{},,,,,,,,,,
+pas,Rayet,pa,Herm,{},{'s': 1},{},pas,Saint-Étienne-de-Villeréal,{},{},{},pas,Rives,{},{},{}
+pas,Rives,pas,Sainte-Colombe-de-Villeneuve,{},{},{},pas,Rayet,{},{},{},pas,Baneuil,{},{},{}
+pas,Saint-Étienne-de-Villeréal,pas,Villeneuve-sur-Lot-ter,{},{},{},pas,Cause-de-Clérans,{},{},{},pas,Rayet,{},{},{}
+pas,Saint-Eutrope-de-Born,pas,Notre-Dame-de-Sanilhac,{},{},{},pas,Cahuzac,{},{},{},,,,,
+pas,Saint-Martin-de-Villeréal,paèh,Brantôme,{'è': 1},{},"{('s', 'h'): 1}",pas,Saint-Geyrac,{},{},{},,,,,
+pas,Tourliac,pos,Prigonrieux-bis,{},{},"{('a', 'o'): 1}",pa,Lugon-et-l'Île-du-Carnay,{},{'s': 1},{},pas,Villeréal-bis,{},{},{}
+pas,Villeréal-bis,pas,Tourliac,{},{},{},pos,Saint-Pierre-d'Eyraud,{},{},"{('a', 'o'): 1}",pas,Villeréal,{},{},{}
+pas,Villeréal,pos,Saint-Georges-Blancaneix,{},{},"{('a', 'o'): 1}",pas,Villeréal-bis,{},{},{},,,,,
+pas,Accous-bis,pas,Accous,{},{},{},pas,Aydius,{},{},{},,,,,
+pas,Accous,pas,Monfaucon-Sud,{},{},{},pas,Accous-bis,{},{},{},,,,,
+pas,Aydius,pas,Accous-bis,{},{},{},pos,Lalinde,{},{},"{('a', 'o'): 1}",pas,Pressignac,{},{},{}
+pas,Bedous,pas,Cette-Eygun,{},{},{},pa,Lavazan,{},{'s': 1},{},pas,Borce,{},{},{}
+pas,Borce,pas,Bedous,{},{},{},pa,Estigarde,{},{'s': 1},{},pas,Escot,{},{},{}
+pas,Cette-Eygun,pas,Escot,{},{},{},pas,Grignols,{},{},{},pas,Bedous,{},{},{}
+pas,Escot,pah,Lagrange,{},{},"{('s', 'h'): 1}",pas,Cette-Eygun,{},{},{},pas,Borce,{},{},{}
+pas,Etsaut,pas,Urdos,{},{},{},pas,Losse,{},{},{},pos,Marsalès,{},{},"{('a', 'o'): 1}"
+pas,Lées-Athas,pos,Saint-Avit-Rivière,{},{},"{('a', 'o'): 1}",pas,Issor,{},{},{},pas,Ance,{},{},{}
+pas,Lescun,pas,Vérac,{},{},{},pas,Osse-en-Aspe,{},{},{},pas,Lourdios-Ichère,{},{},{}
+pas,Lourdios-Ichère,pas,Lescun,{},{},{},pas,Sarrance,{},{},{},,,,,
+pas,Osse-en-Aspe,pas,Lescun,{},{},{},pas,Salles-bis,{},{},{},pas,Urdos,{},{},{}
+pas,Sarrance,pas,Lanne-en-Barétous,{},{},{},pas,Lourdios-Ichère,{},{},{},pas,Ance,{},{},{}
+pas,Urdos,pas,Osse-en-Aspe,{},{},{},pas,Etsaut,{},{},{},pas,Ance,{},{},{}
+pas,Ance,pas,Urdos,{},{},{},pas,Lées-Athas,{},{},{},pas,Sarrance,{},{},{}
+pas,Aramits,pas,Daignac,{},{},{},pas,Arette,{},{},{},,,,,
+pas,Arette,pas,Losse,{},{},{},pas,Aramits,{},{},{},pos,Monpazier-bis,{},{},"{('a', 'o'): 1}"
+pas,Féas,pas,Issor,{},{},{},pas,Arudy,{},{},{},,,,,
+pas,Issor,pas,Lées-Athas,{},{},{},pas,Féas,{},{},{},pas,Lanne-en-Barétous,{},{},{}
+pas,Lanne-en-Barétous,pas,Sarrance,{},{},{},pas,Issor,{},{},{},,,,,
+pas,Arudy-bis,pas,Arudy,{},{},{},,,,,,,,,,
+pas,Arudy,pas,Féas,{},{},{},pos,Monpazier,{},{},"{('a', 'o'): 1}",pas,Arudy-bis,{},{},{}
+pas,Bescat,pas,Pondaurat,{},{},{},pos,Grand-Castang,{},{},"{('a', 'o'): 1}",,,,,
+pas,Buzy,pas,Mugron,{},{},{},,,,,,,,,,
+pas,Castet,pay,Paunat,{},{},"{('s', 'y'): 1}",pas,Mauvezin-d'Armagnac,{},{},{},,,,,
+pas,Izeste,pas,Louvie-Juzon,{},{},{},pas,Lerm-et-Musset,{},{},{},,,,,
+pas,Louvie-Juzon,pas,Camiran,{},{},{},pas,Izeste,{},{},{},pas,Rébénacq,{},{},{}
+pas,Lys,pas,Capbis,{},{},{},pas,Mifaget,{},{},{},pas,Bidos,{},{},{}
+pas,Mifaget,pas,Lys,{},{},{},pas,Rébénacq,{},{},{},,,,,
+pas,Rébénacq,pa,Baigts,{},{'s': 1},{},pas,Louvie-Juzon,{},{},{},pas,Mifaget,{},{},{}
+pas,Sainte-Colome,pas,Sévignacq-Meyracq,{},{},{},pas,Bergouey,{},{},{},pas,Bidos,{},{},{}
+pas,Sévignacq-Meyracq,pas,Sainte-Colome,{},{},{},pos,Sainte-Foy-de-Longas,{},{},"{('a', 'o'): 1}",,,,,
+pas,Bidos,pas,Sainte-Colome,{},{},{},pas,Lys,{},{},{},,,,,
+pas,Buziet,pas,Parleboscq,{},{},{},pas,Trémolat,{},{},{},,,,,
+pas,Cardesse,pas,Escou,{},{},{},pas,Parleboscq,{},{},{},pas,Lurbe-Saint-Christau,{},{},{}
+pas,Escou,pas,Geaune-bis,{},{},{},pas,Cardesse,{},{},{},pas,Escout,{},{},{}
+pas,Escout,pas,Eysus,{},{},{},pa,Lacajunte,{},{'s': 1},{},pas,Escou,{},{},{}
+pas,Eysus,pas,Ledeuix,{},{},{},pa,Mauries,{},{'s': 1},{},pas,Escout,{},{},{}
+pas,Goès,pas,Miramont-Sensacq,{},{},{},pas,Ledeuix,{},{},{},pas,Herrère,{},{},{}
+pas,Herrère,pas,Goès,{},{},{},,,,,,,,,,
+pas,Ledeuix,pas,Goès,{},{},{},pas,Eysus,{},{},{},pas,Lurbe-Saint-Christau,{},{},{}
+pas,Lurbe-Saint-Christau,pas,Cardesse,{},{},{},pos,Cunèges,{},{},"{('a', 'o'): 1}",pas,Ledeuix,{},{},{}
+pas,Notre-Dame-bis,pas,Aubagnan,{},{},{},par,Maspie-Lalonquère-Juillacq,{},{},"{('s', 'r'): 1}",,,,,
+pas,Notre-Dame,pas,Oloron-ouest-bis,{},{},{},pa,Bordères,{},{'s': 1},{},pas,Oloron-est,{},{},{}
+pas,Ogeu-les-Bains,pa,Benquet,{},{'s': 1},{},pas,Oloron-est,{},{},{},,,,,
+pas,Oloron-est,pas,Monein-bis,{},{},{},pas,Ogeu-les-Bains,{},{},{},pas,Notre-Dame,{},{},{}
+pas,Oloron-ouest-bis,pas,Notre-Dame,{},{},{},,,,,,,,,,
+pas,Oloron-ouest,pas,Sendets,{},{},{},pas,Précilhon,{},{},{},pas,Poey-d'Oloron,{},{},{}
+pas,Poey-d'Oloron,pas,Aren,{},{},{},pas,Oloron-ouest,{},{},{},pas,Agnos,{},{},{}
+pas,Précilhon,pas,Oloron-ouest,{},{},{},pas,Béguey,{},{},{},pas,Saucède,{},{},{}
+pas,Saucède,pas,Précilhon,{},{},{},pas,Saint-Morillon,{},{},{},pas,Agnos,{},{},{}
+pas,Agnos,pas,Saucède,{},{},{},pas,Saint-Goin,{},{},{},pas,Poey-d'Oloron,{},{},{}
+pas,Aren,pas,Asasp-Arros,{},{},{},pas,Poey-d'Oloron,{},{},{},pas,Saint-Goin,{},{},{}
+pas,Asasp-Arros-bis,pas,Géronce,{},{},{},pas,Lauret,{},{},{},pas,Asasp-Arros,{},{},{}
+pas,Asasp-Arros,pas,Miramont-Sensacq,{},{},{},pas,Aren,{},{},{},pas,Asasp-Arros-bis,{},{},{}
+pas,Géronce,pas,Bats,{},{},{},pas,Asasp-Arros-bis,{},{},{},pas,Geüs-d'Oloron,{},{},{}
+pas,Geüs-d'Oloron,pas,Gurmençon,{},{},{},pas,Sainte-Meille,{},{},{},pas,Géronce,{},{},{}
+pas,Gurmençon,pas,Saint-Selve,{},{},{},pas,Geüs-d'Oloron,{},{},{},pas,Saint-Goin,{},{},{}
+pas,Saint-Goin,pas,Agnos,{},{},{},pas,Gurmençon,{},{},{},pas,Aren,{},{},{}
+pas,Anglet,pas,Bayonne-Saint-André,{},{},{},pas,Bilhères,{},{},{},pas,Bassussarry,{},{},{}
+pas,Bassussarry,pas,Anglet,{},{},{},pas,Philondenx,{},{},{},pas,Bayonne-Nord-Ouest-bis,{},{},{}
+pas,Bayonne-Nord-Ouest-bis,pas,Boucau,{},{},{},pas,Bayonne-Nord-Ouest,{},{},{},pas,Bassussarry,{},{},{}
+pas,Bayonne-Nord-Ouest,pas,Bayonne-Nord-Ouest-bis,{},{},{},pas,Casseuil,{},{},{},pas,Biarritz,{},{},{}
+pas,Bayonne-Saint-André,pas,Bayonne-Saint-Esprit,{},{},{},pas,Bielle,{},{},{},pas,Anglet,{},{},{}
+pas,Bayonne-Saint-Esprit,pas,Espoey,{},{},{},pas,Bayonne-Saint-André,{},{},{},pas,Biarritz,{},{},{}
+pas,Biarritz,pas,Bayonne-Nord-Ouest,{},{},{},pas,Bosdarros,{},{},{},pas,Bayonne-Saint-Esprit,{},{},{}
+pas,Boucau,pas,Saint-Pierre-d'Irube,{},{},{},pas,Bayonne-Nord-Ouest-bis,{},{},{},,,,,
+pas,Saint-Pierre-d'Irube,pas,Puyol-Cazalet,{},{},{},pas,Boucau,{},{},{},pas,Arancou,{},{},{}
+pas,Arancou,pas,Saint-Pierre-d'Irube,{},{},{},,,,,,,,,,
+pas,Bergouey,pas,Pimbo,{},{},{},,,,,,,,,,
+pas,Bidache-bis,pa,Saint-Cricq-du-Gave,{},{'s': 1},{},,,,,,,,,,
+pas,Bidache,pas,Mauvezin-d'Armagnac,{},{},{},pos,Pezuls,{},{},"{('a', 'o'): 1}",pas,Came,{},{},{}
+pas,Came,pas,Mugron-bis,{},{},{},pas,Bidache,{},{},{},pas,Laruns,{},{},{}
+pas,Guiche,pas,Sames,{},{},{},pas,Laruns-bis,{},{},{},poï,Saint-Laurent-des-Bâtons,{},{},"{('a', 'o'): 1, ('s', 'ï'): 1}"
+pas,Sames,pas,Viellenave,{},{},{},pas,Guiche,{},{},{},pas,Aste-Béon,{},{},{}
+pas,Viellenave,pas,Vitrac,{},{},{},pas,Sames,{},{},{},pa,Maure,{},{'s': 1},{}
+pas,Aste-Béon,pas,Sainte-Alvère,{},{},{},pas,Monségur,{},{},{},pas,Sames,{},{},{}
+pas,Béost,pas,Bielle,{},{},{},pas,Ger,{},{},{},pas,Laruns,{},{},{}
+pas,Bielle,pas,Bayonne-Saint-André,{},{},{},pas,Béost,{},{},{},pas,Bilhères,{},{},{}
+pas,Bilhères,pas,Anglet,{},{},{},pas,Bielle,{},{},{},pas,Eaux-Bonnes,{},{},{}
+pas,Eaux-Bonnes,pas,Gère-Bélesten,{},{},{},pas,Cours,{},{},{},pas,Bilhères,{},{},{}
+pas,Gère-Bélesten,pay,Beauregard-de-Terrasson-Lardin,{},{},"{('s', 'y'): 1}",pas,Eaux-Bonnes,{},{},{},pas,Laruns-bis,{},{},{}
+pas,Laruns-bis,pas,Guiche,{},{},{},pas,Gère-Bélesten,{},{},{},pas,Laruns,{},{},{}
+pas,Laruns,pas,Béost,{},{},{},pas,Came,{},{},{},pas,Laruns-bis,{},{},{}
+pas,Louvie-Soubiron,pas,Gaillan-en-Médoc,{},{},{},,,,,,,,,,
+pas,Aubertin,paï,Lacommande,{},{},"{('s', 'ï'): 1}",pas,Estialescq,{},{},{},,,,,
+pas,Estialescq,pas,Aubertin,{},{},{},pas,Samadet,{},{},{},pas,Lasseube,{},{},{}
+paï,Lacommande,pas,Vendays-Montalivet,{},{},"{('ï', 's'): 1}",pas,Aubertin,{},{},"{('ï', 's'): 1}",pay,Lasseube-bis,{},{},"{('ï', 'y'): 1}"
+pay,Lasseube-bis,pas,Lasseube,{},{},"{('y', 's'): 1}",pa,Valeyrac,{},{'y': 1},{},paï,Lacommande,{},{},"{('y', 'ï'): 1}"
+pas,Lasseube,pas,Urgons,{},{},{},pay,Lasseube-bis,{},{},"{('s', 'y'): 1}",pas,Estialescq,{},{},{}
+pas,Lasseubetat,pa,Benquet,{},{'s': 1},{},pas,Monein-bis,{},{},{},pas,Lahourcade,{},{},{}
+pas,Abos,pas,Lucq-de-Béarn,{},{},{},pas,Téthieu,{},{},{},pas,Cuqueron,{},{},{}
+pas,Cuqueron,pa,Tercis-les-Bains,{},{'s': 1},{},pas,Lahourcade,{},{},{},pas,Abos,{},{},{}
+pas,Lahourcade,pas,Cuqueron,{},{},{},pas,Bascons,{},{},{},pas,Lasseubetat,{},{},{}
+pas,Lucq-de-Béarn,pa,Bordères,{},{'s': 1},{},pas,Abos,{},{},{},pas,Monein-bis,{},{},{}
+pas,Monein-bis,pas,Lasseubetat,{},{},{},pas,Oloron-est,{},{},{},pas,Lucq-de-Béarn,{},{},{}
+pas,Monein,,,,,,,,,,,,,,,
+pas,Parbayse,paï,Pardies,{},{},"{('s', 'ï'): 1}",,,,,,,,,,
+paï,Pardies,pas,Grézillac,{},{},"{('ï', 's'): 1}",pas,Parbayse,{},{},"{('ï', 's'): 1}",pas,Escurès,{},{},"{('ï', 's'): 1}"
+pas,Tarsacq,pas,Mascaraàs-Haron,{},{},{},païs,Gestas,{'ï': 1},{},{},pas,Osserain,{},{},{}
+païs,Gestas,pas,Tarsacq,{},{'ï': 1},{},pas,Anoye,{},{'ï': 1},{},,,,,
+pas,Labets-Biscay,pas,Castetpugon,{},{},{},pas,Osserain,{},{},{},,,,,
+pas,Osserain,pas,La Bastide-Clairence-bis,{},{},{},pas,Tarsacq,{},{},{},pas,Labets-Biscay,{},{},{}
+pas,Montory,pas,Diusse,{},{},{},pas,La Bastide-Clairence-bis,{},{},{},pay,Conchez-de-Béarn,{},{},"{('s', 'y'): 1}"
+pas,La Bastide-Clairence-bis,pas,Montory,{},{},{},pas,Saint-Jean-Poudge,{},{},{},pas,Osserain,{},{},{}
+pas,La Bastide-Clairence,pas,Urt,{},{},{},,,,,,,,,,
+pas,Urt,pas,La Bastide-Clairence,{},{},{},pas,Grenade-sur-l'Adour,{},{},{},pas,Aubous,{},{},{}
+pas,Aubous,pas,Boueilh-Boueilho-Lasque,{},{},{},pas,Urt,{},{},{},,,,,
+pas,Aydie,,,,,,,,,,,,,,,
+pas,Baliracq-Maumusson,pas,Grenade-sur-l'Adour,{},{},{},pas,Boueilh-Boueilho-Lasque,{},{},{},,,,,
+pas,Boueilh-Boueilho-Lasque,pas,Aubous,{},{},{},pas,Baliracq-Maumusson,{},{},{},,,,,
+pas,Burosse-Mendousse,pay,Conchez-de-Béarn,{},{},"{('s', 'y'): 1}",,,,,,,,,,
+pas,Castetpugon,pas,Labets-Biscay,{},{},{},pay,Conchez-de-Béarn,{},{},"{('s', 'y'): 1}",,,,,
+pay,Conchez-de-Béarn,pas,Burosse-Mendousse,{},{},"{('y', 's'): 1}",pas,Montory,{},{},"{('y', 's'): 1}",pas,Castetpugon,{},{},"{('y', 's'): 1}"
+pas,Diusse,paÿ,Garlin-bis,{},{},"{('s', 'ÿ'): 1}",pas,Montory,{},{},{},,,,,
+paÿ,Garlin-bis,pas,Bégadan,{},{},"{('ÿ', 's'): 1}",pas,Diusse,{},{},"{('ÿ', 's'): 1}",paï,Garlin,{},{},"{('ÿ', 'ï'): 1}"
+paï,Garlin,pos,Saint-Romain-de-Monpazier,{},{},"{('a', 'o'): 1, ('ï', 's'): 1}",paÿ,Garlin-bis,{},{},"{('ï', 'ÿ'): 1}",,,,,
+pas,Mascaraàs-Haron,pas,Moncla,{},{},{},pas,Tarsacq,{},{},{},pas,Saint-Jean-Poudge,{},{},{}
+pas,Moncla,pay,Bassillon-Vauzé,{},{},"{('s', 'y'): 1}",pas,Mascaraàs-Haron,{},{},{},pas,Portet,{},{},{}
+pas,Mont-Disse,pas,Chartrons,{},{},{},pas,Mouhous,{},{},{},pas,Ribarrouy,{},{},{}
+pas,Mouhous,pas,Mont-Disse,{},{},{},pas,Sainte-Colombe,{},{},{},pas,Portet,{},{},{}
+pas,Portet,pas,Mouhous,{},{},{},pas,Maurrin,{},{},{},pas,Moncla,{},{},{}
+pas,Ribarrouy,pas,Saint-Jean-Poudge,{},{},{},pas,Bruges,{},{},{},pas,Mont-Disse,{},{},{}
+pas,Saint-Jean-Poudge,pas,La Bastide-Clairence-bis,{},{},{},pas,Ribarrouy,{},{},{},pas,Mascaraàs-Haron,{},{},{}
+pas,Tadousse-Ussau,pas,Arricau-Bordes,{},{},{},pas,Vialer,{},{},{},paï,Taron,{},{},"{('s', 'ï'): 1}"
+paï,Taron,pas,Anoye,{},{},"{('ï', 's'): 1}",pas,Bétracq,{},{},"{('ï', 's'): 1}",pas,Tadousse-Ussau,{},{},"{('ï', 's'): 1}"
+pas,Vialer,pas,Tadousse-Ussau,{},{},{},pas,Anoye,{},{},{},,,,,
+pas,Anoye,païs,Gestas,{'ï': 1},{},{},paï,Taron,{},{},"{('s', 'ï'): 1}",pas,Vialer,{},{},{}
+pas,Arricau-Bordes,pas,Tadousse-Ussau,{},{},{},pas,Aurions-Idernes,{},{},{},,,,,
+pas,Arrosès,pas,Le Vignau,{},{},{},pay,Bassillon-Vauzé,{},{},"{('s', 'y'): 1}",,,,,
+pas,Aurions-Idernes,pas,Arricau-Bordes,{},{},{},pas,Bétracq,{},{},{},,,,,
+pay,Bassillon-Vauzé,pas,Bétracq,{},{},"{('y', 's'): 1}",pas,Moncla,{},{},"{('y', 's'): 1}",pas,Arrosès,{},{},"{('y', 's'): 1}"
+pas,Bétracq,paï,Taron,{},{},"{('s', 'ï'): 1}",pay,Bassillon-Vauzé,{},{},"{('s', 'y'): 1}",pas,Aurions-Idernes,{},{},{}
+pas,Cadillon,pa,Castelner,{},{'s': 1},{},pas,Castillon,{},{},{},,,,,
+pas,Castillon,pas,Gerderest,{},{},{},pas,Cadillon,{},{},{},,,,,
+päy,Coslédaà-Lube-Boast,pas,Crouseilles,{},{},"{('ä', 'a'): 1, ('y', 's'): 1}",pa,Garein,{},{'y': 1},"{('ä', 'a'): 1}",pas,Escurès,{},{},"{('ä', 'a'): 1, ('y', 's'): 1}"
+pas,Crouseilles,pas,Lasserre,{},{},{},päy,Coslédaà-Lube-Boast,{},{},"{('a', 'ä'): 1, ('s', 'y'): 1}",pas,Gayon,{},{},{}
+pas,Escurès,päy,Coslédaà-Lube-Boast,{},{},"{('a', 'ä'): 1, ('s', 'y'): 1}",paï,Pardies,{},{},"{('s', 'ï'): 1}",,,,,
+pas,Gayon,pas,Lembeye,{},{},{},pas,Crouseilles,{},{},{},,,,,
+pas,Gerderest,pas,Castillon,{},{},{},pas,Lannecaube,{},{},{},pay,Lalongue,{},{},"{('s', 'y'): 1}"
+pay,Lalongue,pas,Lembeye-bis,{},{},"{('y', 's'): 1}",pa,Cazalis,{},{'y': 1},{},pas,Gerderest,{},{},"{('y', 's'): 1}"
+pas,Lannecaube,pa,Naujac-sur-Mer,{},{'s': 1},{},pas,Lasserre,{},{},{},pas,Gerderest,{},{},{}
+pas,Lasserre,pas,Lannecaube,{},{},{},pas,Crouseilles,{},{},{},pas,Lembeye,{},{},{}
+pas,Lembeye-bis,pas,Lembeye,{},{},{},pay,Lalongue,{},{},"{('s', 'y'): 1}",,,,,
+pas,Lembeye,pas,Gayon,{},{},{},pas,Lembeye-bis,{},{},{},pas,Lasserre,{},{},{}
+pa,Lespielle,pa,Castelner,{},{},{},pa,Luc-Armau,{},{},{},,,,,
+pa,Luc-Armau,pa,Lespielle,{},{},{},pas,Lucarré,{'s': 1},{},{},,,,,
+pas,Lucarré,pa,Luc-Armau,{},{'s': 1},{},par,Maspie-Lalonquère-Juillacq,{},{},"{('s', 'r'): 1}",,,,,
+pas,Lussagnet-Lusson,par,Maspie-Lalonquère-Juillacq,{},{},"{('s', 'r'): 1}",,,,,,,,,,
+par,Maspie-Lalonquère-Juillacq,pas,Lucarré,{},{},"{('r', 's'): 1}",pas,Notre-Dame-bis,{},{},"{('r', 's'): 1}",pas,Lussagnet-Lusson,{},{},"{('r', 's'): 1}"
+pas,Momy,pas,Monassut-Audiracq,{},{},{},pas,Billère,{},{},{},,,,,
+pas,Monassut-Audiracq,pas,Momy,{},{},{},,,,,,,,,,
+pas,Moncaup,pas,Beyrie-en-Béarn,{},{},{},pas,Monpezat,{},{},{},pas,Arbus,{},{},{}
+pas,Monpezat,pas,Moncaup,{},{},{},pa,Peyrelongue-Abos,{},{'s': 1},{},,,,,
+pa,Peyrelongue-Abos,pas,Samsons-Lion,{'s': 1},{},{},pas,Monpezat,{'s': 1},{},{},,,,,
+pas,Samsons-Lion,pa,Peyrelongue-Abos,{},{'s': 1},{},pas,Simacourbe,{},{},{},,,,,
+pas,Séméacq-Blachon,pas,Hagetmau-bis,{},{},{},pas,Arbus,{},{},{},,,,,
+pas,Simacourbe,pas,Samsons-Lion,{},{},{},pas,Arbus,{},{},{},,,,,
+pas,Arbus,pas,Séméacq-Blachon,{},{},{},pas,Moncaup,{},{},{},pas,Simacourbe,{},{},{}
+pa,Artiguelouve,pas,Aussevielle,{'s': 1},{},{},pas,Mant,{'s': 1},{},{},,,,,
+pas,Aussevielle,pas,Hagetmau-bis,{},{},{},pa,Artiguelouve,{},{'s': 1},{},pas,Beyrie-en-Béarn,{},{},{}
+pas,Beyrie-en-Béarn,pas,Billère,{},{},{},pas,Moncaup,{},{},{},pas,Aussevielle,{},{},{}
+pas,Billère,pas,Momy,{},{},{},pas,Beyrie-en-Béarn,{},{},{},,,,,
+pas,Bougarber,pas,Caubios-Loos,{},{},{},pa,Horsarrieu,{},{'s': 1},{},pas,Lescar-bis,{},{},{}
+pas,Caubios-Loos,pas,Bascons,{},{},{},pas,Bougarber,{},{},{},,,,,
+pas,Denguin,pas,Lescar-bis,{},{},{},,,,,,,,,,
+pas,Lescar-bis,pas,Bougarber,{},{},{},pas,Denguin,{},{},{},,,,,
+pas,Lescar,pas,Lesparre-Médoc,{},{},{},,,,,,,,,,
+pas,Lons,pas,Poey-de-Lescar,{},{},{},,,,,,,,,,
+pas,Momas,pa,Bélis,{},{'s': 1},{},pas,Poey-de-Lescar,{},{},{},,,,,
+pas,Poey-de-Lescar,pas,Momas,{},{},{},pas,Saint-Seurin-de-Cadourne,{},{},{},pas,Lons,{},{},{}
+pa,Sauvagnon,pa,Vert,{},{},{},,,,,,,,,,
+päs,Siros,pas,Aast,{},{},"{('ä', 'a'): 1}",,,,,,,,,,
+pas,Uzein,pas,Aast,{},{},{},pa,Saint-Paul-en-Born,{},{'s': 1},{},,,,,
+pas,Aast,päs,Siros,{},{},"{('a', 'ä'): 1}",pas,Uzein,{},{},{},pas,Bentayou-Sérée,{},{},{}
+pas,Baleix,pas,Ponson-Dessus,{},{},{},pas,Castéra-Loubix,{},{},{},pas,Bédeille,{},{},{}
+pas,Bédeille,pas,Baleix,{},{},{},pas,Bentayou-Sérée,{},{},{},,,,,
+pas,Bentayou-Sérée,pas,Labatut,{},{},{},pas,Aast,{},{},{},pas,Bédeille,{},{},{}
+pa,Casteide-Doat,pas,Castéra-Loubix,{'s': 1},{},{},pas,Castelnau-Chalosse,{'s': 1},{},{},pas,Lamayou,{'s': 1},{},{}
+pas,Castéra-Loubix,pas,Baleix,{},{},{},pa,Casteide-Doat,{},{'s': 1},{},pas,Labatut,{},{},{}
+pas,Labatut,pas,Bentayou-Sérée,{},{},{},pas,Castéra-Loubix,{},{},{},,,,,
+pas,Lamayou,pa,Casteide-Doat,{},{'s': 1},{},,,,,,,,,,
+pa,Maure,pas,Viellenave,{'s': 1},{},{},pas,Monségur,{'s': 1},{},{},,,,,
+pas,Monségur,pas,Aste-Béon,{},{},{},pa,Maure,{},{'s': 1},{},,,,,
+pa,Montaner-bis,pa,Lucbardez-et-Bargues,{},{},{},paz,Montaner,{'z': 1},{},{},,,,,
+paz,Montaner,pa,Montaner-bis,{},{'z': 1},{},pas,Haut-Mauco,{},{},"{('z', 's'): 1}",pas,Ponson-Debat-Pouts,{},{},"{('z', 's'): 1}"
+pas,Ponson-Debat-Pouts,pa,Geloux,{},{'s': 1},{},pas,Ponson-Dessus,{},{},{},paz,Montaner,{},{},"{('s', 'z'): 1}"
+pas,Ponson-Dessus,pas,Ponson-Debat-Pouts,{},{},{},pas,Baleix,{},{},{},,,,,
+pas,Pontiacq-Viellepinte,pas,Abère,{},{},{},pa,Lucbardez-et-Bargues,{},{'s': 1},{},,,,,
+pas,Sedze-Maubecq,pa,Bretagne-de-Marsan,{},{'s': 1},{},pas,Abère,{},{},{},,,,,
+pas,Abère,pas,Gaillères,{},{},{},pas,Pontiacq-Viellepinte,{},{},{},pas,Sedze-Maubecq,{},{},{}
+pas,Andoins,pa,Saint-Yzans-de-Médoc,{},{'s': 1},{},pas,Anos,{},{},{},,,,,
+pas,Anos,pas,Andoins,{},{},{},,,,,,,,,,
+pas,Arrien,pas,Eslourenties-Daban,{},{},{},pas,Barinque,{},{},{},,,,,
+pas,Barinque,pas,Arrien,{},{},{},pas,Cassen,{},{},{},pas,Bernadets,{},{},{}
+pas,Bernadets,pas,Uchacq,{},{},{},pas,Barinque,{},{},{},,,,,
+pas,Buros,pa,Montfort-en-Chalosse-bis,{},{'s': 1},{},pas,Escoubès,{},{},{},pas,Lespourcy,{},{},{}
+pas,Escoubès,pas,Buros,{},{},{},pa,Saint-Perdon,{},{'s': 1},{},pas,Eslourenties-Daban,{},{},{}
+pas,Eslourenties-Daban,pas,Escoubès,{},{},{},pas,Arrien,{},{},{},pas,Higuères-Souye,{},{},{}
+pas,Espéchède,pas,Gabaston,{},{},{},pa,Montfort-en-Chalosse,{},{'s': 1},{},pas,Lespourcy,{},{},{}
+pas,Gabaston,pa,Ozourt,{},{'s': 1},{},pas,Espéchède,{},{},{},,,,,
+pas,Higuères-Souye,pas,Eslourenties-Daban,{},{},{},pas,Lespourcy,{},{},{},,,,,
+pas,Lespourcy,pas,Espéchède,{},{},{},pas,Buros,{},{},{},pas,Higuères-Souye,{},{},{}
+pas,Lombia,pas,Onard,{},{},{},pas,Montardon,{},{},{},,,,,
+pas,Maucor,pas,Riupeyrous,{},{},{},pas,Morlaàs-bis,{},{},{},,,,,
+pas,Montardon,pa,Le Tuzan,{},{'s': 1},{},pas,Morlaàs-bis,{},{},{},pas,Lombia,{},{},{}
+pas,Morlaàs-bis,pas,Montardon,{},{},{},pas,Lourquen,{},{},{},pas,Maucor,{},{},{}
+pas,Morlaàs,pas,Lourquen,{},{},{},pas,Ouillon,{},{},{},pas,Riupeyrous,{},{},{}
+pas,Ouillon,pas,Morlaàs,{},{},{},pas,Saint-Jean-de-Lier,{},{},{},,,,,
+pas,Riupeyrous,pas,Maucor,{},{},{},pas,Morlaàs,{},{},{},,,,,
+pas,Saint-Armou,pas,Saint-Jean-de-Lier,{},{},{},,,,,,,,,,
+pas,Saint-Castin,pas,Saint-Jammes,{},{},{},pas,Saint-Laurent-Bretagne,{},{},{},,,,,
+pas,Saint-Jammes,pas,Saint-Castin,{},{},{},pas,Saubole,{},{},{},,,,,
+pas,Saint-Laurent-Bretagne,pas,Saubole,{},{},{},pas,Saint-Castin,{},{},{},,,,,
+pas,Saubole,pas,Saint-Laurent-Bretagne,{},{},{},pa,Vicq-d'Auribat,{},{'s': 1},{},pas,Saint-Jammes,{},{},{}
+pas,Sedzère,pas,Saint-Quentin-de-Baron,{},{},{},pas,Sendets,{},{},{},,,,,
+pas,Sendets,pas,Sedzère,{},{},{},pa,Serres-Castet,{},{'s': 1},{},,,,,
+pa,Serres-Castet,pas,Sendets,{'s': 1},{},{},,,,,,,,,,
+pa,Serres-Morlaàs,pas,Léognan,{'s': 1},{},{},pa,Urost,{},{},{},,,,,
+pa,Urost,pa,Boeil-Bezing,{},{},{},pa,Serres-Morlaàs,{},{},{},,,,,
+pa,Angaïs,pas,Arengosse,{'s': 1},{},{},,,,,,,,,,
+pas,Bénéjacq,pas,Léognan,{},{},{},pas,Beuste,{},{},{},,,,,
+pas,Beuste,pas,Bénéjacq,{},{},{},pas,Lestelle-Bétharram,{},{},{},,,,,
+pa,Boeil-Bezing,pas,Bordères,{'s': 1},{},{},pa,Urost,{},{},{},pas,Bordes,{'s': 1},{},{}
+pas,Bordères,pas,Mirepeix,{},{},{},pa,Boeil-Bezing,{},{'s': 1},{},pa,Coarraze,{},{'s': 1},{}
+pas,Bordes,pa,Boeil-Bezing,{},{'s': 1},{},pa,Coarraze,{},{'s': 1},{},,,,,
+pa,Coarraze,pas,Bordères,{'s': 1},{},{},pas,Bordes,{'s': 1},{},{},,,,,
+pa,Igon,pas,Nay-bis,{'s': 1},{},{},pas,Mirepeix,{'s': 1},{},{},,,,,
+pas,Lagos,pas,Montaut,{},{},{},pas,Lestelle-Bétharram,{},{},{},,,,,
+pas,Lestelle-Bétharram,pas,Beuste,{},{},{},pas,Mirepeix,{},{},{},pas,Lagos,{},{},{}
+pas,Mirepeix,pas,Lestelle-Bétharram,{},{},{},pas,Bordères,{},{},{},pa,Igon,{},{'s': 1},{}
+pas,Montaut,pa,Morcenx-gare,{},{'s': 1},{},pas,Lagos,{},{},{},pas,Nay-bis,{},{},{}
+pas,Nay-bis,pa,Igon,{},{'s': 1},{},pas,Lesperon,{},{},{},pas,Montaut,{},{},{}
+pas,Nay,pa,Sanguinet,{},{'s': 1},{},pas,Saint-Vincent,{},{},{},,,,,
+pas,Saint-Vincent,pas,Nay,{},{},{},,,,,,,,,,
+pas,Arros-de-Nay,,,,,,,,,,,,,,,
+pas,Arthez-d'Asson,pas,Camiran-bis,{},{},{},pas,Asson,{},{},{},,,,,
+pas,Asson,pas,Onesse-Laharie,{},{},{},pas,Arthez-d'Asson,{},{},{},pas,Pardies-Piétat,{},{},{}
+pas,Baliros,pas,Bergouey,{},{},{},,,,,,,,,,
+pas,Bourdettes,pas,Larbey,{},{},{},paÿ,Bruges,{},{},"{('s', 'ÿ'): 1}",,,,,
+paÿ,Bruges,pas,Bourdettes,{},{},"{('ÿ', 's'): 1}",,,,,,,,,,
+pas,Capbis,pas,Lys,{},{},{},,,,,,,,,,
+pas,Pardies-Piétat,pas,Asson,{},{},{},,,,,,,,,,
+pas,Saint-Abit,pas,Artigueloutan,{},{},{},,,,,,,,,,
+pas,Aressy,,,,,,,,,,,,,,,
+pas,Artigueloutan,pas,Saint-Abit,{},{},{},,,,,,,,,,
+pas,Assat,,,,,,,,,,,,,,,
+pas,Bizanos,,,,,,,,,,,,,,,
+pas,Idron,,,,,,,,,,,,,,,
+pas,Lée,pas,Meillon,{},{},{},,,,,,,,,,
+pas,Meillon,pas,Nousty,{},{},{},pas,Lée,{},{},{},,,,,
+pas,Nousty,pas,Ousse,{},{},{},pas,Meillon,{},{},{},,,,,
+pas,Ousse,pas,Nousty,{},{},{},,,,,,,,,,
+pas,Pau-Ouest-bis,pas,Bosdarros,{},{},{},pa,Doazit,{},{'s': 1},{},pas,Gelos,{},{},{}
+pa,Pau-Ouest,paÿ,Gan,{'ÿ': 1},{},{},pas,Barzun,{'s': 1},{},{},pas,Bosdarros,{'s': 1},{},{}
+pas,Bosdarros,pas,Biarritz,{},{},{},pas,Pau-Ouest-bis,{},{},{},pa,Pau-Ouest,{},{'s': 1},{}
+paÿ,Gan,pas,Uzos,{},{},"{('ÿ', 's'): 1}",pa,Pau-Ouest,{},{'ÿ': 1},{},pas,Gelos,{},{},"{('ÿ', 's'): 1}"
+pas,Gelos,pa,Caupenne,{},{'s': 1},{},paÿ,Gan,{},{},"{('s', 'ÿ'): 1}",pas,Pau-Ouest-bis,{},{},{}
+pas,Haut-de-Bosdarros,pas,Maylis,{},{},{},paï,Mazères-Lezons,{},{},"{('s', 'ï'): 1}",paï,Jurançon,{},{},"{('s', 'ï'): 1}"
+paï,Jurançon,pas,Laroin,{},{},"{('ï', 's'): 1}",pas,Hauriet,{},{},"{('ï', 's'): 1}",pas,Haut-de-Bosdarros,{},{},"{('ï', 's'): 1}"
+pas,Laroin,pas,Rontignon,{},{},{},paï,Jurançon,{},{},"{('s', 'ï'): 1}",pas,Narcastet,{},{},{}
+paï,Mazères-Lezons,pas,Narcastet,{},{},"{('ï', 's'): 1}",pas,Haut-de-Bosdarros,{},{},"{('ï', 's'): 1}",,,,,
+pas,Narcastet,paï,Mazères-Lezons,{},{},"{('s', 'ï'): 1}",pas,Mugron,{},{},{},pas,Laroin,{},{},{}
+pas,Rontignon,pas,Uzos,{},{},{},pas,Laroin,{},{},{},pas,Saint-Faust,{},{},{}
+pas,Saint-Faust,pas,Mugron-bis,{},{},{},pas,Ger,{},{},{},pas,Rontignon,{},{},{}
+pas,Uzos,pas,Barzun,{},{},{},paÿ,Gan,{},{},"{('s', 'ÿ'): 1}",pas,Rontignon,{},{},{}
+pas,Barzun,pa,Pau-Ouest,{},{'s': 1},{},pas,Uzos,{},{},{},pas,Espoey,{},{},{}
+pas,Espoey,pas,Ger,{},{},{},pas,Bayonne-Saint-Esprit,{},{},{},pas,Barzun,{},{},{}
+pas,Ger,pas,Béost,{},{},{},pas,Espoey,{},{},{},pas,Saint-Faust,{},{},{}
+pas,Gomer,pas,Peyrehorade-bis,{},{},{},pas,Hours,{},{},{},,,,,
+pas,Hours,pas,Saint-Étienne-d'Orthe,{},{},{},pas,Gomer,{},{},{},,,,,
+paï,Labatmale,pas,Lourenties,{},{},"{('ï', 's'): 1}",pas,Livron,{},{},"{('ï', 's'): 1}",,,,,
+pas,Limendous,pas,Livron,{},{},{},,,,,,,,,,
+pas,Livron,paï,Labatmale,{},{},"{('s', 'ï'): 1}",pas,Limendous,{},{},{},,,,,
+pas,Lourenties,paï,Labatmale,{},{},"{('s', 'ï'): 1}",pas,Lucgarier,{},{},{},,,,,
+pas,Lucgarier,pas,Lourenties,{},{},{},pas,Pontacq-bis,{},{},{},,,,,
+pas,Pontacq-bis,pas,Lucgarier,{},{},{},,,,,,,,,,
+pas̈,Pontacq,pas,Gastes,{},{'̈': 1},{},pas,Bournos,{},{'̈': 1},{},,,,,
+pay,Soumoulou,pas,Argelos,{},{},"{('y', 's'): 1}",,,,,,,,,,
+pas,Argelos,pay,Soumoulou,{},{},"{('s', 'y'): 1}",,,,,,,,,,
+pay,Astis,pas,Aubin,{},{},"{('y', 's'): 1}",,,,,,,,,,
+pas,Aubin,pay,Astis,{},{},"{('s', 'y'): 1}",pas,Claracq,{},{},{},,,,,
+paï,Auga,,,,,,,,,,,,,,,
+pas,Auriac,pas,Carrère,{},{},{},,,,,,,,,,
+pas,Bournos,pas̈,Pontacq,{'̈': 1},{},{},pas,Claracq,{},{},{},,,,,
+pas,Carrère,pas,Auriac,{},{},{},pas,Claracq,{},{},{},,,,,
+pas,Claracq,pas,Bournos,{},{},{},pas,Aubin,{},{},{},pas,Carrère,{},{},{}
+pay,Doumy,pa,Biscarosse,{},{'y': 1},{},pas,Rivehaute,{},{},"{('y', 's'): 1}",,,,,
+pas,Garlède-Mondebat,pas,Lalonquette,{},{},{},,,,,,,,,,
+pas,Lalonquette,paï,Lasclaveries,{},{},"{('s', 'ï'): 1}",pas,Garlède-Mondebat,{},{},{},,,,,
+paï,Lasclaveries,pas,Lalonquette,{},{},"{('ï', 's'): 1}",,,,,,,,,,
+pass,Lème,pas,Navailles-Angos,{},{'s': 1},{},,,,,,,,,,
+pas,Miossens-Lanusse,pas,Navailles-Angos,{},{},{},,,,,,,,,,
+pas,Navailles-Angos,pas,Hastingues,{},{},{},pas,Miossens-Lanusse,{},{},{},pass,Lème,{'s': 1},{},{}
+pas,Pouliacq,pas,Autevielle,{},{},{},pas,Gironde-sur-Dropt,{},{},{},,,,,
+pas,Sévignacq,pa,La Réole-bis,{},{'s': 1},{},pas,Thèze-bis,{},{},{},,,,,
+pas,Thèze-bis,pas,Sévignacq,{},{},{},pas,Richet,{},{},{},,,,,
+pa,Thèze,pas,Viven,{'s': 1},{},{},pa,Saugnacq-et-Muret-bis,{},{},{},pas,Arnos,{'s': 1},{},{}
+pas,Viven,pas,Arthez-de-Béarn-bis,{},{},{},pas,Biganon,{},{},{},pa,Thèze,{},{'s': 1},{}
+pa,Argagnon,pas,Arnos,{'s': 1},{},{},pas,Amou,{'s': 1},{},{},pa,Arthez-de-Béarn,{},{},{}
+pas,Arnos,pas,Cagnotte,{},{},{},pa,Argagnon,{},{'s': 1},{},pa,Thèze,{},{'s': 1},{}
+pas,Arthez-de-Béarn-bis,pas,Viven,{},{},{},pa,Arthez-de-Béarn,{},{'s': 1},{},,,,,
+pa,Arthez-de-Béarn,pas,Gaumier,{'s': 1},{},{},pas,Arthez-de-Béarn-bis,{'s': 1},{},{},pa,Argagnon,{},{},{}
+pas,Artix,pas,Lacadée,{},{},{},pas,Loupiac-de-la-Réole,{},{},{},,,,,
+pa,Audejos,pas,Doazon,{'s': 1},{},{},pa,Casteide-Cami,{},{},{},,,,,
+pa,Boumourt,pa,Casteide-Cami,{},{},{},pas,Hagetaubin,{'s': 1},{},{},pa,Labastide-Monréjeau,{},{},{}
+pa,Casteide-Cami,pa,Audejos,{},{},{},pa,Boumourt,{},{},{},pa,Casteide-Candau,{},{},{}
+pa,Casteide-Candau,pas,Saint-Médard,{'s': 1},{},{},pa,Casteide-Cami,{},{},{},,,,,
+pas,Castillon,pas,Cescau,{},{},{},pas,La Réole,{},{},{},pas,Urdès,{},{},{}
+pas,Cescau,pas,Langoiran,{},{},{},pas,Castillon,{},{},{},pas,Doazon,{},{},{}
+pas,Doazon,pa,Audejos,{},{'s': 1},{},pas,Cescau,{},{},{},pas,Hagetaubin,{},{},{}
+pas,Hagetaubin,pa,Boumourt,{},{'s': 1},{},pas,Doazon,{},{},{},pa,Viellenave-d'Arthez,{},{'s': 1},{}
+pa,Labastide-Cézéracq,pas,Tilh,{'s': 1},{},{},pas,Labeyrie,{'s': 1},{},{},pa,Arzacq-bis,{},{},{}
+pa,Labastide-Monréjeau,pa,Boumourt,{},{},{},pas,Arget,{'s': 1},{},{},pas,Saint-Médard,{'s': 1},{},{}
+pas,Labeyrie,pas,Lamothe-Landerron,{},{},{},pas,Lacadée,{},{},{},pa,Labastide-Cézéracq,{},{'s': 1},{}
+pas,Lacadée,pas,Labeyrie,{},{},{},pas,Artix,{},{},{},pa,Mesplède,{},{'s': 1},{}
+pa,Mesplède,pas,Saint-Médard,{'s': 1},{},{},pas,Lacadée,{'s': 1},{},{},,,,,
+pas,Saint-Médard,pa,Mesplède,{},{'s': 1},{},pa,Casteide-Candau,{},{'s': 1},{},pa,Labastide-Monréjeau,{},{'s': 1},{}
+pas,Serres-Sainte-Marie,pas,Urdès,{},{},{},pa,Pouillon,{},{'s': 1},{},pa,Arzacq-bis,{},{'s': 1},{}
+pas,Urdès,pas,Castillon,{},{},{},pas,Serres-Sainte-Marie,{},{},{},pa,Viellenave-d'Arthez,{},{'s': 1},{}
+pa,Viellenave-d'Arthez,pas,Arget,{'s': 1},{},{},pas,Hagetaubin,{'s': 1},{},{},pas,Urdès,{'s': 1},{},{}
+pas,Arget,pa,Labastide-Monréjeau,{},{'s': 1},{},pa,Viellenave-d'Arthez,{},{'s': 1},{},pa,Arzacq-bis,{},{'s': 1},{}
+pa,Arzacq-bis,pas,Serres-Sainte-Marie,{'s': 1},{},{},pa,Labastide-Cézéracq,{},{},{},pas,Arget,{'s': 1},{},{}
+pas,Arzacq,pa,Pouillon,{},{'s': 1},{},,,,,,,,,,
+pas,Bouillon,,,,,,,,,,,,,,,
+pas,Cabidos,pas,Arveyres,{},{},{},pa,Coublucq,{},{'s': 1},{},pas,Fichous-Riumayou,{},{},{}
+pa,Coublucq,pas,Cabidos,{'s': 1},{},{},pas,Lugaut,{'s': 1},{},{},pas,Garos,{'s': 1},{},{}
+pas,Fichous-Riumayou,pas,Lachapelle,{},{},{},pamey,Toulenne,"{'m': 1, 'e': 1}",{},"{('s', 'y'): 1}",pas,Cabidos,{},{},{}
+pas,Garos,pas,Maillas,{},{},{},pas,Gramont,{},{},{},pa,Coublucq,{},{'s': 1},{}
+pas,Géus-d'Arzacq,pa,Vielle-Soubiran,{},{'s': 1},{},pas,Larreule,{},{},{},,,,,
+pas,Larreule,pas,Géus-d'Arzacq,{},{},{},pa,Escource,{},{'s': 1},{},pas,Lonçon,{},{},{}
+pas,Lonçon,pa,Saint-Justin,{},{'s': 1},{},pas,Larreule,{},{},{},,,,,
+pas,Louvigny,pas,Méracq,{},{},{},pas,Commensacq,{},{},{},,,,,
+pas,Malaussanne,pa,Ondres,{},{'s': 1},{},pa,Mazerolles,{},{'s': 1},{},,,,,
+pa,Mazerolles,pa,Saint-André-de-Seignanx,{},{},{},pas,Méracq,{'s': 1},{},{},pas,Malaussanne,{'s': 1},{},{}
+pas,Méracq,pa,Mazerolles,{},{'s': 1},{},pas,Mansonville,{},{},{},pas,Louvigny,{},{},{}
+pa,Mialos,pa,Saint-Gor,{},{},{},pas,Montagut,{'s': 1},{},{},pas,Morlanne,{'s': 1},{},{}
+pas,Montagut,pa,Mialos,{},{'s': 1},{},pas,Escource-bis,{},{},{},pa,Pomps,{},{'s': 1},{}
+pas,Morlanne,pas,Piets-Plasence-Moustrou,{},{},{},pa,Pompéjac,{},{'s': 1},{},pa,Mialos,{},{'s': 1},{}
+pas,Piets-Plasence-Moustrou,pa,Navarrenx,{},{'s': 1},{},pas,Morlanne,{},{},{},pa,Pomps,{},{'s': 1},{}
+pa,Pomps,pa,Séby,{},{},{},pas,Piets-Plasence-Moustrou,{'s': 1},{},{},pas,Montagut,{'s': 1},{},{}
+pas,Poursiugues-Boucoue,pa,Lue-bis,{},{'s': 1},{},pas,Uzan,{},{},{},pa,Séby,{},{'s': 1},{}
+pa,Séby,pa,Baigts-de-Béarn,{},{},{},pa,Pomps,{},{},{},pas,Poursiugues-Boucoue,{'s': 1},{},{}
+pas,Uzan,pas,Noaillac,{},{},{},pa,Vignes,{},{'s': 1},{},pas,Poursiugues-Boucoue,{},{},{}
+pa,Vignes,pas,Uzan,{'s': 1},{},{},pas,Vieux-Boucau-les-Bains,{'s': 1},{},{},pa,Baigts-de-Béarn,{},{},{}
+pa,Baigts-de-Béarn,pas,Carcarès-Sainte-Croix,{'s': 1},{},{},pa,Séby,{},{},{},pa,Vignes,{},{},{}
+pa,Balansun,pa,Mongauzy,{},{},{},pas,Bonnut,{'s': 1},{},{},,,,,
+pas,Bonnut,pas,La Teste-de-Buch-ter,{},{},{},pa,Balansun,{},{'s': 1},{},,,,,
+pa,Castétis,,,,,,,,,,,,,,,
+pa,Lanneplaà,pas,Trensacq,{'s': 1},{},{},,,,,,,,,,
+pa,Orthez-bis,pas,Audignon,{'s': 1},{},{},,,,,,,,,,
+pa,Orthez,pas,Lagor-bis,{'s': 1},{},{},pas,Saint-Martin-de-Seignanx,{'s': 1},{},{},pas,Puyoô,{'s': 1},{},{}
+pas,Puyoô,pa,Orthez,{},{'s': 1},{},pa,Gouze,{},{'s': 1},{},,,,,
+pas,Ramous,pas,Audignon,{},{},{},pas,Saint-Boès,{},{},{},,,,,
+pas,Saint-Boès,pas,Ramous,{},{},{},,,,,,,,,,
+pas,Saint-Girons-en-Béarn,pas,Cazaux,{},{},{},pa,Sainte-Suzanne,{},{'s': 1},{},,,,,
+pa,Sainte-Suzanne,pa,Lue,{},{},{},pas,Saint-Girons-en-Béarn,{'s': 1},{},{},pa,Sallespisse,{},{},{}
+pa,Sallespisse,pa,Sainte-Suzanne,{},{},{},,,,,,,,,,
+pas,Sault-de-Navailles,pa,Biarrotte,{},{'s': 1},{},,,,,,,,,,
+pas,Arance,pa,Ondres,{},{'s': 1},{},,,,,,,,,,
+pas,Bésingrand,pa,Saint-Martin-de-Seignanx-bis,{},{'s': 1},{},pas,Castetner,{},{},{},pa,Biron,{},{'s': 1},{}
+pa,Biron,pa,Gouze,{},{},{},pa,Saint-Barthélemy,{},{},{},pas,Bésingrand,{'s': 1},{},{}
+pas,Castetner,pas,Bésingrand,{},{},{},pas,Lendresse,{},{},{},pa,Gouze,{},{'s': 1},{}
+pa,Gouze,pas,Puyoô,{'s': 1},{},{},pa,Biron,{},{},{},pas,Castetner,{'s': 1},{},{}
+pa,Laà-Mondrans,pas,Saint-Martin-de-Seignanx,{'s': 1},{},{},pas,Lagor-bis,{'s': 1},{},{},paï,Lacq,{'ï': 1},{},{}
+paï,Lacq,pa,Tarnos,{},{'ï': 1},{},pa,Laà-Mondrans,{},{'ï': 1},{},,,,,
+pas,Lagor-bis,pa,Laà-Mondrans,{},{'s': 1},{},pa,Orthez,{},{'s': 1},{},,,,,
+pas,Lagor,pas,Lendresse,{},{},{},pa,Saint-Martin-de-Seignanx-bis,{},{'s': 1},{},pas,Maslacq,{},{},{}
+pas,Lendresse,pas,Castetner,{},{},{},pas,Lagor,{},{},{},,,,,
+pa,Loubieng,pa,Cachon,{},{},{},pas,Maslacq,{'s': 1},{},{},,,,,
+pas,Maslacq,pas,Lagor,{},{},{},pas,Aurice,{},{},{},pa,Loubieng,{},{'s': 1},{}
+pas,Mont,pa,Cachon,{},{'s': 1},{},,,,,,,,,,
+pas,Montestrucq,pas,Mourenx-et-Abidos,{},{},{},,,,,,,,,,
+pas,Mourenx-et-Abidos,pas,Montestrucq,{},{},{},pas,Eyres-Moncube,{},{},{},pa,Noguères,{},{'s': 1},{}
+pa,Noguères,pas,Dumes,{'s': 1},{},{},pas,Mourenx-et-Abidos,{'s': 1},{},{},,,,,
+pas,Os-Marsillon,pa,Comps,{},{'s': 1},{},pas,Ozenx,{},{},{},,,,,
+pas,Ozenx,pas,Dumes,{},{},{},pas,Os-Marsillon,{},{},{},,,,,
+pas,Sarpourenx,pa,Vielleségure,{},{'s': 1},{},pas,Messanges-bis,{},{},{},,,,,
+pas,Sauvelade,pas,Houaste,{},{},{},pa,Vielleségure,{},{'s': 1},{},,,,,
+pa,Vielleségure,pas,Sauvelade,{'s': 1},{},{},pas,Dognen,{'s': 1},{},{},pas,Sarpourenx,{'s': 1},{},{}
+pas,Angous,pas,Araujuzon,{},{},{},,,,,,,,,,
+pas,Araujuzon,pas,Magescq,{},{},{},pas,Angous,{},{},{},,,,,
+pas,Araux,pa,Audaux,{},{'s': 1},{},pas,Preignac,{},{},{},,,,,
+pa,Audaux,pa,Bastanès,{},{},{},pas,Talence,{'s': 1},{},{},pas,Araux,{'s': 1},{},{}
+pa,Bastanès,pas,Saubion,{'s': 1},{},{},pa,Audaux,{},{},{},,,,,
+pa,Bugnein,pa,Callen,{},{},{},pas,Charre,{'s': 1},{},{},pas,Gurs,{'s': 1},{},{}
+pa,Castetnau-Camblong,pas,Messanges-bis,{'s': 1},{},{},pas,Dognen,{'s': 1},{},{},pas,Charre,{'s': 1},{},{}
+pas,Charre,pa,Bugnein,{},{'s': 1},{},pas,Angresse,{},{},{},pa,Castetnau-Camblong,{},{'s': 1},{}
+pas,Dognen,pa,Vielleségure,{},{'s': 1},{},pas,Gurs,{},{},{},pa,Castetnau-Camblong,{},{'s': 1},{}
+pas,Gurs,pas,Dognen,{},{},{},pas,Houaste,{},{},{},pa,Bugnein,{},{'s': 1},{}
+pa,Jasses,pas,Angresse,{'s': 1},{},{},,,,,,,,,,
+pas,Lay-Lamidou,pas,Saint-Estèphe,{},{},{},pas,Navarrenx-bis,{},{},{},pas,Méritein,{},{},{}
+pas,Méritein,pa,Le Leuy,{},{'s': 1},{},pas,Lay-Lamidou,{},{},{},pas,Nabas,{},{},{}
+pas,Nabas,pa,Navarrenx,{},{'s': 1},{},pas,Carcarès-Sainte-Croix,{},{},{},pas,Méritein,{},{},{}
+pas,Navarrenx-bis,pas,Lay-Lamidou,{},{},{},pa,Monprimblanc,{},{'s': 1},{},pa,Navarrenx,{},{'s': 1},{}
+pa,Navarrenx,pas,Navarrenx-bis,{'s': 1},{},{},pas,Piets-Plasence-Moustrou,{'s': 1},{},{},pas,Nabas,{'s': 1},{},{}
+pas,Ogenne-Camptort,pas,Préchacq-Josbaig,{},{},{},,,,,,,,,,
+pas,Préchacq-Josbaig,pas,Ogenne-Camptort,{},{},{},pas,Rivehaute,{},{},{},,,,,
+pas,Préchacq-Navarrenx,pas,Rivehaute,{},{},{},,,,,,,,,,
+pas,Rivehaute,pas,Préchacq-Navarrenx,{},{},{},pay,Doumy,{},{},"{('s', 'y'): 1}",pas,Préchacq-Josbaig,{},{},{}
+pas,Sus-Susmiou,pas,Viellenave-de-Navarrenx,{},{},{},,,,,,,,,,
+pas,Viellenave-de-Navarrenx,pas,Sus-Susmiou,{},{},{},pas,Auterrive,{},{},{},,,,,
+pas,Auterrive,pas,Viellenave-de-Navarrenx,{},{},{},,,,,,,,,,
+pas,Bellocq,pas,Cassaber,{},{},{},pas,Carresse,{},{},{},,,,,
+pas,Bérenx,pas,Carresse,{},{},{},,,,,,,,,,
+pas,Carresse,pas,Lahontan,{},{},{},pas,Bellocq,{},{},{},pas,Bérenx,{},{},{}
+pas,Cassaber,pah,Castagnède,{},{},"{('s', 'h'): 1}",pas,Bellocq,{},{},{},pas,Lahontan,{},{},{}
+pah,Castagnède,pas,Escos,{},{},"{('h', 's'): 1}",pa,Ginals,{},{'h': 1},{},pas,Cassaber,{},{},"{('h', 's'): 1}"
+pas,Escos,pah,Castagnède,{},{},"{('s', 'h'): 1}",,,,,,,,,,
+pas,Labastide-Villefranche,pas,Lahontan,{},{},{},,,,,,,,,,
+pas,Lahontan,pas,Cassaber,{},{},{},pas,Carresse,{},{},{},pas,Labastide-Villefranche,{},{},{}
+pas,Léren,pas,Courbiac,{},{},{},pas,Saint-Pé-de-Léren,{},{},{},pas,Saint-Dos,{},{},{}
+pas,Saint-Dos,pas,Salies-de-Béarn,{},{},{},pas,Léren,{},{},{},,,,,
+pas,Saint-Pé-de-Léren,pas,Léren,{},{},{},pas,Tartas,{},{},{},pas,Abitain,{},{},{}
+pas,Salies-de-Béarn-bis,pas,Salles-Mongiscard,{},{},{},pas,Poussignac,{},{},{},pas,Salies-de-Béarn,{},{},{}
+pas,Salies-de-Béarn,pah,Burgaronne,{},{},"{('s', 'h'): 1}",pas,Saint-Dos,{},{},{},pas,Salies-de-Béarn-bis,{},{},{}
+pas,Salles-Mongiscard,pas,Saint-Gemme-Martaillac,{},{},{},pas,Salies-de-Béarn-bis,{},{},{},pas,Abitain,{},{},{}
+pas,Abitain,pas,Salles-Mongiscard,{},{},{},pas,Saint-Pé-de-Léren,{},{},{},,,,,
+pas,Andrein,pas,Masquières,{},{},{},,,,,,,,,,
+pas,Athos-Aspis,pas,Montégut,{},{},{},pas,Autevielle,{},{},{},,,,,
+pas,Autevielle,pas,Athos-Aspis,{},{},{},pas,Pouliacq,{},{},{},,,,,
+paé,Barraute,pas,Labastide-Castel-Amouroux,{},{},"{('é', 's'): 1}",pah,Burgaronne,{},{},"{('é', 'h'): 1}",,,,,
+pah,Burgaronne,pas,Salies-de-Béarn,{},{},"{('h', 's'): 1}",paé,Barraute,{},{},"{('h', 'é'): 1}",,,,,
+pas,Castetbon,paé,Espiute,{},{},"{('s', 'é'): 1}",,,,,,,,,,
+paé,Espiute,pas,Castetbon,{},{},"{('é', 's'): 1}",pas,Meilhan,{},{},"{('é', 's'): 1}",pas,L'Hôpital-d'Orion,{},{},"{('é', 's'): 1}"
+pah,Guinarthe-Parenties,pad,Laàs,{},{},"{('h', 'd'): 1}",pas,L'Hôpital-d'Orion,{},{},"{('h', 's'): 1}",,,,,
+pas,L'Hôpital-d'Orion,paé,Espiute,{},{},"{('s', 'é'): 1}",pah,Guinarthe-Parenties,{},{},"{('s', 'h'): 1}",,,,,
+pad,Laàs,pas,Villenave,{},{},"{('d', 's'): 1}",pah,Guinarthe-Parenties,{},{},"{('d', 'h'): 1}",,,,,
+pah,Montfort,pas,Narp-Ossenx,{},{},"{('h', 's'): 1}",,,,,,,,,,
+pas,Narp-Ossenx,pa,Saint-Sernin,{},{'s': 1},{},pah,Montfort,{},{},"{('s', 'h'): 1}",pae,Orriule,{},{},"{('s', 'e'): 1}"
+pas,Oràas,pas,Orion,{},{},{},,,,,,,,,,
+pas,Orion,pas,Oràas,{},{},{},pas,Candresse,{},{},{},pae,Orriule,{},{},"{('s', 'e'): 1}"
+pae,Orriule,pas,Orion,{},{},"{('e', 's'): 1}",pas,Savignac-de-Duras,{},{},"{('e', 's'): 1}",pas,Narp-Ossenx,{},{},"{('e', 's'): 1}"
+pas,Saint-Gladie-Arrive-Munein,,,,,,,,,,,,,,,
+pas,Sauveterre-de-Béarn-bis,,,,,,,,,,,,,,,
+pas,Sauveterre-de-Béarn,,,,,,,,,,,,,,,
+pas,Tabaille-Usquain,pas,Monfaucon-Nord-Est,{},{},{},,,,,,,,,,
+pas,Caussade,,,,,,,,,,,,,,,
+pas,Cayriech,pas,Mirabel,{},{},{},,,,,,,,,,
+pas,Lavaurette,pas,Monteils,{},{},{},pas,Mirabel,{},{},{},,,,,
+pas,Mirabel,pas,Saint-Cirq,{},{},{},pas,Cayriech,{},{},{},pas,Lavaurette,{},{},{}
+pas,Monteils,pas,Lavaurette,{},{},{},pas,Réalville,{},{},{},,,,,
+pas,Réalville,pas,Monteils,{},{},{},,,,,,,,,,
+pas,Saint-Cirq,pas,Mirabel,{},{},{},,,,,,,,,,
+pas,Saint-Georges,pas,Saint-Vincent-d'Autéjac,{},{},{},pas,Tartas-ville-haute,{},{},{},,,,,
+pas,Saint-Vincent-d'Autéjac,pas,Romestaing,{},{},{},pas,Saint-Georges,{},{},{},pas,Septfonds,{},{},{}
+pas,Septfonds,pas,Saint-Nauphary,{},{},{},pas,Saint-Vincent-d'Autéjac,{},{},{},,,,,
+pas,Caylus,pas,Tartas,{},{},{},,,,,,,,,,
+pas,Espinas,pas,Loze,{},{},{},,,,,,,,,,
+pas,Lacapelle-Livron,pas,Montauban-Est-bis,{},{},{},,,,,,,,,,
+pas,Loze,pas,Espinas,{},{},{},,,,,,,,,,
+pas,Saint-Projet,pas,L'Honor-de-Cos,{},{},{},,,,,,,,,,
+pas,L'Honor-de-Cos-Loubéjac,pas,L'Honor-de-Cos,{},{},{},,,,,,,,,,
+pas,L'Honor-de-Cos,pas,Saint-Projet,{},{},{},pas,L'Honor-de-Cos-Loubéjac,{},{},{},,,,,
+pas,Lafrançaise,pas,Montastruc,{},{},{},pas,Labarthe,{},{},{},,,,,
+pas,Montastruc,pas,Lafrançaise,{},{},{},,,,,,,,,,
+pass,Piquecos,pas,Auty,{},{'s': 1},{},,,,,,,,,,
+pas,Auty,pas,Labarthe,{},{},{},pass,Piquecos,{'s': 1},{},{},,,,,
+pas,Labarthe,pas,Auty,{},{},{},pas,Lafrançaise,{},{},{},,,,,
+pas,Molières-bis,pas,Lamothe-Capdeville,{},{},{},,,,,,,,,,
+pas,Molières,pas,Puycornet,{},{},{},pa,Bégaar,{},{'s': 1},{},,,,,
+pas,Puycornet,pas,Carcen-Ponson,{},{},{},pas,Molières,{},{},{},pas,Bruniquel,{},{},{}
+pas,Bruniquel,pas,Puycornet,{},{},{},,,,,,,,,,
+pas,Génébrières,pas,Monclar-de-Quercy,{},{},{},,,,,,,,,,
+pas,Monclar-de-Quercy,pas,Montauban-bis,{},{},{},pas,Puygaillard-de-Quercy,{},{},{},pas,Génébrières,{},{},{}
+pas,Puygaillard-de-Quercy,pas,Monclar-de-Quercy,{},{},{},pas,Pontonx-sur-l'Adour,{},{},{},,,,,
+pas,Lamothe-Capdeville,pas,Molières-bis,{},{},{},,,,,,,,,,
+pas,Montauban-bis,pa,Montauban-Est-ter,{},{'s': 1},{},pas,Monclar-de-Quercy,{},{},{},pas,Montauban-Est-bis,{},{},{}
+pas,Montauban-Est-bis,pas,Montauban-bis,{},{},{},pas,Lacapelle-Livron,{},{},{},,,,,
+pa,Montauban-Est-ter,pas,Pontonx-sur-l'Adour,{'s': 1},{},{},pas,Montauban-bis,{'s': 1},{},{},,,,,
+pas,Montauban-Est,pa,Montauban-Ouest-bis,{},{'s': 1},{},pas,Langoiran-bis,{},{},{},pas,Montauban-Fau,{},{},{}
+pas,Montauban-Fau,pas,Montauban-Est,{},{},{},pas,Montégut,{},{},{},pas,Montauban-Ouest,{},{},{}
+pa,Montauban-Ouest-bis,pas,Albias,{'s': 1},{},{},pas,Montauban-Est,{'s': 1},{},{},pas,Montauban-Ouest,{'s': 1},{},{}
+pas,Montauban-Ouest,pas,Le Frêche,{},{},{},pa,Montauban-Ouest-bis,{},{'s': 1},{},pas,Montauban-Fau,{},{},{}
+pas,Montauban,pa,Pujo-le-Plan,{},{'s': 1},{},,,,,,,,,,
+pas,Villemade,pas,Le Causé,{},{},{},,,,,,,,,,
+pas,Labastide-de-Penne,pa,Puylaroque,{},{'s': 1},{},pas,Lapenche,{},{},{},,,,,
+pas,Lapenche,pas,Le Frêche,{},{},{},pa,Montalzat,{},{'s': 1},{},pas,Labastide-de-Penne,{},{},{}
+pa,Montalzat,pas,Lapenche,{'s': 1},{},{},pa,Perquie,{},{},{},,,,,
+pa,Montfermier,pas,Montpezat-de-Quercy-bis,{'s': 1},{},{},,,,,,,,,,
+pas,Montpezat-de-Quercy-bis,pa,Montfermier,{},{'s': 1},{},pas,Montpezat-de-Quercy,{},{},{},pa,Puylaroque,{},{'s': 1},{}
+pas,Montpezat-de-Quercy,pas,Montpezat-de-Quercy-bis,{},{},{},pas,Sainte-Foy,{},{},{},pas,Bioule,{},{},{}
+pa,Puylaroque,pas,Albias,{'s': 1},{},{},pas,Labastide-de-Penne,{'s': 1},{},{},pas,Montpezat-de-Quercy-bis,{'s': 1},{},{}
+pas,Albias,pas,Bioule,{},{},{},pa,Montauban-Ouest-bis,{},{'s': 1},{},pa,Puylaroque,{},{'s': 1},{}
+pas,Bioule,pas,Villeneuve-de-Marsan,{},{},{},pas,Albias,{},{},{},pas,Montpezat-de-Quercy,{},{},{}
+pa,Cazals,pa,Saint-Étienne-de-Tulmont,{},{},{},pas,Nègrepelisse,{'s': 1},{},{},,,,,
+pa,Montricoux,pa,Nègrepelisse-bis,{},{},{},pa,Argenton,{},{},{},pa,Féneyrols,{},{},{}
+pa,Nègrepelisse-bis,pas,Nègrepelisse,{'s': 1},{},{},pas,Bouglon,{'s': 1},{},{},pa,Montricoux,{},{},{}
+pas,Nègrepelisse,pas,Reyniès,{},{},{},pa,Nègrepelisse-bis,{},{'s': 1},{},pa,Cazals,{},{'s': 1},{}
+pa,Saint-Étienne-de-Tulmont,pa,Cazals,{},{},{},pa,Féneyrols,{},{},{},,,,,
+pa,Féneyrols,pa,Montricoux,{},{},{},pa,Saint-Étienne-de-Tulmont,{},{},{},,,,,
+pa,Ginals,pah,Castagnède,{'h': 1},{},{},pas,Laguépie,{'s': 1},{},{},,,,,
+pas,Laguépie,pa,Ginals,{},{'s': 1},{},,,,,,,,,,
+pas,Saint-Antonin-Noble-Val,pas,Varen,{},{},{},pas,Romestaing,{},{},{},pas,Varennes,{},{},{}
+pas,Varen,pas,Corbarieu-bis,{},{},{},pa,Beauziac,{},{'s': 1},{},pas,Saint-Antonin-Noble-Val,{},{},{}
+pas,Verfeil,pas,Verlhac-Tescou,{},{},{},pas,Corbarieu-bis,{},{},{},,,,,
+pas,Corbarieu-bis,pas,Buzet-sur-Baïse,{},{},{},pas,Varen,{},{},{},pas,Verfeil,{},{},{}
+pas,Corbarieu,pas,Bouglon,{},{},{},pas,Reyniès,{},{},{},,,,,
+pas,Reyniès,pas,Corbarieu,{},{},{},pas,Nègrepelisse,{},{},{},,,,,
+pas,Saint-Nauphary,pas,Septfonds,{},{},{},pas,Varennes,{},{},{},,,,,
+pas,Varennes,pas,Saint-Antonin-Noble-Val,{},{},{},pas,Saint-Nauphary,{},{},{},pas,Verlhac-Tescou,{},{},{}
+pas,Verlhac-Tescou,pas,Villebrumier-bis,{},{},{},pas,Verfeil,{},{},{},pas,Varennes,{},{},{}
+pas,Villebrumier-bis,pas,Verlhac-Tescou,{},{},{},,,,,,,,,,
+pas,Villebrumier,paï,Gariès,{},{},"{('s', 'ï'): 1}",,,,,,,,,,
+pas,Beaumont-de-Lomagne-bis,pa,Saint-Cricq-Villeneuve,{},{'s': 1},{},pas,Beaumont-de-Lomagne,{},{},{},,,,,
+pas,Beaumont-de-Lomagne,pas,Beaumont-de-Lomagne-bis,{},{},{},,,,,,,,,,
+pas,Esparsac,pas,Faudoas,{},{},{},pas,Saint-Martin-Curton,{},{},{},paï,Gariès,{},{},"{('s', 'ï'): 1}"
+pas,Faudoas,pas,Grateloup,{},{},{},pas,Esparsac,{},{},{},pas,Marignac,{},{},{}
+paï,Gariès,pas,Villebrumier,{},{},"{('ï', 's'): 1}",pas,Lamothe-Cumont,{},{},"{('ï', 's'): 1}",pas,Esparsac,{},{},"{('ï', 's'): 1}"
+pas,Lamothe-Cumont,paï,Gariès,{},{},"{('s', 'ï'): 1}",pa,Saint-Cricq-Villeneuve,{},{'s': 1},{},pas,Le Causé,{},{},{}
+pas,Le Causé,pas,Lamothe-Cumont,{},{},{},pas,Villemade,{},{},{},pas,Marignac,{},{},{}
+pas,Marignac,pas,Le Causé,{},{},{},pa,Castelmoron-sur-Lot-bis,{},{'s': 1},{},pas,Faudoas,{},{},{}
+pay,Maubec,pa,Coulx,{},{'y': 1},{},pass,Sérignac,{'s': 1},{},"{('y', 's'): 1}",,,,,
+pass,Sérignac,pay,Maubec,{},{'s': 1},"{('s', 'y'): 1}",pa,Villefranche-du-Queyran,{},{'s': 2},{},pas,Vigueron,{},{'s': 1},{}
+pas,Vigueron,pa,Pujo-le-Plan,{},{'s': 1},{},pass,Sérignac,{'s': 1},{},{},,,,,
+pas,Albefeuille-Lagarde,pas,Bessens,{},{},{},pas,Castelsarrasin,{},{},{},,,,,
+pas,Barry-d'Islemade,pas,Labastide-du-Temple,{},{},{},,,,,,,,,,
+pas,Castelsarrasin,pas,Villeneuve-de-Duras,{},{},{},pas,Labastide-du-Temple,{},{},{},pas,Albefeuille-Lagarde,{},{},{}
+pas,Labastide-du-Temple,pas,Castelsarrasin,{},{},{},pas,Fieux,{},{},{},pas,Barry-d'Islemade,{},{},{}
+paï,Les Barthes,pas,Meauzac,{},{},"{('ï', 's'): 1}",,,,,,,,,,
+pas,Meauzac,pas,Campsas,{},{},{},paï,Les Barthes,{},{},"{('s', 'ï'): 1}",,,,,
+pas,Bessens,pas,Albefeuille-Lagarde,{},{},{},pas,Campsas,{},{},{},pas,Dieupentale,{},{},{}
+pas,Campsas,pas,Bessens,{},{},{},pas,Meauzac,{},{},{},pas,Canals,{},{},{}
+pas,Canals,pas,Campsas,{},{},{},,,,,,,,,,
+pas,Dieupentale,pas,Soumensac,{},{},{},pas,Bessens,{},{},{},,,,,
+paï,Grisolles,pas,Roaillan,{},{},"{('ï', 's'): 1}",paï,Labastide-Saint-Pierre,{},{},{},pas,Monbéqui,{},{},"{('ï', 's'): 1}"
+paï,Labastide-Saint-Pierre,paï,Grisolles,{},{},{},pas,Massugas,{},{},"{('ï', 's'): 1}",,,,,
+pas,Monbéqui,pas,Ambarès-et-Lagrave,{},{},{},paï,Grisolles,{},{},"{('s', 'ï'): 1}",,,,,
+pas,Nohic,pa,Houeillès,{},{'s': 1},{},pas,Castéra-Bouzet,{},{},{},,,,,
+pas,Orgueil,pas,Cenon,{},{},{},pas,Lachapelle,{},{},{},pas,Asques,{},{},{}
+pas,Asques,pas,Houeillès-bis,{},{},{},pas,Orgueil,{},{},{},pas,Castéra-Bouzet,{},{},{}
+pas,Castéra-Bouzet,pas,Nohic,{},{},{},pas,Asques,{},{},{},,,,,
+pas,Gramont,pas,Garos,{},{},{},pas,Lavit,{},{},{},pas,Lachapelle,{},{},{}
+pas,Lachapelle,pas,Orgueil,{},{},{},pas,Fichous-Riumayou,{},{},{},pas,Gramont,{},{},{}
+pas,Lavit,pas,Gramont,{},{},{},pa,Labastide-d'Armagnac,{},{'s': 1},{},pas,Mansonville,{},{},{}
+pas,Mansonville,pas,Méracq,{},{},{},pas,Lavit,{},{},{},,,,,
+pas,Marsac,pas,Agmé,{},{},{},pas,Gensac,{},{},{},,,,,
+pas,Montgaillard,pas,Puygaillard-de-Lomagne,{},{},{},pas,Aillac,{},{},{},pas,Poupas,{},{},{}
+pas,Poupas,pas,Roumagne,{},{},{},pas,Breuilh,{},{},{},pas,Montgaillard,{},{},{}
+pas,Puygaillard-de-Lomagne,pas,Chalagnac,{},{},{},pas,Targon-bis,{},{},{},pas,Montgaillard,{},{},{}
+pas,Saint-Jean-du-Bouzet,pas,Saint-Colomb-de-Lauzun,{},{},{},pas,Bressols,{},{},{},,,,,
+pas,Bressols,pas,Marmande-ter,{},{},{},pas,Saint-Jean-du-Bouzet,{},{},{},,,,,
+pas,Finhan,pas,Montbartier,{},{},{},pas,Mongaillard,{},{},{},pas,Lacourt-Saint-Pierre,{},{},{}
+pas,Lacourt-Saint-Pierre,pas,Lavardac-bis,{},{},{},pas,Castelferrus,{},{},{},pas,Finhan,{},{},{}
+pas,Montbartier,pas,Ségalas,{},{},{},pas,Finhan,{},{},{},pas,Montbeton,{},{},{}
+pas,Montbeton,pas,Angeville,{},{},{},pas,Saint-Nazaire,{},{},{},pas,Montbartier,{},{},{}
+pas,Angeville,pas,Siorac-en-Périgord,{},{},{},pas,Montbeton,{},{},{},pas,Castelferrus,{},{},{}
+pas,Castelferrus,pas,Roumagne,{},{},{},pas,Angeville,{},{},{},pas,Lacourt-Saint-Pierre,{},{},{}
+pas,Castelmayran,pas,Caumont,{},{},{},pas,Fauguerolles,{},{},{},,,,,
+pas,Caumont-bis,paÿ,Coutures,{},{},"{('s', 'ÿ'): 1}",,,,,,,,,,
+pas,Caumont,pa,Saint-Louis-de-Montferrand,{},{'s': 1},{},pas,Castelmayran,{},{},{},paï,Cordes-Tolosannes,{},{},"{('s', 'ï'): 1}"
+paï,Cordes-Tolosannes,paÿ,Coutures,{},{},"{('ï', 'ÿ'): 1}",pas,Saint-Vincent-de-Paul,{},{},"{('ï', 's'): 1}",pas,Caumont,{},{},"{('ï', 's'): 1}"
+paÿ,Coutures,pas,Saint-Pierre de Nogaret,{},{},"{('ÿ', 's'): 1}",paï,Cordes-Tolosannes,{},{},"{('ÿ', 'ï'): 1}",pas,Caumont-bis,{},{},"{('ÿ', 's'): 1}"
+pas,Fajolles,pas,Beaupuy,{},{},{},pas,Gensac,{},{},{},,,,,
+pas,Garganvillar,pas,Gensac,{},{},{},,,,,,,,,,
+pas,Gensac,pas,Marsac,{},{},{},pas,Fajolles,{},{},{},pas,Garganvillar,{},{},{}
+pas,Labourgade,pas,Saint-André-de-Cubzac,{},{},{},paÿ,Lafitte,{},{},"{('s', 'ÿ'): 1}",,,,,
+paÿ,Lafitte,pas,Labourgade,{},{},"{('ÿ', 's'): 1}",,,,,,,,,,
+pas,Montaïn,pas,Saint-Pé-Saint-Simon,{},{},{},pas,Saint-Aignan,{},{},{},,,,,
+pas,Saint-Aignan,pas,Montaïn,{},{},{},pas,Lannes,{},{},{},pas,Aucamville,{},{},{}
+pas,Saint-Arroumex,pa,Meylan,{},{'s': 1},{},pas,Bouillac,{},{},{},pas,Aucamville,{},{},{}
+pas,Saint-Nicolas-de-la-Grave-bis,pas,Calignac,{},{},{},pas,Saint-Nicolas-de-la-Grave,{},{},{},pas,Bourret,{},{},{}
+pas,Saint-Nicolas-de-la-Grave,pas,Saint-Nicolas-de-la-Grave-bis,{},{},{},pas,Aucamville,{},{},{},,,,,
+pas,Aucamville,pas,Saint-Aignan,{},{},{},pas,Saint-Arroumex,{},{},{},pas,Saint-Nicolas-de-la-Grave,{},{},{}
+pas,Bouillac,pas,Saint-Arroumex,{},{},{},pas,Saint-Maixant,{},{},{},pas,Bourret,{},{},{}
+pas,Bourret,pas,Bouillac,{},{},{},pas,Poudenas,{},{},{},pas,Saint-Nicolas-de-la-Grave-bis,{},{},{}
+pas,Mas-Grenier,pas,Jusix,{},{},{},pas,Verdun-sur-Garonne,{},{},{},pas,Auvillar,{},{},{}
+pas,Verdun-sur-Garonne,pas,Mas-Grenier,{},{},{},pa,Réaup-Lisse,{},{'s': 1},{},,,,,
+pas,Auvillar,pas,Le Pin,{},{},{},pas,Cocumont,{},{},{},pas,Mas-Grenier,{},{},{}
+pas,Le Pin,pas,Meilhan-sur-Garonne,{},{},{},pas,Auvillar,{},{},{},,,,,
+pas,Merles,pas,Moncaut,{},{},{},,,,,,,,,,
+pas,Saint-Michel,pas,Montagnac-sur-Auvignon,{},{},{},pas,Bourg-de-Visa,{},{},{},,,,,
+pas,Sistels,pas,Bourg-de-Visa-bis,{},{},{},pas,Saumont,{},{},{},,,,,
+pas,Bourg-de-Visa-bis,pas,Saint-Symphorien,{},{},{},pas,Sistels,{},{},{},pas,Bourg-de-Visa,{},{},{}
+pas,Bourg-de-Visa,pas,Nérac-ter,{},{},{},pas,Bourg-de-Visa-bis,{},{},{},pas,Saint-Michel,{},{},{}
+pah,Brassac,pas,Montagudet,{},{},"{('h', 's'): 1}",pa,Hostens,{},{'h': 1},{},,,,,
+pah,Fouroux,pas,Saumont,{},{},"{('h', 's'): 1}",pah,Miramont-de-Quercy,{},{},{},,,,,
+pah,Miramont-de-Quercy,pah,Fouroux,{},{},{},pas,Soulac-sur-Mer,{},{},"{('h', 's'): 1}",pas,Montagudet,{},{},"{('h', 's'): 1}"
+pas,Montagudet,pas,Saint-Vivien-de-Médoc,{},{},{},pah,Brassac,{},{},"{('s', 'h'): 1}",pah,Miramont-de-Quercy,{},{},"{('s', 'h'): 1}"
+pas,Saint-Nazaire-de-Valentane,pas,Belvèze,{},{},{},pas,Saint-Symphorien,{},{},{},pah,Touffailles,{},{},"{('s', 'h'): 1}"
+pah,Touffailles,pas,Saint-Nazaire-de-Valentane,{},{},"{('h', 's'): 1}",pas,Clairac,{},{},"{('h', 's'): 1}",,,,,
+pas,Belvèze,pas,Saumont,{},{},{},pas,Saint-Nazaire-de-Valentane,{},{},{},pah,Bouloc-en-Quercy,{},{},"{('s', 'h'): 1}"
+pah,Bouloc-en-Quercy,pa,Monteton,{},{'h': 1},{},pas,Belvèze,{},{},"{('h', 's'): 1}",,,,,
+pah,Cazes-Mondenard,pah,Golfech,{},{},{},,,,,,,,,,
+pas,Durfort-Lacapelette,,,,,,,,,,,,,,,
+pas,Lauzerte-bis,,,,,,,,,,,,,,,
+pah,Lauzerte,,,,,,,,,,,,,,,
+pas,Montbarla,,,,,,,,,,,,,,,
+pas̈,Saint-Amans-de-Pellagal,pas,Caubon-Saint-Sauveur,{},{'̈': 1},{},pas,Terrasson-bis,{},{'̈': 1},{},,,,,
+pas,Sainte-Juliette,pas,Sauveterre,{},{},{},,,,,,,,,,
+pas,Sauveterre,pas,Sainte-Juliette,{},{},{},,,,,,,,,,
+pas,Tréjouls,pas,Montignac-Toupinerie,{},{},{},pas,Boudou,{},{},{},,,,,
+pas,Boudou,pas,Tréjouls,{},{},{},,,,,,,,,,
+pas,Lizac,pas,Montignac-Toupinerie,{},{},{},,,,,,,,,,
+pas,Malause,pas,Saint-Barthélemy-d'Agenais,{},{},{},pad,Montesquieu,{},{},"{('s', 'd'): 1}",,,,,
+pad,Montesquieu,pas,Puymiclan,{},{},"{('d', 's'): 1}",pas,Malause,{},{},"{('d', 's'): 1}",,,,,
+pas,Saint-Paul-d'Espis,pas,Saint-Vincent-Lespinasse,{},{},{},pas,Castelnau-sur-Gupie,{},{},{},,,,,
+pas,Saint-Vincent-Lespinasse,pas,Clairac,{},{},{},pas,Saint-Paul-d'Espis,{},{},{},,,,,
+pas,Lacour,pas,Saint-Amans-du-Pech,{},{},{},pa,Vensac,{},{'s': 1},{},pas,Montaigu-de-Quercy,{},{},{}
+pas,Montaigu-de-Quercy,pas,Lacour,{},{},{},pas,Varès,{},{},{},pah,Roquecor,{},{},"{('s', 'h'): 1}"
+pah,Roquecor,pas,Saint-Beauzeil,{},{},"{('h', 's'): 1}",pas,Montaigu-de-Quercy,{},{},"{('h', 's'): 1}",,,,,
+pas,Saint-Amans-du-Pech,pas,Sénestis,{},{},{},pas,Lacour,{},{},{},pas,Castelsagrat,{},{},{}
+pas,Saint-Beauzeil,pah,Roquecor,{},{},"{('s', 'h'): 1}",pa,Saint-Avit-de-Soulège,{},{'s': 1},{},pas,Castelsagrat,{},{},{}
+pas,Castelsagrat,pas,Saint-Beauzeil,{},{},{},pas,Agen-bis,{},{},{},pas,Saint-Amans-du-Pech,{},{},{}
+pah,Espalais,pah,Golfech,{},{},{},,,,,,,,,,
+pah,Golfech,pas,Goudourville,{},{},"{('h', 's'): 1}",pah,Cazes-Mondenard,{},{},{},pah,Espalais,{},{},{}
+pas,Goudourville,pas,Valojoulx,{},{},{},pah,Golfech,{},{},"{('s', 'h'): 1}",,,,,
+pah,Lamagistère,pas,Saint-Antoine,{},{},"{('h', 's'): 1}",pas,Montjoi,{},{},"{('h', 's'): 1}",,,,,
+pas,Montjoi,pah,Lamagistère,{},{},"{('s', 'h'): 1}",pas,Caumont-sur-Garonne,{},{},{},pas,Perville,{},{},{}
+pas,Perville,pas,Montjoi,{},{},{},pas,Le Mas-d'Agenais-bis,{},{},{},,,,,
+pad,Saint-Clair,pas,Valence,{},{},"{('d', 's'): 1}",pas,Samazan,{},{},"{('d', 's'): 1}",,,,,
+pas,Valence-bis,pa,Pujols-bis,{},{'s': 1},{},pas,Excideuil-bis,{},{},{},,,,,
+pas,Valence,pa,Riocaud,{},{'s': 1},{},pad,Saint-Clair,{},{},"{('s', 'd'): 1}",pas,Excideuil-bis,{},{},{}
+pas,Excideuil-bis,pas,Valence-bis,{},{},{},pas,Agen-bis,{},{},{},pas,Valence,{},{},{}
+pas,Excideuil,pa,Pujols,{},{'s': 1},{},pas,Saint-Germain-de-Belvès,{},{},{},,,,,
+pas,Génis,pas,Saint-Amand-de-Belvès,{},{},{},pas,Le Mas-d'Agenais,{},{},{},,,,,
+pas,Preyssac-d'Excideuil,pas,Saint-Mesmin,{},{},{},pas,Saint-Jory-las-Bloux,{},{},{},,,,,
+pas,Saint-Germain-des-Prés,pas,Saint-Jory-las-Bloux,{},{},{},,,,,,,,,,
+pas,Saint-Jory-las-Bloux,pas,Preyssac-d'Excideuil,{},{},{},pas,Saint-Germain-des-Prés,{},{},{},,,,,
+pâè,Saint-Martial-d'Albarède,pas,Granges-d'Ans,{},{},"{('â', 'a'): 1, ('è', 's'): 1}",,,,,,,,,,
+pas,Saint-Mesmin,pas,Preyssac-d'Excideuil,{},{},{},pas,Saint-Pantaly-d'Excideuil,{},{},{},,,,,
+pas,Saint-Pantaly-d'Excideuil,pas,Pont-du-Casse,{},{},{},pas,Saint-Mesmin,{},{},{},pas,Agonac,{},{},{}
+pas,Agonac,pas,Saint-Pantaly-d'Excideuil,{},{},{},pas,Biras,{},{},{},,,,,
+pas,Biras,pas,Agonac,{},{},{},,,,,,,,,,
+pah,Bourdeilles,pas,Gaugeac,{},{},"{('h', 's'): 1}",pas,Bussac,{},{},"{('h', 's'): 1}",,,,,
+paèh,Brantôme,pas,Bussac,{},{'h': 1},"{('è', 's'): 1}",pas,Saint-Martin-de-Villeréal,{},{'h': 1},"{('è', 's'): 1}",,,,,
+pas,Bussac,paèh,Brantôme,{'è': 1},{},"{('s', 'h'): 1}",pah,Bourdeilles,{},{},"{('s', 'h'): 1}",,,,,
+pa,Eyvirat,pas,Lisle,{'s': 1},{},{},pas,Nassiet,{'s': 1},{},{},pa,Saint-Julien-de-Bourdeilles,{},{},{}
+pas,Lisle-bis,pas,Lisle,{},{},{},,,,,,,,,,
+pas,Lisle,pas,Lévignacq,{},{},{},pa,Eyvirat,{},{'s': 1},{},pas,Lisle-bis,{},{},{}
+pas,Saint-Front-d'Alemps,pa,Saint-Julien-de-Bourdeilles,{},{'s': 1},{},pas,Saint-Hilaire-de-Lusignan,{},{},{},pas,Valeuil,{},{},{}
+pa,Saint-Julien-de-Bourdeilles,pa,Eyvirat,{},{},{},pas,Saint-Front-d'Alemps,{'s': 1},{},{},pas,Sencenac-Puy-de-Fourches,{'s': 1},{},{}
+pas,Sencenac-Puy-de-Fourches,pas,Badefols-d'Ans,{},{},{},pa,Saint-Julien-de-Bourdeilles,{},{'s': 1},{},,,,,
+pas,Valeuil,pas,Saint-Front-d'Alemps,{},{},{},pas,Grayssas,{},{},{},pas,Cherveix-Cubas,{},{},{}
+pas,Badefols-d'Ans,pas,Cherveix-Cubas,{},{},{},pas,Chourgnac,{},{},{},pas,Sencenac-Puy-de-Fourches,{},{},{}
+pas,Cherveix-Cubas,pas,Badefols-d'Ans,{},{},{},pas,Valeuil,{},{},{},,,,,
+pas,Chourgnac,pas,Badefols-d'Ans,{},{},{},,,,,,,,,,
+pas,Coubjours,pas,Hautefort-ter,{},{},{},,,,,,,,,,
+pas,Granges-d'Ans,pas,Hautefort-ter,{},{},{},pâè,Saint-Martial-d'Albarède,{},{},"{('a', 'â'): 1, ('s', 'è'): 1}",pas,Hautefort,{},{},{}
+pas,Hautefort-bis,pas,Astaffort-bis,{},{},{},pas,Hautefort-ter,{},{},{},,,,,
+pas,Hautefort-ter,pas,Coubjours,{},{},{},pas,Granges-d'Ans,{},{},{},pas,Hautefort-bis,{},{},{}
+pas,Hautefort,pas,Granges-d'Ans,{},{},{},,,,,,,,,,
+pas,Nailhac,paz,Sainte-Eulalie-d'Ans,{},{},"{('s', 'z'): 1}",,,,,,,,,,
+paz,Sainte-Eulalie-d'Ans,pas,Temple-Laguyon,{},{},"{('z', 's'): 1}",pas,Nailhac,{},{},"{('z', 's'): 1}",,,,,
+pas,Temple-Laguyon,paz,Sainte-Eulalie-d'Ans,{},{},"{('s', 'z'): 1}",pas,Tourtoirac,{},{},{},,,,,
+pas,Tourtoirac,pas,Temple-Laguyon,{},{},{},,,,,,,,,,
+pas,Champcevinel,pas,Chancelade,{},{},{},,,,,,,,,,
+pas,Chancelade,pas,Champcevinel,{},{},{},,,,,,,,,,
+pas,Château-l'Évêque,pas,Astaffort-bis,{},{},{},pas,Coulounieix-Chamiers,{},{},{},,,,,
+pas,Coulounieix-Chamiers,pahs,Marsac-sur-l'Isle,{'h': 1},{},{},pas,Château-l'Évêque,{},{},{},,,,,
+pahs,Marsac-sur-l'Isle,pas,Coulounieix-Chamiers,{},{'h': 1},{},pas,Astaffort,{},{'h': 1},{},,,,,
+pah,Périgueux,pas,Fals,{},{},"{('h', 's'): 1}",pas,Trélissac,{},{},"{('h', 's'): 1}",pâh,Annesse-et-Beaulieu,{},{},"{('a', 'â'): 1}"
+pas,Trélissac,pah,Périgueux,{},{},"{('s', 'h'): 1}",pas,Dondas,{},{},{},,,,,
+pâh,Annesse-et-Beaulieu,pas,Layrac,{},{},"{('â', 'a'): 1, ('h', 's'): 1}",pah,Périgueux,{},{},"{('â', 'a'): 1}",,,,,
+pas,Coursac,pas,Fals,{},{},{},pas,Jaure,{},{},{},,,,,
+pas,Jaure,pas,Dondas,{},{},{},pas,Coursac,{},{},{},,,,,
+pas,La Chapelle-Gonaguet,pas,Antonne-et-Trigonant,{},{},{},pah,Léguillac-de-l'Auche,{},{},"{('s', 'h'): 1}",,,,,
+pah,Léguillac-de-l'Auche,pah,Cornille,{},{},{},pas,La Chapelle-Gonaguet,{},{},"{('h', 's'): 1}",,,,,
+pahd,Manzac-sur-Vern,pas,Cavarc,{},{'d': 1},"{('h', 's'): 1}",pad,La Douze,{},{'h': 1},{},pah,Mensignac,{},{'d': 1},{}
+pah,Mensignac,pas,Sainte-Marie-de-Chignac,{},{},"{('h', 's'): 1}",pahd,Manzac-sur-Vern,{'d': 1},{},{},,,,,
+pas,Montanceix,pas,Castelnaud-de-Gratecambe,{},{},{},pas,Montrem,{},{},{},,,,,
+pas,Montrem,pas,Moulinet,{},{},{},pas,Montanceix,{},{},{},,,,,
+pas,Saint-Léon-sur-l'Isle,pas,Atur,{},{},{},pa,Audenge,{},{'s': 1},{},,,,,
+pas,Atur,pas,Barie,{},{},{},pas,Saint-Léon-sur-l'Isle,{},{},{},pah,Bassillac,{},{},"{('s', 'h'): 1}"
+pah,Bassillac,pas,Brannens,{},{},"{('h', 's'): 1}",pas,Atur,{},{},"{('h', 's'): 1}",,,,,
+pas,Blis-et-Born,pas,Sainte-Hélène,{},{},{},,,,,,,,,,
+pad,Boulazac,,,,,,,,,,,,,,,
+pah,Eyliac,pad,La Douze,{},{},"{('h', 'd'): 1}",pas,Cavarc,{},{},"{('h', 's'): 1}",,,,,
+pad,La Douze,pahd,Manzac-sur-Vern,{'h': 1},{},{},pah,Eyliac,{},{},"{('d', 'h'): 1}",pas,Milhac-d'Auberoche,{},{},"{('d', 's'): 1}"
+pas,Milhac-d'Auberoche,pad,La Douze,{},{},"{('s', 'd'): 1}",,,,,,,,,,
+pas,Notre-Dame-de-Sanilhac,pas,Saint-Eutrope-de-Born,{},{},{},pas,Saint-Geyrac,{},{},{},,,,,
+pas,Saint-Geyrac,pas,Saint-Martin-de-Villeréal,{},{},{},pas,Notre-Dame-de-Sanilhac,{},{},{},,,,,
+pa̱s,Saint-Laurent-sur-Manoire,pas,Monflanquin-Lamothe,{},{'̱': 1},{},,,,,,,,,,
+pas,Saint-Pierre-de-Chignac,pas,Cubjac,{},{},{},pas,Lalandusse,{},{},{},pas,Sainte-Marie-de-Chignac,{},{},{}
+pas,Sainte-Marie-de-Chignac,pah,Mensignac,{},{},"{('s', 'h'): 1}",pas,Antonne-et-Trigonant,{},{},{},pas,Saint-Pierre-de-Chignac,{},{},{}
+pas,Antonne-et-Trigonant,pas,Sainte-Marie-de-Chignac,{},{},{},pas,La Chapelle-Gonaguet,{},{},{},pah,Cornille,{},{},"{('s', 'h'): 1}"
+pah,Cornille,pah,Léguillac-de-l'Auche,{},{},{},pas,Coulaures,{},{},"{('h', 's'): 1}",pas,Antonne-et-Trigonant,{},{},"{('h', 's'): 1}"
+pas,Coulaures,pah,Cornille,{},{},"{('s', 'h'): 1}",pas,Castelnaud-de-Gratecambe,{},{},{},pas,Cubjac,{},{},{}
+pas,Cubjac,pass,Monviel,{'s': 1},{},{},pas,Saint-Pierre-de-Chignac,{},{},{},pas,Coulaures,{},{},{}
+pas,Le Change,pas,Le Parnet,{},{},{},pas,Castillonnès,{},{},{},pad,Le Parnet-bis,{},{},"{('s', 'd'): 1}"
+pad,Le Parnet-bis,pas,Le Change,{},{},"{('d', 's'): 1}",pas,Lougratte,{},{},"{('d', 's'): 1}",pae,Mayac,{},{},"{('d', 'e'): 1}"
+pas,Le Parnet,pas,Saint-Brice,{},{},{},pas,Le Change,{},{},{},pad,Ligueux,{},{},"{('s', 'd'): 1}"
+pad,Ligueux,pae,Mayac,{},{},"{('d', 'e'): 1}",pa,Mérignas,{},{'d': 1},{},pas,Le Parnet,{},{},"{('d', 's'): 1}"
+pae,Mayac,pas,Montauriol,{},{},"{('e', 's'): 1}",pad,Ligueux,{},{},"{('e', 'd'): 1}",pad,Le Parnet-bis,{},{},"{('e', 'd'): 1}"
+pas,Négrondes,pas,Ruch,{},{},{},pas,Saint-Pantaly-d'Ans,{},{},{},,,,,
+pas,Saint-Pantaly-d'Ans,pas,Négrondes,{},{},{},pas,Blanquefort-sur-Briolance-La-Sauvetat,{},{},{},pas,Saint-Vincent-sur-l'Isle,{},{},{}
+pas,Saint-Vincent-sur-l'Isle,pas,Saint-Quentin-du-Dropt,{},{},{},pas,Saint-Pantaly-d'Ans,{},{},{},,,,,
+pas,Sarliac-sur-l'Isle,pas,Peyzac,{},{},{},,,,,,,,,,
+pas,Savignac-les-Églises-bis,pas,Saint-Front-sur-Lémance-Bonaguil,{},{},{},pas,Sorges,{},{},{},pad,Savignac-les-Églises,{},{},"{('s', 'd'): 1}"
+pad,Savignac-les-Églises,paéd,Azerat,{'é': 1},{},{},pas,Savignac-les-Églises-bis,{},{},"{('d', 's'): 1}",,,,,
+pas,Sorges,pas,Savignac-les-Églises-bis,{},{},{},pas,Estillac,{},{},{},,,,,
+pas,Ajat,paéd,Azerat,{'é': 1},{},"{('s', 'd'): 1}",pas,Saint-Front-sur-Lémance,{},{},{},pah,Bars,{},{},"{('s', 'h'): 1}"
+paéd,Azerat,pad,Savignac-les-Églises,{},{'é': 1},{},pas,Ajat,{},{'d': 1},"{('é', 's'): 1}",pas,Brouchaud,{},{'d': 1},"{('é', 's'): 1}"
+pah,Bars,pas,Aubiac,{},{},"{('h', 's'): 1}",pas,Fossemagne,{},{},"{('h', 's'): 1}",pas,Ajat,{},{},"{('h', 's'): 1}"
+pas,Brouchaud,pas,La Boissière-d'Ans,{},{},{},pas,Monsempron-Libos,{},{},{},paéd,Azerat,{'é': 1},{},"{('s', 'd'): 1}"
+pas,Fossemagne,pah,Bars,{},{},"{('s', 'h'): 1}",pas,Saint-Laurent-d'Arce,{},{},{},pah,Gabillou,{},{},"{('s', 'h'): 1}"
+pah,Gabillou,pas,Fossemagne,{},{},"{('h', 's'): 1}",pa,Hourtin,{},{'h': 1},{},pàs,Limeyrat,{},{},"{('a', 'à'): 1, ('h', 's'): 1}"
+pas,La Boissière-d'Ans,pas,Saint-Avit-Saint-Nazaire,{},{},{},pas,Brouchaud,{},{},{},pàs,Limeyrat,{},{},"{('a', 'à'): 1}"
+pàs,Limeyrat,pah,Gabillou,{},{},"{('à', 'a'): 1, ('s', 'h'): 1}",pas,Saint-Quentin-de-Caplong,{},{},"{('à', 'a'): 1}",pas,La Boissière-d'Ans,{},{},"{('à', 'a'): 1}"
+pas,Sainte-Orse,pas,Sainte-Foy-la-Grande-bis,{},{},{},pas,Thenon,{},{},{},,,,,
+pas,Thenon,pas,Laplume-bis,{},{},{},pas,Sainte-Orse,{},{},{},,,,,
+pas,Breuilh,pas,Poupas,{},{},{},pas,Chalagnac,{},{},{},,,,,
+pas,Chalagnac,pas,Creyssensac-et-Pissot,{},{},{},pas,Puygaillard-de-Lomagne,{},{},{},pas,Breuilh,{},{},{}
+pas,Creyssensac-et-Pissot,pas,Chalagnac,{},{},{},pas,Église-Neuve-de-Vergt,{},{},{},,,,,
+pas,Église-Neuve-de-Vergt,pas,Laplume,{},{},{},pas,Creyssensac-et-Pissot,{},{},{},,,,,
+pas,Fouleix,pas,Lacropte,{},{},{},pas,Sauveterre-de-Guyenne-ter,{},{},{},pas,Larzac,{},{},{}
+pas,Lacropte,pas,Saint-Maime-de-Péreyrol,{},{},{},pas,Fouleix,{},{},{},pas,Saint-Amand-de-Vergt,{},{},{}
+pas,Saint-Amand-de-Vergt,pas,Lacropte,{},{},{},,,,,,,,,,
+pas,Saint-Maime-de-Péreyrol,pas,Saint-Michel-de-Villadeix,{},{},{},pas,Lacropte,{},{},{},,,,,
+pas,Saint-Michel-de-Villadeix,pa,Arbis,{},{'s': 1},{},pas,Saint-Maime-de-Péreyrol,{},{},{},pas,Vergt,{},{},{}
+pas,Vergt,pas,Escoussans,{},{},{},pas,Saint-Michel-de-Villadeix,{},{},{},,,,,
+pas,Veyrines-de-Vergt,pas,Belvès-bis,{},{},{},pas,Saint-Robert,{},{},{},,,,,
+pas,Belvès-bis,pas,Cleyrac,{},{},{},pas,Veyrines-de-Vergt,{},{},{},pas,Belvès-ter,{},{},{}
+pas,Belvès-ter,pas,Mourens,{},{},{},pas,Belvès-bis,{},{},{},,,,,
+pas,Belvès,pas,Monclar-bis,{},{},{},,,,,,,,,,
+pas,Fongalop,pas,Larzac,{},{},{},pas,Sauveterre-de-Guyenne-ter,{},{},{},,,,,
+pas,Larzac,pas,Fouleix,{},{},{},pas,Fongalop,{},{},{},,,,,
+pas,Loubejac,pas,Saint-Amand-de-Belvès,{},{},{},pas,Monplaisant,{},{},{},,,,,
+pas,Monplaisant,pas,Aillac,{},{},{},pas,Lacapelle-Biron,{},{},{},pas,Loubejac,{},{},{}
+pas,Saint-Amand-de-Belvès,pas,Loubejac,{},{},{},pas,Génis,{},{},{},pas,Saint-Germain-de-Belvès,{},{},{}
+pas,Saint-Germain-de-Belvès,pas,Excideuil,{},{},{},pés,Sainte-Foy-de-Belvès,{},{},"{('a', 'é'): 1}",pas,Saint-Amand-de-Belvès,{},{},{}
+pés,Sainte-Foy-de-Belvès,pa,Pujols,{},{'s': 1},"{('é', 'a'): 1}",pas,Siorac-en-Périgord,{},{},"{('é', 'a'): 1}",pas,Saint-Germain-de-Belvès,{},{},"{('é', 'a'): 1}"
+pas,Siorac-en-Périgord,pés,Sainte-Foy-de-Belvès,{},{},"{('a', 'é'): 1}",pas,Angeville,{},{},{},pas,Aillac,{},{},{}
+pas,Aillac,pas,Montgaillard,{},{},{},pas,Monplaisant,{},{},{},pas,Siorac-en-Périgord,{},{},{}
+pas,Calviac-en-Périgord,pas,Lacaussade,{},{},{},pas,Cazoulès,{},{},{},,,,,
+pas,Carlux,pa,Saint-Pierre-de-Bat,{},{'s': 1},{},pas,Cazoulès,{},{},{},,,,,
+pas,Cazoulès,pas,Tourtrès,{},{},{},pas,Carlux,{},{},{},pas,Calviac-en-Périgord,{},{},{}
+pas,Millac,pa,Eugénie-les-Bains,{},{'s': 1},{},pas,Peyrillac,{},{},{},pas,Orliaguet,{},{},{}
+pas,Orliaguet,pas,Bouzic,{},{},{},pas,Millac,{},{},{},pas,Saint-Julien-de-Lampon,{},{},{}
+pas,Peyrillac,pas,Saint-Magne-de-Castillon,{},{},{},pas,Prats-de-Carlux,{},{},{},pas,Millac,{},{},{}
+pas,Prats-de-Carlux,pas,Peyrillac,{},{},{},pas,Bazas,{},{},{},pas,Saint-Julien-de-Lampon,{},{},{}
+pas,Saint-Julien-de-Lampon,pas,Prats-de-Carlux,{},{},{},pas,Saint-Aubin,{},{},{},pas,Orliaguet,{},{},{}
+pas,Sainte-Mondane,pas,Simeyrols,{},{},{},pas,Montagnac-sur-Lède,{},{},{},,,,,
+pas,Simeyrols,pas,Paulhiac,{},{},{},pas,Sainte-Mondane,{},{},{},pas,Veyrignac,{},{},{}
+pas,Veyrignac,pas,Salles,{},{},{},pas,Simeyrols,{},{},{},pas,Bouzic,{},{},{}
+pas,Bouzic,pas,Cénac,{},{},{},pas,Orliaguet,{},{},{},pas,Veyrignac,{},{},{}
+pas,Cénac,pas,Auradou,{},{},{},pas,Bouzic,{},{},{},,,,,
+pas,Daglan,pas,Savignac-sur-Leyze,{},{},{},,,,,,,,,,
+pas,Domme-bis,pah,Florimont-Gaumier,{},{},"{('s', 'h'): 1}",pas,Noaillan,{},{},{},pas,Domme,{},{},{}
+pas,Domme,pas,Domme-bis,{},{},{},pas,Latrille,{},{},{},,,,,
+pah,Florimont-Gaumier,pa,Préchac-bis,{},{'h': 1},{},pas,Domme-bis,{},{},"{('h', 's'): 1}",,,,,
+pas,Gaumier,pas,Grézelle,{},{},{},pa,Arthez-de-Béarn,{},{'s': 1},{},pas,Groléjac,{},{},{}
+pas,Grézelle,pas,Dausse,{},{},{},pas,Gaumier,{},{},{},pas,La Chapelle-Péchaud,{},{},{}
+pas,Groléjac,pas,Amou-bis,{},{},{},pas,La Chapelle-Péchaud,{},{},{},pas,Gaumier,{},{},{}
+pas,La Chapelle-Péchaud,pas,Groléjac,{},{},{},pas,Frespech,{},{},{},pas,Grézelle,{},{},{}
+pas,Nabirat,,,,,,,,,,,,,,,
+pas,Nadalie,pas,Les Farges,{},{},{},pas,Saint-Pompont,{},{},{},,,,,
+pas,Saint-Aubin-de-Nabirat,pas,Saint-Cybranet,{},{},{},pad,Saint-Martial-de-Nabirat,{},{},"{('s', 'd'): 1}",,,,,
+pas,Saint-Cybranet,pas,Anthé,{},{},{},pas,Saint-Aubin-de-Nabirat,{},{},{},,,,,
+pas,Saint-Laurent-la-Vallée,pad,Saint-Martial-de-Nabirat,{},{},"{('s', 'd'): 1}",pas,Le-Temple-sur-Lot,{},{},{},,,,,
+pad,Saint-Martial-de-Nabirat,pas,Saint-Aubin-de-Nabirat,{},{},"{('d', 's'): 1}",pas,Saint-Laurent-la-Vallée,{},{},"{('d', 's'): 1}",pas,Veyrines-de-Domme,{},{},"{('d', 's'): 1}"
+pas,Saint-Pompont,pas,La Chapelle-Aubareil,{},{},{},pas,Nadalie,{},{},{},pas,Veyrines-de-Domme,{},{},{}
+pas,Veyrines-de-Domme,pad,Saint-Martial-de-Nabirat,{},{},"{('s', 'd'): 1}",pas,Saint-Pompont,{},{},{},,,,,
+pas,Aubas,pas,Auriac-du-Périgord,{},{},{},,,,,,,,,,
+pas,Auriac-du-Périgord,pas,Aubas,{},{},{},pas,Le Moustier,{},{},{},,,,,
+pas,La Chapelle-Aubareil,pas,Les Farges,{},{},{},pas,Saint-Pompont,{},{},{},,,,,
+pas,Le Moustier,paï,Mortemart,{},{},"{('s', 'ï'): 1}",pas,Les Farges,{},{},{},pas,Auriac-du-Périgord,{},{},{}
+pas,Les Farges,pas,Le Moustier,{},{},{},pas,Nadalie,{},{},{},pas,La Chapelle-Aubareil,{},{},{}
+pas,Montignac,pa,Castaignos-Souslens,{},{'s': 1},{},pas,Plazac,{},{},{},,,,,
+pas,Peyzac,pas,Sarliac-sur-l'Isle,{},{},{},pas,Rouffignac-Saint-Cernin-de-Reilhac,{},{},{},,,,,
+pas,Plazac,pas,Bourran,{},{},{},pas,Montignac,{},{},{},pas,Rouffignac-Saint-Cernin-de-Reilhac,{},{},{}
+pas,Rouffignac-Saint-Cernin-de-Reilhac,pas,Peyzac,{},{},{},pas,Plazac,{},{},{},,,,,
+pas,Saint-Léon-sur-Vézère,pas,Sergeac,{},{},{},pas,Lugasson,{},{},{},pay,Thonac,{},{},"{('s', 'y'): 1}"
+pas,Sergeac,pas,Saint-Léon-sur-Vézère,{},{},{},pas,Berbiguières,{},{},{},,,,,
+pay,Thonac,pas,Saint-Léon-sur-Vézère,{},{},"{('y', 's'): 1}",pas,Bézenac,{},{},"{('y', 's'): 1}",,,,,
+pas,Valojoulx,pas,Allas-les-Mines,{},{},{},pas,Goudourville,{},{},{},pas,Berbiguières,{},{},{}
+pas,Allas-les-Mines,pas,Valojoulx,{},{},{},pas,Audrix,{},{},{},,,,,
+pas,Audrix,pas,Allas-les-Mines,{},{},{},pas,Bézenac,{},{},{},,,,,
+pas,Berbiguières,pas,Valojoulx,{},{},{},pas,Sergeac,{},{},{},pas,Bézenac,{},{},{}
+pas,Bézenac,pas,Berbiguières,{},{},{},pay,Thonac,{},{},"{('s', 'y'): 1}",pas,Audrix,{},{},{}
+pas,Coux-et-Bigaroque,pas,Meyrals,{},{},{},pas,Marnac,{},{},{},,,,,
+pas,Marnac,pas,Coux-et-Bigaroque,{},{},{},pas,Bazens,{},{},{},pas,Saint-Chamassy,{},{},{}
+pas,Meyrals,pas,Mouzens,{},{},{},pas,Coux-et-Bigaroque,{},{},{},,,,,
+pas,Mouzens,pas,Saint-Chamassy,{},{},{},pas,Meyrals,{},{},{},,,,,
+pas,Saint-Chamassy,pas,Clermont-Dessous,{},{},{},pas,Mouzens,{},{},{},pas,Marnac,{},{},{}
+pas,Saint-Cyprien,pas,Lusinhan-Grand,{},{},{},pas,Saint-Vincent-de-Cosse,{},{},{},pas,Tayac,{},{},{}
+pas,Saint-Vincent-de-Cosse,pas,Saint-Cyprien,{},{},{},pas,Saint-Caprais-de-Lerm,{},{},{},,,,,
+pas,Sireuil,pas,Loubejac,{},{},{},pas,Sainte-Eulalie-d'Eymet,{},{},{},pas,Tayac,{},{},{}
+pas,Tayac,pas,Sireuil,{},{},{},pas,Saint-Cyprien,{},{},{},,,,,
+pay,Tursac,pay,Archignac,{},{},{},pas,Lusinhan-Grand,{},{},"{('y', 's'): 1}",pas,Archignac-bis,{},{},"{('y', 's'): 1}"
+pas,Archignac-bis,pay,Tursac,{},{},"{('s', 'y'): 1}",pas,Borrèze,{},{},{},,,,,
+pay,Archignac,pas,Saint-Caprais-de-Lerm,{},{},"{('y', 's'): 1}",pay,Tursac,{},{},{},pas,Borrèze,{},{},"{('y', 's'): 1}"
+pas,Borrèze,pas,Nicole,{},{},{},pay,Archignac,{},{},"{('s', 'y'): 1}",pas,Archignac-bis,{},{},{}
+pas,Eyvigues,pas,Nicole,{},{},{},,,,,,,,,,
+pas,Paulin,pas,Port-Sainte-Marie,{},{},{},pas,Saint-Geniès,{},{},{},,,,,
+pas,Saint-Crépin-et-Carlucet-bis,pa,Poyartin,{},{'s': 1},{},pas,Saint-Crépin-et-Carlucet,{},{},{},pas,Salignac,{},{},{}
+pas,Saint-Crépin-et-Carlucet,pas,Saint-Crépin-et-Carlucet-bis,{},{},{},pas,Saint-Geniès,{},{},{},,,,,
+pas,Saint-Geniès,pas,Paulin,{},{},{},pas,Beynac,{},{},{},pas,Saint-Crépin-et-Carlucet,{},{},{}
+pas,Salignac,pas,Beynac,{},{},{},pas,Préchacq-les-Bains,{},{},{},pas,Saint-Crépin-et-Carlucet-bis,{},{},{}
+pas,Beynac,pas,Port-Sainte-Marie,{},{},{},pas,Salignac,{},{},{},pas,Saint-Geniès,{},{},{}
+pas,Cazenac,pas,La Canéda,{},{},{},pas,Galapian,{},{},{},,,,,
+pas,La Canéda,pas,Cazenac,{},{},{},,,,,,,,,,
+pas,La Roque-Gageac,paï,Proissans,{},{},"{('s', 'ï'): 1}",pas,Marcillac-Saint-Quentin,{},{},{},,,,,
+pas,Marcillac-Saint-Quentin,pas,Lacépède,{},{},{},pas,La Roque-Gageac,{},{},{},,,,,
+pay,Marcillac,pas,Marquay,{},{},"{('y', 's'): 1}",pas,Lusignan-Petit,{},{},"{('y', 's'): 1}",,,,,
+pas,Marquay,pas,Saint-André-d'Allas,{},{},{},pas,Montpezat,{},{},{},pay,Marcillac,{},{},"{('s', 'y'): 1}"
+paï,Proissans,pas,Journiac,{},{},"{('ï', 's'): 1}",pas,La Roque-Gageac,{},{},"{('ï', 's'): 1}",pas,Saint-André-d'Allas,{},{},"{('ï', 's'): 1}"
+pas,Saint-André-d'Allas,pas,Granges-sur-Lot,{},{},{},pas,Marquay,{},{},{},paï,Proissans,{},{},"{('s', 'ï'): 1}"
+pas,Saint-Vincent-le-Paluel,pas,Sainte-Nathalène,{},{},{},pas,Haux,{},{},{},pas,Tamniès,{},{},{}
+pas,Sainte-Nathalène,pas,Madaillan,{},{},{},pas,Saint-Vincent-le-Paluel,{},{},{},pay,Sarlat-bis,{},{},"{('s', 'y'): 1}"
+pay,Sarlat-bis,pas,Sarlat,{},{},"{('y', 's'): 1}",pas,Prayssas,{},{},"{('y', 's'): 1}",pas,Sainte-Nathalène,{},{},"{('y', 's'): 1}"
+pas,Sarlat,pas,Vézac,{},{},{},pas,Marpaps,{},{},{},pay,Sarlat-bis,{},{},"{('s', 'y'): 1}"
+pas,Tamniès,pas,Saint-Vincent-le-Paluel,{},{},{},pa,Geloux,{},{'s': 1},{},pas,Vézac,{},{},{}
+pas,Vézac,pa,Laglorieuse,{},{'s': 1},{},pas,Sarlat,{},{},{},pas,Tamniès,{},{},{}
+pas,Vitrac,pay,Beauregard-de-Terrasson-Lardin,{},{},"{('s', 'y'): 1}",pas,Viellenave,{},{},{},,,,,
+pay,Beauregard-de-Terrasson-Lardin,pas,Chavagnac,{},{},"{('y', 's'): 1}",pas,Gère-Bélesten,{},{},"{('y', 's'): 1}",pas,Vitrac,{},{},"{('y', 's'): 1}"
+pas,Chavagnac,pas,Cours,{},{},{},pay,Beauregard-de-Terrasson-Lardin,{},{},"{('s', 'y'): 1}",,,,,
+pass,Coly,pas,La Dornac,{},{'s': 1},{},pas,Le Lardin-Saint-Lazare,{},{'s': 1},{},pas,La Bachellerie-Laularie,{},{'s': 1},{}
+pay,Condat-sur-Vézère,pas,Saint-Salvy,{},{},"{('y', 's'): 1}",pas,La Bachellerie,{},{},"{('y', 's'): 1}",pas,Grèzes,{},{},"{('y', 's'): 1}"
+pas,Grèzes,pas,La Bachellerie-Laularie,{},{},{},pas,Granges-sur-Lot,{},{},{},pay,Condat-sur-Vézère,{},{},"{('s', 'y'): 1}"
+pas,La Bachellerie-Laularie,pas,Castelculier,{},{},{},pas,Grèzes,{},{},{},pass,Coly,{'s': 1},{},{}
+pas,La Bachellerie,pay,Condat-sur-Vézère,{},{},"{('s', 'y'): 1}",pas,Saint-Sardos,{},{},{},pas,La Dornac,{},{},{}
+pas,La Dornac,pas,Clermont-Soubiran,{},{},{},pass,Coly,{'s': 1},{},{},pas,La Bachellerie,{},{},{}
+pas,La Feuillade,pas,Le Lardin-Saint-Lazare,{},{},{},pas,Clermont-Soubiran,{},{},{},,,,,
+pas,Lavilledieu,pas,Pazayac,{},{},{},pas,Castelculier,{},{},{},pas,Le Lardin-Saint-Lazare,{},{},{}
+pas,Le Lardin-Saint-Lazare,pass,Coly,{'s': 1},{},{},pas,La Feuillade,{},{},{},pas,Lavilledieu,{},{},{}
+pas,Pazayac,pas,Castelnau-Chalosse,{},{},{},pas,Lavilledieu,{},{},{},,,,,
+pas,Peyrignac,,,,,,,,,,,,,,,
+pas,Terrasson-bis,pas̈,Saint-Amans-de-Pellagal,{'̈': 1},{},{},,,,,,,,,,
+pas,Terrasson,pas,Saint-Hilaire-de-Lusignan,{},{},{},pas,Campagnac-lès-Quercy,{},{},{},pas,Fontenilles-d'Aigueparse,{},{},{}
+pas,Campagnac-lès-Quercy,pas,Terrasson,{},{},{},pay,Saint-Aubin-de-Cadelech,{},{},"{('s', 'y'): 1}",paÿ,Lavaur,{},{},"{('s', 'ÿ'): 1}"
+pas,Fontenilles-d'Aigueparse,pas,Grayssas,{},{},{},pas,Terrasson,{},{},{},,,,,
+paÿ,Lavaur,pas,Sainte-Innocence,{},{},"{('ÿ', 's'): 1}",pas,Loubejac,{},{},"{('ÿ', 's'): 1}",pas,Campagnac-lès-Quercy,{},{},"{('ÿ', 's'): 1}"
+pas,Loubejac,paÿ,Lavaur,{},{},"{('s', 'ÿ'): 1}",pas,Sireuil,{},{},{},,,,,
+pas,Prats-du-Périgord,pas,Castets,{},{},{},paï,Saint-Cernin-de-l'Herm,{},{},"{('s', 'ï'): 1}",,,,,
+paï,Saint-Cernin-de-l'Herm,pas,Prats-du-Périgord,{},{},"{('ï', 's'): 1}",,,,,,,,,,
+pas,Villefranche-du-Périgord-bis,pas,Villefranche-du-Périgord,{},{},{},,,,,,,,,,
+pas,Villefranche-du-Périgord,pas,Puymirol,{},{},{},pas,Villefranche-du-Périgord-bis,{},{},{},,,,,
+pas,Fleurac,pas,Eyrenville,{},{},{},,,,,,,,,,
+pas,Journiac,paï,Proissans,{},{},"{('s', 'ï'): 1}",pas,Le Bugue,{},{},{},,,,,
+pas,Le Bugue,pas,Manaurie,{},{},{},pas,Journiac,{},{},{},,,,,
+pas,Manaurie,pas,Le Bugue,{},{},{},,,,,,,,,,
+pas,Mauzens-et-Miremont,paï,Mortemart,{},{},"{('s', 'ï'): 1}",,,,,,,,,,
+paï,Mortemart,pas,Mauzens-et-Miremont,{},{},"{('ï', 's'): 1}",pas,Le Moustier,{},{},"{('ï', 's'): 1}",paï,Saint-Félix-de-Reillac,{},{},{}
+pas,Saint-Cernin-de-Reillac,paï,Saint-Félix-de-Reillac,{},{},"{('s', 'ï'): 1}",,,,,,,,,,
+paï,Saint-Félix-de-Reillac,paï,Mortemart,{},{},{},pas,Saint-Cernin-de-Reillac,{},{},"{('ï', 's'): 1}",,,,,
+pas,Eymet,pas,Belhade,{},{},{},,,,,,,,,,
+pas,Fonroque,pas,Razac-d'Eymet,{},{},{},,,,,,,,,,
+pas,Razac-d'Eymet,pas,Saint-Jean-de-Thurac,{},{},{},pas,Fonroque,{},{},{},paï,Rouquette,{},{},"{('s', 'ï'): 1}"
+paï,Rouquette,paï,Serres-et-Montguyard,{},{},{},pas,Razac-d'Eymet,{},{},"{('ï', 's'): 1}",,,,,
+pas,Sadillac,pas,Issigeac,{},{},{},,,,,,,,,,
+pay,Saint-Aubin-de-Cadelech,pas,Campagnac-lès-Quercy,{},{},"{('y', 's'): 1}",pas,Sainte-Innocence,{},{},"{('y', 's'): 1}",,,,,
+pas,Saint-Capraise-d'Eymet,pas,Saint-Julien-d'Eymet,{},{},{},pas,Sainte-Eulalie-d'Eymet,{},{},{},,,,,
+pas,Saint-Julien-d'Eymet,paï,Montaut,{},{},"{('s', 'ï'): 1}",pas,Saint-Capraise-d'Eymet,{},{},{},,,,,
+pas,Sainte-Eulalie-d'Eymet,pas,Sireuil,{},{},{},pas,Sainte-Innocence,{},{},{},pas,Saint-Capraise-d'Eymet,{},{},{}
+pas,Sainte-Innocence,pas,Sainte-Eulalie-d'Eymet,{},{},{},paÿ,Lavaur,{},{},"{('s', 'ÿ'): 1}",pay,Saint-Aubin-de-Cadelech,{},{},"{('s', 'y'): 1}"
+paï,Serres-et-Montguyard,paï,Rouquette,{},{},{},pay,Singleyrac,{},{},"{('ï', 'y'): 1}",paÿ,Bardou,{},{},"{('ï', 'ÿ'): 1}"
+pay,Singleyrac,paï,Serres-et-Montguyard,{},{},"{('y', 'ï'): 1}",pas,Conne-de-Labarde,{},{},"{('y', 's'): 1}",,,,,
+paÿ,Bardou,pay,Bouniagues,{},{},"{('ÿ', 'y'): 1}",pas,Saint-Jean-de-Thurac,{},{},"{('ÿ', 's'): 1}",paï,Serres-et-Montguyard,{},{},"{('ÿ', 'ï'): 1}"
+pay,Bouniagues,paÿ,Bardou,{},{},"{('y', 'ÿ'): 1}",pas,Eyrenville,{},{},"{('y', 's'): 1}",,,,,
+pas,Conne-de-Labarde,pay,Falgueyrat,{},{},"{('s', 'y'): 1}",pas,Eyrenville,{},{},{},pay,Singleyrac,{},{},"{('s', 'y'): 1}"
+pas,Eyrenville,pas,Conne-de-Labarde,{},{},{},pas,Fleurac,{},{},{},pay,Bouniagues,{},{},"{('s', 'y'): 1}"
+pay,Falgueyrat,pas,Conne-de-Labarde,{},{},"{('y', 's'): 1}",pas,Faux,{},{},"{('y', 's'): 1}",,,,,
+pas,Faux,pay,Falgueyrat,{},{},"{('s', 'y'): 1}",pas,Dolmayrac,{},{},{},pas,Issigeac-bis,{},{},{}
+pas,Issigeac-bis,pas,Saint-Aubin-de-Lanquais,{},{},{},pas,Issigeac,{},{},{},pas,Faux,{},{},{}
+pas,Issigeac,pas,Issigeac-bis,{},{},{},pas,Sadillac,{},{},{},,,,,
+pas,Mandacou,pas,Dolmayrac,{},{},{},pas,Monmarvès,{},{},{},pas,Saint-Aubin-de-Lanquais,{},{},{}
+paï,Monmadalès,paï,Montaut,{},{},{},pas,Monmarvès,{},{},"{('ï', 's'): 1}",,,,,
+pas,Monmarvès,pas,Mandacou,{},{},{},pas,Galapian,{},{},{},paï,Monmadalès,{},{},"{('s', 'ï'): 1}"
+paï,Montaut,paï,Monmadalès,{},{},{},pas,Saint-Julien-d'Eymet,{},{},"{('ï', 's'): 1}",pas,Saint-Aubin-de-Lanquais,{},{},"{('ï', 's'): 1}"
+pas,Saint-Aubin-de-Lanquais,paï,Montaut,{},{},"{('s', 'ï'): 1}",pas,Issigeac-bis,{},{},{},pas,Mandacou,{},{},{}
+pas,Saint-Cernin-de-Labarde,pas,Bayac,{},{},{},pas,Saint-Léon-d'Issigeac,{},{},{},,,,,
+pas,Saint-Léon-d'Issigeac,pas,Saint-Cernin-de-Labarde,{},{},{},,,,,,,,,,
+pas,Bayac,pas,Saint-Cernin-de-Labarde,{},{},{},pas,Saint-Georges,{},{},{},,,,,
+pas,Beaumont-du-Périgord,pas,Perricard,{},{},{},pas,Labouquerie,{},{},{},pas,Bourniquel,{},{},{}
+pas,Bourniquel,pas,Monsac,{},{},{},pas,Beaumont-du-Périgord,{},{},{},,,,,
+pas,Labouquerie,pas,Beaumont-du-Périgord,{},{},{},,,,,,,,,,
+pas,Monsac,pas,Bourniquel,{},{},{},pas,Montferrand-du-Périgord,{},{},{},pas,Naussannes,{},{},{}
+pas,Montferrand-du-Périgord,pas,Monsac,{},{},{},pas,Saint-Georges,{},{},{},,,,,
+pas,Naussannes,pas,Montayral,{},{},{},pas,Monsac,{},{},{},,,,,
+pos,Nojals-et-Clotte,pas,Rampieux,{},{},"{('o', 'a'): 1}",pas,Saint-Vite,{},{},"{('o', 'a'): 1}",,,,,
+pas,Rampieux,pas,Langon-bis,{},{},{},pos,Nojals-et-Clotte,{},{},"{('a', 'o'): 1}",pas,Saint-Avit-Sénieur,{},{},{}
+pas,Saint-Avit-Sénieur,pa,Cauna,{},{'s': 1},{},pas,Rampieux,{},{},{},,,,,
+pas,Sainte-Croix,pas,Bénesse-lès-Dax,{},{},{},pas,Sainte-Sabine-Born,{},{},{},,,,,
+pas,Sainte-Sabine-Born,pas,Candresse,{},{},{},pas,Sainte-Croix,{},{},{},,,,,
+pas,Bergerac-bis,pas,Linxe,{},{},{},pas,Bergerac-Sainte-Madeleine,{},{},{},pas,Bergerac,{},{},{}
+pas,Bergerac-Sainte-Madeleine,pas,Bergerac-bis,{},{},{},pas,Tournon-d'Agenais,{},{},{},pas,Creysse,{},{},{}
+pas,Bergerac,pas,Lembras,{},{},{},pas,Lit-et-Mixe,{},{},{},pas,Bergerac-bis,{},{},{}
+pay,Cours-de-Pile,pas,Lédat,{},{},"{('y', 's'): 1}",pas,Lamonzie-Montastruc,{},{},"{('y', 's'): 1}",pas,Creysse,{},{},"{('y', 's'): 1}"
+pas,Creysse,pas,Courbiac,{},{},{},pay,Cours-de-Pile,{},{},"{('s', 'y'): 1}",pas,Bergerac-Sainte-Madeleine,{},{},{}
+pas,Lamonzie-Montastruc,pas,Madirac,{},{},{},pas,Lembras,{},{},{},pay,Cours-de-Pile,{},{},"{('s', 'y'): 1}"
+pas,Lembras,pas,Lamonzie-Montastruc,{},{},{},pas,Vielle-Saint-Girons,{},{},{},pas,Bergerac,{},{},{}
+pas,Mouleydier,pas,Eysses,{},{},{},,,,,,,,,,
+pas,Saint-Germain-et-Mons,pas,Thézac,{},{},{},,,,,,,,,,
+pa,Saint-Laurent-des-Vignes,pas,Saint-Nexans,{'s': 1},{},{},,,,,,,,,,
+pas,Saint-Nexans,pas,Dax,{},{},{},pa,Saint-Laurent-des-Vignes,{},{'s': 1},{},pas,Bosset,{},{},{}
+pas,Bosset,pas,Heugas,{},{},{},pas,Saint-Nexans,{},{},{},,,,,
+pas,Fraisse,paï,La Force-bis,{},{},"{('s', 'ï'): 1}",pas,Asques,{},{},{},pas,Ginestet,{},{},{}
+pas,Ginestet,pas,Fraisse,{},{},{},pas,Dévillac,{},{},{},pas,Le Fleix,{},{},{}
+paï,La Force-bis,pa,Oeyreluy,{},{'ï': 1},{},pas,Fraisse,{},{},"{('ï', 's'): 1}",pas,La Force,{},{},"{('ï', 's'): 1}"
+pas,La Force,pas,Le Fleix,{},{},{},pas,Tabanac,{},{},{},paï,La Force-bis,{},{},"{('s', 'ï'): 1}"
+pas,Le Fleix,pas,Mazières-Naresse,{},{},{},pas,La Force,{},{},{},pas,Ginestet,{},{},{}
+pas,Les Lèches,,,,,,,,,,,,,,,
+pas,Lunas,pas,Eyres-Moncube,{},{},{},,,,,,,,,,
+pas,Monfaucon-Nord-Est,pas,Tabaille-Usquain,{},{},{},,,,,,,,,,
+pas,Monfaucon-Sud,pos,Prigonrieux,{},{},"{('a', 'o'): 1}",pas,Accous,{},{},{},,,,,
+pos,Prigonrieux-bis,pas,Tourliac,{},{},"{('o', 'a'): 1}",pos,Saint-Georges-Blancaneix,{},{},{},,,,,
+pos,Prigonrieux,pas,Monfaucon-Sud,{},{},"{('o', 'a'): 1}",pos,Saint-Georges-Blancaneix,{},{},{},,,,,
+pos,Saint-Georges-Blancaneix,pas,Villeréal,{},{},"{('o', 'a'): 1}",pos,Prigonrieux,{},{},{},pos,Prigonrieux-bis,{},{},{}
+pos,Saint-Géry,pos,Saint-Pierre-d'Eyraud,{},{},{},pa,Saint-Paul-lès-Dax,{},{'s': 1},"{('o', 'a'): 1}",pas,Baneuil,{},{},"{('o', 'a'): 1}"
+pos,Saint-Pierre-d'Eyraud,pas,Villeréal-bis,{},{},"{('o', 'a'): 1}",pos,Saint-Géry,{},{},{},,,,,
+pas,Baneuil,pos,Saint-Géry,{},{},"{('a', 'o'): 1}",pas,Rives,{},{},{},pas,Cause-de-Clérans,{},{},{}
+pas,Cause-de-Clérans,pas,Saint-Étienne-de-Villeréal,{},{},{},pas,Baneuil,{},{},{},,,,,
+pas,Couze-et-Saint-Front,pas,Liorac-sur-Louyre,{},{},{},pas,Lalinde-Sainte-Colombe,{},{},{},,,,,
+pas,Lalinde-Sainte-Colombe,pas,Couze-et-Saint-Front,{},{},{},,,,,,,,,,
+pos,Lalinde,pas,Aydius,{},{},"{('o', 'a'): 1}",pas,Mauzac,{},{},"{('o', 'a'): 1}",,,,,
+pas,Liorac-sur-Louyre,pas,Couze-et-Saint-Front,{},{},{},pas,Mauzac,{},{},{},,,,,
+pas,Mauzac,pos,Lalinde,{},{},"{('a', 'o'): 1}",pas,Liorac-sur-Louyre,{},{},{},,,,,
+pas,Pressignac,pas,Aydius,{},{},{},,,,,,,,,,
+paï,Saint-Capraise-de-Lalinde,pas,Capdrot,{},{},"{('ï', 's'): 1}",,,,,,,,,,
+pos,Saint-Marcel-du-Périgord,pas,Sauvebœuf,{},{},"{('o', 'a'): 1}",,,,,,,,,,
+pas,Sauvebœuf,pas,Verdon,{},{},{},pos,Saint-Marcel-du-Périgord,{},{},"{('a', 'o'): 1}",,,,,
+pas,Verdon,pas,Sauvebœuf,{},{},{},paï,Biron,{},{},"{('s', 'ï'): 1}",,,,,
+pas,Vicq,,,,,,,,,,,,,,,
+paï,Biron,pas,Verdon,{},{},"{('ï', 's'): 1}",,,,,,,,,,
+pas,Capdrot,paï,Saint-Capraise-de-Lalinde,{},{},"{('s', 'ï'): 1}",,,,,,,,,,
+pas,Gaugeac,pah,Bourdeilles,{},{},"{('s', 'h'): 1}",,,,,,,,,,
+pos,Marsalès,pas,Etsaut,{},{},"{('o', 'a'): 1}",pos,Monpazier-bis,{},{},{},pos,Saint-Marcory,{},{},{}
+pos,Monpazier-bis,pos,Marsalès,{},{},{},pas,Arette,{},{},"{('o', 'a'): 1}",,,,,
+pos,Monpazier,pas,Arudy,{},{},"{('o', 'a'): 1}",pos,Saint-Avit-Rivière,{},{},{},,,,,
+pos,Saint-Avit-Rivière,pos,Monpazier,{},{},{},pas,Lées-Athas,{},{},"{('o', 'a'): 1}",pos,Saint-Marcory,{},{},{}
+pos,Saint-Marcory,pos,Saint-Avit-Rivière,{},{},{},pos,Marsalès,{},{},{},,,,,
+pos,Saint-Romain-de-Monpazier,paï,Garlin,{},{},"{('o', 'a'): 1, ('s', 'ï'): 1}",pos,Soulaures,{},{},{},,,,,
+pos,Soulaures,pos,Limeuil,{},{},{},pos,Saint-Romain-de-Monpazier,{},{},{},,,,,
+pas,Vergt-de-Biron,pos,Grand-Castang,{},{},"{('a', 'o'): 1}",pas,Blaignan,{},{},{},pos,Limeuil,{},{},"{('a', 'o'): 1}"
+pos,Grand-Castang,pas,Bescat,{},{},"{('o', 'a'): 1}",pas,Vergt-de-Biron,{},{},"{('o', 'a'): 1}",pos,Limeuil,{},{},{}
+pos,Limeuil,pas,Vergt-de-Biron,{},{},"{('o', 'a'): 1}",pos,Soulaures,{},{},{},pos,Grand-Castang,{},{},{}
+pay,Paunat,pos,Pezuls,{},{},"{('a', 'o'): 1, ('y', 's'): 1}",pas,Castet,{},{},"{('y', 's'): 1}",,,,,
+pos,Pezuls,pas,Bidache,{},{},"{('o', 'a'): 1}",pay,Paunat,{},{},"{('o', 'a'): 1, ('s', 'y'): 1}",poï,Saint-Laurent-des-Bâtons,{},{},"{('s', 'ï'): 1}"
+poï,Saint-Laurent-des-Bâtons,pas,Sainte-Alvère,{},{},"{('o', 'a'): 1, ('ï', 's'): 1}",pas,Guiche,{},{},"{('o', 'a'): 1, ('ï', 's'): 1}",pos,Pezuls,{},{},"{('ï', 's'): 1}"
+pos,Sainte-Alvère-bis,pas,Sainte-Alvère,{},{},"{('o', 'a'): 1}",,,,,,,,,,
+pas,Sainte-Alvère,pos,Sainte-Alvère-bis,{},{},"{('a', 'o'): 1}",pas,Aste-Béon,{},{},{},poï,Saint-Laurent-des-Bâtons,{},{},"{('a', 'o'): 1, ('s', 'ï'): 1}"
+pos,Sainte-Foy-de-Longas,pas,Sévignacq-Meyracq,{},{},"{('o', 'a'): 1}",,,,,,,,,,
+pas,Trémolat,pos,Cunèges,{},{},"{('a', 'o'): 1}",pas,Buziet,{},{},{},,,,,
+pos,Cunèges,pas,Lurbe-Saint-Christau,{},{},"{('o', 'a'): 1}",pas,Trémolat,{},{},"{('o', 'a'): 1}",,,,,

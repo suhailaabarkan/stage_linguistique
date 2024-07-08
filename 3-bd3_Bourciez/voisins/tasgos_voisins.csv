@@ -1,0 +1,423 @@
+Mot,Commune,Voisin_1,Commune_1,Insertions_1,Suppressions_1,Substitutions_1,Voisin_2,Commune_2,Insertions_2,Suppressions_2,Substitutions_2,Voisin_3,Commune_3,Insertions_3,Suppressions_3,Substitutions_3
+tessouns,Andernos-les-Bains,téssous,Bazas-bis,{},{'n': 1},"{('e', 'é'): 1}",tessouns,Auros-bis,{},{},{},tessouns,Audenge-bis,{},{},{}
+tessouns,Arès,téssou,Savignac,{},"{'n': 1, 's': 1}","{('e', 'é'): 1}",tessouns,Ailas,{},{},{},téssous,Coimères,{},{'n': 1},"{('e', 'é'): 1}"
+tessouns,Audenge-bis,tessouns,Andernos-les-Bains,{},{},{},téssous,Le Porge,{},{'n': 1},"{('e', 'é'): 1}",tessous,Saint-Étienne-de-Lisse,{},{'n': 1},{}
+tessouns,Audenge,tessous,Lignan-de-Bazas,{},{'n': 1},{},ressous,Belin-Béliet,{},{'n': 1},"{('t', 'r'): 1}",,,,,
+téssouns,Biganos,téssous,Blanquefort-bis,{},{'n': 1},{},,,,,,,,,,
+réssouns,Lacanau-de-Mios,tessous,Eysines,{},{'n': 1},"{('r', 't'): 1, ('é', 'e'): 1}",téssous,Carbon-Blanc-bis,{},{'n': 1},"{('r', 't'): 1}",,,,,
+téssouns,Lanton,téssous,Macau,{},{'n': 1},{},tessous,Castelnau-de-Médoc,{},{'n': 1},"{('é', 'e'): 1}",téçous,Saint-Loubès,{},"{'s': 1, 'n': 1}","{('s', 'ç'): 1}"
+tessouns,Lège,téssous,Saint-Sulpice-et-Cameyrac,{},{'n': 1},"{('e', 'é'): 1}",,,,,,,,,,
+téssouns,Mios,tessouns,Ailas,{},{},"{('é', 'e'): 1}",téssous,Saint-Maixant,{},{'n': 1},{},,,,,
+tessouns,Ailas,tessouns,Arès,{},{},{},téssouns,Mios,{},{},"{('e', 'é'): 1}",tessouns,Auros-bis,{},{},{}
+tessouns,Auros-bis,tessouns,Andernos-les-Bains,{},{},{},tessouns,Ailas,{},{},{},,,,,
+tessouns,Auros,téssous,Bordeaux,{},{'n': 1},"{('e', 'é'): 1}",téssous,Sainte-Foy-la-Grande-bis,{},{'n': 1},"{('e', 'é'): 1}",tessouns,Brannens,{},{},{}
+tessouns,Barie,téssous,Yvrac,{},{'n': 1},"{('e', 'é'): 1}",,,,,,,,,,
+tessouns,Brannens,tessouns,Auros,{},{},{},téssous,Castillon-de-Castets,{},{'n': 1},"{('e', 'é'): 1}",,,,,
+téssous,Castillon-de-Castets,téchous,Saint-Médard-en-Jalles,{},{},"{('s', 'c'): 1, ('s', 'h'): 1}",tessouns,Brannens,{'n': 1},{},"{('é', 'e'): 1}",,,,,
+téssous,Coimères,tessouns,Arès,{'n': 1},{},"{('é', 'e'): 1}",tessous,Cudos,{},{},"{('é', 'e'): 1}",téssous,Lados,{},{},{}
+téssous,Lados,tessous,Gans,{},{},"{('é', 'e'): 1}",téssou,Puybarban,{},{'s': 1},{},téssous,Coimères,{},{},{}
+téssous,Pondaurat,téssous,Blaignan,{},{},{},,,,,,,,,,
+téssou,Puybarban,téssous,Lados,{'s': 1},{},{},téssous,Le Bouscat,{'s': 1},{},{},téssou,Savignac,{},{},{}
+téssou,Savignac,téssous,Sigalens,{'s': 1},{},{},tessouns,Arès,"{'n': 1, 's': 1}",{},"{('é', 'e'): 1}",téssou,Puybarban,{},{},{}
+téssous,Sigalens,téchous,Caudéran,{},{},"{('s', 'c'): 1, ('s', 'h'): 1}",téssou,Savignac,{},{'s': 1},{},téssous,Bayon-sur-Gironde,{},{},{}
+téssous,Bazas-bis,tessous,Bazas,{},{},"{('é', 'e'): 1}",tessouns,Andernos-les-Bains,{'n': 1},{},"{('é', 'e'): 1}",,,,,
+tessous,Bazas,tessous,Cazats,{},{},{},téssous,Bazas-bis,{},{},"{('e', 'é'): 1}",,,,,
+tessouns,Bernos-Beaulac,tessouns,Birac,{},{},{},tessous,Saumos,{},{'n': 1},{},tessous,Gajac,{},{'n': 1},{}
+tessouns,Birac,tessous,Saint-Magne-de-Castillon,{},{'n': 1},{},tessouns,Bernos-Beaulac,{},{},{},tessous,Cazats,{},{'n': 1},{}
+tessous,Cazats,tessous,Cudos,{},{},{},tessous,Bazas,{},{},{},tessouns,Birac,{'n': 1},{},{}
+tessous,Cudos,téssous,Coimères,{},{},"{('e', 'é'): 1}",tessous,Cazats,{},{},{},tessous,Gans,{},{},{}
+tessous,Gajac,tessous,Belvès-de-Castillon,{},{},{},tessous,Gans,{},{},{},tessouns,Bernos-Beaulac,{'n': 1},{},{}
+tessous,Gans,tessous,Gajac,{},{},{},téssous,Lados,{},{},"{('e', 'é'): 1}",tessous,Cudos,{},{},{}
+tessous,Le Nizan,téssous,Prignac-et-Marcamps,{},{},"{('e', 'é'): 1}",téssous,Gauriac,{},{},"{('e', 'é'): 1}",téssous,Saint-Antoine-sur-l'Isle,{},{},"{('e', 'é'): 1}"
+tessous,Lignan-de-Bazas,tessouns,Audenge,{'n': 1},{},{},tessous,Lansac,{},{},{},téssous,Béliet,{},{},"{('e', 'é'): 1}"
+tessous,Saint-Côme,tessous,Bonnetan,{},{},{},tessous,Saint-Trojan,{},{},{},téssous,Béliet,{},{},"{('e', 'é'): 1}"
+téssous,Béliet,ressous,Belin-Béliet,{},{},"{('t', 'r'): 1, ('é', 'e'): 1}",tessous,Lignan-de-Bazas,{},{},"{('é', 'e'): 1}",tessous,Saint-Côme,{},{},"{('é', 'e'): 1}"
+ressous,Belin-Béliet,tessous,Cadillac-en-Fronsadais,{},{},"{('r', 't'): 1}",tessouns,Audenge,{'n': 1},{},"{('r', 't'): 1}",téssous,Béliet,{},{},"{('r', 't'): 1, ('e', 'é'): 1}"
+téssous,Joué,téssous,Le Barp,{},{},{},téssous,Tabanac,{},{},{},,,,,
+téssous,Le Barp,téssous,Cabara,{},{},{},téssous,Joué,{},{},{},,,,,
+tessōūs,Lugos,tessous,Saint-Magne,{},{'̄': 2},{},tessous,Salles-bis,{},{'̄': 2},{},,,,,
+tessous,Saint-Magne,téssous,Salles,{},{},"{('e', 'é'): 1}",tessōūs,Lugos,{'̄': 2},{},{},tessous,Saint-Romain-la-Virvée,{},{},{}
+tessous,Salles-bis,tessōūs,Lugos,{'̄': 2},{},{},téssous,Génissac,{},{},"{('e', 'é'): 1}",,,,,
+téssous,Salles,tessous,Saint-Magne,{},{},"{('é', 'e'): 1}",téssous,Saint-Quentin-de-Baron,{},{},{},,,,,
+téssous,Blanquefort-bis,téssous,Langoiran,{},{},{},téssouns,Biganos,{'n': 1},{},{},téssous,Blanquefort,{},{},{}
+téssous,Blanquefort,téssous,Blanquefort-bis,{},{},{},tessous,La Réole,{},{},"{('é', 'e'): 1}",,,,,
+tessous,Caychac,téssous,Omet,{},{},"{('e', 'é'): 1}",tessous,Eysines,{},{},{},téssous,Giscos,{},{},"{('e', 'é'): 1}"
+tessous,Eysines,tessous,Caychac,{},{},{},réssouns,Lacanau-de-Mios,{'n': 1},{},"{('t', 'r'): 1, ('e', 'é'): 1}",tessous,Le Haillan,{},{},{}
+tessous,Le Haillan,tessous,Le Pian-Médoc,{},{},{},tessous,Eysines,{},{},{},,,,,
+tessous,Le Pian-Médoc,tessous,Le Haillan,{},{},{},,,,,,,,,,
+téssou,Le Taillan-Médoc,tessous,Sainte-Croix-du-Mont,{'s': 1},{},"{('é', 'e'): 1}",tessous,Bassens,{'s': 1},{},"{('é', 'e'): 1}",téchous,Landerrouat,{'s': 1},{},"{('s', 'c'): 1, ('s', 'h'): 1}"
+tessous,Ludon-Médoc,téssous,Macau,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+téssous,Macau,tessous,Ludon-Médoc,{},{},"{('é', 'e'): 1}",téssouns,Lanton,{'n': 1},{},{},,,,,
+tessous,Parempuyre,téssous,Arcins,{},{},"{('e', 'é'): 1}",tessous,Arsac,{},{},{},,,,,
+tessous,Saint-Aubin-de-Médoc,tessous,Labarde,{},{},{},,,,,,,,,,
+téchous,Saint-Médard-en-Jalles,téssous,Margaux,{},{},"{('c', 's'): 1, ('h', 's'): 1}",téssous,Castillon-de-Castets,{},{},"{('c', 's'): 1, ('h', 's'): 1}",téssous,Moulis-en-Médoc-bis,{},{},"{('c', 's'): 1, ('h', 's'): 1}"
+téssou,Bègles,téssouns,Lugon-et-l'Île-du-Carnay,"{'n': 1, 's': 1}",{},{},tessous,Moulis-en-Médoc,{'s': 1},{},"{('é', 'e'): 1}",,,,,
+téssous,Bordeaux,tessouns,Auros,{'n': 1},{},"{('é', 'e'): 1}",,,,,,,,,,
+téssous,Bruges,téssous,Bégadan,{},{},{},téchous,Caudéran,{},{},"{('s', 'c'): 1, ('s', 'h'): 1}",,,,,
+téchous,Caudéran,téssous,Bruges,{},{},"{('c', 's'): 1, ('h', 's'): 1}",téssous,Sigalens,{},{},"{('c', 's'): 1, ('h', 's'): 1}",téssous,Bayon-sur-Gironde,{},{},"{('c', 's'): 1, ('h', 's'): 1}"
+tessous,Chartrons,tessous,Sainte-Colombe,{},{},{},tessous,Salaunes,{},{},{},,,,,
+téssous,Le Bouscat,téssou,Puybarban,{},{'s': 1},{},téssous,Castillon-la-Bataille-bis,{},{},{},téssous,Bayon-sur-Gironde,{},{},{}
+téssous,Bayon-sur-Gironde,téchous,Caudéran,{},{},"{('s', 'c'): 1, ('s', 'h'): 1}",téssous,Sigalens,{},{},{},téssous,Le Bouscat,{},{},{}
+tessous,Bourg-bis,tessous,Castres-Gironde,{},{},{},téssous,Castillon-la-Bataille,{},{},"{('e', 'é'): 1}",tessous,Bahus-Soubiran,{},{},{}
+téssous,Bourg,téssous,Comps,{},{},{},tessous,Baron,{},{},"{('é', 'e'): 1}",,,,,
+téssous,Comps,téssous,Gauriac,{},{},{},téssous,Bourg,{},{},{},,,,,
+téssous,Gauriac,tessous,Le Nizan,{},{},"{('é', 'e'): 1}",téssous,Comps,{},{},{},téssous,Baurech,{},{},{}
+tessous,Lansac,tessous,Lignan-de-Bazas,{},{},{},téssous,Marcamps,{},{},"{('e', 'é'): 1}",,,,,
+téssous,Marcamps,téssous,Prignac-et-Marcamps,{},{},{},tessous,Lansac,{},{},"{('é', 'e'): 1}",,,,,
+téssous,Prignac-et-Marcamps,téssous,Marcamps,{},{},{},tessous,Le Nizan,{},{},"{('é', 'e'): 1}",,,,,
+téssous,Saint-Seurin-de-Bourg,téssous,Samonac,{},{},{},tessous,Baron,{},{},"{('é', 'e'): 1}",,,,,
+tessous,Saint-Trojan,tessous,Saint-Côme,{},{},{},tessous,Tauriac,{},{},{},téssous,Samonac,{},{},"{('e', 'é'): 1}"
+téssous,Samonac,téssous,Saint-Seurin-de-Bourg,{},{},{},téssous,Fronsac,{},{},{},tessous,Saint-Trojan,{},{},"{('é', 'e'): 1}"
+tessous,Tauriac,tessous,Saint-Trojan,{},{},{},téssous,Camarsac,{},{},"{('e', 'é'): 1}",tessous,Baron,{},{},{}
+tessous,Baron,téssous,Bourg,{},{},"{('e', 'é'): 1}",téssous,Saint-Seurin-de-Bourg,{},{},"{('e', 'é'): 1}",tessous,Tauriac,{},{},{}
+tessous,Branne-bis,téssous,Camblanes-et-Meynac,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+tessous,Branne,téchous,Hure,{},{},"{('e', 'é'): 1, ('s', 'c'): 1, ('s', 'h'): 1}",téchous,Gironde-sur-Dropt-bis,{},{},"{('e', 'é'): 1, ('s', 'c'): 1, ('s', 'h'): 1}",téssous,Carignan-de-Bordeaux,{},{},"{('e', 'é'): 1}"
+tessous,Cabara-bis,téssous,Le Tourne,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+téssous,Cabara,tessous,Saillans,{},{},"{('é', 'e'): 1}",téssous,Le Barp,{},{},{},,,,,
+téssous,Daignac,téssous,Génissac,{},{},{},,,,,,,,,,
+téssous,Génissac,tessous,Salles-bis,{},{},"{('é', 'e'): 1}",téssous,Daignac,{},{},{},,,,,
+téssous,Grézillac,téssous,Jugazan,{},{},{},,,,,,,,,,
+téssous,Jugazan,téssous,Grézillac,{},{},{},tessous,Civrac,{},{},"{('é', 'e'): 1}",téssous,Gaillan-en-Médoc,{},{},{}
+tessous,Moulon,tessous,Naujan-et-Postiac,{},{},{},,,,,,,,,,
+tessous,Naujan-et-Postiac,téssous,Grignols-bis,{},{},"{('e', 'é'): 1}",tessous,Moulon,{},{},{},,,,,
+téssous,Nérigean,tessouns,Saint-Germain-du-Puch,{'n': 1},{},"{('é', 'e'): 1}",,,,,,,,,,
+tessouns,Saint-Germain-du-Puch,téssous,Uzeste,{},{'n': 1},"{('e', 'é'): 1}",téssous,Nérigean,{},{'n': 1},"{('e', 'é'): 1}",,,,,
+téssous,Saint-Quentin-de-Baron,téssous,Salles,{},{},{},,,,,,,,,,
+tessous,Tizac-de-Curton,,,,,,,,,,,,,,,
+téssouns,Béguey,téssous,Sendets,{},{'n': 1},{},tessous,Gabarnac,{},{'n': 1},"{('é', 'e'): 1}",,,,,
+tessous,Cadillac,téssous,Cardan,{},{},"{('e', 'é'): 1}",téchous,Camiran,{},{},"{('e', 'é'): 1, ('s', 'c'): 1, ('s', 'h'): 1}",téssous,Capian,{},{},"{('e', 'é'): 1}"
+téssous,Capian,tessous,Saint-Michel-de-Fronsac,{},{},"{('é', 'e'): 1}",tessous,Cadillac,{},{},"{('é', 'e'): 1}",,,,,
+téssous,Cardan,tessous,Lerm-et-Musset,{},{},"{('é', 'e'): 1}",tessous,Cadillac,{},{},"{('é', 'e'): 1}",tessous,Donzac,{},{},"{('é', 'e'): 1}"
+tessous,Donzac,téchous,Saint-Médard-d'Eyrans,{},{},"{('e', 'é'): 1, ('s', 'c'): 1, ('s', 'h'): 1}",tessous,Gabarnac,{},{},{},téssous,Cardan,{},{},"{('e', 'é'): 1}"
+tessous,Gabarnac,tessous,Donzac,{},{},{},téssouns,Béguey,{'n': 1},{},"{('e', 'é'): 1}",téssous,Marions,{},{},"{('e', 'é'): 1}"
+tessous,Langoiran-bis,tessous,Gironde-sur-Dropt,{},{},{},,,,,,,,,,
+téssous,Langoiran,téssous,Blanquefort-bis,{},{},{},,,,,,,,,,
+téssous,Lestiac-sur-Garonne,téchous,Morizès,{},{},"{('s', 'c'): 1, ('s', 'h'): 1}",,,,,,,,,,
+tessous,Loupiac,tessou,Gujan,{},{'s': 1},{},téssous,Monprimblanc,{},{},"{('e', 'é'): 1}",,,,,
+téssous,Monprimblanc,tessous,Saint-Hilaire-de-la-Noaille,{},{},"{('é', 'e'): 1}",tessous,Loupiac,{},{},"{('é', 'e'): 1}",,,,,
+téssous,Omet,téssous,Paillet,{},{},{},tessous,Caychac,{},{},"{('é', 'e'): 1}",téchou,La Teste-de-Buch,{},{'s': 1},"{('s', 'c'): 1, ('s', 'h'): 1}"
+téssous,Paillet,tessous,Rions,{},{},"{('é', 'e'): 1}",téssous,Omet,{},{},{},téchou,Le Teich,{},{'s': 1},"{('s', 'c'): 1, ('s', 'h'): 1}"
+tessous,Rions,téssous,Paillet,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+tessous,Sainte-Croix-du-Mont,téssous,Captieux-bis,{},{},"{('e', 'é'): 1}",téssou,Le Taillan-Médoc,{},{'s': 1},"{('e', 'é'): 1}",téchou,Mazères,{},{'s': 1},"{('e', 'é'): 1, ('s', 'c'): 1, ('s', 'h'): 1}"
+tessous,Villenave-de-Rions,téssous,Beychac-et-Caillau,{},{},"{('e', 'é'): 1}",téssous,Captieux-bis,{},{},"{('e', 'é'): 1}",tessous,Arbanats,{},{},{}
+téssous,Captieux-bis,tessous,Villenave-de-Rions,{},{},"{('é', 'e'): 1}",tessous,Sainte-Croix-du-Mont,{},{},"{('é', 'e'): 1}",téssous,Captieux,{},{},{}
+téssous,Captieux,téssou,Léogeats,{},{'s': 1},{},téchous,Langon,{},{},"{('s', 'c'): 1, ('s', 'h'): 1}",téssous,Captieux-bis,{},{},{}
+tessous,Escaudes,tessous,Bouliac,{},{},{},téssouz,Cérons,{},{},"{('e', 'é'): 1, ('s', 'z'): 1}",,,,,
+téssous,Giscos,téchou,Bieujac,{},{'s': 1},"{('s', 'c'): 1, ('s', 'h'): 1}",tessous,Caychac,{},{},"{('é', 'e'): 1}",téssous,Saint-Pardon-de-Conques,{},{},{}
+téssous,Saint-Michel-de-Castelnau,tèssous,Cenon,{},{},"{('é', 'è'): 1}",téchoû,Saint-Émilion,{},{'s': 1},"{('s', 'c'): 1, ('s', 'h'): 1, ('u', 'û'): 1}",tessous,Toulenne,{},{},"{('é', 'e'): 1}"
+téssous,Ambarès-et-Lagrave,,,,,,,,,,,,,,,
+téssous,Ambès,tessous,Martignas-sur-Jalle,{},{},"{('é', 'e'): 1}",téssous,Beychac-et-Caillau,{},{},{},,,,,
+tessous,Bassens,téssou,Le Taillan-Médoc,{},{'s': 1},"{('e', 'é'): 1}",téssous,Beychac-et-Caillau,{},{},"{('e', 'é'): 1}",,,,,
+téssous,Beychac-et-Caillau,tessous,Bassens,{},{},"{('é', 'e'): 1}",tessous,Villenave-de-Rions,{},{},"{('é', 'e'): 1}",téssous,Ambès,{},{},{}
+tessous,Bouliac,téssous,Podensac,{},{},"{('e', 'é'): 1}",tessous,Escaudes,{},{},{},téssous,Carbon-Blanc-bis,{},{},"{('e', 'é'): 1}"
+téssous,Carbon-Blanc-bis,tessous,Bouliac,{},{},"{('é', 'e'): 1}",réssouns,Lacanau-de-Mios,{'n': 1},{},"{('t', 'r'): 1}",,,,,
+téssous,Carbon-Blanc,tèshou,Pessac,{},{'s': 1},"{('é', 'è'): 1, ('s', 'h'): 1}",téchou,Libourne,{},{'s': 1},"{('s', 'c'): 1, ('s', 'h'): 1}",tessous,Lormont,{},{},"{('é', 'e'): 1}"
+tèssous,Cenon,tessous,Floirac,{},{},"{('è', 'e'): 1}",téssous,Saint-Michel-de-Castelnau,{},{},"{('è', 'é'): 1}",,,,,
+tessous,Floirac,tessous,Saint-Sulpice-de-Faleyrens,{},{},{},tèssous,Cenon,{},{},"{('e', 'è'): 1}",tessous,Lormont,{},{},{}
+tessous,Lormont,téssous,Carbon-Blanc,{},{},"{('e', 'é'): 1}",tessous,Floirac,{},{},{},,,,,
+tessous,Montussan,téçous,Saint-Loubès,{},{'s': 1},"{('e', 'é'): 1, ('s', 'ç'): 1}",tessous,Cussac-Fort-Médoc,{},{},{},,,,,
+téçous,Saint-Loubès,téssouns,Lanton,"{'s': 1, 'n': 1}",{},"{('ç', 's'): 1}",tessous,Montussan,{'e': 1},{},"{('é', 's'): 1, ('ç', 's'): 1}",,,,,
+tetzous,Saint-Louis-de-Montferrand,tésôus,Virelade,{},{'o': 1},"{('e', 'é'): 1, ('t', 's'): 1, ('z', 'ô'): 1}",téssous,Saint-Sulpice-et-Cameyrac,{},{},"{('e', 'é'): 1, ('t', 's'): 1, ('z', 's'): 1}",,,,,
+téssous,Saint-Sulpice-et-Cameyrac,téssous,Saint-Vincent-de-Paul,{},{},{},tessouns,Lège,{'n': 1},{},"{('é', 'e'): 1}",tetzous,Saint-Louis-de-Montferrand,{},{},"{('é', 'e'): 1, ('s', 't'): 1, ('s', 'z'): 1}"
+téssous,Saint-Vincent-de-Paul,tessous,Flaujagues,{},{},"{('é', 'e'): 1}",téssous,Saint-Sulpice-et-Cameyrac,{},{},{},,,,,
+téssous,Sainte-Eulalie,tessous,Saint-Martin-de-Sescas,{},{},"{('é', 'e'): 1}",téssous,Juillac,{},{},{},,,,,
+tessous,Tresses-bis,téssous,Peujard,{},{},"{('e', 'é'): 1}",téssous,Pessac-sur-Dordogne,{},{},"{('e', 'é'): 1}",,,,,
+tessous,Tresses,téssous̈,Rauzan,{'̈': 1},{},"{('e', 'é'): 1}",téssous,Saint-Pey-de-Castets,{},{},"{('e', 'é'): 1}",tessous,Cubzac-les-Ponts,{},{},{}
+téssous,Yvrac,téssous,Arcins,{},{},{},tessouns,Barie,{'n': 1},{},"{('é', 'e'): 1}",,,,,
+téssous,Arcins,tessous,Parempuyre,{},{},"{('é', 'e'): 1}",téssous,Yvrac,{},{},{},téssous,Virsac,{},{},{}
+tessous,Arsac-bis,téssous,Cantenac,{},{},"{('e', 'é'): 1}",téssous,Saint-Gervais,{},{},"{('e', 'é'): 1}",tessous,Lamarque,{},{},{}
+tessous,Arsac,tessous,Castelnau-de-Médoc,{},{},{},tessous,Parempuyre,{},{},{},téssous,Cantenac,{},{},"{('e', 'é'): 1}"
+téssous,Cantenac,téssous,Salignac,{},{},{},tessous,Arsac-bis,{},{},"{('é', 'e'): 1}",tessous,Arsac,{},{},"{('é', 'e'): 1}"
+tessous,Castelnau-de-Médoc,téssouns,Lanton,{'n': 1},{},"{('e', 'é'): 1}",tessous,Arsac,{},{},{},tessous,Cussac-Fort-Médoc,{},{},{}
+tessous,Cussac-Fort-Médoc,tessous,Montussan,{},{},{},tessous,Castelnau-de-Médoc,{},{},{},tessous,Lacanau,{},{},{}
+tessous,Labarde,tessous,Saint-Aubin-de-Médoc,{},{},{},tessous,Lacanau,{},{},{},téssous,Caudrot,{},{},"{('e', 'é'): 1}"
+tessous,Lacanau,tessous,Labarde,{},{},{},tessous,Cussac-Fort-Médoc,{},{},{},tessous,Lamarque,{},{},{}
+tessous,Lamarque,tessous,Arsac-bis,{},{},{},téssous,Saint-André-du-Bois,{},{},"{('e', 'é'): 1}",tessous,Lacanau,{},{},{}
+téssous,Le Porge,tessouns,Audenge-bis,{'n': 1},{},"{('é', 'e'): 1}",téssous,Saint-Germain-de-Grave,{},{},{},téssous,Le Temple,{},{},{}
+téssous,Le Temple,téçous,Verdelais,{},{'s': 1},"{('s', 'ç'): 1}",téssous,Le Porge,{},{},{},,,,,
+téssous,Listrac-Médoc,téssous,Pujols-bis,{},{},{},,,,,,,,,,
+téssous,Margaux,téchous,Saint-Médard-en-Jalles,{},{},"{('s', 'c'): 1, ('s', 'h'): 1}",,,,,,,,,,
+téssous,Moulis-en-Médoc-bis,téchous,Saint-Médard-en-Jalles,{},{},"{('s', 'c'): 1, ('s', 'h'): 1}",téssous,Sainte-Foy-la-Grande-ter,{},{},{},,,,,
+tessous,Moulis-en-Médoc,téssou,Bègles,{},{'s': 1},"{('e', 'é'): 1}",téssous,Gornac,{},{},"{('e', 'é'): 1}",,,,,
+tessous,Sainte-Hélène,téssous,Cazalis,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+tessous,Salaunes,téssous,Soussans,{},{},"{('e', 'é'): 1}",tessous,Chartrons,{},{},{},téssous,Castillon-la-Bataille-bis,{},{},"{('e', 'é'): 1}"
+tessous,Saumos,tessouns,Bernos-Beaulac,{'n': 1},{},{},téssous,Soussans,{},{},"{('e', 'é'): 1}",tessous,Belvès-de-Castillon,{},{},{}
+téssous,Soussans,tessous,Saumos,{},{},"{('é', 'e'): 1}",tessous,Saint-Pey-d'Armens,{},{},"{('é', 'e'): 1}",tessous,Salaunes,{},{},"{('é', 'e'): 1}"
+tessous,Belvès-de-Castillon,téssous,Castillon-la-Bataille-bis,{},{},"{('e', 'é'): 1}",tessous,Gajac,{},{},{},tessous,Saumos,{},{},{}
+téssous,Castillon-la-Bataille-bis,téssous,Le Bouscat,{},{},{},tessous,Belvès-de-Castillon,{},{},"{('é', 'e'): 1}",tessous,Salaunes,{},{},"{('é', 'e'): 1}"
+téssous,Castillon-la-Bataille,tessous,Bourg-bis,{},{},"{('é', 'e'): 1}",téssous,Puisseguin,{},{},{},téssous,Classun,{},{},{}
+téssous,Gardegan,tessous,Lucmau,{},{},"{('é', 'e'): 1}",tessous,Villandraut-bis,{},{},"{('é', 'e'): 1}",,,,,
+tessous,Saint-Étienne-de-Lisse,tessouns,Audenge-bis,{'n': 1},{},{},tessous,Saint-Genès-de-Castillon,{},{},{},,,,,
+tessous,Saint-Genès-de-Castillon,tessous,Saint-Étienne-de-Lisse,{},{},{},téssous,Balizac,{},{},"{('e', 'é'): 1}",téssous,Saint-Laurent-des-Combes,{},{},"{('e', 'é'): 1}"
+téssous,Saint-Laurent-des-Combes,téssous,Saint-Symphorien-bis,{},{},{},tessous,Aire-sur-l'Adour,{},{},"{('é', 'e'): 1}",tessous,Saint-Genès-de-Castillon,{},{},"{('é', 'e'): 1}"
+tessous,Saint-Magne-de-Castillon,tessous,Saint-Pey-d'Armens,{},{},{},tessouns,Birac,{'n': 1},{},{},,,,,
+tessous,Saint-Pey-d'Armens,téssous,Soussans,{},{},"{('e', 'é'): 1}",tessous,Saint-Magne-de-Castillon,{},{},{},téssous,Saint-Philippe-d'Aiguille,{},{},"{('e', 'é'): 1}"
+téssous,Saint-Philippe-d'Aiguille,téssous,Sainte-Terre,{},{},{},tessous,Saint-Pey-d'Armens,{},{},"{('é', 'e'): 1}",,,,,
+tessous,Sainte-Colombe,tessous,Chartrons,{},{},{},téssous,Sainte-Terre,{},{},"{('e', 'é'): 1}",,,,,
+téssous,Sainte-Terre,tessous,Sainte-Colombe,{},{},"{('é', 'e'): 1}",téssous,Saint-Philippe-d'Aiguille,{},{},{},tessous,Vignonet,{},{},"{('é', 'e'): 1}"
+tessous,Vignonet,téssous,Sainte-Terre,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+téssous,Saint-Antoine-sur-l'Isle,tessous,Le Nizan,{},{},"{('é', 'e'): 1}",téssous,Baurech,{},{},{},,,,,
+téssous,Baurech,téssous,Saint-Antoine-sur-l'Isle,{},{},{},téssous,Gauriac,{},{},{},téssous,Camarsac,{},{},{}
+tessous,Bonnetan,téssous,Camarsac,{},{},"{('e', 'é'): 1}",tessous,Saint-Côme,{},{},{},,,,,
+téssous,Camarsac,tessous,Tauriac,{},{},"{('é', 'e'): 1}",tessous,Bonnetan,{},{},"{('é', 'e'): 1}",téssous,Baurech,{},{},{}
+tessous,Cambes,tessous,Cénac,{},{},{},téssous,Camblanes-et-Meynac,{},{},"{('e', 'é'): 1}",,,,,
+téssous,Camblanes-et-Meynac,tessous,Branne-bis,{},{},"{('é', 'e'): 1}",tessous,Cambes,{},{},"{('é', 'e'): 1}",téssous,Carignan-de-Bordeaux,{},{},{}
+téssous,Carignan-de-Bordeaux,tessous,Branne,{},{},"{('é', 'e'): 1}",téssous,Camblanes-et-Meynac,{},{},{},,,,,
+tessous,Cénac,tessous,Cambes,{},{},{},,,,,,,,,,
+tessous,Créon,,,,,,,,,,,,,,,
+téssous,Haux,,,,,,,,,,,,,,,
+téssous,Latresne,,,,,,,,,,,,,,,
+téssous,Le Tourne,tessous,Cabara-bis,{},{},"{('é', 'e'): 1}",téssous,Sallebœuf,{},{},{},,,,,
+tessous,Lignan-de-Bordeaux,téchou,Bommes,{},{'s': 1},"{('e', 'é'): 1, ('s', 'c'): 1, ('s', 'h'): 1}",tésous,Pompignac,{},{'s': 1},"{('e', 'é'): 1}",téssous,Madirac,{},{},"{('e', 'é'): 1}"
+téssous,Madirac,tessous,Quinsac,{},{},"{('é', 'e'): 1}",tessous,Lignan-de-Bordeaux,{},{},"{('é', 'e'): 1}",,,,,
+tésous,Pompignac,tessous,Lignan-de-Bordeaux,{'e': 1},{},"{('é', 's'): 1}",tessous,Quinsac,{'e': 1},{},"{('é', 's'): 1}",,,,,
+tessous,Quinsac,téssous,Madirac,{},{},"{('e', 'é'): 1}",tésous,Pompignac,{},{'s': 1},"{('e', 'é'): 1}",,,,,
+téssous,Sadirac,téssous,Saint-Caprais-de-Bordeaux,{},{},{},,,,,,,,,,
+téssous,Saint-Caprais-de-Bordeaux,téssous,Sallebœuf,{},{},{},téssous,Sadirac,{},{},{},,,,,
+téssous,Sallebœuf,téssous,Le Tourne,{},{},{},téssous,Saint-Caprais-de-Bordeaux,{},{},{},,,,,
+téssous,Tabanac,téssous,Joué,{},{},{},,,,,,,,,,
+téssous,Asques,téssous,Fronsac-bis,{},{},{},téssous,La Lande-de-Fronsac,{},{},{},,,,,
+tessous,Cadillac-en-Fronsadais,téssous,Fronsac-bis,{},{},"{('e', 'é'): 1}",ressous,Belin-Béliet,{},{},"{('t', 'r'): 1}",téssous,Fronsac,{},{},"{('e', 'é'): 1}"
+téssous,Fronsac-bis,tessous,Cadillac-en-Fronsadais,{},{},"{('é', 'e'): 1}",téssous,Asques,{},{},{},,,,,
+téssous,Fronsac,téssous,Samonac,{},{},{},téssous,La Lande-de-Fronsac,{},{},{},tessous,Cadillac-en-Fronsadais,{},{},"{('é', 'e'): 1}"
+téssous,La Lande-de-Fronsac,téssous,Fronsac,{},{},{},téssous,Asques,{},{},{},,,,,
+téssouns,Lugon-et-l'Île-du-Carnay,téssou,Bègles,{},"{'n': 1, 's': 1}",{},tessous,Saillans,{},{'n': 1},"{('é', 'e'): 1}",,,,,
+tessous,Saillans,téssouns,Lugon-et-l'Île-du-Carnay,{'n': 1},{},"{('e', 'é'): 1}",téssous,Cabara,{},{},"{('e', 'é'): 1}",,,,,
+téssous,Saint-Germain-de-la-Rivière,téssous,Martillac,{},{},{},tessous,Saint-Michel-de-Fronsac,{},{},"{('é', 'e'): 1}",,,,,
+tessous,Saint-Michel-de-Fronsac,téssous,Saint-Germain-de-la-Rivière,{},{},"{('e', 'é'): 1}",téssous,Capian,{},{},"{('e', 'é'): 1}",,,,,
+tessous,Saint-Romain-la-Virvée,tessous,Saint-Magne,{},{},{},tessous,Vérac,{},{},{},,,,,
+tessous,Vérac,tessous,Saint-Romain-la-Virvée,{},{},{},téssous,Villegouge,{},{},"{('e', 'é'): 1}",,,,,
+téssous,Villegouge,tessous,Campin,{},{},"{('é', 'e'): 1}",tessous,Vérac,{},{},"{('é', 'e'): 1}",,,,,
+tessous,Campin,téssous,Villegouge,{},{},"{('e', 'é'): 1}",téssous,Cours-les-Bains,{},{},"{('e', 'é'): 1}",,,,,
+téssous,Cours-les-Bains,tessous,Campin,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+téssous,Grignols-bis,téssous,Grignols,{},{},{},tessous,Naujan-et-Postiac,{},{},"{('é', 'e'): 1}",,,,,
+téssous,Grignols,téssous,Grignols-bis,{},{},{},,,,,,,,,,
+tessous,Lavazan,téchou,Saucats,{},{'s': 1},"{('e', 'é'): 1, ('s', 'c'): 1, ('s', 'h'): 1}",,,,,,,,,,
+tessous,Lerm-et-Musset,téssous,Cardan,{},{},"{('e', 'é'): 1}",téssous,Marions,{},{},"{('e', 'é'): 1}",,,,,
+téssous,Marions,tessous,Gabarnac,{},{},"{('é', 'e'): 1}",tessous,Lerm-et-Musset,{},{},"{('é', 'e'): 1}",,,,,
+téssous,Sendets,téssouns,Béguey,{'n': 1},{},{},,,,,,,,,,
+téssous,Bégadan,téssous,Blaignan,{},{},{},téssous,Bruges,{},{},{},,,,,
+téssous,Blaignan,téssous,Pondaurat,{},{},{},téssous,Bégadan,{},{},{},,,,,
+tessous,Civrac,téssous,Jugazan,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+téssous,Gaillan-en-Médoc,téssous,Jugazan,{},{},{},,,,,,,,,,
+tessous,Lesparre-Médoc,téchous,Naujac-sur-Mer,{},{},"{('e', 'é'): 1, ('s', 'c'): 1, ('s', 'h'): 1}",,,,,,,,,,
+téchous,Naujac-sur-Mer,tessous,Lesparre-Médoc,{},{},"{('é', 'e'): 1, ('c', 's'): 1, ('h', 's'): 1}",,,,,,,,,,
+téchous,Ordonnac,tessous,Saint-Christoly-Médoc,{},{},"{('é', 'e'): 1, ('c', 's'): 1, ('h', 's'): 1}",,,,,,,,,,
+tessous,Queyrac,tessous,Saint-Christoly-Médoc,{},{},{},,,,,,,,,,
+tessous,Saint-Christoly-Médoc,tessous,Queyrac,{},{},{},téchous,Valeyrac,{},{},"{('e', 'é'): 1, ('s', 'c'): 1, ('s', 'h'): 1}",téchous,Ordonnac,{},{},"{('e', 'é'): 1, ('s', 'c'): 1, ('s', 'h'): 1}"
+tessous,Saint-Germain-d'Esteuil,,,,,,,,,,,,,,,
+tèchous,Saint-Seurin-de-Cadourne,,,,,,,,,,,,,,,
+tessous,Saint-Yzans-de-Médoc,téssous,Isle-Saint-Georges,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+téchous,Valeyrac,tessous,Saint-Christoly-Médoc,{},{},"{('é', 'e'): 1, ('c', 's'): 1, ('h', 's'): 1}",,,,,,,,,,
+tessous,Vendays-Montalivet,tèchoû,Beautiran,{},{'s': 1},"{('e', 'è'): 1, ('s', 'c'): 1, ('s', 'h'): 1, ('u', 'û'): 1}",,,,,,,,,,
+tèchoû,Beautiran,tessous,Vendays-Montalivet,{'u': 1},{},"{('è', 'e'): 1, ('c', 's'): 1, ('h', 's'): 1, ('û', 's'): 1}",,,,,,,,,,
+tèchous,Cabanac-et-Villagrains,téssous,Préchac,{},{},"{('è', 'é'): 1, ('c', 's'): 1, ('h', 's'): 1}",tessous,Castres-Gironde,{},{},"{('è', 'e'): 1, ('c', 's'): 1, ('h', 's'): 1}",,,,,
+téchou,Cadaujac,,,,,,,,,,,,,,,
+tessous,Castres-Gironde,tèchous,Cabanac-et-Villagrains,{},{},"{('e', 'è'): 1, ('s', 'c'): 1, ('s', 'h'): 1}",tessous,Bourg-bis,{},{},{},,,,,
+téssous,Isle-Saint-Georges,tessous,Saint-Yzans-de-Médoc,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+téchou,La Brède-bis,téssous,Louchats,{'s': 1},{},"{('c', 's'): 1, ('h', 's'): 1}",,,,,,,,,,
+téchou,La Brède,téchou,Léognan,{},{},{},,,,,,,,,,
+téchou,Léognan,téchou,La Brède,{},{},{},,,,,,,,,,
+téssous,Martillac,téssous,Saint-Germain-de-la-Rivière,{},{},{},téchous,Saint-Médard-d'Eyrans,{},{},"{('s', 'c'): 1, ('s', 'h'): 1}",,,,,
+téchous,Saint-Médard-d'Eyrans,techous,Saint-Morillon,{},{},"{('é', 'e'): 1}",tessous,Donzac,{},{},"{('é', 'e'): 1, ('c', 's'): 1, ('h', 's'): 1}",téssous,Martillac,{},{},"{('c', 's'): 1, ('h', 's'): 1}"
+techous,Saint-Morillon,téchous,Saint-Médard-d'Eyrans,{},{},"{('e', 'é'): 1}",tessous,Blaignac,{},{},"{('c', 's'): 1, ('h', 's'): 1}",,,,,
+téchou,Saint-Selve,téchou,Saucats,{},{},{},tessous,Blaignac,{'s': 1},{},"{('é', 'e'): 1, ('c', 's'): 1, ('h', 's'): 1}",,,,,
+téchou,Saucats,tessous,Lavazan,{'s': 1},{},"{('é', 'e'): 1, ('c', 's'): 1, ('h', 's'): 1}",téchou,Saint-Selve,{},{},{},téssous,Bagas,{'s': 1},{},"{('c', 's'): 1, ('h', 's'): 1}"
+téssous,Bagas,téchou,Saucats,{},{'s': 1},"{('s', 'c'): 1, ('s', 'h'): 1}",,,,,,,,,,
+tessous,Blaignac,téchou,Saint-Selve,{},{'s': 1},"{('e', 'é'): 1, ('s', 'c'): 1, ('s', 'h'): 1}",techous,Saint-Morillon,{},{},"{('s', 'c'): 1, ('s', 'h'): 1}",,,,,
+téchous,Camiran-bis,,,,,,,,,,,,,,,
+téchous,Camiran,tessous,Cadillac,{},{},"{('é', 'e'): 1, ('c', 's'): 1, ('h', 's'): 1}",,,,,,,,,,
+téchous,Casseuil,téchous,Fontet,{},{},{},,,,,,,,,,
+téchous,Fontet,téchous,Casseuil,{},{},{},,,,,,,,,,
+téchous,Gironde-sur-Dropt-bis,tessous,Branne,{},{},"{('é', 'e'): 1, ('c', 's'): 1, ('h', 's'): 1}",,,,,,,,,,
+tessous,Gironde-sur-Dropt,tessous,Langoiran-bis,{},{},{},,,,,,,,,,
+téchous,Hure,tessous,Branne,{},{},"{('é', 'e'): 1, ('c', 's'): 1, ('h', 's'): 1}",,,,,,,,,,
+téssous,La Réole-bis,,,,,,,,,,,,,,,
+tessous,La Réole,téssous,Blanquefort,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+téchoûs,Lamothe-Landerron,téchou,Loupiac-de-la-Réole,{},{'s': 1},"{('û', 'u'): 1}",,,,,,,,,,
+téchou,Loupiac-de-la-Réole,téchoûs,Lamothe-Landerron,{'û': 1},{},"{('u', 's'): 1}",,,,,,,,,,
+téchous,Mongauzy,,,,,,,,,,,,,,,
+téchous,Morizès,téssous,Lestiac-sur-Garonne,{},{},"{('c', 's'): 1, ('h', 's'): 1}",,,,,,,,,,
+téchoux,Noaillac,téchous,Arveyres,{},{},"{('x', 's'): 1}",,,,,,,,,,
+téchous,Pompéjac,téchous,Arcachon-bis,{},{},{},,,,,,,,,,
+tessous,Saint-Hilaire-de-la-Noaille-bis,tessous,Saint-Hilaire-de-la-Noaille,{},{},{},téchou,Civrac-sur-Dordogne,{},{'s': 1},"{('e', 'é'): 1, ('s', 'c'): 1, ('s', 'h'): 1}",,,,,
+tessous,Saint-Hilaire-de-la-Noaille,téssous,Monprimblanc,{},{},"{('e', 'é'): 1}",tessous,Saint-Hilaire-de-la-Noaille-bis,{},{},{},,,,,
+téchous,Arcachon-bis,téchous,Pompéjac,{},{},{},téchou,Arcachon,{},{'s': 1},{},,,,,
+téchou,Arcachon,téchous,Arcachon-bis,{'s': 1},{},{},tèchou,La Teste-de-Buch-bis,{},{},"{('é', 'è'): 1}",,,,,
+tessous,Cazaux,tessou,Gujan,{},{'s': 1},{},,,,,,,,,,
+tessou,Gujan,tessous,Loupiac,{'s': 1},{},{},tessous,Cazaux,{'s': 1},{},{},tèchou,La Teste-de-Buch-bis,{},{},"{('e', 'è'): 1, ('s', 'c'): 1, ('s', 'h'): 1}"
+tèchou,La Teste-de-Buch-bis,téchou,Arcachon,{},{},"{('è', 'é'): 1}",tessou,Gujan,{},{},"{('è', 'e'): 1, ('c', 's'): 1, ('h', 's'): 1}",,,,,
+tessous,La Teste-de-Buch-ter,,,,,,,,,,,,,,,
+téchou,La Teste-de-Buch,téssous,Omet,{'s': 1},{},"{('c', 's'): 1, ('h', 's'): 1}",téchou,Bieujac,{},{},{},téchou,Le Teich,{},{},{}
+téchou,Le Teich,tessou,Mestras,{},{},"{('é', 'e'): 1, ('c', 's'): 1, ('h', 's'): 1}",téssous,Paillet,{'s': 1},{},"{('c', 's'): 1, ('h', 's'): 1}",téchou,La Teste-de-Buch,{},{},{}
+tessou,Mestras,téchou,Le Teich,{},{},"{('e', 'é'): 1, ('s', 'c'): 1, ('s', 'h'): 1}",téchou,Bommes,{},{},"{('e', 'é'): 1, ('s', 'c'): 1, ('s', 'h'): 1}",,,,,
+téchou,Bieujac,téchou,La Teste-de-Buch,{},{},{},téssous,Giscos,{'s': 1},{},"{('c', 's'): 1, ('h', 's'): 1}",tessous,Castets-en-Dorthe,{'s': 1},{},"{('é', 'e'): 1, ('c', 's'): 1, ('h', 's'): 1}"
+téchou,Bommes,tessous,Castets-en-Dorthe,{'s': 1},{},"{('é', 'e'): 1, ('c', 's'): 1, ('h', 's'): 1}",tessous,Lignan-de-Bordeaux,{'s': 1},{},"{('é', 'e'): 1, ('c', 's'): 1, ('h', 's'): 1}",tessou,Mestras,{},{},"{('é', 'e'): 1, ('c', 's'): 1, ('h', 's'): 1}"
+tessous,Castets-en-Dorthe,téchou,Bommes,{},{'s': 1},"{('e', 'é'): 1, ('s', 'c'): 1, ('s', 'h'): 1}",téchou,Bieujac,{},{'s': 1},"{('e', 'é'): 1, ('s', 'c'): 1, ('s', 'h'): 1}",,,,,
+téssous,Fargues,téchous,Langon-bis,{},{},"{('s', 'c'): 1, ('s', 'h'): 1}",,,,,,,,,,
+téchous,Langon-bis,téssous,Fargues,{},{},"{('c', 's'): 1, ('h', 's'): 1}",,,,,,,,,,
+téchous,Langon,téssous,Captieux,{},{},"{('c', 's'): 1, ('h', 's'): 1}",téssous,Budos,{},{},"{('c', 's'): 1, ('h', 's'): 1}",,,,,
+téssou,Léogeats,téchous,Saint-Pierre-de-Mons,{'s': 1},{},"{('s', 'c'): 1, ('s', 'h'): 1}",téssous,Captieux,{'s': 1},{},{},téchou,Mazères,{},{},"{('s', 'c'): 1, ('s', 'h'): 1}"
+téchou,Mazères,tessous,Sainte-Croix-du-Mont,{'s': 1},{},"{('é', 'e'): 1, ('c', 's'): 1, ('h', 's'): 1}",téchous,Roaillan,{'s': 1},{},{},téssou,Léogeats,{},{},"{('c', 's'): 1, ('h', 's'): 1}"
+téchous,Roaillan,téchou,Mazères,{},{'s': 1},{},,,,,,,,,,
+téssous,Saint-Pardon-de-Conques,téssous,Giscos,{},{},{},téchous,Sauternes,{},{},"{('s', 'c'): 1, ('s', 'h'): 1}",,,,,
+téchous,Saint-Pierre-de-Mons,téssou,Léogeats,{},{'s': 1},"{('c', 's'): 1, ('h', 's'): 1}",téchous,Sauternes,{},{},{},,,,,
+téchous,Sauternes,téssous,Saint-Pardon-de-Conques,{},{},"{('c', 's'): 1, ('h', 's'): 1}",téchous,Saint-Pierre-de-Mons,{},{},{},,,,,
+tessous,Toulenne,téssous,Saint-Michel-de-Castelnau,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+téchous,Arveyres,téchoux,Noaillac,{},{},"{('s', 'x'): 1}",,,,,,,,,,
+téchou,Civrac-sur-Dordogne,tessous,Saint-Hilaire-de-la-Noaille-bis,{'s': 1},{},"{('é', 'e'): 1, ('c', 's'): 1, ('h', 's'): 1}",téchous,Saint-Estèphe,{'s': 1},{},{},,,,,
+téchous,Izon,téchou,Cissac-Médoc,{},{'s': 1},{},,,,,,,,,,
+téchous,Libourne-bis,téchou,Libourne,{},{'s': 1},{},téchous,Pomerol,{},{},{},,,,,
+téchou,Libourne,téssous,Carbon-Blanc,{'s': 1},{},"{('c', 's'): 1, ('h', 's'): 1}",téchous,Libourne-bis,{'s': 1},{},{},teschous,Vayres,"{'e': 1, 's': 1}",{},"{('é', 's'): 1}"
+téchous,Pomerol,téchous,Libourne-bis,{},{},{},téchous,Pauillac,{},{},{},teschous,Vayres,{'e': 1},{},"{('é', 's'): 1}"
+téchoû,Saint-Émilion,téssous,Saint-Michel-de-Castelnau,{'u': 1},{},"{('c', 's'): 1, ('h', 's'): 1, ('û', 's'): 1}",tessous,Saint-Sulpice-de-Faleyrens,{'u': 1},{},"{('é', 'e'): 1, ('c', 's'): 1, ('h', 's'): 1, ('û', 's'): 1}",tessōus,Roquebrune,"{'̄': 1, 'u': 1}",{},"{('é', 'e'): 1, ('c', 's'): 1, ('h', 's'): 1, ('û', 's'): 1}"
+tessous,Saint-Sulpice-de-Faleyrens,téchoû,Saint-Émilion,{},{'s': 1},"{('e', 'é'): 1, ('s', 'c'): 1, ('s', 'h'): 1, ('u', 'û'): 1}",tessous,Floirac,{},{},{},teschous,Vayres,{'c': 1},{},"{('s', 'h'): 1}"
+teschous,Vayres,tessous,Saint-Sulpice-de-Faleyrens,{},{'h': 1},"{('c', 's'): 1}",téchou,Libourne,{},{'s': 2},"{('e', 'é'): 1}",téchous,Pomerol,{},{'s': 1},"{('e', 'é'): 1}"
+tessoüs,Landerrouet-sur-Ségur,tessous,Monségur,{},{},"{('ü', 'u'): 1}",,,,,,,,,,
+tessous,Monségur,tessoüs,Landerrouet-sur-Ségur,{},{},"{('u', 'ü'): 1}",,,,,,,,,,
+tessōus,Roquebrune,téchoû,Saint-Émilion,{},"{'u': 1, 's': 1}","{('e', 'é'): 1, ('s', 'c'): 1, ('s', 'h'): 1, ('̄', 'û'): 1}",téchous,Pauillac,{},{'̄': 1},"{('e', 'é'): 1, ('s', 'c'): 1, ('s', 'h'): 1}",,,,,
+téchou,Cissac-Médoc,téchous,Izon,{'s': 1},{},{},téchous,Pauillac,{'s': 1},{},{},,,,,
+téchous,Pauillac,téchous,Pomerol,{},{},{},téchou,Cissac-Médoc,{},{'s': 1},{},tessōus,Roquebrune,{'̄': 1},{},"{('é', 'e'): 1, ('c', 's'): 1, ('h', 's'): 1}"
+téchous,Saint-Estèphe,téchou,Civrac-sur-Dordogne,{},{'s': 1},{},téchou,Saint-Julien-Beychevelle,{},{'s': 1},{},,,,,
+téchou,Saint-Julien-Beychevelle,téchous,Saint-Estèphe,{'s': 1},{},{},,,,,,,,,,
+tessou,Saint-Sauveur,téchou,Vertheuil,{},{},"{('e', 'é'): 1, ('s', 'c'): 1, ('s', 'h'): 1}",,,,,,,,,,
+téchou,Vertheuil,tessou,Saint-Sauveur,{},{},"{('é', 'e'): 1, ('c', 's'): 1, ('h', 's'): 1}",téchoun,Cazaugitat,{'n': 1},{},{},,,,,
+téchoun,Cazaugitat,téchou,Vertheuil,{},{'n': 1},{},,,,,,,,,,
+téchous,Landerrouat,téssouŝ,Massugas,{},{},"{('c', 's'): 1, ('h', 's'): 1, ('s', 'ŝ'): 1}",téssou,Le Taillan-Médoc,{},{'s': 1},"{('c', 's'): 1, ('h', 's'): 1}",téchous,Listrac-de-Durèze,{},{},{}
+téchous,Listrac-de-Durèze,téchous,Landerrouat,{},{},{},,,,,,,,,,
+téssouŝ,Massugas,téchous,Landerrouat,{},{},"{('s', 'c'): 1, ('s', 'h'): 1, ('ŝ', 's'): 1}",tessous,Pellegrue,{},{},"{('é', 'e'): 1, ('ŝ', 's'): 1}",,,,,
+tessous,Pellegrue,téssouŝ,Massugas,{},{},"{('e', 'é'): 1, ('s', 'ŝ'): 1}",,,,,,,,,,
+tessous,Canéjan,tèchous,Cestas,{},{},"{('e', 'è'): 1, ('s', 'c'): 1, ('s', 'h'): 1}",téssous,Illats,{},{},"{('e', 'é'): 1}",,,,,
+tèchous,Cestas,téssous,Villenave-d'Ornon,{},{},"{('è', 'é'): 1, ('c', 's'): 1, ('h', 's'): 1}",tessous,Canéjan,{},{},"{('è', 'e'): 1, ('c', 's'): 1, ('h', 's'): 1}",,,,,
+téchous,Gradignan,téssous,Landiras,{},{},"{('c', 's'): 1, ('h', 's'): 1}",téssous,Villenave-d'Ornon,{},{},"{('c', 's'): 1, ('h', 's'): 1}",tessous,Mérignac,{},{},"{('é', 'e'): 1, ('c', 's'): 1, ('h', 's'): 1}"
+tessous,Martignas-sur-Jalle,tchous,Saint-Jean-d'Illac,{},{'s': 1},"{('e', 'c'): 1, ('s', 'h'): 1}",téssous,Ambès,{},{},"{('e', 'é'): 1}",tessous,Mérignac,{},{},{}
+tessous,Mérignac,tessous,Martignas-sur-Jalle,{},{},{},téssous,Barsac,{},{},"{('e', 'é'): 1}",téchous,Gradignan,{},{},"{('e', 'é'): 1, ('s', 'c'): 1, ('s', 'h'): 1}"
+tèshou,Pessac,téssous,Talence,{'s': 1},{},"{('è', 'é'): 1, ('h', 's'): 1}",téssous,Carbon-Blanc,{'s': 1},{},"{('è', 'é'): 1, ('h', 's'): 1}",tchous,Saint-Jean-d'Illac,{'s': 1},{'s': 1},"{('è', 'c'): 1}"
+tchous,Saint-Jean-d'Illac,tessous,Pujols-sur-Ciron,{'e': 1},{},"{('c', 's'): 1, ('h', 's'): 1}",tessous,Martignas-sur-Jalle,{'e': 1},{},"{('c', 's'): 1, ('h', 's'): 1}",tèshou,Pessac,{'è': 1},{'s': 1},"{('c', 's'): 1}"
+téssous,Talence,tèshou,Pessac,{},{'s': 1},"{('é', 'è'): 1, ('s', 'h'): 1}",téssous,Villenave-d'Ornon,{},{},{},,,,,
+téssous,Villenave-d'Ornon,téchous,Gradignan,{},{},"{('s', 'c'): 1, ('s', 'h'): 1}",tèchous,Cestas,{},{},"{('é', 'è'): 1, ('s', 'c'): 1, ('s', 'h'): 1}",téssous,Talence,{},{},{}
+tessous,Arbanats,téssous,Barsac,{},{},"{('e', 'é'): 1}",tessous,Villenave-de-Rions,{},{},{},téssous,Budos,{},{},"{('e', 'é'): 1}"
+téssous,Barsac,tessous,Mérignac,{},{},"{('é', 'e'): 1}",tessous,Arbanats,{},{},"{('é', 'e'): 1}",téssous,Budos-bis,{},{},{}
+téssous,Budos-bis,téssouz,Cérons,{},{},"{('s', 'z'): 1}",téssous,Portets,{},{},{},téssous,Barsac,{},{},{}
+téssous,Budos,tessous,Arbanats,{},{},"{('é', 'e'): 1}",téchous,Langon,{},{},"{('s', 'c'): 1, ('s', 'h'): 1}",tésso͟us,Guillos,{'͟': 1},{},{}
+téssouz,Cérons,tessous,Escaudes,{},{},"{('é', 'e'): 1, ('z', 's'): 1}",téssous,Budos-bis,{},{},"{('z', 's'): 1}",tésso͟us,Guillos,{'͟': 1},{},"{('z', 's'): 1}"
+tésso͟us,Guillos,téssouz,Cérons,{},{'͟': 1},"{('s', 'z'): 1}",téssous,Budos,{},{'͟': 1},{},,,,,
+téssous,Illats,tessous,Canéjan,{},{},"{('é', 'e'): 1}",téssous,Landiras,{},{},{},téssous,Podensac,{},{},{}
+téssous,Landiras,téssous,Illats,{},{},{},téchous,Gradignan,{},{},"{('s', 'c'): 1, ('s', 'h'): 1}",téssous,Portets,{},{},{}
+téssous,Podensac,téssous,Portets,{},{},{},tessous,Bouliac,{},{},"{('é', 'e'): 1}",téssous,Illats,{},{},{}
+téssous,Portets,téssous,Budos-bis,{},{},{},téssous,Podensac,{},{},{},téssous,Landiras,{},{},{}
+tessous,Preignac,,,,,,,,,,,,,,,
+tessous,Pujols-sur-Ciron,tchous,Saint-Jean-d'Illac,{},{'s': 1},"{('e', 'c'): 1, ('s', 'h'): 1}",,,,,,,,,,
+téssous,Saint-Michel-de-Rieufret,téssous,Aubie-et-Espessas,{},{},{},tessous,Sainte-Radegonde,{},{},"{('é', 'e'): 1}",,,,,
+tésôus,Virelade,téssous,Saint-Vincent-de-Pertignas,{'s': 1},{},"{('ô', 'o'): 1}",tetzous,Saint-Louis-de-Montferrand,{'e': 1},{},"{('é', 't'): 1, ('s', 'z'): 1, ('ô', 'o'): 1}",téssous,Doulezon,{'s': 1},{},"{('ô', 'o'): 1}"
+téssous,Doulezon,tésôus,Virelade,{},{'o': 1},"{('s', 'ô'): 1}",,,,,,,,,,
+tessous,Flaujagues,téssous,Gensac,{},{},"{('e', 'é'): 1}",téssous,Saint-Vincent-de-Paul,{},{},"{('e', 'é'): 1}",,,,,
+téssous,Gensac,téssous,Juillac,{},{},{},tessous,Flaujagues,{},{},"{('é', 'e'): 1}",,,,,
+téssous,Juillac,téssous,Sainte-Eulalie,{},{},{},téssous,Gensac,{},{},{},,,,,
+tessous,Mouliets,tessous,Saint-Macaire,{},{},{},téssous,Pessac-sur-Dordogne,{},{},"{('e', 'é'): 1}",,,,,
+téssous,Pessac-sur-Dordogne,tessous,Mouliets,{},{},"{('é', 'e'): 1}",tessous,Tresses-bis,{},{},"{('é', 'e'): 1}",,,,,
+téssous,Pujols-bis,téssous,Listrac-Médoc,{},{},{},,,,,,,,,,
+téssous,Pujols,téssous,Saint-Jean-de-Blaignac,{},{},{},,,,,,,,,,
+téssous̈,Rauzan,tessous,Tresses,{},{'̈': 1},"{('é', 'e'): 1}",,,,,,,,,,
+téssous,Saint-Jean-de-Blaignac,téssous,Pujols,{},{},{},,,,,,,,,,
+téssous,Saint-Pey-de-Castets,tessous,Tresses,{},{},"{('é', 'e'): 1}",tessous,Sainte-Radegonde,{},{},"{('é', 'e'): 1}",,,,,
+téssous,Saint-Vincent-de-Pertignas,tésôus,Virelade,{},{'o': 1},"{('s', 'ô'): 1}",tessous,Sainte-Radegonde,{},{},"{('é', 'e'): 1}",,,,,
+tessous,Sainte-Radegonde,téssous,Saint-Michel-de-Rieufret,{},{},"{('e', 'é'): 1}",téssous,Saint-Pey-de-Castets,{},{},"{('e', 'é'): 1}",téssous,Saint-Vincent-de-Pertignas,{},{},"{('e', 'é'): 1}"
+téssous,Aubie-et-Espessas,téssous,Saint-Michel-de-Rieufret,{},{},{},tessous,Cubzac-les-Ponts,{},{},"{('é', 'e'): 1}",,,,,
+tessous,Cubzac-les-Ponts,tessous,Tresses,{},{},{},téssous,Aubie-et-Espessas,{},{},"{('e', 'é'): 1}",,,,,
+téssous,Peujard,tessous,Tresses-bis,{},{},"{('é', 'e'): 1}",téssous,Saint-André-de-Cubzac,{},{},{},,,,,
+téssous,Saint-André-de-Cubzac,téssous,Peujard,{},{},{},,,,,,,,,,
+téssous,Saint-Antoine,,,,,,,,,,,,,,,
+téssous,Saint-Gervais,tessous,Arsac-bis,{},{},"{('é', 'e'): 1}",téssous,Benon,{},{},{},téssous,Saint-Laurent-d'Arce,{},{},{}
+téssous,Saint-Laurent-d'Arce,téssous,Le Pian-sur-Garonne,{},{},{},téssous,Saint-Gervais,{},{},{},,,,,
+téssous,Salignac,téssous,Benon,{},{},{},téssous,Cantenac,{},{},{},téssous,Virsac,{},{},{}
+téssous,Virsac,téssous,Salignac,{},{},{},téssous,Arcins,{},{},{},,,,,
+téssous,Benon,téssous,Saint-Gervais,{},{},{},téssous,Salignac,{},{},{},tessous,Carcans,{},{},"{('é', 'e'): 1}"
+tessous,Carcans,téssous,Hourtin,{},{},"{('e', 'é'): 1}",téssous,Benon,{},{},"{('e', 'é'): 1}",,,,,
+téssous,Hourtin,tessous,Carcans,{},{},"{('é', 'e'): 1}",téssous,Saint-Quentin-de-Caplong,{},{},{},,,,,
+téssous,Saint-Laurent-Médoc,téssous,Le Pian-sur-Garonne,{},{},{},téssous,Caudrot,{},{},{},,,,,
+téssous,Caudrot,téssous,Saint-Laurent-Médoc,{},{},{},tessous,Labarde,{},{},"{('é', 'e'): 1}",téssous,Saint-André-du-Bois,{},{},{}
+téssous,Le Pian-sur-Garonne,téssous,Saint-Laurent-d'Arce,{},{},{},téssous,Saint-Laurent-Médoc,{},{},{},téssous,Saint-André-du-Bois,{},{},{}
+téssous,Saint-André-du-Bois,tessous,Lamarque,{},{},"{('é', 'e'): 1}",téssous,Le Pian-sur-Garonne,{},{},{},téssous,Caudrot,{},{},{}
+téssous,Saint-Germain-de-Grave,téssous,Le Porge,{},{},{},téssous,Saint-Laurent-du-Bois,{},{},{},,,,,
+téssous,Saint-Laurent-du-Bois,téssous,Saint-Germain-de-Grave,{},{},{},,,,,,,,,,
+tessous,Saint-Macaire,tessous,Mouliets,{},{},{},tessous,Saint-Martin-de-Sescas,{},{},{},,,,,
+téssous,Saint-Maixant,téssouns,Mios,{'n': 1},{},{},tessous,Saint-Martin-de-Sescas,{},{},"{('é', 'e'): 1}",,,,,
+tessous,Saint-Martin-de-Sescas,téssous,Saint-Maixant,{},{},"{('e', 'é'): 1}",téssous,Sainte-Eulalie,{},{},"{('e', 'é'): 1}",tessous,Saint-Macaire,{},{},{}
+téssous,Saint-Pierre-d'Aurillac,,,,,,,,,,,,,,,
+téçous,Verdelais,téssous,Le Temple,{'s': 1},{},"{('ç', 's'): 1}",téssous,Grayan-bis,{'s': 1},{},"{('ç', 's'): 1}",téssous,Balizac,{'s': 1},{},"{('ç', 's'): 1}"
+téssous,Balizac,tessous,Saint-Genès-de-Castillon,{},{},"{('é', 'e'): 1}",téçous,Verdelais,{},{'s': 1},"{('s', 'ç'): 1}",tessous,Grayan,{},{},"{('é', 'e'): 1}"
+téssous,Hostens,tessous,Le Verdon-sur-Mer,{},{},"{('é', 'e'): 1}",tésous,Le Tuzan,{},{'s': 1},{},,,,,
+tésous,Le Tuzan,téssous,Hostens,{'s': 1},{},{},téssous,Louchats,{'s': 1},{},{},,,,,
+téssous,Louchats,téchou,La Brède-bis,{},{'s': 1},"{('s', 'c'): 1, ('s', 'h'): 1}",téssous,Origne,{},{},{},tésous,Le Tuzan,{},{'s': 1},{}
+téssous,Origne,tésso͟us,Saint-Léger-de-Balson,{'͟': 1},{},{},téssous,Louchats,{},{},{},,,,,
+tésso͟us,Saint-Léger-de-Balson,téssous,Origne,{},{'͟': 1},{},téssous,Saint-Symphorien-bis,{},{'͟': 1},{},,,,,
+téssous,Saint-Symphorien-bis,tésso͟us,Saint-Léger-de-Balson,{'͟': 1},{},{},téssous,Saint-Laurent-des-Combes,{},{},{},,,,,
+téssous,Saint-Symphorien,,,,,,,,,,,,,,,
+téssous,Grayan-bis,téçous,Verdelais,{},{'s': 1},"{('s', 'ç'): 1}",tessous,Grayan,{},{},"{('é', 'e'): 1}",,,,,
+tessous,Grayan,téssous,Balizac,{},{},"{('e', 'é'): 1}",téssous,Grayan-bis,{},{},"{('e', 'é'): 1}",,,,,
+téssous,Jau-Dignac-et-Loirac,tessous,Le Verdon-sur-Mer,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+tessous,Le Verdon-sur-Mer,téssous,Jau-Dignac-et-Loirac,{},{},"{('e', 'é'): 1}",téssous,Hostens,{},{},"{('e', 'é'): 1}",téssous,Saint-Vivien-de-Médoc,{},{},"{('e', 'é'): 1}"
+téssous,Saint-Vivien-de-Médoc,tessous,Le Verdon-sur-Mer,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+téssous,Soulac-sur-Mer,,,,,,,,,,,,,,,
+téssous,Talais,,,,,,,,,,,,,,,
+téssous,Vensac,téssous,La Roquille,{},{},{},tessous,Appelles,{},{},"{('é', 'e'): 1}",,,,,
+tessous,Appelles,téssous,Vensac,{},{},"{('e', 'é'): 1}",téssous,Caplong,{},{},"{('e', 'é'): 1}",,,,,
+téssous,Caplong,tessous,Appelles,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+téssous,Eynesse,téssous,La Roquille,{},{},{},,,,,,,,,,
+téssous,La Roquille,téssous,Vensac,{},{},{},téssous,Eynesse,{},{},{},,,,,
+téssous,Les Lèves-et-Thoumeyragues,téssous,Riocaud,{},{},{},téssous,Ligueux,{},{},{},,,,,
+téssous,Ligueux,téssous,Les Lèves-et-Thoumeyragues,{},{},{},téssous,Pineuilh,{},{},{},,,,,
+téssous,Pineuilh,téssous,Ligueux,{},{},{},,,,,,,,,,
+téssous,Riocaud,téssous,Les Lèves-et-Thoumeyragues,{},{},{},tessous,Saint-Avit-de-Soulège,{},{},"{('é', 'e'): 1}",,,,,
+tessous,Saint-Avit-de-Soulège,téssous,Riocaud,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+téssous,Saint-Avit-Saint-Nazaire,,,,,,,,,,,,,,,
+téssous,Saint-Quentin-de-Caplong,téssous,Hourtin,{},{},{},,,,,,,,,,
+téssous,Sainte-Foy-la-Grande-bis,tessouns,Auros,{'n': 1},{},"{('é', 'e'): 1}",téssous,Sainte-Foy-la-Grande-ter,{},{},{},,,,,
+téssous,Sainte-Foy-la-Grande-ter,téssous,Moulis-en-Médoc-bis,{},{},{},téssous,Sainte-Foy-la-Grande-bis,{},{},{},,,,,
+téssous,Sainte-Foy-la-Grande,téssous,Blasimon,{},{},{},,,,,,,,,,
+téssous,Blasimon,téssous,Sainte-Foy-la-Grande,{},{},{},tessous,Castelviel,{},{},"{('é', 'e'): 1}",,,,,
+tessous,Castelviel,téssous,Blasimon,{},{},"{('e', 'é'): 1}",,,,,,,,,,
+téssous,Cleyrac,,,,,,,,,,,,,,,
+téssous,Coirac,,,,,,,,,,,,,,,
+téssous,Gornac,tessous,Moulis-en-Médoc,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+tessous,Mérignas,tessous,Saint-Sulpice-de-Pommiers,{},{},{},,,,,,,,,,
+téssous,Mourens,tessous,Ruch,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+tessous,Ruch,téssous,Mourens,{},{},"{('e', 'é'): 1}",téssous,Saint-Brice,{},{},"{('e', 'é'): 1}",,,,,
+téssous,Saint-Brice,tessous,Ruch,{},{},"{('é', 'e'): 1}",,,,,,,,,,
+téssous,Saint-Félix-de-Foncaude,,,,,,,,,,,,,,,
+tessous,Saint-Léger-de-Vignague,tessous,Saint-Sulpice-de-Pommiers,{},{},{},,,,,,,,,,
+tessous,Saint-Sulpice-de-Pommiers,tessous,Saint-Léger-de-Vignague,{},{},{},tessous,Mérignas,{},{},{},tessous,Sauveterre-de-Guyenne-bis,{},{},{}
+tessous,Sauveterre-de-Guyenne-bis,tessous,Saint-Sulpice-de-Pommiers,{},{},{},,,,,,,,,,
+tessous,Sauveterre-de-Guyenne-ter,tessous,Arbis,{},{},{},,,,,,,,,,
+téssous,Sauveterre-de-Guyenne,téssous,Escoussans,{},{},{},,,,,,,,,,
+tessous,Arbis,tessous,Sauveterre-de-Guyenne-ter,{},{},{},tessous,Baigneaux,{},{},{},,,,,
+tessous,Baigneaux,tessous,Arbis,{},{},{},,,,,,,,,,
+téssous,Escoussans,téssous,Sauveterre-de-Guyenne,{},{},{},,,,,,,,,,
+téssous,Faleyras,téssous,Frontenac,{},{},{},,,,,,,,,,
+téssous,Frontenac,téssous,Romagne,{},{},{},téssous,Faleyras,{},{},{},,,,,
+tésfous,Ladaux,tessous,Lugasson,{},{},"{('é', 'e'): 1, ('f', 's'): 1}",téssous,Soulignac,{},{},"{('f', 's'): 1}",,,,,
+tessous,Lugasson,tésfous,Ladaux,{},{},"{('e', 'é'): 1, ('s', 'f'): 1}",téssous,Romagne,{},{},"{('e', 'é'): 1}",,,,,
+téssous,Romagne,téssous,Frontenac,{},{},{},tessous,Lugasson,{},{},"{('é', 'e'): 1}",,,,,
+téssous,Saint-Pierre-de-Bat,,,,,,,,,,,,,,,
+téssous,Soulignac,tésfous,Ladaux,{},{},"{('s', 'f'): 1}",,,,,,,,,,
+téssous,Targon-bis,,,,,,,,,,,,,,,
+téssous,Targon,téssous,Cazalis,{},{},{},,,,,,,,,,
+téssous,Cazalis,tessous,Sainte-Hélène,{},{},"{('é', 'e'): 1}",téssous,Targon,{},{},{},,,,,
+tessous,Lucmau,téssous,Gardegan,{},{},"{('e', 'é'): 1}",téfsous,Gours,{},{},"{('e', 'é'): 1, ('s', 'f'): 1}",,,,,
+tessous,Noaillan,tessous,Préchac-bis,{},{},{},,,,,,,,,,
+tessous,Préchac-bis,tessous,Noaillan,{},{},{},tessous,Francs,{},{},{},,,,,
+téssous,Préchac,tessous,Puynormand,{},{},"{('é', 'e'): 1}",tèchous,Cabanac-et-Villagrains,{},{},"{('é', 'è'): 1, ('s', 'c'): 1, ('s', 'h'): 1}",téssous,Uzeste,{},{},{}
+téssous,Uzeste,téssous,Préchac,{},{},{},tessouns,Saint-Germain-du-Puch,{'n': 1},{},"{('é', 'e'): 1}",tessous,Villandraut-bis,{},{},"{('é', 'e'): 1}"
+tessous,Villandraut-bis,téssous,Uzeste,{},{},"{('e', 'é'): 1}",téssous,Gardegan,{},{},"{('e', 'é'): 1}",téssous,Saint-Christophe-des-Bardes,{},{},"{('e', 'é'): 1}"
+tésous,Villandraut,tessous,Francs,{'e': 1},{},"{('é', 's'): 1}",téssous,Duhort-Bachen,{'s': 1},{},{},téssous,Puisseguin,{'s': 1},{},{}
+tessous,Francs,tessous,Préchac-bis,{},{},{},tésous,Villandraut,{},{'s': 1},"{('e', 'é'): 1}",téfsous,Gours,{},{},"{('e', 'é'): 1, ('s', 'f'): 1}"
+téfsous,Gours,téssous,Saint-Christophe-des-Bardes,{},{},"{('f', 's'): 1}",tessous,Lucmau,{},{},"{('é', 'e'): 1, ('f', 's'): 1}",tessous,Francs,{},{},"{('é', 'e'): 1, ('f', 's'): 1}"
+téssous,Puisseguin,téssous,Castillon-la-Bataille,{},{},{},tessous,Puynormand,{},{},"{('é', 'e'): 1}",tésous,Villandraut,{},{'s': 1},{}
+tessous,Puynormand,téssous,Puisseguin,{},{},"{('e', 'é'): 1}",téssous,Préchac,{},{},"{('e', 'é'): 1}",téssous,Saint-Christophe-des-Bardes,{},{},"{('e', 'é'): 1}"
+téssous,Saint-Christophe-des-Bardes,tessous,Villandraut-bis,{},{},"{('é', 'e'): 1}",téfsous,Gours,{},{},"{('s', 'f'): 1}",tessous,Puynormand,{},{},"{('é', 'e'): 1}"
+tessous,Aire-sur-l'Adour,téssous,Saint-Laurent-des-Combes,{},{},"{('e', 'é'): 1}",téssous,Buanes,{},{},"{('e', 'é'): 1}",,,,,
+tessous,Bahus-Soubiran,tessous,Bourg-bis,{},{},{},téssous,Classun,{},{},"{('e', 'é'): 1}",téssous,Buanes,{},{},"{('e', 'é'): 1}"
+téssous,Buanes,tessous,Aire-sur-l'Adour,{},{},"{('é', 'e'): 1}",tessous,Bahus-Soubiran,{},{},"{('é', 'e'): 1}",,,,,
+téssous,Classun,tessous,Bahus-Soubiran,{},{},"{('é', 'e'): 1}",téssous,Castillon-la-Bataille,{},{},{},téssous,Duhort-Bachen,{},{},{}
+téssous,Duhort-Bachen,tésous,Villandraut,{},{'s': 1},{},téssous,Classun,{},{},{},,,,,

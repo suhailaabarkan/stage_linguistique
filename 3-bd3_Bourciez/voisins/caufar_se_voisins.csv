@@ -1,0 +1,68 @@
+Mot,Commune,Voisin_1,Commune_1,Insertions_1,Suppressions_1,Substitutions_1,Voisin_2,Commune_2,Insertions_2,Suppressions_2,Substitutions_2,Voisin_3,Commune_3,Insertions_3,Suppressions_3,Substitutions_3
+s,Andernos-les-Bains,s,Bazas-bis,{},{},{},s,Auros-bis,{},{},{},s,Audenge-bis,{},{},{}
+s,Arès,s,Savignac,{},{},{},s,Ailas,{},{},{},s,Coimères,{},{},{}
+s,Audenge-bis,s,Andernos-les-Bains,{},{},{},,,,,,,,,,
+s,Audenge,s,Lignan-de-Bazas,{},{},{},s,Belin-Béliet,{},{},{},,,,,
+s,Biganos,s,Blanquefort-bis,{},{},{},,,,,,,,,,
+s,Lacanau-de-Mios,s,Eysines,{},{},{},,,,,,,,,,
+s,Lanton,s,Macau,{},{},{},,,,,,,,,,
+s,Lège,,,,,,,,,,,,,,,
+s,Mios,s,Ailas,{},{},{},,,,,,,,,,
+s,Ailas,s,Arès,{},{},{},s,Mios,{},{},{},s,Auros-bis,{},{},{}
+s,Auros-bis,s,Andernos-les-Bains,{},{},{},s,Ailas,{},{},{},,,,,
+s,Auros,s,Bordeaux,{},{},{},s,Brannens,{},{},{},,,,,
+s,Barie,,,,,,,,,,,,,,,
+s,Brannens,s,Auros,{},{},{},s,Castillon-de-Castets,{},{},{},,,,,
+s,Castillon-de-Castets,s,Saint-Médard-en-Jalles,{},{},{},s,Brannens,{},{},{},,,,,
+s,Coimères,s,Arès,{},{},{},s,Cudos,{},{},{},s,Lados,{},{},{}
+s,Lados,s,Gans,{},{},{},s,Puybarban,{},{},{},s,Coimères,{},{},{}
+s,Pondaurat,,,,,,,,,,,,,,,
+s,Puybarban,s,Lados,{},{},{},s,Le Bouscat,{},{},{},s,Savignac,{},{},{}
+s,Savignac,s,Sigalens,{},{},{},s,Arès,{},{},{},s,Puybarban,{},{},{}
+s,Sigalens,sé,Caudéran,{'é': 1},{},{},s,Savignac,{},{},{},s,Bayon-sur-Gironde,{},{},{}
+s,Bazas-bis,s,Bazas,{},{},{},s,Andernos-les-Bains,{},{},{},,,,,
+s,Bazas,s,Cazats,{},{},{},s,Bazas-bis,{},{},{},,,,,
+s,Bernos-Beaulac,s,Birac,{},{},{},s,Gajac,{},{},{},,,,,
+s,Birac,s,Bernos-Beaulac,{},{},{},s,Cazats,{},{},{},,,,,
+s,Cazats,s,Cudos,{},{},{},s,Bazas,{},{},{},s,Birac,{},{},{}
+s,Cudos,s,Coimères,{},{},{},s,Cazats,{},{},{},s,Gans,{},{},{}
+s,Gajac,s,Gans,{},{},{},s,Bernos-Beaulac,{},{},{},,,,,
+s,Gans,s,Gajac,{},{},{},s,Lados,{},{},{},s,Cudos,{},{},{}
+s,Le Nizan,sé,Prignac-et-Marcamps,{'é': 1},{},{},s,Gauriac,{},{},{},,,,,
+s,Lignan-de-Bazas,s,Audenge,{},{},{},s,Lansac,{},{},{},s,Béliet,{},{},{}
+s,Saint-Côme,s,Béliet,{},{},{},,,,,,,,,,
+s,Béliet,s,Belin-Béliet,{},{},{},s,Lignan-de-Bazas,{},{},{},s,Saint-Côme,{},{},{}
+s,Belin-Béliet,s,Audenge,{},{},{},s,Béliet,{},{},{},,,,,
+s,Joué,s,Le Barp,{},{},{},,,,,,,,,,
+s,Le Barp,s,Joué,{},{},{},,,,,,,,,,
+s,Lugos,s,Saint-Magne,{},{},{},s,Salles-bis,{},{},{},,,,,
+s,Saint-Magne,s,Salles,{},{},{},s,Lugos,{},{},{},,,,,
+s,Salles-bis,s,Lugos,{},{},{},,,,,,,,,,
+s,Salles,s,Saint-Magne,{},{},{},,,,,,,,,,
+s,Blanquefort-bis,s,Biganos,{},{},{},s,Blanquefort,{},{},{},,,,,
+s,Blanquefort,s,Blanquefort-bis,{},{},{},,,,,,,,,,
+s,Caychac,s,Eysines,{},{},{},,,,,,,,,,
+s,Eysines,s,Caychac,{},{},{},s,Lacanau-de-Mios,{},{},{},s,Le Haillan,{},{},{}
+s,Le Haillan,s,Le Pian-Médoc,{},{},{},s,Eysines,{},{},{},,,,,
+s,Le Pian-Médoc,s,Le Haillan,{},{},{},,,,,,,,,,
+s,Le Taillan-Médoc,,,,,,,,,,,,,,,
+s,Ludon-Médoc,s,Macau,{},{},{},,,,,,,,,,
+s,Macau,s,Ludon-Médoc,{},{},{},s,Lanton,{},{},{},,,,,
+s,Parempuyre,,,,,,,,,,,,,,,
+s,Saint-Aubin-de-Médoc,,,,,,,,,,,,,,,
+s,Saint-Médard-en-Jalles,s,Castillon-de-Castets,{},{},{},,,,,,,,,,
+s,Bègles,,,,,,,,,,,,,,,
+s,Bordeaux,s,Auros,{},{},{},,,,,,,,,,
+s,Bruges,sé,Caudéran,{'é': 1},{},{},,,,,,,,,,
+sé,Caudéran,s,Bruges,{},{'é': 1},{},s,Sigalens,{},{'é': 1},{},s,Bayon-sur-Gironde,{},{'é': 1},{}
+s,Chartrons,,,,,,,,,,,,,,,
+s,Le Bouscat,s,Puybarban,{},{},{},s,Bayon-sur-Gironde,{},{},{},,,,,
+s,Bayon-sur-Gironde,sé,Caudéran,{'é': 1},{},{},s,Sigalens,{},{},{},s,Le Bouscat,{},{},{}
+s,Bourg-bis,,,,,,,,,,,,,,,
+s,Bourg,s,Comps,{},{},{},,,,,,,,,,
+s,Comps,s,Gauriac,{},{},{},s,Bourg,{},{},{},,,,,
+s,Gauriac,s,Le Nizan,{},{},{},s,Comps,{},{},{},,,,,
+s,Lansac,s,Lignan-de-Bazas,{},{},{},s,Marcamps,{},{},{},,,,,
+s,Marcamps,sé,Prignac-et-Marcamps,{'é': 1},{},{},s,Lansac,{},{},{},,,,,
+sé,Prignac-et-Marcamps,s,Marcamps,{},{'é': 1},{},s,Le Nizan,{},{'é': 1},{},,,,,
+d,Saint-Seurin-de-Bourg,,,,,,,,,,,,,,,

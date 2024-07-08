@@ -1,0 +1,882 @@
+Mot,Commune,Voisin_1,Commune_1,Insertions_1,Suppressions_1,Substitutions_1,Voisin_2,Commune_2,Insertions_2,Suppressions_2,Substitutions_2,Voisin_3,Commune_3,Insertions_3,Suppressions_3,Substitutions_3
+fut,Andernos-les-Bains,fut,Bazas-bis,{},{},{},fut,Auros-bis,{},{},{},fut,Audenge-bis,{},{},{}
+fut,Arès,fit,Savignac,{},{},"{('u', 'i'): 1}",fut,Ailas,{},{},{},fut,Coimères,{},{},{}
+fut,Audenge-bis,fut,Andernos-les-Bains,{},{},{},fusquè,Le Porge,"{'s': 1, 'q': 1, 'u': 1}",{},"{('t', 'è'): 1}",fusquè,Saint-Étienne-de-Lisse,"{'s': 1, 'q': 1, 'u': 1}",{},"{('t', 'è'): 1}"
+fut,Audenge,fut,Lignan-de-Bazas,{},{},{},fut,Belin-Béliet,{},{},{},,,,,
+fu,Biganos,fut,Blanquefort-bis,{'t': 1},{},{},,,,,,,,,,
+fut,Lacanau-de-Mios,fut,Eysines,{},{},{},fugué,Carbon-Blanc-bis,"{'g': 1, 'u': 1}",{},"{('t', 'é'): 1}",,,,,
+fut,Lanton,fut,Macau,{},{},{},fusqué,Castelnau-de-Médoc,"{'s': 1, 'q': 1, 'u': 1}",{},"{('t', 'é'): 1}",fut,Saint-Loubès,{},{},{}
+fut,Lège,fousquèc,Pompogne,"{'o': 1, 's': 1, 'q': 1, 'u': 1, 'è': 1}",{},"{('t', 'c'): 1}",fusquè,Saint-Sulpice-et-Cameyrac,"{'s': 1, 'q': 1, 'u': 1}",{},"{('t', 'è'): 1}",,,,,
+fut,Mios,fut,Ailas,{},{},{},fuet,Saint-Maixant,{'e': 1},{},{},,,,,
+fut,Ailas,fut,Arès,{},{},{},fut,Mios,{},{},{},fut,Auros-bis,{},{},{}
+fut,Auros-bis,fut,Andernos-les-Bains,{},{},{},fut,Ailas,{},{},{},,,,,
+eut,Auros,fut,Bordeaux,{},{},"{('e', 'f'): 1}",fuait,Sainte-Foy-la-Grande-bis,"{'a': 1, 'i': 1}",{},"{('e', 'f'): 1}",fit,Brannens,{},{},"{('e', 'f'): 1, ('u', 'i'): 1}"
+eut,Barie,fut,Yvrac,{},{},"{('e', 'f'): 1}",,,,,,,,,,
+fit,Brannens,eut,Auros,{},{},"{('f', 'e'): 1, ('i', 'u'): 1}",fut,Castillon-de-Castets,{},{},"{('i', 'u'): 1}",,,,,
+fut,Castillon-de-Castets,fut,Saint-Médard-en-Jalles,{},{},{},fit,Brannens,{},{},"{('u', 'i'): 1}",,,,,
+fut,Coimères,fut,Arès,{},{},{},fit,Cudos,{},{},"{('u', 'i'): 1}",fut,Lados,{},{},{}
+fut,Lados,fut,Gans,{},{},{},fut,Puybarban,{},{},{},fut,Coimères,{},{},{}
+fut,Pondaurat,fouguèt,Blaignan,"{'o': 1, 'g': 1, 'u': 1, 'è': 1}",{},{},,,,,,,,,,
+fut,Puybarban,fut,Lados,{},{},{},fut,Le Bouscat,{},{},{},fit,Savignac,{},{},"{('u', 'i'): 1}"
+fit,Savignac,fit,Sigalens,{},{},{},fut,Arès,{},{},"{('i', 'u'): 1}",fut,Puybarban,{},{},"{('i', 'u'): 1}"
+fit,Sigalens,fut,Caudéran,{},{},"{('i', 'u'): 1}",fit,Savignac,{},{},{},fut,Bayon-sur-Gironde,{},{},"{('i', 'u'): 1}"
+fut,Bazas-bis,fit,Bazas,{},{},"{('u', 'i'): 1}",fut,Andernos-les-Bains,{},{},{},,,,,
+fit,Bazas,fit,Cazats,{},{},{},fut,Bazas-bis,{},{},"{('i', 'u'): 1}",,,,,
+fit,Bernos-Beaulac,fi,Birac,{},{'t': 1},{},fuscout,Saumos,"{'u': 1, 's': 1, 'c': 1, 'o': 1}",{},"{('i', 'u'): 1}",fugait,Gajac,"{'u': 1, 'g': 1, 'a': 1}",{},{}
+fi,Birac,fousquet,Saint-Magne-de-Castillon,"{'o': 1, 'u': 2, 's': 1, 'q': 1, 'e': 1}",{},"{('i', 't'): 1}",fit,Bernos-Beaulac,{'t': 1},{},{},fit,Cazats,{'t': 1},{},{}
+fit,Cazats,fit,Cudos,{},{},{},fit,Bazas,{},{},{},fi,Birac,{},{'t': 1},{}
+fit,Cudos,fut,Coimères,{},{},"{('i', 'u'): 1}",fit,Cazats,{},{},{},fut,Gans,{},{},"{('i', 'u'): 1}"
+fugait,Gajac,fusquait,Belvès-de-Castillon,"{'s': 1, 'q': 1}",{},"{('g', 'u'): 1}",fut,Gans,{},"{'g': 1, 'a': 1, 'i': 1}",{},fit,Bernos-Beaulac,{},"{'u': 1, 'g': 1, 'a': 1}",{}
+fut,Gans,fugait,Gajac,"{'g': 1, 'a': 1, 'i': 1}",{},{},fut,Lados,{},{},{},fit,Cudos,{},{},"{('u', 'i'): 1}"
+fut,Le Nizan,fut,Prignac-et-Marcamps,{},{},{},fut,Gauriac,{},{},{},fuscout,Saint-Antoine-sur-l'Isle,"{'s': 1, 'c': 1, 'o': 1, 'u': 1}",{},{}
+fut,Lignan-de-Bazas,fut,Audenge,{},{},{},fut,Lansac,{},{},{},fut,Béliet,{},{},{}
+fut,Saint-Côme,fusquèt,Bonnetan,"{'s': 1, 'q': 1, 'u': 1, 'è': 1}",{},{},fut,Saint-Trojan,{},{},{},fut,Béliet,{},{},{}
+fut,Béliet,fut,Belin-Béliet,{},{},{},fut,Lignan-de-Bazas,{},{},{},fut,Saint-Côme,{},{},{}
+fut,Belin-Béliet,fousquet,Cadillac-en-Fronsadais,"{'o': 1, 's': 1, 'q': 1, 'u': 1, 'e': 1}",{},{},fut,Audenge,{},{},{},fut,Béliet,{},{},{}
+fut,Joué,fut,Le Barp,{},{},{},fousquét,Tabanac,"{'o': 1, 's': 1, 'q': 1, 'u': 1, 'é': 1}",{},{},,,,,
+fut,Le Barp,fut,Cabara,{},{},{},fut,Joué,{},{},{},,,,,
+fut,Lugos,fut,Saint-Magne,{},{},{},fut,Salles-bis,{},{},{},,,,,
+fut,Saint-Magne,futt,Salles,{'t': 1},{},{},fut,Lugos,{},{},{},fousquec,Saint-Romain-la-Virvée,"{'o': 1, 's': 1, 'q': 1, 'u': 1, 'e': 1}",{},"{('t', 'c'): 1}"
+fut,Salles-bis,fut,Lugos,{},{},{},fut,Génissac,{},{},{},,,,,
+futt,Salles,fut,Saint-Magne,{},{'t': 1},{},fusqué,Saint-Quentin-de-Baron,"{'s': 1, 'q': 1}",{},"{('t', 'u'): 1, ('t', 'é'): 1}",,,,,
+fut,Blanquefort-bis,hut,Langoiran,{},{},"{('f', 'h'): 1}",fu,Biganos,{},{'t': 1},{},fut,Blanquefort,{},{},{}
+fut,Blanquefort,fut,Blanquefort-bis,{},{},{},fut,Ychoux,{},{},{},fuguè,La Réole,"{'g': 1, 'u': 1}",{},"{('t', 'è'): 1}"
+fut,Caychac,fut,Omet,{},{},{},fut,Eysines,{},{},{},fu,Giscos,{},{'t': 1},{}
+fut,Eysines,fut,Caychac,{},{},{},fut,Lacanau-de-Mios,{},{},{},fut,Le Haillan,{},{},{}
+fut,Le Haillan,fut,Le Pian-Médoc,{},{},{},houc,Bénesse-Maremne,{'h': 1},{},"{('f', 'o'): 1, ('t', 'c'): 1}",fut,Eysines,{},{},{}
+fut,Le Pian-Médoc,houc,Josse,{'h': 1},{},"{('f', 'o'): 1, ('t', 'c'): 1}",fut,Le Haillan,{},{},{},hou,Montgaillard,{'h': 1},{'t': 1},"{('f', 'o'): 1}"
+fu,Le Taillan-Médoc,fegait,Sainte-Croix-du-Mont,"{'e': 1, 'g': 1, 'a': 1, 'i': 1}",{},"{('u', 't'): 1}",fusquait,Bassens,"{'s': 1, 'q': 1, 'u': 1, 'a': 1, 'i': 1, 't': 1}",{},{},fugué,Landerrouat,"{'g': 1, 'u': 1, 'é': 1}",{},{}
+fut,Ludon-Médoc,fousquec,Agnac,"{'o': 1, 's': 1, 'q': 1, 'u': 1, 'e': 1}",{},"{('t', 'c'): 1}",fut,Macau,{},{},{},,,,,
+fut,Macau,fut,Ludon-Médoc,{},{},{},fut,Lanton,{},{},{},fousquét,Lauzun,"{'o': 1, 's': 1, 'q': 1, 'u': 1, 'é': 1}",{},{}
+fut,Parempuyre,fusquèt,Arcins,"{'s': 1, 'q': 1, 'u': 1, 'è': 1}",{},{},fu,Arsac,{},{'t': 1},{},,,,,
+fut,Saint-Aubin-de-Médoc,fousquet,Feugarolles,"{'o': 1, 's': 1, 'q': 1, 'u': 1, 'e': 1}",{},{},fousquec,Béquin,"{'o': 1, 's': 1, 'q': 1, 'u': 1, 'e': 1}",{},"{('t', 'c'): 1}",fusqué,Labarde,"{'s': 1, 'q': 1, 'u': 1}",{},"{('t', 'é'): 1}"
+fut,Saint-Médard-en-Jalles,fusquèt,Margaux,"{'s': 1, 'q': 1, 'u': 1, 'è': 1}",{},{},fut,Castillon-de-Castets,{},{},{},fusquèt,Moulis-en-Médoc-bis,"{'s': 1, 'q': 1, 'u': 1, 'è': 1}",{},{}
+fit,Bègles,fousquait,Lugon-et-l'Île-du-Carnay,"{'o': 1, 'u': 2, 's': 1, 'q': 1, 'a': 1}",{},{},fusquét,Moulis-en-Médoc,"{'u': 2, 's': 1, 'q': 1}",{},"{('i', 'é'): 1}",,,,,
+fut,Bordeaux,eut,Auros,{},{},"{('f', 'e'): 1}",,,,,,,,,,
+fut,Bruges,fousquèt,Bégadan,"{'o': 1, 's': 1, 'q': 1, 'u': 1, 'è': 1}",{},{},fut,Caudéran,{},{},{},,,,,
+fut,Caudéran,fut,Bruges,{},{},{},fit,Sigalens,{},{},"{('u', 'i'): 1}",fut,Bayon-sur-Gironde,{},{},{}
+fu,Chartrons,fusquèt,Sainte-Colombe,"{'s': 1, 'q': 1, 'u': 1, 'è': 1, 't': 1}",{},{},fusquét,Salaunes,"{'s': 1, 'q': 1, 'u': 1, 'é': 1, 't': 1}",{},{},,,,,
+fut,Le Bouscat,fut,Puybarban,{},{},{},fuscout,Castillon-la-Bataille-bis,"{'s': 1, 'c': 1, 'o': 1, 'u': 1}",{},{},fut,Bayon-sur-Gironde,{},{},{}
+fut,Bayon-sur-Gironde,fut,Caudéran,{},{},{},fit,Sigalens,{},{},"{('u', 'i'): 1}",fut,Le Bouscat,{},{},{}
+fu,Bourg-bis,fousquec,Castres-Gironde,"{'o': 1, 's': 1, 'q': 1, 'u': 1, 'e': 1, 'c': 1}",{},{},fusquet,Castillon-la-Bataille,"{'s': 1, 'q': 1, 'u': 1, 'e': 1, 't': 1}",{},{},fuguè,Bahus-Soubiran,"{'g': 1, 'u': 1, 'è': 1}",{},{}
+fut,Bourg,fut,Comps,{},{},{},fugué,Rivière-Saas-et-Gourby,"{'g': 1, 'u': 1}",{},"{('t', 'é'): 1}",fut,Baron,{},{},{}
+fut,Comps,fut,Gauriac,{},{},{},fut,Bourg,{},{},{},,,,,
+fut,Gauriac,fut,Le Nizan,{},{},{},fut,Comps,{},{},{},fusquèt,Baurech,"{'s': 1, 'q': 1, 'u': 1, 'è': 1}",{},{}
+fut,Lansac,fut,Lignan-de-Bazas,{},{},{},fut,Marcamps,{},{},{},fugué,Saint-Loubouer,"{'g': 1, 'u': 1}",{},"{('t', 'é'): 1}"
+fut,Marcamps,fut,Prignac-et-Marcamps,{},{},{},fut,Lansac,{},{},{},,,,,
+fut,Prignac-et-Marcamps,fut,Marcamps,{},{},{},fut,Le Nizan,{},{},{},figuèt,Renung,"{'i': 1, 'g': 1, 'è': 1}",{},{}
+fut,Saint-Seurin-de-Bourg,fugué,Saint-Pandelon,"{'g': 1, 'u': 1}",{},"{('t', 'é'): 1}",fut,Samonac,{},{},{},fut,Baron,{},{},{}
+fut,Saint-Trojan,fut,Saint-Côme,{},{},{},fut,Tauriac,{},{},{},fut,Samonac,{},{},{}
+fut,Samonac,fut,Saint-Seurin-de-Bourg,{},{},{},fouèt,Fronsac,"{'o': 1, 'è': 1}",{},{},fut,Saint-Trojan,{},{},{}
+fut,Tauriac,fut,Saint-Trojan,{},{},{},fut,Camarsac,{},{},{},fut,Baron,{},{},{}
+fut,Baron,fut,Bourg,{},{},{},fut,Saint-Seurin-de-Bourg,{},{},{},fut,Tauriac,{},{},{}
+fut,Branne-bis,fugué,Saint-Lon-les-Mines,"{'g': 1, 'u': 1}",{},"{('t', 'é'): 1}",figué,Bonnegarde,"{'i': 1, 'g': 1}",{},"{('t', 'é'): 1}",fusquet,Camblanes-et-Meynac,"{'s': 1, 'q': 1, 'u': 1, 'e': 1}",{},{}
+fut,Branne,fuguet,Hure,"{'g': 1, 'u': 1, 'e': 1}",{},{},fugué,Gironde-sur-Dropt-bis,"{'g': 1, 'u': 1}",{},"{('t', 'é'): 1}",fusquait,Carignan-de-Bordeaux,"{'s': 1, 'q': 1, 'u': 1, 'a': 1, 'i': 1}",{},{}
+fut,Cabara-bis,fusquèt,Le Tourne,"{'s': 1, 'q': 1, 'u': 1, 'è': 1}",{},{},fuguait,Linxe,"{'g': 1, 'u': 1, 'a': 1, 'i': 1}",{},{},fuguet,Dax-Saint-Vincent,"{'g': 1, 'u': 1, 'e': 1}",{},{}
+fut,Cabara,fousquèt,Saillans,"{'o': 1, 's': 1, 'q': 1, 'u': 1, 'è': 1}",{},{},fut,Le Barp,{},{},{},,,,,
+fut,Daignac,fut,Génissac,{},{},{},,,,,,,,,,
+fut,Génissac,fut,Salles-bis,{},{},{},fut,Daignac,{},{},{},fugué,Losse,"{'g': 1, 'u': 1}",{},"{('t', 'é'): 1}"
+fut,Grézillac,fut,Jugazan,{},{},{},,,,,,,,,,
+fut,Jugazan,fut,Grézillac,{},{},{},fousquèt,Civrac,"{'o': 1, 's': 1, 'q': 1, 'u': 1, 'è': 1}",{},{},fousquét,Gaillan-en-Médoc,"{'o': 1, 's': 1, 'q': 1, 'u': 1, 'é': 1}",{},{}
+fuguè,Moulon,fugué,Horsarrieu,{},{},"{('è', 'é'): 1}",fugué,Bascons,{},{},"{('è', 'é'): 1}",fu,Naujan-et-Postiac,{},"{'g': 1, 'u': 1, 'è': 1}",{}
+fu,Naujan-et-Postiac,fousquèt,Grignols-bis,"{'o': 1, 's': 1, 'q': 1, 'u': 1, 'è': 1, 't': 1}",{},{},fuyè,Cazères-sur-l'Adour,"{'y': 1, 'è': 1}",{},{},fuguè,Moulon,"{'g': 1, 'u': 1, 'è': 1}",{},{}
+fugué,Nérigean,fuguet,Saint-Cricq-Chalosse,{'e': 1},{},"{('é', 't'): 1}",fuguet,Poudenx,{'e': 1},{},"{('é', 't'): 1}",fugué,Saint-Germain-du-Puch,{},{},{}
+fugué,Saint-Germain-du-Puch,fugué,Uzeste,{},{},{},fugué,Laurède,{},{},{},fugué,Nérigean,{},{},{}
+fusqué,Saint-Quentin-de-Baron,futt,Salles,{},"{'u': 1, 'é': 1}","{('s', 't'): 1, ('q', 't'): 1}",fuguè,Arengosse,{},{'q': 1},"{('s', 'g'): 1, ('é', 'è'): 1}",,,,,
+fugué,Tizac-de-Curton,fugué,Arjuzanx,{},{},{},,,,,,,,,,
+fugué,Béguey,fouèx,Sendets,{'o': 1},{'é': 1},"{('g', 'è'): 1, ('u', 'x'): 1}",fugue,Gabarnac,{},{},"{('é', 'e'): 1}",,,,,
+fusqué,Cadillac,fuguè,Cardan,{},{'q': 1},"{('s', 'g'): 1, ('é', 'è'): 1}",fuguè,Camiran,{},{'q': 1},"{('s', 'g'): 1, ('é', 'è'): 1}",fu,Capian,{},"{'s': 1, 'q': 1, 'u': 1, 'é': 1}",{}
+fu,Capian,fousquèt,Saint-Michel-de-Fronsac,"{'o': 1, 's': 1, 'q': 1, 'u': 1, 'è': 1, 't': 1}",{},{},fusqué,Cadillac,"{'s': 1, 'q': 1, 'u': 1, 'é': 1}",{},{},fugué,Sindères,"{'g': 1, 'u': 1, 'é': 1}",{},{}
+fuguè,Cardan,fouskait,Lerm-et-Musset,"{'o': 1, 's': 1, 'k': 1}",{},"{('g', 'a'): 1, ('u', 'i'): 1, ('è', 't'): 1}",fusqué,Cadillac,{'s': 1},{},"{('g', 'q'): 1, ('è', 'é'): 1}",fut,Donzac,{},"{'u': 1, 'è': 1}","{('g', 't'): 1}"
+fut,Donzac,fousquec,Saint-Médard-d'Eyrans,"{'o': 1, 's': 1, 'q': 1, 'u': 1, 'e': 1}",{},"{('t', 'c'): 1}",fugue,Gabarnac,"{'g': 1, 'u': 1}",{},"{('t', 'e'): 1}",fuguè,Cardan,"{'g': 1, 'u': 1}",{},"{('t', 'è'): 1}"
+fugue,Gabarnac,fut,Donzac,{},"{'u': 1, 'e': 1}","{('g', 't'): 1}",fugué,Béguey,{},{},"{('e', 'é'): 1}",fouèt,Marions,{'o': 1},{'e': 1},"{('g', 'è'): 1, ('u', 't'): 1}"
+fugué,Langoiran-bis,fousquèt,Villeneuve-de-Marsan,"{'o': 1, 's': 1, 'è': 1}",{},"{('g', 'q'): 1, ('é', 't'): 1}",fugué,Gironde-sur-Dropt,{},{},{},,,,,
+hut,Langoiran,fut,Blanquefort-bis,{},{},"{('h', 'f'): 1}",,,,,,,,,,
+eut,Lestiac-sur-Garonne,hou,Solférino,{'h': 1},{'t': 1},"{('e', 'o'): 1}",fuguè,Morizès,"{'g': 1, 'u': 1}",{},"{('e', 'f'): 1, ('t', 'è'): 1}",,,,,
+fut,Loupiac,hou,Biaudos,{'h': 1},{'t': 1},"{('f', 'o'): 1}",fugué,Gujan,"{'g': 1, 'u': 1}",{},"{('t', 'é'): 1}",fut,Monprimblanc,{},{},{}
+fut,Monprimblanc,fuguè,Saint-Hilaire-de-la-Noaille,"{'g': 1, 'u': 1}",{},"{('t', 'è'): 1}",fut,Loupiac,{},{},{},,,,,
+fut,Omet,faguet,Paillet,"{'a': 1, 'g': 1, 'e': 1}",{},{},fut,Caychac,{},{},{},fûgué,La Teste-de-Buch,"{'û': 1, 'g': 1}",{},"{('t', 'é'): 1}"
+faguet,Paillet,fi,Rions,{},"{'g': 1, 'u': 1, 'e': 1, 't': 1}","{('a', 'i'): 1}",fut,Omet,{},"{'a': 1, 'g': 1, 'e': 1}",{},fugué,Le Teich,{},{'t': 1},"{('a', 'u'): 1, ('e', 'é'): 1}"
+fi,Rions,faguet,Paillet,"{'a': 1, 'g': 1, 'u': 1, 'e': 1}",{},"{('i', 't'): 1}",,,,,,,,,,
+fegait,Sainte-Croix-du-Mont,fut,Captieux-bis,{},"{'g': 1, 'a': 1, 'i': 1}","{('e', 'u'): 1}",fu,Le Taillan-Médoc,{},"{'g': 1, 'a': 1, 'i': 1, 't': 1}","{('e', 'u'): 1}",fugué,Mazères,{},{'t': 1},"{('e', 'u'): 1, ('a', 'u'): 1, ('i', 'é'): 1}"
+fi,Villenave-de-Rions,fut,Beychac-et-Caillau,{'u': 1},{},"{('i', 't'): 1}",fut,Captieux-bis,{'u': 1},{},"{('i', 't'): 1}",fuguè,Arbanats,"{'u': 2, 'g': 1}",{},"{('i', 'è'): 1}"
+fut,Captieux-bis,fi,Villenave-de-Rions,{},{'t': 1},"{('u', 'i'): 1}",fegait,Sainte-Croix-du-Mont,"{'e': 1, 'g': 1, 'a': 1}",{},"{('u', 'i'): 1}",fusqué,Captieux,"{'s': 1, 'q': 1, 'u': 1}",{},"{('t', 'é'): 1}"
+fusqué,Captieux,fugué,Léogeats,{},{'q': 1},"{('s', 'g'): 1}",fuguè,Langon,{},{'q': 1},"{('s', 'g'): 1, ('é', 'è'): 1}",fut,Captieux-bis,{},"{'q': 1, 'u': 1, 'é': 1}","{('s', 't'): 1}"
+fu,Escaudes,fusquè,Bouliac,"{'s': 1, 'q': 1, 'u': 1, 'è': 1}",{},{},fugué,Cérons,"{'g': 1, 'u': 1, 'é': 1}",{},{},hou,Montsoué,{'h': 1},{},"{('f', 'o'): 1}"
+fu,Giscos,fugué,Bieujac,"{'g': 1, 'u': 1, 'é': 1}",{},{},fut,Caychac,{'t': 1},{},{},fuguè,Saint-Pardon-de-Conques,"{'g': 1, 'u': 1, 'è': 1}",{},{}
+fut,Saint-Michel-de-Castelnau,fugué,Cenon,"{'g': 1, 'u': 1}",{},"{('t', 'é'): 1}",fuguè,Saint-Émilion,"{'g': 1, 'u': 1}",{},"{('t', 'è'): 1}",fugueï,Toulenne,"{'g': 1, 'u': 1, 'e': 1}",{},"{('t', 'ï'): 1}"
+fusqué,Ambarès-et-Lagrave,fousquéq,La Sauvetat-du-Dropt,"{'o': 1, 'q': 1}",{},{},fugué,Taller,{},{'q': 1},"{('s', 'g'): 1}",,,,,
+fusqué,Ambès,fuguet,Martignas-sur-Jalle,{},{},"{('s', 'g'): 1, ('q', 'u'): 1, ('u', 'e'): 1, ('é', 't'): 1}",fousquéc,Fieux,"{'o': 1, 'c': 1}",{},{},fut,Beychac-et-Caillau,{},"{'q': 1, 'u': 1, 'é': 1}","{('s', 't'): 1}"
+fusquait,Bassens,fu,Le Taillan-Médoc,{},"{'s': 1, 'q': 1, 'u': 1, 'a': 1, 'i': 1, 't': 1}",{},fut,Beychac-et-Caillau,{},"{'s': 1, 'q': 1, 'u': 1, 'a': 1, 'i': 1}",{},fousquet,Villeneuve-de-Duras,{'o': 1},{'i': 1},"{('a', 'e'): 1}"
+fut,Beychac-et-Caillau,fusquait,Bassens,"{'s': 1, 'q': 1, 'u': 1, 'a': 1, 'i': 1}",{},{},fi,Villenave-de-Rions,{},{'t': 1},"{('u', 'i'): 1}",fusqué,Ambès,"{'s': 1, 'q': 1, 'u': 1}",{},"{('t', 'é'): 1}"
+fusquè,Bouliac,fuguet,Podensac,{},{},"{('s', 'g'): 1, ('q', 'u'): 1, ('u', 'e'): 1, ('è', 't'): 1}",fu,Escaudes,{},"{'s': 1, 'q': 1, 'u': 1, 'è': 1}",{},fugué,Carbon-Blanc-bis,{},{'q': 1},"{('s', 'g'): 1, ('è', 'é'): 1}"
+fugué,Carbon-Blanc-bis,fusquè,Bouliac,{'s': 1},{},"{('g', 'q'): 1, ('é', 'è'): 1}",fut,Lacanau-de-Mios,{},"{'u': 1, 'é': 1}","{('g', 't'): 1}",fousquec,Boussès,"{'o': 1, 's': 1, 'e': 1}",{},"{('g', 'q'): 1, ('é', 'c'): 1}"
+fusquè,Carbon-Blanc,fuguè,Pessac,{},{'q': 1},"{('s', 'g'): 1}",fuyè,Libourne,{},"{'q': 1, 'u': 1}","{('s', 'y'): 1}",fuguait,Lormont,{'g': 1},{},"{('s', 'u'): 1, ('q', 'a'): 1, ('u', 'i'): 1, ('è', 't'): 1}"
+fugué,Cenon,fuguait,Floirac,"{'a': 1, 'i': 1}",{},"{('é', 't'): 1}",fut,Saint-Michel-de-Castelnau,{},"{'u': 1, 'é': 1}","{('g', 't'): 1}",,,,,
+fuguait,Floirac,fuguè,Saint-Sulpice-de-Faleyrens,{},"{'i': 1, 't': 1}","{('a', 'è'): 1}",fugué,Cenon,{},"{'i': 1, 't': 1}","{('a', 'é'): 1}",fuguait,Lormont,{},{},{}
+fuguait,Lormont,fougait,Houeillès-bis,{'o': 1},{'u': 1},{},fusquè,Carbon-Blanc,{'s': 1},"{'i': 1, 't': 1}","{('g', 'q'): 1, ('a', 'è'): 1}",fuguait,Floirac,{},{},{}
+fusqué,Montussan,fut,Saint-Loubès,{},"{'q': 1, 'u': 1, 'é': 1}","{('s', 't'): 1}",fusquet,Cussac-Fort-Médoc,{'e': 1},{},"{('é', 't'): 1}",fusqueg,Bruch-bis,{'e': 1},{},"{('é', 'g'): 1}"
+fut,Saint-Loubès,fut,Lanton,{},{},{},fusqué,Montussan,"{'s': 1, 'q': 1, 'u': 1}",{},"{('t', 'é'): 1}",fousquéc,Lauzun-tet,"{'o': 1, 's': 1, 'q': 1, 'u': 1, 'é': 1}",{},"{('t', 'c'): 1}"
+fusquè,Saint-Louis-de-Montferrand,fuguè,Virelade,{},{'q': 1},"{('s', 'g'): 1}",fusquè,Saint-Sulpice-et-Cameyrac,{},{},{},,,,,
+fusquè,Saint-Sulpice-et-Cameyrac,fusquèt,Saint-Vincent-de-Paul,{'t': 1},{},{},fut,Lège,{},"{'q': 1, 'u': 1, 'è': 1}","{('s', 't'): 1}",fusquè,Saint-Louis-de-Montferrand,{},{},{}
+fusquèt,Saint-Vincent-de-Paul,fugué,Flaujagues,{},"{'q': 1, 't': 1}","{('s', 'g'): 1, ('è', 'é'): 1}",fusquè,Saint-Sulpice-et-Cameyrac,{},{'t': 1},{},,,,,
+fusquè,Sainte-Eulalie,fuguet,Saint-Martin-de-Sescas,{},{},"{('s', 'g'): 1, ('q', 'u'): 1, ('u', 'e'): 1, ('è', 't'): 1}",figué,Juillac,{},{'q': 1},"{('u', 'i'): 1, ('s', 'g'): 1, ('è', 'é'): 1}",,,,,
+fusquet,Tresses-bis,fuguèt,Peujard,{},{'q': 1},"{('s', 'g'): 1, ('e', 'è'): 1}",fugué,Pessac-sur-Dordogne,{},"{'q': 1, 't': 1}","{('s', 'g'): 1, ('e', 'é'): 1}",,,,,
+fut,Tresses,fuguet,Rauzan,"{'g': 1, 'u': 1, 'e': 1}",{},{},fusquét,Saint-Pey-de-Castets,"{'s': 1, 'q': 1, 'u': 1, 'é': 1}",{},{},fugué,Cubzac-les-Ponts,"{'g': 1, 'u': 1}",{},"{('t', 'é'): 1}"
+fut,Yvrac,fusquèt,Arcins,"{'s': 1, 'q': 1, 'u': 1, 'è': 1}",{},{},eut,Barie,{},{},"{('f', 'e'): 1}",,,,,
+fusquèt,Arcins,fut,Parempuyre,{},"{'s': 1, 'q': 1, 'u': 1, 'è': 1}",{},fut,Yvrac,{},"{'s': 1, 'q': 1, 'u': 1, 'è': 1}",{},fuguet,Virsac,{},{'q': 1},"{('s', 'g'): 1, ('è', 'e'): 1}"
+fusquet,Arsac-bis,fu,Cantenac,{},"{'s': 1, 'q': 1, 'u': 1, 'e': 1, 't': 1}",{},fué,Saint-Gervais,{},"{'q': 1, 'u': 1, 'e': 1, 't': 1}","{('s', 'é'): 1}",fut,Lamarque,{},"{'s': 1, 'q': 1, 'u': 1, 'e': 1}",{}
+fu,Arsac,fusqué,Castelnau-de-Médoc,"{'s': 1, 'q': 1, 'u': 1, 'é': 1}",{},{},fut,Parempuyre,{'t': 1},{},{},fu,Cantenac,{},{},{}
+fu,Cantenac,fuguet,Salignac,"{'g': 1, 'u': 1, 'e': 1, 't': 1}",{},{},fusquet,Arsac-bis,"{'s': 1, 'q': 1, 'u': 1, 'e': 1, 't': 1}",{},{},fu,Arsac,{},{},{}
+fusqué,Castelnau-de-Médoc,fut,Lanton,{},"{'q': 1, 'u': 1, 'é': 1}","{('s', 't'): 1}",fu,Arsac,{},"{'s': 1, 'q': 1, 'u': 1, 'é': 1}",{},fusquet,Cussac-Fort-Médoc,{'e': 1},{},"{('é', 't'): 1}"
+fusquet,Cussac-Fort-Médoc,fusqué,Montussan,{},{'t': 1},"{('e', 'é'): 1}",fusqué,Castelnau-de-Médoc,{},{'t': 1},"{('e', 'é'): 1}",fusquè,Lacanau,{},{'t': 1},"{('e', 'è'): 1}"
+fusqué,Labarde,fut,Saint-Aubin-de-Médoc,{},"{'q': 1, 'u': 1, 'é': 1}","{('s', 't'): 1}",fusquè,Lacanau,{},{},"{('é', 'è'): 1}",fué,Caudrot,{},"{'s': 1, 'q': 1, 'u': 1}",{}
+fusquè,Lacanau,fusqué,Labarde,{},{},"{('è', 'é'): 1}",fusquet,Cussac-Fort-Médoc,{'e': 1},{},"{('è', 't'): 1}",fut,Lamarque,{},"{'q': 1, 'u': 1, 'è': 1}","{('s', 't'): 1}"
+fut,Lamarque,fusquet,Arsac-bis,"{'s': 1, 'q': 1, 'u': 1, 'e': 1}",{},{},fuguet,Saint-André-du-Bois,"{'g': 1, 'u': 1, 'e': 1}",{},{},fusquè,Lacanau,"{'s': 1, 'q': 1, 'u': 1}",{},"{('t', 'è'): 1}"
+fusquè,Le Porge,fut,Audenge-bis,{},"{'q': 1, 'u': 1, 'è': 1}","{('s', 't'): 1}",fucquèt,Saint-Germain-de-Grave,{'t': 1},{},"{('s', 'c'): 1}",fut,Le Temple,{},"{'q': 1, 'u': 1, 'è': 1}","{('s', 't'): 1}"
+fut,Le Temple,fuguait,Verdelais,"{'g': 1, 'u': 1, 'a': 1, 'i': 1}",{},{},fusquè,Le Porge,"{'s': 1, 'q': 1, 'u': 1}",{},"{('t', 'è'): 1}",,,,,
+fusquèt,Listrac-Médoc,fugait,Pujols-bis,{},{'è': 1},"{('s', 'g'): 1, ('q', 'a'): 1, ('u', 'i'): 1}",,,,,,,,,,
+fusquèt,Margaux,fut,Saint-Médard-en-Jalles,{},"{'s': 1, 'q': 1, 'u': 1, 'è': 1}",{},,,,,,,,,,
+fusquèt,Moulis-en-Médoc-bis,fut,Saint-Médard-en-Jalles,{},"{'s': 1, 'q': 1, 'u': 1, 'è': 1}",{},fué,Sainte-Foy-la-Grande-ter,{},"{'q': 1, 'u': 1, 'è': 1, 't': 1}","{('s', 'é'): 1}",,,,,
+fusquét,Moulis-en-Médoc,fit,Bègles,{},"{'s': 1, 'q': 1, 'u': 1, 'é': 1}","{('u', 'i'): 1}",fuguet,Gornac,{},{'q': 1},"{('s', 'g'): 1, ('é', 'e'): 1}",,,,,
+fusquait,Sainte-Hélène,fuguet,Cazalis,{},"{'q': 1, 'i': 1}","{('s', 'g'): 1, ('a', 'e'): 1}",,,,,,,,,,
+fusquét,Salaunes,fusquait,Soussans,{'a': 1},{},"{('é', 'i'): 1}",fu,Chartrons,{},"{'s': 1, 'q': 1, 'u': 1, 'é': 1, 't': 1}",{},fuscout,Castillon-la-Bataille-bis,{'c': 1},{'é': 1},"{('q', 'o'): 1}"
+fuscout,Saumos,fit,Bernos-Beaulac,{},"{'s': 1, 'c': 1, 'o': 1, 'u': 1}","{('u', 'i'): 1}",fusquait,Soussans,{'q': 1},{},"{('c', 'u'): 1, ('o', 'a'): 1, ('u', 'i'): 1}",fusquait,Belvès-de-Castillon,{'q': 1},{},"{('c', 'u'): 1, ('o', 'a'): 1, ('u', 'i'): 1}"
+fusquait,Soussans,fuscout,Saumos,{'c': 1},"{'a': 1, 'i': 1}","{('q', 'o'): 1}",fusquêt,Saint-Pey-d'Armens,{},{'i': 1},"{('a', 'ê'): 1}",fusquét,Salaunes,{},{'i': 1},"{('a', 'é'): 1}"
+fusquait,Belvès-de-Castillon,fuscout,Castillon-la-Bataille-bis,{'c': 1},"{'a': 1, 'i': 1}","{('q', 'o'): 1}",fugait,Gajac,{},"{'q': 1, 'u': 1}","{('s', 'g'): 1}",fuscout,Saumos,{'c': 1},"{'a': 1, 'i': 1}","{('q', 'o'): 1}"
+fuscout,Castillon-la-Bataille-bis,fut,Le Bouscat,{},"{'s': 1, 'c': 1, 'o': 1, 'u': 1}",{},fusquait,Belvès-de-Castillon,{'q': 1},{},"{('c', 'u'): 1, ('o', 'a'): 1, ('u', 'i'): 1}",fusquét,Salaunes,{},{},"{('c', 'q'): 1, ('o', 'u'): 1, ('u', 'é'): 1}"
+fusquet,Castillon-la-Bataille,fu,Bourg-bis,{},"{'s': 1, 'q': 1, 'u': 1, 'e': 1, 't': 1}",{},füè,Puisseguin,{},"{'q': 1, 'u': 1, 'e': 1, 't': 1}","{('u', 'ü'): 1, ('s', 'è'): 1}",fugué,Classun,{},"{'q': 1, 't': 1}","{('s', 'g'): 1, ('e', 'é'): 1}"
+fusquet,Gardegan,fuguet,Lucmau,{},{'q': 1},"{('s', 'g'): 1}",fué,Villandraut-bis,{},"{'q': 1, 'u': 1, 'e': 1, 't': 1}","{('s', 'é'): 1}",,,,,
+fusquè,Saint-Étienne-de-Lisse,fut,Audenge-bis,{},"{'q': 1, 'u': 1, 'è': 1}","{('s', 't'): 1}",fusquet,Saint-Genès-de-Castillon,{'e': 1},{},"{('è', 't'): 1}",,,,,
+fusquet,Saint-Genès-de-Castillon,fusquè,Saint-Étienne-de-Lisse,{},{'t': 1},"{('e', 'è'): 1}",fugué,Balizac,{},"{'q': 1, 't': 1}","{('s', 'g'): 1, ('e', 'é'): 1}",fusquai,Saint-Laurent-des-Combes,{},{},"{('e', 'a'): 1, ('t', 'i'): 1}"
+fusquai,Saint-Laurent-des-Combes,fugué,Saint-Symphorien-bis,{},"{'q': 1, 'i': 1}","{('s', 'g'): 1, ('a', 'é'): 1}",fuguet,Aire-sur-l'Adour,{},{'q': 1},"{('s', 'g'): 1, ('a', 'e'): 1, ('i', 't'): 1}",fusquet,Saint-Genès-de-Castillon,{},{},"{('a', 'e'): 1, ('i', 't'): 1}"
+fousquet,Saint-Magne-de-Castillon,fusquêt,Saint-Pey-d'Armens,{},{'o': 1},"{('e', 'ê'): 1}",fi,Birac,{},"{'u': 2, 's': 1, 'q': 1, 'e': 1, 't': 1}","{('o', 'i'): 1}",,,,,
+fusquêt,Saint-Pey-d'Armens,fusquait,Soussans,{'a': 1},{},"{('ê', 'i'): 1}",fousquet,Saint-Magne-de-Castillon,{'o': 1},{},"{('ê', 'e'): 1}",fusquait,Saint-Philippe-d'Aiguille,{'a': 1},{},"{('ê', 'i'): 1}"
+fusquait,Saint-Philippe-d'Aiguille,fut,Sainte-Terre,{},"{'s': 1, 'q': 1, 'u': 1, 'a': 1, 'i': 1}",{},fusquêt,Saint-Pey-d'Armens,{},{'i': 1},"{('a', 'ê'): 1}",fusquè,Eugénie-les-Bains,{},"{'i': 1, 't': 1}","{('a', 'è'): 1}"
+fusquèt,Sainte-Colombe,fu,Chartrons,{},"{'s': 1, 'q': 1, 'u': 1, 'è': 1, 't': 1}",{},fut,Sainte-Terre,{},"{'s': 1, 'q': 1, 'u': 1, 'è': 1}",{},,,,,
+fut,Sainte-Terre,fusquèt,Sainte-Colombe,"{'s': 1, 'q': 1, 'u': 1, 'è': 1}",{},{},fusquait,Saint-Philippe-d'Aiguille,"{'s': 1, 'q': 1, 'u': 1, 'a': 1, 'i': 1}",{},{},fusquèt,Vignonet,"{'s': 1, 'q': 1, 'u': 1, 'è': 1}",{},{}
+fusquèt,Vignonet,fut,Sainte-Terre,{},"{'s': 1, 'q': 1, 'u': 1, 'è': 1}",{},,,,,,,,,,
+fuscout,Saint-Antoine-sur-l'Isle,fusqué,Saint-Agnet,{},{'o': 1},"{('c', 'q'): 1, ('t', 'é'): 1}",fut,Le Nizan,{},"{'s': 1, 'c': 1, 'o': 1, 'u': 1}",{},fusquèt,Baurech,{},{},"{('c', 'q'): 1, ('o', 'u'): 1, ('u', 'è'): 1}"
+fusquèt,Baurech,fuscout,Saint-Antoine-sur-l'Isle,{'c': 1},{'è': 1},"{('q', 'o'): 1}",fut,Gauriac,{},"{'s': 1, 'q': 1, 'u': 1, 'è': 1}",{},fut,Camarsac,{},"{'s': 1, 'q': 1, 'u': 1, 'è': 1}",{}
+fusquèt,Bonnetan,fut,Camarsac,{},"{'s': 1, 'q': 1, 'u': 1, 'è': 1}",{},fut,Saint-Côme,{},"{'s': 1, 'q': 1, 'u': 1, 'è': 1}",{},fuchqué,Sarron,{'c': 1},{'t': 1},"{('s', 'h'): 1, ('è', 'é'): 1}"
+fut,Camarsac,fut,Tauriac,{},{},{},fusquèt,Bonnetan,"{'s': 1, 'q': 1, 'u': 1, 'è': 1}",{},{},fusquèt,Baurech,"{'s': 1, 'q': 1, 'u': 1, 'è': 1}",{},{}
+fut,Cambes,fut,Cénac,{},{},{},fugué,Vielle-Tursan,"{'g': 1, 'u': 1}",{},"{('t', 'é'): 1}",fusquet,Camblanes-et-Meynac,"{'s': 1, 'q': 1, 'u': 1, 'e': 1}",{},{}
+fusquet,Camblanes-et-Meynac,fut,Branne-bis,{},"{'s': 1, 'q': 1, 'u': 1, 'e': 1}",{},fut,Cambes,{},"{'s': 1, 'q': 1, 'u': 1, 'e': 1}",{},fusquait,Carignan-de-Bordeaux,{'a': 1},{},"{('e', 'i'): 1}"
+fusquait,Carignan-de-Bordeaux,fugué,Amou,{},"{'q': 1, 'i': 1, 't': 1}","{('s', 'g'): 1, ('a', 'é'): 1}",fut,Branne,{},"{'s': 1, 'q': 1, 'u': 1, 'a': 1, 'i': 1}",{},fusquet,Camblanes-et-Meynac,{},{'i': 1},"{('a', 'e'): 1}"
+fut,Cénac,fut,Cambes,{},{},{},fugué,Bassercles,"{'g': 1, 'u': 1}",{},"{('t', 'é'): 1}",,,,,
+fusquet,Créon,fugué,Brassempouy,{},"{'q': 1, 't': 1}","{('s', 'g'): 1, ('e', 'é'): 1}",,,,,,,,,,
+fusquait,Haux,figué,Castelnau-Chalosse,{},"{'q': 1, 'i': 1, 't': 1}","{('u', 'i'): 1, ('s', 'g'): 1, ('a', 'é'): 1}",fiyè,Geloux,{},"{'u': 1, 'a': 1, 'i': 1, 't': 1}","{('u', 'i'): 1, ('s', 'y'): 1, ('q', 'è'): 1}",,,,,
+fusquèt,Latresne,fugué,Castel-Sarrazin,{},"{'q': 1, 't': 1}","{('s', 'g'): 1, ('è', 'é'): 1}",fugué,Donzacq,{},"{'q': 1, 't': 1}","{('s', 'g'): 1, ('è', 'é'): 1}",fayit,Campagne,{},"{'u': 1, 'è': 1}","{('u', 'a'): 1, ('s', 'y'): 1, ('q', 'i'): 1}"
+fusquèt,Le Tourne,fut,Cabara-bis,{},"{'s': 1, 'q': 1, 'u': 1, 'è': 1}",{},fousquèt,Sallebœuf,{'o': 1},{},{},,,,,
+fusquet,Lignan-de-Bordeaux,fuguet,Bommes,{},{'q': 1},"{('s', 'g'): 1}",fusquèt,Pompignac,{},{},"{('e', 'è'): 1}",fusquèt,Madirac,{},{},"{('e', 'è'): 1}"
+fusquèt,Madirac,fut,Quinsac,{},"{'s': 1, 'q': 1, 'u': 1, 'è': 1}",{},fusquet,Lignan-de-Bordeaux,{},{},"{('è', 'e'): 1}",,,,,
+fusquèt,Pompignac,fusquet,Lignan-de-Bordeaux,{},{},"{('è', 'e'): 1}",houc,Sainte-Eulalie,{},"{'s': 1, 'q': 1, 't': 1}","{('f', 'h'): 1, ('u', 'o'): 1, ('è', 'c'): 1}",fut,Quinsac,{},"{'s': 1, 'q': 1, 'u': 1, 'è': 1}",{}
+fut,Quinsac,figuè,Uza,"{'i': 1, 'g': 1}",{},"{('t', 'è'): 1}",fusquèt,Madirac,"{'s': 1, 'q': 1, 'u': 1, 'è': 1}",{},{},fusquèt,Pompignac,"{'s': 1, 'q': 1, 'u': 1, 'è': 1}",{},{}
+fousquèt,Sadirac,fousquait,Saint-Caprais-de-Bordeaux,{'a': 1},{},"{('è', 'i'): 1}",,,,,,,,,,
+fousquait,Saint-Caprais-de-Bordeaux,fousquèt,Sallebœuf,{},{'i': 1},"{('a', 'è'): 1}",fugué,Bénesse-lès-Dax,{},"{'o': 1, 'q': 1, 'i': 1, 't': 1}","{('s', 'g'): 1, ('a', 'é'): 1}",fousquèt,Sadirac,{},{'i': 1},"{('a', 'è'): 1}"
+fousquèt,Sallebœuf,fusquèt,Le Tourne,{},{'o': 1},{},fousquait,Saint-Caprais-de-Bordeaux,{'a': 1},{},"{('è', 'i'): 1}",,,,,
+fousquét,Tabanac,fut,Joué,{},"{'o': 1, 's': 1, 'q': 1, 'u': 1, 'é': 1}",{},fugué,Narrosse,{},"{'o': 1, 'q': 1, 't': 1}","{('s', 'g'): 1}",,,,,
+fousquèt,Asques,fouèt,Fronsac-bis,{},"{'s': 1, 'q': 1, 'u': 1}",{},fousquec,La Lande-de-Fronsac,{},{},"{('è', 'e'): 1, ('t', 'c'): 1}",,,,,
+fousquet,Cadillac-en-Fronsadais,fouèt,Fronsac-bis,{},"{'q': 1, 'u': 1, 'e': 1}","{('s', 'è'): 1}",fut,Belin-Béliet,{},"{'o': 1, 's': 1, 'q': 1, 'u': 1, 'e': 1}",{},fouèt,Fronsac,{},"{'q': 1, 'u': 1, 'e': 1}","{('s', 'è'): 1}"
+fouèt,Fronsac-bis,figué,Mées,{'i': 1},{'t': 1},"{('o', 'g'): 1, ('è', 'é'): 1}",fousquet,Cadillac-en-Fronsadais,"{'s': 1, 'q': 1, 'u': 1}",{},"{('è', 'e'): 1}",fousquèt,Asques,"{'s': 1, 'q': 1, 'u': 1}",{},{}
+fouèt,Fronsac,fut,Samonac,{},"{'o': 1, 'è': 1}",{},fousquec,La Lande-de-Fronsac,"{'s': 1, 'q': 1, 'u': 1}",{},"{('è', 'e'): 1, ('t', 'c'): 1}",fousquet,Cadillac-en-Fronsadais,"{'s': 1, 'q': 1, 'u': 1}",{},"{('è', 'e'): 1}"
+fousquec,La Lande-de-Fronsac,fouèt,Fronsac,{},"{'u': 1, 'e': 1, 'c': 1}","{('s', 'è'): 1, ('q', 't'): 1}",fousquèt,Asques,{},{},"{('e', 'è'): 1, ('c', 't'): 1}",,,,,
+fousquait,Lugon-et-l'Île-du-Carnay,fit,Bègles,{},"{'o': 1, 'u': 2, 's': 1, 'q': 1, 'a': 1}",{},fousquèt,Saillans,{},{'i': 1},"{('a', 'è'): 1}",,,,,
+fousquèt,Saillans,fousquait,Lugon-et-l'Île-du-Carnay,{'a': 1},{},"{('è', 'i'): 1}",fut,Cabara,{},"{'o': 1, 's': 1, 'q': 1, 'u': 1, 'è': 1}",{},fugué,Saint-Paul-lès-Dax,{},"{'o': 1, 'q': 1, 't': 1}","{('s', 'g'): 1, ('è', 'é'): 1}"
+fousquèt,Saint-Germain-de-la-Rivière,fusqué,Saint-Vincent-de-Paul,{},"{'o': 1, 't': 1}","{('è', 'é'): 1}",fousquet,Martillac,{},{},"{('è', 'e'): 1}",fousquèt,Saint-Michel-de-Fronsac,{},{},{}
+fousquèt,Saint-Michel-de-Fronsac,fousquèt,Saint-Germain-de-la-Rivière,{},{},{},fu,Capian,{},"{'o': 1, 's': 1, 'q': 1, 'u': 1, 'è': 1, 't': 1}",{},,,,,
+fousquec,Saint-Romain-la-Virvée,fut,Saint-Magne,{},"{'o': 1, 'q': 1, 'u': 1, 'e': 1, 'c': 1}","{('s', 't'): 1}",fousquec,Vérac,{},{},{},,,,,
+fousquec,Vérac,fousquec,Saint-Romain-la-Virvée,{},{},{},fousquèc,Villegouge,{},{},"{('e', 'è'): 1}",,,,,
+fousquèc,Villegouge,fousquèc,Campin,{},{},{},fousquec,Vérac,{},{},"{('è', 'e'): 1}",,,,,
+fousquèc,Campin,fousquèc,Villegouge,{},{},{},fousquèt,Cours-les-Bains,{},{},"{('c', 't'): 1}",,,,,
+fousquèt,Cours-les-Bains,fuhiè,Castandet,{},"{'o': 1, 'u': 1, 't': 1}","{('s', 'h'): 1, ('q', 'i'): 1}",fit,Lagrange,{},"{'u': 2, 's': 1, 'q': 1, 'è': 1}","{('o', 'i'): 1}",fousquèc,Campin,{},{},"{('t', 'c'): 1}"
+fousquèt,Grignols-bis,fouèt,Grignols,{},"{'s': 1, 'q': 1, 'u': 1}",{},fu,Naujan-et-Postiac,{},"{'o': 1, 's': 1, 'q': 1, 'u': 1, 'è': 1, 't': 1}",{},fugué,Tercis-les-Bains,{},"{'o': 1, 'q': 1, 't': 1}","{('s', 'g'): 1, ('è', 'é'): 1}"
+fouèt,Grignols,fousquèt,Grignols-bis,"{'s': 1, 'q': 1, 'u': 1}",{},{},figué,Yzosse,{'i': 1},{'t': 1},"{('o', 'g'): 1, ('è', 'é'): 1}",,,,,
+fouait,Lavazan,fut,Arx,{},"{'o': 1, 'a': 1, 'i': 1}",{},fousquet,Saucats,"{'s': 1, 'q': 1}",{},"{('a', 'u'): 1, ('i', 'e'): 1}",,,,,
+fouskait,Lerm-et-Musset,fuguè,Cardan,{},"{'o': 1, 'i': 1, 't': 1}","{('s', 'g'): 1, ('k', 'u'): 1, ('a', 'è'): 1}",fouèt,Marions,{},"{'k': 1, 'a': 1, 'i': 1}","{('s', 'è'): 1}",,,,,
+fouèt,Marions,fugue,Gabarnac,{'u': 1},{'t': 1},"{('o', 'g'): 1, ('è', 'e'): 1}",fouskait,Lerm-et-Musset,"{'s': 1, 'k': 1, 'a': 1}",{},"{('è', 'i'): 1}",,,,,
+fouèx,Sendets,fugué,Béguey,{'u': 1},{'x': 1},"{('o', 'g'): 1, ('è', 'é'): 1}",,,,,,,,,,
+fousquèt,Bégadan,fouguèt,Blaignan,{},{'q': 1},"{('s', 'g'): 1}",fut,Bruges,{},"{'o': 1, 's': 1, 'q': 1, 'u': 1, 'è': 1}",{},,,,,
+fouguèt,Blaignan,fut,Pondaurat,{},"{'o': 1, 'g': 1, 'u': 1, 'è': 1}",{},fousquèt,Bégadan,{'s': 1},{},"{('g', 'q'): 1}",,,,,
+fousquèt,Civrac,fut,Jugazan,{},"{'o': 1, 's': 1, 'q': 1, 'u': 1, 'è': 1}",{},fuguè,Brocas,{},"{'o': 1, 'q': 1, 't': 1}","{('s', 'g'): 1}",fugué,Sorbets,{},"{'o': 1, 'q': 1, 't': 1}","{('s', 'g'): 1, ('è', 'é'): 1}"
+fousquét,Gaillan-en-Médoc,fut,Jugazan,{},"{'o': 1, 's': 1, 'q': 1, 'u': 1, 'é': 1}",{},fugué,Samadet,{},"{'o': 1, 'q': 1, 't': 1}","{('s', 'g'): 1}",,,,,
+fousquèt,Lesparre-Médoc,fugué,Labrit,{},"{'o': 1, 'q': 1, 't': 1}","{('s', 'g'): 1, ('è', 'é'): 1}",fousquét,Naujac-sur-Mer,{},{},"{('è', 'é'): 1}",,,,,
+fousquét,Naujac-sur-Mer,fousquèt,Lesparre-Médoc,{},{},"{('é', 'è'): 1}",,,,,,,,,,
+fouét,Ordonnac,figué,Urgons,{'i': 1},{'t': 1},"{('o', 'g'): 1}",fuguè,Serres-Gaston,{'u': 1},{'t': 1},"{('o', 'g'): 1, ('é', 'è'): 1}",fouèt,Saint-Christoly-Médoc,{},{},"{('é', 'è'): 1}"
+fouèt,Queyrac,fuguèt,Hinx,{'u': 1},{},"{('o', 'g'): 1}",fouèt,Saint-Christoly-Médoc,{},{},{},fuguet,Sainte-Colombe,{'u': 1},{},"{('o', 'g'): 1, ('è', 'e'): 1}"
+fouèt,Saint-Christoly-Médoc,fouèt,Queyrac,{},{},{},fousquec,Valeyrac,"{'s': 1, 'q': 1, 'u': 1}",{},"{('è', 'e'): 1, ('t', 'c'): 1}",fouét,Ordonnac,{},{},"{('è', 'é'): 1}"
+fousquét,Saint-Germain-d'Esteuil,fuguè,Serreslous-et-Arribans,{},"{'o': 1, 'q': 1, 't': 1}","{('s', 'g'): 1, ('é', 'è'): 1}",fué,Artassenx,{},"{'o': 1, 's': 1, 'q': 1, 'u': 1, 't': 1}",{},fugué,Canenx-et-Réaut,{},"{'o': 1, 'q': 1, 't': 1}","{('s', 'g'): 1}"
+fousquèt,Saint-Seurin-de-Cadourne,fuguè,Cère,{},"{'o': 1, 'q': 1, 't': 1}","{('s', 'g'): 1}",,,,,,,,,,
+fousquec,Saint-Yzans-de-Médoc,fousquéq,Isle-Saint-Georges,{},{},"{('e', 'é'): 1, ('c', 'q'): 1}",fuyé,Mont-de-Marsan-bis,{},"{'o': 1, 'u': 1, 'e': 1, 'c': 1}","{('s', 'y'): 1, ('q', 'é'): 1}",,,,,
+fousquec,Valeyrac,fouèt,Saint-Christoly-Médoc,{},"{'u': 1, 'e': 1, 'c': 1}","{('s', 'è'): 1, ('q', 't'): 1}",fuyet,Saint-Avit,{},"{'o': 1, 'q': 1, 'u': 1}","{('s', 'y'): 1, ('c', 't'): 1}",,,,,
+fousquéc,Vendays-Montalivet,fousquet,Beautiran,{},{},"{('é', 'e'): 1, ('c', 't'): 1}",,,,,,,,,,
+fousquet,Beautiran,fi,Saint-Martin-d'Oney,{},"{'u': 2, 's': 1, 'q': 1, 'e': 1, 't': 1}","{('o', 'i'): 1}",fuyè,Mimizan,{},"{'o': 1, 'u': 1, 'e': 1, 't': 1}","{('s', 'y'): 1, ('q', 'è'): 1}",fousquéc,Vendays-Montalivet,{},{},"{('e', 'é'): 1, ('t', 'c'): 1}"
+fousquet,Cabanac-et-Villagrains,fugué,Préchac,{},"{'o': 1, 'q': 1, 't': 1}","{('s', 'g'): 1, ('e', 'é'): 1}",fousquec,Castres-Gironde,{},{},"{('t', 'c'): 1}",fugè,Louer,{},"{'o': 1, 'u': 1, 'e': 1, 't': 1}","{('s', 'g'): 1, ('q', 'è'): 1}"
+fousquèc,Cadaujac,fuyé,Saint-Pierre-du-Mont,{},"{'o': 1, 'u': 1, 'è': 1, 'c': 1}","{('s', 'y'): 1, ('q', 'é'): 1}",fyè,Gousse,{},"{'u': 2, 's': 1, 'q': 1, 'c': 1}","{('o', 'y'): 1}",fi,Cassen,{},"{'u': 2, 's': 1, 'q': 1, 'è': 1, 'c': 1}","{('o', 'i'): 1}"
+fousquec,Castres-Gironde,fousquet,Cabanac-et-Villagrains,{},{},"{('c', 't'): 1}",fu,Bourg-bis,{},"{'o': 1, 's': 1, 'q': 1, 'u': 1, 'e': 1, 'c': 1}",{},fi,Garrey,{},"{'u': 2, 's': 1, 'q': 1, 'e': 1, 'c': 1}","{('o', 'i'): 1}"
+fousquéq,Isle-Saint-Georges,figuéï,Nousse,{},"{'s': 1, 'q': 1}","{('o', 'i'): 1, ('u', 'g'): 1, ('q', 'ï'): 1}",fousquec,Saint-Yzans-de-Médoc,{},{},"{('é', 'e'): 1, ('q', 'c'): 1}",figuè,Ozourt,{},"{'s': 1, 'q': 2}","{('o', 'i'): 1, ('u', 'g'): 1, ('é', 'è'): 1}"
+fousquet,La Brède-bis,fuguè,Poyanne,{},"{'o': 1, 'q': 1, 't': 1}","{('s', 'g'): 1, ('e', 'è'): 1}",fuguè,Louchats,{},"{'o': 1, 'q': 1, 't': 1}","{('s', 'g'): 1, ('e', 'è'): 1}",fagai,Onard,{},"{'u': 1, 'e': 1, 't': 1}","{('o', 'a'): 1, ('u', 'g'): 1, ('s', 'a'): 1, ('q', 'i'): 1}"
+fusquei,La Brède,fuguét,Ousse-Suzan,{},{'q': 1},"{('s', 'g'): 1, ('e', 'é'): 1, ('i', 't'): 1}",fousquec,Léognan,{'o': 1},{},"{('i', 'c'): 1}",,,,,
+fousquec,Léognan,fusquei,La Brède,{},{'o': 1},"{('c', 'i'): 1}",,,,,,,,,,
+fousquet,Martillac,fousquèt,Saint-Germain-de-la-Rivière,{},{},"{('e', 'è'): 1}",fuchqué,Saugnac-et-Cambran,{},{'t': 1},"{('o', 'u'): 1, ('u', 'c'): 1, ('s', 'h'): 1, ('e', 'é'): 1}",fousquec,Saint-Médard-d'Eyrans,{},{},"{('t', 'c'): 1}"
+fousquec,Saint-Médard-d'Eyrans,fèsquéq,Saint-Morillon,{},{'u': 1},"{('o', 'è'): 1, ('e', 'é'): 1, ('c', 'q'): 1}",fut,Donzac,{},"{'o': 1, 'q': 1, 'u': 1, 'e': 1, 'c': 1}","{('s', 't'): 1}",fousquet,Martillac,{},{},"{('c', 't'): 1}"
+fèsquéq,Saint-Morillon,fousquec,Saint-Médard-d'Eyrans,{'o': 1},{},"{('è', 'u'): 1, ('é', 'e'): 1, ('q', 'c'): 1}",fuguet,Blaignac,{},{'q': 1},"{('è', 'u'): 1, ('s', 'g'): 1, ('é', 'e'): 1, ('q', 't'): 1}",,,,,
+fusquèt,Saint-Selve,fousquet,Saucats,{'o': 1},{},"{('è', 'e'): 1}",fuguet,Blaignac,{},{'q': 1},"{('s', 'g'): 1, ('è', 'e'): 1}",,,,,
+fousquet,Saucats,fouait,Lavazan,{},"{'u': 1, 'e': 1}","{('s', 'a'): 1, ('q', 'i'): 1}",fusquèt,Saint-Selve,{},{'o': 1},"{('e', 'è'): 1}",fouscait,Bagas,{},{},"{('q', 'c'): 1, ('u', 'a'): 1, ('e', 'i'): 1}"
+fouscait,Bagas,fugué,Saubusse,{},"{'o': 1, 'i': 1, 't': 1}","{('s', 'g'): 1, ('c', 'u'): 1, ('a', 'é'): 1}",fut,Estigarde,{},"{'o': 1, 's': 1, 'c': 1, 'a': 1, 'i': 1}",{},fousquet,Saucats,{},{},"{('c', 'q'): 1, ('a', 'u'): 1, ('i', 'e'): 1}"
+fuguet,Blaignac,fusquèt,Saint-Selve,{'s': 1},{},"{('g', 'q'): 1, ('e', 'è'): 1}",fèsquéq,Saint-Morillon,{'è': 1},{},"{('u', 's'): 1, ('g', 'q'): 1, ('e', 'é'): 1, ('t', 'q'): 1}",fi,Siest,{},"{'g': 1, 'u': 1, 'e': 1, 't': 1}","{('u', 'i'): 1}"
+fugué,Camiran-bis,fugué,Ygos-Saint-Saturnin,{},{},{},fugué,Onesse-Laharie,{},{},{},,,,,
+fuguè,Camiran,fusqué,Cadillac,{'s': 1},{},"{('g', 'q'): 1, ('è', 'é'): 1}",fugué,Baigts,{},{},"{('è', 'é'): 1}",,,,,
+fuguè,Casseuil,figuè,Puyol-Cazalet,{},{},"{('u', 'i'): 1}",fugué,Fontet,{},{},"{('è', 'é'): 1}",,,,,
+fugué,Fontet,fuguè,Casseuil,{},{},"{('é', 'è'): 1}",fuguè,Biscarosse-bis,{},{},"{('é', 'è'): 1}",fuguei,Doazit,{'e': 1},{},"{('é', 'i'): 1}"
+fugué,Gironde-sur-Dropt-bis,fut,Branne,{},"{'u': 1, 'é': 1}","{('g', 't'): 1}",fuguè,Gaas,{},{},"{('é', 'è'): 1}",fuguèt,Sorde-l'Abbaye,{'è': 1},{},"{('é', 't'): 1}"
+fugué,Gironde-sur-Dropt,fugué,Langoiran-bis,{},{},{},fugué,Moustey,{},{},{},,,,,
+fuguet,Hure,fugué,Estibeaux,{},{'t': 1},"{('e', 'é'): 1}",fut,Branne,{},"{'g': 1, 'u': 1, 'e': 1}",{},fuguè,Cagnotte,{},{'t': 1},"{('e', 'è'): 1}"
+fuguet,La Réole-bis,fugué,Saugnacq-et-Muret,{},{'t': 1},"{('e', 'é'): 1}",fuguet,Mimbaste,{},{},{},,,,,
+fuguè,La Réole,fut,Blanquefort,{},"{'u': 1, 'è': 1}","{('g', 't'): 1}",fugué,Mouscardès,{},{},"{('è', 'é'): 1}",,,,,
+fuguè,Lamothe-Landerron,fugué,Loupiac-de-la-Réole,{},{},"{('è', 'é'): 1}",fugait,Tilh,{'a': 1},{},"{('u', 'i'): 1, ('è', 't'): 1}",,,,,
+fugué,Loupiac-de-la-Réole,fuguè,Lamothe-Landerron,{},{},"{('é', 'è'): 1}",,,,,,,,,,
+fugué,Mongauzy,fugué,Arue,{},{},{},,,,,,,,,,
+fuguè,Morizès,eut,Lestiac-sur-Garonne,{},"{'u': 1, 'è': 1}","{('f', 'e'): 1, ('g', 't'): 1}",fuguè,Arouille,{},{},{},,,,,
+fuguè,Noaillac,fugé,Arveyres,{},{'è': 1},"{('u', 'é'): 1}",fugué,Lugaut,{},{},"{('è', 'é'): 1}",,,,,
+fuguê,Pompéjac,fuyait,Arcachon-bis,{'y': 1},{},"{('g', 'a'): 1, ('u', 'i'): 1, ('ê', 't'): 1}",fait,Roquefort,{},{'ê': 1},"{('u', 'a'): 1, ('g', 'i'): 1, ('u', 't'): 1}",,,,,
+fugue,Saint-Hilaire-de-la-Noaille-bis,fuguè,Saint-Hilaire-de-la-Noaille,{},{},"{('e', 'è'): 1}",fuguè,Civrac-sur-Dordogne,{},{},"{('e', 'è'): 1}",,,,,
+fuguè,Saint-Hilaire-de-la-Noaille,fut,Monprimblanc,{},"{'u': 1, 'è': 1}","{('g', 't'): 1}",fugue,Saint-Hilaire-de-la-Noaille-bis,{},{},"{('è', 'e'): 1}",,,,,
+fuyait,Arcachon-bis,fuguê,Pompéjac,{},{'t': 1},"{('y', 'g'): 1, ('a', 'u'): 1, ('i', 'ê'): 1}",fugué,Arcachon,{},{'t': 1},"{('y', 'g'): 1, ('a', 'u'): 1, ('i', 'é'): 1}",,,,,
+fugué,Arcachon,fuyait,Arcachon-bis,{'y': 1},{},"{('g', 'a'): 1, ('u', 'i'): 1, ('é', 't'): 1}",fuguè,La Teste-de-Buch-bis,{},{},"{('é', 'è'): 1}",,,,,
+fuyè,Cazaux,fugué,Gujan,{'g': 1},{},"{('y', 'u'): 1, ('è', 'é'): 1}",hou,Lue,{'h': 1},"{'y': 1, 'è': 1}","{('f', 'o'): 1}",,,,,
+fugué,Gujan,fut,Loupiac,{},"{'u': 1, 'é': 1}","{('g', 't'): 1}",fuyè,Cazaux,{},{'é': 1},"{('g', 'y'): 1, ('u', 'è'): 1}",fuguè,La Teste-de-Buch-bis,{},{},"{('é', 'è'): 1}"
+fuguè,La Teste-de-Buch-bis,fugué,Arcachon,{},{},"{('è', 'é'): 1}",fugué,Gujan,{},{},"{('è', 'é'): 1}",,,,,
+fuguè,La Teste-de-Buch-ter,hou,Saint-Laurent-de-Gosse,{},"{'g': 1, 'è': 1}","{('f', 'h'): 1, ('u', 'o'): 1}",oû,Aurice,{},"{'g': 1, 'u': 1, 'è': 1}","{('f', 'o'): 1, ('u', 'û'): 1}",,,,,
+fûgué,La Teste-de-Buch,fut,Omet,{},"{'û': 1, 'g': 1}","{('é', 't'): 1}",fugué,Bieujac,{},{},"{('û', 'u'): 1}",fugué,Le Teich,{},{},"{('û', 'u'): 1}"
+fugué,Le Teich,fuguè,Mestras,{},{},"{('é', 'è'): 1}",faguet,Paillet,{'e': 1},{},"{('u', 'a'): 1, ('é', 't'): 1}",fûgué,La Teste-de-Buch,{},{},"{('u', 'û'): 1}"
+fuguè,Mestras,fugué,Le Teich,{},{},"{('è', 'é'): 1}",fuguet,Bommes,{'e': 1},{},"{('è', 't'): 1}",,,,,
+fugué,Bieujac,fûgué,La Teste-de-Buch,{},{},"{('u', 'û'): 1}",fu,Giscos,{},"{'g': 1, 'u': 1, 'é': 1}",{},fuguei,Castets-en-Dorthe,{'e': 1},{},"{('é', 'i'): 1}"
+fuguet,Bommes,fuguei,Castets-en-Dorthe,{},{},"{('t', 'i'): 1}",fusquet,Lignan-de-Bordeaux,{'s': 1},{},"{('g', 'q'): 1}",fuguè,Mestras,{},{'t': 1},"{('e', 'è'): 1}"
+fuguei,Castets-en-Dorthe,hou,Saint-Maurice-sur-Adour,{},"{'g': 1, 'e': 1, 'i': 1}","{('f', 'h'): 1, ('u', 'o'): 1}",fuguet,Bommes,{},{},"{('i', 't'): 1}",fugué,Bieujac,{},{'i': 1},"{('e', 'é'): 1}"
+fugué,Fargues,fugué,Langon-bis,{},{},{},,,,,,,,,,
+fugué,Langon-bis,fugué,Fargues,{},{},{},aou,Fargues,{},"{'g': 1, 'é': 1}","{('f', 'a'): 1, ('u', 'o'): 1}",,,,,
+fuguè,Langon,fusqué,Captieux,{'s': 1},{},"{('g', 'q'): 1, ('è', 'é'): 1}",aou,Larrivière-Saint-Savin,{},"{'g': 1, 'è': 1}","{('f', 'a'): 1, ('u', 'o'): 1}",fuguè,Budos,{},{},{}
+fugué,Léogeats,fugué,Saint-Pierre-de-Mons,{},{},{},fusqué,Captieux,{'s': 1},{},"{('g', 'q'): 1}",fugué,Mazères,{},{},{}
+fugué,Mazères,fegait,Sainte-Croix-du-Mont,{'a': 1},{},"{('u', 'e'): 1, ('u', 'i'): 1, ('é', 't'): 1}",fuguè,Roaillan,{},{},"{('é', 'è'): 1}",fugué,Léogeats,{},{},{}
+fuguè,Roaillan,fugué,Mazères,{},{},"{('è', 'é'): 1}",houc,Sarraziet,{},{'g': 1},"{('f', 'h'): 1, ('u', 'o'): 1, ('è', 'c'): 1}",,,,,
+fuguè,Saint-Pardon-de-Conques,fu,Giscos,{},"{'g': 1, 'u': 1, 'è': 1}",{},houc,Capbreton,{},{'g': 1},"{('f', 'h'): 1, ('u', 'o'): 1, ('è', 'c'): 1}",fugué,Sauternes,{},{},"{('è', 'é'): 1}"
+fugué,Saint-Pierre-de-Mons,houc,Labenne,{},{'g': 1},"{('f', 'h'): 1, ('u', 'o'): 1, ('é', 'c'): 1}",fugué,Léogeats,{},{},{},fugué,Sauternes,{},{},{}
+fugué,Sauternes,ou,Saint-Sever,{},"{'g': 1, 'u': 1, 'é': 1}","{('f', 'o'): 1}",fuguè,Saint-Pardon-de-Conques,{},{},"{('é', 'è'): 1}",fugué,Saint-Pierre-de-Mons,{},{},{}
+fugueï,Toulenne,fut,Saint-Michel-de-Castelnau,{},"{'u': 1, 'e': 1, 'ï': 1}","{('g', 't'): 1}",houc,Soustons,{},"{'g': 1, 'ï': 1}","{('f', 'h'): 1, ('u', 'o'): 1, ('e', 'c'): 1}",,,,,
+fugé,Arveyres,hou,Tosse,{'h': 1},"{'g': 1, 'é': 1}","{('f', 'o'): 1}",fuguè,Noaillac,{'u': 1},{},"{('é', 'è'): 1}",,,,,
+fuguè,Civrac-sur-Dordogne,fugue,Saint-Hilaire-de-la-Noaille-bis,{},{},"{('è', 'e'): 1}",fuguè,Saint-Estèphe,{},{},{},,,,,
+fuguè,Izon,houc,Orx,{},{'g': 1},"{('f', 'h'): 1, ('u', 'o'): 1, ('è', 'c'): 1}",fuguè,Cissac-Médoc,{},{},{},houq,Saubrigues,{},{'g': 1},"{('f', 'h'): 1, ('u', 'o'): 1, ('è', 'q'): 1}"
+fuyé,Libourne-bis,fuyè,Libourne,{},{},"{('é', 'è'): 1}",houc,Saubion,{'h': 1},{'é': 1},"{('f', 'o'): 1, ('y', 'c'): 1}",fugué,Pomerol,{'g': 1},{},"{('y', 'u'): 1}"
+fuyè,Libourne,fusquè,Carbon-Blanc,"{'s': 1, 'q': 1}",{},"{('y', 'u'): 1}",fuyé,Libourne-bis,{},{},"{('è', 'é'): 1}",fugué,Vayres,{'g': 1},{},"{('y', 'u'): 1, ('è', 'é'): 1}"
+fugué,Pomerol,fuyé,Libourne-bis,{},{'u': 1},"{('g', 'y'): 1}",fugué,Pauillac,{},{},{},fugué,Vayres,{},{},{}
+fuguè,Saint-Émilion,fut,Saint-Michel-de-Castelnau,{},"{'u': 1, 'è': 1}","{('g', 't'): 1}",fuguè,Saint-Sulpice-de-Faleyrens,{},{},{},fuyei,Roquebrune,{},{},"{('g', 'y'): 1, ('u', 'e'): 1, ('è', 'i'): 1}"
+fuguè,Saint-Sulpice-de-Faleyrens,fuguè,Saint-Émilion,{},{},{},fuguait,Floirac,"{'a': 1, 'i': 1}",{},"{('è', 't'): 1}",fugué,Vayres,{},{},"{('è', 'é'): 1}"
+fugué,Vayres,fuguè,Saint-Sulpice-de-Faleyrens,{},{},"{('é', 'è'): 1}",fuyè,Libourne,{},{'é': 1},"{('g', 'y'): 1, ('u', 'è'): 1}",fugué,Pomerol,{},{},{}
+fuguè,Landerrouet-sur-Ségur,hou,Argelouse,{},"{'g': 1, 'è': 1}","{('f', 'h'): 1, ('u', 'o'): 1}",houc,Angresse,{},{'g': 1},"{('f', 'h'): 1, ('u', 'o'): 1, ('è', 'c'): 1}",fugué,Monségur,{},{},"{('è', 'é'): 1}"
+fugué,Monségur,houc,Callen,{},{'g': 1},"{('f', 'h'): 1, ('u', 'o'): 1, ('é', 'c'): 1}",houc,Saint-Jean-de-Marsacq,{},{'g': 1},"{('f', 'h'): 1, ('u', 'o'): 1, ('é', 'c'): 1}",fuguè,Landerrouet-sur-Ségur,{},{},"{('é', 'è'): 1}"
+fuyei,Roquebrune,aou,Soorts-Hossegor,{'a': 1},"{'y': 1, 'e': 1, 'i': 1}","{('f', 'o'): 1}",fuguè,Saint-Émilion,{},{},"{('y', 'g'): 1, ('e', 'u'): 1, ('i', 'è'): 1}",fugué,Pauillac,{},{},"{('y', 'g'): 1, ('e', 'u'): 1, ('i', 'é'): 1}"
+fuguè,Cissac-Médoc,fuguè,Izon,{},{},{},houc,Messanges,{},{'g': 1},"{('f', 'h'): 1, ('u', 'o'): 1, ('è', 'c'): 1}",fugué,Pauillac,{},{},"{('è', 'é'): 1}"
+fugué,Pauillac,fugué,Pomerol,{},{},{},fuguè,Cissac-Médoc,{},{},"{('é', 'è'): 1}",fuyei,Roquebrune,{},{},"{('g', 'y'): 1, ('u', 'e'): 1, ('é', 'i'): 1}"
+fuguè,Saint-Estèphe,fuguè,Civrac-sur-Dordogne,{},{},{},fugué,Saint-Julien-Beychevelle,{},{},"{('è', 'é'): 1}",,,,,
+fugué,Saint-Julien-Beychevelle,houc,Saint-Vincent-de-Tyrosse,{},{'g': 1},"{('f', 'h'): 1, ('u', 'o'): 1, ('é', 'c'): 1}",houc,Sore,{},{'g': 1},"{('f', 'h'): 1, ('u', 'o'): 1, ('é', 'c'): 1}",fuguè,Saint-Estèphe,{},{},"{('é', 'è'): 1}"
+fuguet,Saint-Sauveur,hou,Saint-Yaguen,{},"{'g': 1, 'e': 1, 't': 1}","{('f', 'h'): 1, ('u', 'o'): 1}",fugué,Vertheuil,{},{'t': 1},"{('e', 'é'): 1}",,,,,
+fugué,Vertheuil,fousquéc,Auriac-sur-Dropt,"{'o': 1, 's': 1, 'c': 1}",{},"{('g', 'q'): 1}",fuguet,Saint-Sauveur,{'e': 1},{},"{('é', 't'): 1}",fugué,Cazaugitat,{},{},{}
+fugué,Cazaugitat,fousquèc,Saint-Sernin,"{'o': 1, 's': 1, 'è': 1}",{},"{('g', 'q'): 1, ('é', 'c'): 1}",fugué,Vertheuil,{},{},{},,,,,
+fugué,Landerrouat,fuguè,Massugas,{},{},"{('é', 'è'): 1}",fu,Le Taillan-Médoc,{},"{'g': 1, 'u': 1, 'é': 1}",{},fugué,Listrac-de-Durèze,{},{},{}
+fugué,Listrac-de-Durèze,fugué,Landerrouat,{},{},{},fousquet,Soumensac,"{'o': 1, 's': 1, 'e': 1}",{},"{('g', 'q'): 1, ('é', 't'): 1}",fousquéc,Monheurt,"{'o': 1, 's': 1, 'c': 1}",{},"{('g', 'q'): 1}"
+fuguè,Massugas,fugué,Landerrouat,{},{},"{('è', 'é'): 1}",fuguè,Pellegrue,{},{},{},,,,,
+fuguè,Pellegrue,fousquet,Puch-d'Agenais,"{'o': 1, 's': 1, 'e': 1}",{},"{('g', 'q'): 1, ('è', 't'): 1}",fousquèt,Lamontjoie,"{'o': 1, 's': 1, 't': 1}",{},"{('g', 'q'): 1}",fuguè,Massugas,{},{},{}
+fuguè,Canéjan,fuguè,Cestas,{},{},{},fuguet,Illats,{'e': 1},{},"{('è', 't'): 1}",fousquèt,Durance,"{'o': 1, 's': 1, 't': 1}",{},"{('g', 'q'): 1}"
+fuguè,Cestas,fuguet,Villenave-d'Ornon,{'e': 1},{},"{('è', 't'): 1}",fuguè,Canéjan,{},{},{},fousquet,Allons,"{'o': 1, 's': 1, 'e': 1}",{},"{('g', 'q'): 1, ('è', 't'): 1}"
+fugué,Gradignan,fuguè,Landiras,{},{},"{('é', 'è'): 1}",fuguet,Villenave-d'Ornon,{'e': 1},{},"{('é', 't'): 1}",fuyait,Mérignac,{'y': 1},{},"{('g', 'a'): 1, ('u', 'i'): 1, ('é', 't'): 1}"
+fuguet,Martignas-sur-Jalle,fugué,Saint-Jean-d'Illac,{},{'t': 1},"{('e', 'é'): 1}",fusqué,Ambès,{'s': 1},{'t': 1},"{('g', 'q'): 1, ('e', 'é'): 1}",fuyait,Mérignac,{},{},"{('g', 'y'): 1, ('u', 'a'): 1, ('e', 'i'): 1}"
+fuyait,Mérignac,fuguet,Martignas-sur-Jalle,{},{},"{('y', 'g'): 1, ('a', 'u'): 1, ('i', 'e'): 1}",fugué,Barsac,{},{'t': 1},"{('y', 'g'): 1, ('a', 'u'): 1, ('i', 'é'): 1}",fugué,Gradignan,{},{'t': 1},"{('y', 'g'): 1, ('a', 'u'): 1, ('i', 'é'): 1}"
+fuguè,Pessac,fuguei,Talence,{'e': 1},{},"{('è', 'i'): 1}",fusquè,Carbon-Blanc,{'s': 1},{},"{('g', 'q'): 1}",fugué,Saint-Jean-d'Illac,{},{},"{('è', 'é'): 1}"
+fugué,Saint-Jean-d'Illac,fué,Pujols-sur-Ciron,{},"{'g': 1, 'u': 1}",{},fuguet,Martignas-sur-Jalle,{'e': 1},{},"{('é', 't'): 1}",fuguè,Pessac,{},{},"{('é', 'è'): 1}"
+fuguei,Talence,fuguè,Pessac,{},{'i': 1},"{('e', 'è'): 1}",fuguet,Villenave-d'Ornon,{},{},"{('i', 't'): 1}",,,,,
+fuguet,Villenave-d'Ornon,fugué,Gradignan,{},{'t': 1},"{('e', 'é'): 1}",fuguè,Cestas,{},{'t': 1},"{('e', 'è'): 1}",fuguei,Talence,{},{},"{('t', 'i'): 1}"
+fuguè,Arbanats,fugué,Barsac,{},{},"{('è', 'é'): 1}",fi,Villenave-de-Rions,{},"{'g': 1, 'u': 1, 'è': 1}","{('u', 'i'): 1}",fuguè,Budos,{},{},{}
+fugué,Barsac,fuyait,Mérignac,{'y': 1},{},"{('g', 'a'): 1, ('u', 'i'): 1, ('é', 't'): 1}",fuguè,Arbanats,{},{},"{('é', 'è'): 1}",fuguè,Budos-bis,{},{},"{('é', 'è'): 1}"
+fuguè,Budos-bis,fugué,Cérons,{},{},"{('è', 'é'): 1}",figue,Portets,{},{},"{('u', 'i'): 1, ('è', 'e'): 1}",fugué,Barsac,{},{},"{('è', 'é'): 1}"
+fuguè,Budos,fuguè,Arbanats,{},{},{},fuguè,Langon,{},{},{},fugué,Guillos,{},{},"{('è', 'é'): 1}"
+fugué,Cérons,fu,Escaudes,{},"{'g': 1, 'u': 1, 'é': 1}",{},fuguè,Budos-bis,{},{},"{('é', 'è'): 1}",fugué,Guillos,{},{},{}
+fugué,Guillos,hou,Montaut,{},"{'g': 1, 'é': 1}","{('f', 'h'): 1, ('u', 'o'): 1}",fugué,Cérons,{},{},{},fuguè,Budos,{},{},"{('é', 'è'): 1}"
+fuguet,Illats,fuguè,Canéjan,{},{'t': 1},"{('e', 'è'): 1}",fuguè,Landiras,{},{'t': 1},"{('e', 'è'): 1}",fuguet,Podensac,{},{},{}
+fuguè,Landiras,fuguet,Illats,{'e': 1},{},"{('è', 't'): 1}",fugué,Gradignan,{},{},"{('è', 'é'): 1}",figue,Portets,{},{},"{('u', 'i'): 1, ('è', 'e'): 1}"
+fuguet,Podensac,figue,Portets,{},{'t': 1},"{('u', 'i'): 1}",fusquè,Bouliac,{'s': 1},{'t': 1},"{('g', 'q'): 1, ('e', 'è'): 1}",fuguet,Illats,{},{},{}
+figue,Portets,fuguè,Budos-bis,{},{},"{('i', 'u'): 1, ('e', 'è'): 1}",fuguet,Podensac,{'t': 1},{},"{('i', 'u'): 1}",fuguè,Landiras,{},{},"{('i', 'u'): 1, ('e', 'è'): 1}"
+fuguèt,Preignac,fousquet,Nomdieu,"{'o': 1, 's': 1}",{},"{('g', 'q'): 1, ('è', 'e'): 1}",,,,,,,,,,
+fué,Pujols-sur-Ciron,fousquèc,Francescas,"{'o': 1, 's': 1, 'q': 1, 'u': 1, 'è': 1}",{},"{('é', 'c'): 1}",fugué,Saint-Jean-d'Illac,"{'g': 1, 'u': 1}",{},{},fousquèt,Houeillès,"{'o': 1, 's': 1, 'q': 1, 'u': 1, 'è': 1}",{},"{('é', 't'): 1}"
+fuguè,Saint-Michel-de-Rieufret,fousquet,Bourgougnague,"{'o': 1, 's': 1, 'e': 1}",{},"{('g', 'q'): 1, ('è', 't'): 1}",fuguait,Aubie-et-Espessas,"{'a': 1, 'i': 1}",{},"{('è', 't'): 1}",fuhqué,Sainte-Radegonde,{'h': 1},{},"{('g', 'q'): 1, ('è', 'é'): 1}"
+fuguè,Virelade,fuguet,Saint-Vincent-de-Pertignas,{'e': 1},{},"{('è', 't'): 1}",fusquè,Saint-Louis-de-Montferrand,{'s': 1},{},"{('g', 'q'): 1}",fuguè,Doulezon,{},{},{}
+fuguè,Doulezon,fuguè,Virelade,{},{},{},fousquec,Sauméjan,"{'o': 1, 's': 1, 'e': 1}",{},"{('g', 'q'): 1, ('è', 'c'): 1}",fousquèc,Laperche,"{'o': 1, 's': 1, 'c': 1}",{},"{('g', 'q'): 1}"
+fugué,Flaujagues,fuguait,Gensac,"{'a': 1, 'i': 1}",{},"{('é', 't'): 1}",fusquèt,Saint-Vincent-de-Paul,"{'s': 1, 'è': 1}",{},"{('g', 'q'): 1, ('é', 't'): 1}",fousquet,Saint-Pierre de Nogaret,"{'o': 1, 's': 1, 'e': 1}",{},"{('g', 'q'): 1, ('é', 't'): 1}"
+fuguait,Gensac,figué,Juillac,{},"{'i': 1, 't': 1}","{('u', 'i'): 1, ('a', 'é'): 1}",fugué,Flaujagues,{},"{'i': 1, 't': 1}","{('a', 'é'): 1}",,,,,
+figué,Juillac,fusquè,Sainte-Eulalie,{'u': 1},{},"{('i', 's'): 1, ('g', 'q'): 1, ('é', 'è'): 1}",fuguait,Gensac,"{'a': 1, 'i': 1}",{},"{('i', 'u'): 1, ('é', 't'): 1}",fousquèc,Sainte-Bazeille,"{'o': 1, 'u': 1, 'è': 1}",{},"{('i', 's'): 1, ('g', 'q'): 1, ('é', 'c'): 1}"
+fugué,Mouliets,fogait,Saint-Macaire,{'a': 1},{},"{('u', 'o'): 1, ('u', 'i'): 1, ('é', 't'): 1}",fugué,Pessac-sur-Dordogne,{},{},{},,,,,
+fugué,Pessac-sur-Dordogne,fugué,Mouliets,{},{},{},fusquet,Tresses-bis,"{'s': 1, 'e': 1}",{},"{('g', 'q'): 1, ('é', 't'): 1}",fousquét,Montignac-de-Lauzun,"{'o': 1, 's': 1, 't': 1}",{},"{('g', 'q'): 1}"
+fugait,Pujols-bis,fusquèt,Listrac-Médoc,{'s': 1},{},"{('g', 'q'): 1, ('a', 'u'): 1, ('i', 'è'): 1}",,,,,,,,,,
+fugué,Pujols,fuguet,Saint-Jean-de-Blaignac,{'e': 1},{},"{('é', 't'): 1}",,,,,,,,,,
+fuguet,Rauzan,fousquèt,Saint-Colomb-de-Lauzun,"{'o': 1, 's': 1}",{},"{('g', 'q'): 1, ('e', 'è'): 1}",fut,Tresses,{},"{'g': 1, 'u': 1, 'e': 1}",{},fousquec,Sérignac-Péboudou,"{'o': 1, 's': 1}",{},"{('g', 'q'): 1, ('t', 'c'): 1}"
+fuguet,Saint-Jean-de-Blaignac,fousquec,Saint-Nazaire,"{'o': 1, 's': 1}",{},"{('g', 'q'): 1, ('t', 'c'): 1}",fugué,Pujols,{},{'t': 1},"{('e', 'é'): 1}",,,,,
+fusquét,Saint-Pey-de-Castets,fut,Tresses,{},"{'s': 1, 'q': 1, 'u': 1, 'é': 1}",{},fousquèq,Longueville,{'o': 1},{},"{('é', 'è'): 1, ('t', 'q'): 1}",fuhqué,Sainte-Radegonde,{},{'t': 1},"{('s', 'h'): 1}"
+fuguet,Saint-Vincent-de-Pertignas,fousquèc,Fauguerolles,"{'o': 1, 's': 1}",{},"{('g', 'q'): 1, ('e', 'è'): 1, ('t', 'c'): 1}",fuguè,Virelade,{},{'t': 1},"{('e', 'è'): 1}",fuhqué,Sainte-Radegonde,{'h': 1},{'t': 1},"{('g', 'q'): 1, ('e', 'é'): 1}"
+fuhqué,Sainte-Radegonde,fuguè,Saint-Michel-de-Rieufret,{},{'q': 1},"{('h', 'g'): 1, ('é', 'è'): 1}",fusquét,Saint-Pey-de-Castets,{'t': 1},{},"{('h', 's'): 1}",fuguet,Saint-Vincent-de-Pertignas,{},{},"{('h', 'g'): 1, ('q', 'u'): 1, ('u', 'e'): 1, ('é', 't'): 1}"
+fuguait,Aubie-et-Espessas,fuguè,Saint-Michel-de-Rieufret,{},"{'i': 1, 't': 1}","{('a', 'è'): 1}",fousquèc,Barbaste,"{'o': 1, 's': 1}",{'t': 1},"{('g', 'q'): 1, ('a', 'è'): 1, ('i', 'c'): 1}",fugué,Cubzac-les-Ponts,{},"{'i': 1, 't': 1}","{('a', 'é'): 1}"
+fugué,Cubzac-les-Ponts,fusquéc,Méneau,"{'s': 1, 'c': 1}",{},"{('g', 'q'): 1}",fut,Tresses,{},"{'u': 1, 'é': 1}","{('g', 't'): 1}",fuguait,Aubie-et-Espessas,"{'a': 1, 'i': 1}",{},"{('é', 't'): 1}"
+fuguèt,Peujard,fusquet,Tresses-bis,{'s': 1},{},"{('g', 'q'): 1, ('è', 'e'): 1}",fuguait,Saint-André-de-Cubzac,{'a': 1},{},"{('è', 'i'): 1}",fousquet,Vianne,"{'o': 1, 's': 1}",{},"{('g', 'q'): 1, ('è', 'e'): 1}"
+fuguait,Saint-André-de-Cubzac,fuguèt,Peujard,{},{'i': 1},"{('a', 'è'): 1}",fousquait,Xaintrailles,"{'o': 1, 's': 1}",{},"{('g', 'q'): 1}",,,,,
+fugué,Saint-Antoine,fusquet,Saint-Pardoux-du-Breuil,"{'s': 1, 'e': 1}",{},"{('g', 'q'): 1, ('é', 't'): 1}",fousquec,Gontaud-de-Nogaret-bis,"{'o': 1, 's': 1, 'e': 1}",{},"{('g', 'q'): 1, ('é', 'c'): 1}",,,,,
+fué,Saint-Gervais,fusquet,Arsac-bis,"{'s': 1, 'q': 1, 'u': 1, 'e': 1}",{},"{('é', 't'): 1}",fucqué,Benon,"{'c': 1, 'q': 1, 'u': 1}",{},{},fuguè,Saint-Laurent-d'Arce,"{'g': 1, 'u': 1}",{},"{('é', 'è'): 1}"
+fuguè,Saint-Laurent-d'Arce,fué,Le Pian-sur-Garonne,{},"{'u': 1, 'è': 1}","{('g', 'é'): 1}",fué,Saint-Gervais,{},"{'u': 1, 'è': 1}","{('g', 'é'): 1}",,,,,
+fuguet,Salignac,fucqué,Benon,{'c': 1},{'t': 1},"{('g', 'q'): 1, ('e', 'é'): 1}",fu,Cantenac,{},"{'g': 1, 'u': 1, 'e': 1, 't': 1}",{},fuguet,Virsac,{},{},{}
+fuguet,Virsac,fuguet,Salignac,{},{},{},fusquèt,Arcins,{'s': 1},{},"{('g', 'q'): 1, ('e', 'è'): 1}",,,,,
+fucqué,Benon,fué,Saint-Gervais,{},"{'c': 1, 'q': 1, 'u': 1}",{},fuguet,Salignac,{},{},"{('c', 'g'): 1, ('q', 'u'): 1, ('u', 'e'): 1, ('é', 't'): 1}",fuët,Carcans,{},"{'u': 1, 'é': 1}","{('c', 'ë'): 1, ('q', 't'): 1}"
+fuët,Carcans,fucqué,Hourtin,"{'c': 1, 'q': 1}",{},"{('ë', 'u'): 1, ('t', 'é'): 1}",fucqué,Benon,"{'c': 1, 'q': 1}",{},"{('ë', 'u'): 1, ('t', 'é'): 1}",,,,,
+fucqué,Hourtin,fuët,Carcans,{},"{'u': 1, 'é': 1}","{('c', 'ë'): 1, ('q', 't'): 1}",fuguèt,Saint-Quentin-de-Caplong,{},{},"{('c', 'g'): 1, ('q', 'u'): 1, ('u', 'è'): 1, ('é', 't'): 1}",,,,,
+fuèt,Saint-Laurent-Médoc,fué,Le Pian-sur-Garonne,{},{'t': 1},"{('è', 'é'): 1}",fousquéc,Taillebourg,"{'o': 1, 's': 1, 'q': 1, 'u': 1}",{},"{('è', 'é'): 1, ('t', 'c'): 1}",fué,Caudrot,{},{'t': 1},"{('è', 'é'): 1}"
+fué,Caudrot,fuèt,Saint-Laurent-Médoc,{'è': 1},{},"{('é', 't'): 1}",fusqué,Labarde,"{'s': 1, 'q': 1, 'u': 1}",{},{},fuguet,Saint-André-du-Bois,"{'g': 1, 'u': 1, 'e': 1}",{},"{('é', 't'): 1}"
+fué,Le Pian-sur-Garonne,fuguè,Saint-Laurent-d'Arce,"{'g': 1, 'u': 1}",{},"{('é', 'è'): 1}",fuèt,Saint-Laurent-Médoc,{'è': 1},{},"{('é', 't'): 1}",fuguet,Saint-André-du-Bois,"{'g': 1, 'u': 1, 'e': 1}",{},"{('é', 't'): 1}"
+fuguet,Saint-André-du-Bois,fut,Lamarque,{},"{'g': 1, 'u': 1, 'e': 1}",{},fué,Le Pian-sur-Garonne,{},"{'u': 1, 'e': 1, 't': 1}","{('g', 'é'): 1}",fué,Caudrot,{},"{'u': 1, 'e': 1, 't': 1}","{('g', 'é'): 1}"
+fucquèt,Saint-Germain-de-Grave,fusquè,Le Porge,{},{'t': 1},"{('c', 's'): 1}",fucqué,Saint-Laurent-du-Bois,{},{'t': 1},"{('è', 'é'): 1}",,,,,
+fucqué,Saint-Laurent-du-Bois,fucquèt,Saint-Germain-de-Grave,{'è': 1},{},"{('é', 't'): 1}",,,,,,,,,,
+fogait,Saint-Macaire,fugué,Mouliets,{},{'t': 1},"{('o', 'u'): 1, ('a', 'u'): 1, ('i', 'é'): 1}",fuguet,Saint-Martin-de-Sescas,{},{},"{('o', 'u'): 1, ('a', 'u'): 1, ('i', 'e'): 1}",,,,,
+fuet,Saint-Maixant,fut,Mios,{},{'e': 1},{},fuguet,Saint-Martin-de-Sescas,"{'g': 1, 'u': 1}",{},{},,,,,
+fuguet,Saint-Martin-de-Sescas,fuet,Saint-Maixant,{},"{'g': 1, 'u': 1}",{},fusquè,Sainte-Eulalie,{'s': 1},{'t': 1},"{('g', 'q'): 1, ('e', 'è'): 1}",fogait,Saint-Macaire,{},{},"{('u', 'o'): 1, ('u', 'a'): 1, ('e', 'i'): 1}"
+fuguèt,Saint-Pierre-d'Aurillac,fousquec,Peyrière,"{'o': 1, 's': 1}",{},"{('g', 'q'): 1, ('è', 'e'): 1, ('t', 'c'): 1}",,,,,,,,,,
+fuguait,Verdelais,fut,Le Temple,{},"{'g': 1, 'u': 1, 'a': 1, 'i': 1}",{},fugué,Grayan-bis,{},"{'i': 1, 't': 1}","{('a', 'é'): 1}",fugué,Balizac,{},"{'i': 1, 't': 1}","{('a', 'é'): 1}"
+fugué,Balizac,fusquet,Saint-Genès-de-Castillon,"{'s': 1, 'e': 1}",{},"{('g', 'q'): 1, ('é', 't'): 1}",fuguait,Verdelais,"{'a': 1, 'i': 1}",{},"{('é', 't'): 1}",fuguè,Grayan,{},{},"{('é', 'è'): 1}"
+fusqué,Hostens,fugué,Le Verdon-sur-Mer,{},{'q': 1},"{('s', 'g'): 1}",fuguè,Le Tuzan,{},{'q': 1},"{('s', 'g'): 1, ('é', 'è'): 1}",,,,,
+fuguè,Le Tuzan,fusqué,Hostens,{'s': 1},{},"{('g', 'q'): 1, ('è', 'é'): 1}",fuguè,Louchats,{},{},{},,,,,
+fuguè,Louchats,fousquet,La Brède-bis,"{'o': 1, 's': 1, 'e': 1}",{},"{('g', 'q'): 1, ('è', 't'): 1}",fuguè,Origne,{},{},{},fuguè,Le Tuzan,{},{},{}
+fuguè,Origne,fi,Uchacq,{},"{'g': 1, 'u': 1, 'è': 1}","{('u', 'i'): 1}",fuguè,Saint-Léger-de-Balson,{},{},{},fuguè,Louchats,{},{},{}
+fuguè,Saint-Léger-de-Balson,fuguè,Origne,{},{},{},fuguait,Clermont,"{'a': 1, 'i': 1}",{},"{('è', 't'): 1}",fugué,Saint-Symphorien-bis,{},{},"{('è', 'é'): 1}"
+fugué,Saint-Symphorien-bis,fuguè,Saint-Léger-de-Balson,{},{},"{('é', 'è'): 1}",fusquai,Saint-Laurent-des-Combes,"{'s': 1, 'a': 1}",{},"{('g', 'q'): 1, ('é', 'i'): 1}",,,,,
+fugué,Saint-Symphorien,,,,,,,,,,,,,,,
+fugué,Grayan-bis,fuguait,Verdelais,"{'a': 1, 'i': 1}",{},"{('é', 't'): 1}",fuguè,Grayan,{},{},"{('é', 'è'): 1}",,,,,
+fuguè,Grayan,fugué,Balizac,{},{},"{('è', 'é'): 1}",fugué,Grayan-bis,{},{},"{('è', 'é'): 1}",,,,,
+fuguè,Jau-Dignac-et-Loirac,figuè,Lourquen,{},{},"{('u', 'i'): 1}",fugué,Le Verdon-sur-Mer,{},{},"{('è', 'é'): 1}",,,,,
+fugué,Le Verdon-sur-Mer,fuguè,Jau-Dignac-et-Loirac,{},{},"{('é', 'è'): 1}",fusqué,Hostens,{'s': 1},{},"{('g', 'q'): 1}",fugué,Saint-Vivien-de-Médoc,{},{},{}
+fugué,Saint-Vivien-de-Médoc,fugué,Le Verdon-sur-Mer,{},{},{},,,,,,,,,,
+fugait,Soulac-sur-Mer,,,,,,,,,,,,,,,
+fuè,Talais,,,,,,,,,,,,,,,
+fuguèt,Vensac,fuguèt,La Roquille,{},{},{},fugait,Appelles,{},{},"{('u', 'a'): 1, ('è', 'i'): 1}",,,,,
+fugait,Appelles,fuguèt,Vensac,{},{},"{('a', 'u'): 1, ('i', 'è'): 1}",fuguét,Caplong,{},{},"{('a', 'u'): 1, ('i', 'é'): 1}",,,,,
+fuguét,Caplong,fugait,Appelles,{},{},"{('u', 'a'): 1, ('é', 'i'): 1}",,,,,,,,,,
+fuguèt,Eynesse,fuguèt,La Roquille,{},{},{},,,,,,,,,,
+fuguèt,La Roquille,fuguèt,Vensac,{},{},{},fuguèt,Eynesse,{},{},{},,,,,
+fuguet,Les Lèves-et-Thoumeyragues,fuguè,Riocaud,{},{'t': 1},"{('e', 'è'): 1}",fuguèt,Ligueux,{},{},"{('e', 'è'): 1}",,,,,
+fuguèt,Ligueux,fuguet,Les Lèves-et-Thoumeyragues,{},{},"{('è', 'e'): 1}",fuguè,Pineuilh,{},{'t': 1},{},,,,,
+fuguè,Pineuilh,fuguèt,Ligueux,{'t': 1},{},{},,,,,,,,,,
+fuguè,Riocaud,fuguet,Les Lèves-et-Thoumeyragues,{'e': 1},{},"{('è', 't'): 1}",fugué,Saint-Avit-de-Soulège,{},{},"{('è', 'é'): 1}",,,,,
+fugué,Saint-Avit-de-Soulège,fuguè,Riocaud,{},{},"{('é', 'è'): 1}",,,,,,,,,,
+fuguèt,Saint-Avit-Saint-Nazaire,,,,,,,,,,,,,,,
+fuguèt,Saint-Quentin-de-Caplong,fucqué,Hourtin,{'c': 1},{'t': 1},"{('g', 'q'): 1, ('è', 'é'): 1}",,,,,,,,,,
+fuait,Sainte-Foy-la-Grande-bis,eut,Auros,{},"{'a': 1, 'i': 1}","{('f', 'e'): 1}",fué,Sainte-Foy-la-Grande-ter,{},"{'i': 1, 't': 1}","{('a', 'é'): 1}",,,,,
+fué,Sainte-Foy-la-Grande-ter,fusquèt,Moulis-en-Médoc-bis,"{'s': 1, 'q': 1, 'u': 1, 'è': 1}",{},"{('é', 't'): 1}",fuait,Sainte-Foy-la-Grande-bis,"{'a': 1, 'i': 1}",{},"{('é', 't'): 1}",,,,,
+fué,Sainte-Foy-la-Grande,fugué,Blasimon,"{'g': 1, 'u': 1}",{},{},,,,,,,,,,
+fugué,Blasimon,fué,Sainte-Foy-la-Grande,{},"{'g': 1, 'u': 1}",{},fuét,Castelviel,{},{'é': 1},"{('g', 'é'): 1, ('u', 't'): 1}",,,,,
+fuét,Castelviel,fugué,Blasimon,"{'g': 1, 'u': 1}",{'t': 1},{},,,,,,,,,,
+fugué,Cleyrac,,,,,,,,,,,,,,,
+fugué,Coirac,,,,,,,,,,,,,,,
+fuguet,Gornac,fusquét,Moulis-en-Médoc,{'s': 1},{},"{('g', 'q'): 1, ('e', 'é'): 1}",,,,,,,,,,
+fuguet,Mérignas,fuet,Saint-Sulpice-de-Pommiers,{},"{'g': 1, 'u': 1}",{},,,,,,,,,,
+fuguet,Mourens,fuguet,Ruch,{},{},{},,,,,,,,,,
+fuguet,Ruch,fuguet,Mourens,{},{},{},fugué,Saint-Brice,{},{'t': 1},"{('e', 'é'): 1}",,,,,
+fugué,Saint-Brice,fuguet,Ruch,{'e': 1},{},"{('é', 't'): 1}",,,,,,,,,,
+fuguèt,Saint-Félix-de-Foncaude,,,,,,,,,,,,,,,
+fugait,Saint-Léger-de-Vignague,fuet,Saint-Sulpice-de-Pommiers,{},"{'a': 1, 'i': 1}","{('g', 'e'): 1}",,,,,,,,,,
+fuet,Saint-Sulpice-de-Pommiers,fugait,Saint-Léger-de-Vignague,"{'g': 1, 'a': 1}",{},"{('e', 'i'): 1}",fuguet,Mérignas,"{'g': 1, 'u': 1}",{},{},fuqqé,Sauveterre-de-Guyenne-bis,{'q': 1},{},"{('e', 'q'): 1, ('t', 'é'): 1}"
+fuqqé,Sauveterre-de-Guyenne-bis,fuet,Saint-Sulpice-de-Pommiers,{},{'é': 1},"{('q', 'e'): 1, ('q', 't'): 1}",,,,,,,,,,
+fusquet,Sauveterre-de-Guyenne-ter,fuguet,Arbis,{},{'q': 1},"{('s', 'g'): 1}",,,,,,,,,,
+fusquèt,Sauveterre-de-Guyenne,fuguet,Escoussans,{},{'q': 1},"{('s', 'g'): 1, ('è', 'e'): 1}",,,,,,,,,,
+fuguet,Arbis,fusquet,Sauveterre-de-Guyenne-ter,{'s': 1},{},"{('g', 'q'): 1}",fugué,Baigneaux,{},{'t': 1},"{('e', 'é'): 1}",,,,,
+fugué,Baigneaux,fuguet,Arbis,{'e': 1},{},"{('é', 't'): 1}",,,,,,,,,,
+fuguet,Escoussans,fusquèt,Sauveterre-de-Guyenne,{'s': 1},{},"{('g', 'q'): 1, ('e', 'è'): 1}",,,,,,,,,,
+fuguet,Faleyras,fugué,Frontenac,{},{'t': 1},"{('e', 'é'): 1}",,,,,,,,,,
+fugué,Frontenac,fugué,Romagne,{},{},{},fuguet,Faleyras,{'e': 1},{},"{('é', 't'): 1}",,,,,
+fuguet,Ladaux,fuguét,Lugasson,{},{},"{('e', 'é'): 1}",fuguet,Soulignac,{},{},{},,,,,
+fuguét,Lugasson,fuguet,Ladaux,{},{},"{('é', 'e'): 1}",fugué,Romagne,{},{'t': 1},{},,,,,
+fugué,Romagne,fugué,Frontenac,{},{},{},fuguét,Lugasson,{'t': 1},{},{},,,,,
+fugué,Saint-Pierre-de-Bat,,,,,,,,,,,,,,,
+fuguet,Soulignac,fuguet,Ladaux,{},{},{},,,,,,,,,,
+fuguait,Targon-bis,,,,,,,,,,,,,,,
+fuguè,Targon,fuguet,Cazalis,{'e': 1},{},"{('è', 't'): 1}",,,,,,,,,,
+fuguet,Cazalis,fusquait,Sainte-Hélène,"{'s': 1, 'a': 1}",{},"{('g', 'q'): 1, ('e', 'i'): 1}",fuguè,Targon,{},{'t': 1},"{('e', 'è'): 1}",,,,,
+fuguet,Lucmau,fusquet,Gardegan,{'s': 1},{},"{('g', 'q'): 1}",fuguè,Gours,{},{'t': 1},"{('e', 'è'): 1}",,,,,
+fugué,Noaillan,fuguet,Préchac-bis,{'e': 1},{},"{('é', 't'): 1}",,,,,,,,,,
+fuguet,Préchac-bis,fugué,Noaillan,{},{'t': 1},"{('e', 'é'): 1}",fusquei,Francs,{'s': 1},{},"{('g', 'q'): 1, ('t', 'i'): 1}",,,,,
+fugué,Préchac,fugué,Puynormand,{},{},{},fousquet,Cabanac-et-Villagrains,"{'o': 1, 's': 1, 'e': 1}",{},"{('g', 'q'): 1, ('é', 't'): 1}",fugué,Uzeste,{},{},{}
+fugué,Uzeste,fugué,Préchac,{},{},{},fugué,Saint-Germain-du-Puch,{},{},{},fué,Villandraut-bis,{},"{'g': 1, 'u': 1}",{}
+fué,Villandraut-bis,fugué,Uzeste,"{'g': 1, 'u': 1}",{},{},fusquet,Gardegan,"{'s': 1, 'q': 1, 'u': 1, 'e': 1}",{},"{('é', 't'): 1}",fuguet,Saint-Christophe-des-Bardes,"{'g': 1, 'u': 1, 'e': 1}",{},"{('é', 't'): 1}"
+fuguè,Villandraut,fusquei,Francs,"{'s': 1, 'e': 1}",{},"{('g', 'q'): 1, ('è', 'i'): 1}",fuchqué,Duhort-Bachen,"{'c': 1, 'h': 1}",{},"{('g', 'q'): 1, ('è', 'é'): 1}",füè,Puisseguin,{},"{'g': 1, 'u': 1}","{('u', 'ü'): 1}"
+fusquei,Francs,fuguet,Préchac-bis,{},{'q': 1},"{('s', 'g'): 1, ('i', 't'): 1}",fuguè,Villandraut,{},"{'q': 1, 'i': 1}","{('s', 'g'): 1, ('e', 'è'): 1}",fuguè,Gours,{},"{'q': 1, 'i': 1}","{('s', 'g'): 1, ('e', 'è'): 1}"
+fuguè,Gours,fuguet,Saint-Christophe-des-Bardes,{'e': 1},{},"{('è', 't'): 1}",fuguet,Lucmau,{'e': 1},{},"{('è', 't'): 1}",fusquei,Francs,"{'s': 1, 'e': 1}",{},"{('g', 'q'): 1, ('è', 'i'): 1}"
+füè,Puisseguin,fusquet,Castillon-la-Bataille,"{'u': 2, 's': 1, 'q': 1}",{},"{('ü', 'e'): 1, ('è', 't'): 1}",fugué,Puynormand,"{'u': 1, 'g': 1}",{},"{('ü', 'u'): 1, ('è', 'é'): 1}",fuguè,Villandraut,"{'u': 1, 'g': 1}",{},"{('ü', 'u'): 1}"
+fugué,Puynormand,füè,Puisseguin,{},"{'u': 1, 'é': 1}","{('u', 'ü'): 1, ('g', 'è'): 1}",fugué,Préchac,{},{},{},fuguet,Saint-Christophe-des-Bardes,{'e': 1},{},"{('é', 't'): 1}"
+fuguet,Saint-Christophe-des-Bardes,fué,Villandraut-bis,{},"{'u': 1, 'e': 1, 't': 1}","{('g', 'é'): 1}",fuguè,Gours,{},{'t': 1},"{('e', 'è'): 1}",fugué,Puynormand,{},{'t': 1},"{('e', 'é'): 1}"
+fuguet,Aire-sur-l'Adour,fusquai,Saint-Laurent-des-Combes,{'s': 1},{},"{('g', 'q'): 1, ('e', 'a'): 1, ('t', 'i'): 1}",fuguè,Buanes,{},{'t': 1},"{('e', 'è'): 1}",,,,,
+fuguè,Bahus-Soubiran,fu,Bourg-bis,{},"{'g': 1, 'u': 1, 'è': 1}",{},fugué,Classun,{},{},"{('è', 'é'): 1}",fuguè,Buanes,{},{},{}
+fuguè,Buanes,fuguet,Aire-sur-l'Adour,{'e': 1},{},"{('è', 't'): 1}",fi,Gamarde-les-Bains,{},"{'g': 1, 'u': 1, 'è': 1}","{('u', 'i'): 1}",fuguè,Bahus-Soubiran,{},{},{}
+fugué,Classun,fuguè,Bahus-Soubiran,{},{},"{('é', 'è'): 1}",fusquet,Castillon-la-Bataille,"{'s': 1, 'e': 1}",{},"{('g', 'q'): 1, ('é', 't'): 1}",fuchqué,Duhort-Bachen,"{'c': 1, 'h': 1}",{},"{('g', 'q'): 1}"
+fuchqué,Duhort-Bachen,fuguè,Villandraut,{},"{'h': 1, 'q': 1}","{('c', 'g'): 1, ('é', 'è'): 1}",fugué,Classun,{},"{'h': 1, 'q': 1}","{('c', 'g'): 1}",,,,,
+fusquè,Eugénie-les-Bains,fusquait,Saint-Philippe-d'Aiguille,"{'a': 1, 'i': 1}",{},"{('è', 't'): 1}",,,,,,,,,,
+fué,Latrille,fugué,Maillères,"{'g': 1, 'u': 1}",{},{},fuyet,Lussagnet,"{'y': 1, 'e': 1}",{},"{('é', 't'): 1}",,,,,
+figuèt,Renung,fut,Prignac-et-Marcamps,{},"{'i': 1, 'g': 1, 'è': 1}",{},fusqué,Saint-Agnet,{'u': 1},{'t': 1},"{('i', 's'): 1, ('g', 'q'): 1, ('è', 'é'): 1}",fugué,Saint-Loubouer,{},{'t': 1},"{('i', 'u'): 1, ('è', 'é'): 1}"
+fusqué,Saint-Agnet,figuèt,Renung,{},{},"{('u', 'i'): 1, ('s', 'g'): 1, ('q', 'u'): 1, ('u', 'è'): 1, ('é', 't'): 1}",fuscout,Saint-Antoine-sur-l'Isle,{'c': 1},{},"{('q', 'o'): 1, ('é', 't'): 1}",fuchqué,Sarron,{'c': 1},{},"{('s', 'h'): 1}"
+fugué,Saint-Loubouer,fuchqué,Sarron,"{'c': 1, 'h': 1}",{},"{('g', 'q'): 1}",fut,Lansac,{},"{'u': 1, 'é': 1}","{('g', 't'): 1}",figuèt,Renung,{'è': 1},{},"{('u', 'i'): 1, ('é', 't'): 1}"
+fuchqué,Sarron,fusquèt,Bonnetan,{'è': 1},{'h': 1},"{('c', 's'): 1, ('é', 't'): 1}",fugué,Saint-Loubouer,{},"{'h': 1, 'q': 1}","{('c', 'g'): 1}",fusqué,Saint-Agnet,{},{'h': 1},"{('c', 's'): 1}"
+fugué,Vielle-Tursan,fut,Cambes,{},"{'u': 1, 'é': 1}","{('g', 't'): 1}",fuguait,Amou-bis,"{'a': 1, 'i': 1}",{},"{('é', 't'): 1}",fugué,Amou,{},{},{}
+fuguait,Amou-bis,fugué,Vielle-Tursan,{},"{'i': 1, 't': 1}","{('a', 'é'): 1}",,,,,,,,,,
+fugué,Amou,fusquait,Carignan-de-Bordeaux,"{'s': 1, 'a': 1, 'i': 1}",{},"{('g', 'q'): 1, ('é', 't'): 1}",fugué,Vielle-Tursan,{},{},{},,,,,
+fugué,Bassercles,fut,Cénac,{},"{'u': 1, 'é': 1}","{('g', 't'): 1}",figué,Bonnegarde,{},{},"{('u', 'i'): 1}",ou,Tartas-bis,{},"{'g': 1, 'u': 1, 'é': 1}","{('f', 'o'): 1}"
+figué,Bonnegarde,fut,Branne-bis,{},"{'i': 1, 'g': 1}","{('é', 't'): 1}",fugué,Brassempouy,{},{},"{('i', 'u'): 1}",fugué,Bassercles,{},{},"{('i', 'u'): 1}"
+fugué,Brassempouy,figué,Bonnegarde,{},{},"{('u', 'i'): 1}",fusquet,Créon,"{'s': 1, 'e': 1}",{},"{('g', 'q'): 1, ('é', 't'): 1}",hou,Souprosse,{},"{'g': 1, 'é': 1}","{('f', 'h'): 1, ('u', 'o'): 1}"
+fugué,Castaignos-Souslens,,,,,,,,,,,,,,,
+fugué,Castel-Sarrazin,fusquèt,Latresne,"{'s': 1, 'è': 1}",{},"{('g', 'q'): 1, ('é', 't'): 1}",,,,,,,,,,
+figué,Castelnau-Chalosse,fusquait,Haux,"{'u': 1, 'a': 1, 'i': 1}",{},"{('i', 's'): 1, ('g', 'q'): 1, ('é', 't'): 1}",,,,,,,,,,
+fugué,Donzacq,fusquèt,Latresne,"{'s': 1, 'è': 1}",{},"{('g', 'q'): 1, ('é', 't'): 1}",fuguè,Marpaps,{},{},"{('é', 'è'): 1}",fugué,Gaujacq,{},{},{}
+fugué,Gaujacq,fiyè,Laglorieuse,{},{'é': 1},"{('u', 'i'): 1, ('g', 'y'): 1, ('u', 'è'): 1}",fiyit,Campet,{},{},"{('u', 'i'): 2, ('g', 'y'): 1, ('é', 't'): 1}",fugué,Donzacq,{},{},{}
+fuguè,Marpaps,fugué,Donzacq,{},{},"{('è', 'é'): 1}",,,,,,,,,,
+figué,Nassiet,,,,,,,,,,,,,,,
+fisqué,Pomarez,fugué,Castets,{},{'q': 1},"{('i', 'u'): 1, ('s', 'g'): 1}",,,,,,,,,,
+fugué,Castets,fisqué,Pomarez,{'i': 1},{},"{('u', 's'): 1, ('g', 'q'): 1}",,,,,,,,,,
+fuguet,Léon,,,,,,,,,,,,,,,
+fugait,Lévignacq,,,,,,,,,,,,,,,
+fuguait,Linxe,fut,Cabara-bis,{},"{'g': 1, 'u': 1, 'a': 1, 'i': 1}",{},fuguai,Lit-et-Mixe,{},{'t': 1},{},,,,,
+fuguai,Lit-et-Mixe,figué,Saint-Michel-Escalus,{},{'i': 1},"{('u', 'i'): 1, ('a', 'é'): 1}",fuguait,Linxe,{'t': 1},{},{},,,,,
+fugué,Saint-Julien-en-Born,fugué,Taller,{},{},{},fousquèc,Savignac-de-Duras,"{'o': 1, 's': 1, 'è': 1}",{},"{('g', 'q'): 1, ('é', 'c'): 1}",figué,Saint-Michel-Escalus,{},{},"{('u', 'i'): 1}"
+figué,Saint-Michel-Escalus,fugué,Saint-Julien-en-Born,{},{},"{('i', 'u'): 1}",fuguai,Lit-et-Mixe,{'a': 1},{},"{('i', 'u'): 1, ('é', 'i'): 1}",figué,Vielle-Saint-Girons,{},{},{}
+fugué,Taller,fusqué,Ambarès-et-Lagrave,{'s': 1},{},"{('g', 'q'): 1}",fugué,Saint-Julien-en-Born,{},{},{},figuè,Uza,{},{},"{('u', 'i'): 1, ('é', 'è'): 1}"
+figuè,Uza,figué,Vielle-Saint-Girons,{},{},"{('è', 'é'): 1}",fut,Quinsac,{},"{'i': 1, 'g': 1}","{('è', 't'): 1}",fugué,Taller,{},{},"{('i', 'u'): 1, ('è', 'é'): 1}"
+figué,Vielle-Saint-Girons,figuè,Uza,{},{},"{('é', 'è'): 1}",figué,Saint-Michel-Escalus,{},{},{},,,,,
+fugué,Bénesse-lès-Dax,fousquait,Saint-Caprais-de-Bordeaux,"{'o': 1, 's': 1, 'a': 1, 'i': 1}",{},"{('g', 'q'): 1, ('é', 't'): 1}",fuguet,Dax-Saint-Vincent,{'e': 1},{},"{('é', 't'): 1}",,,,,
+fuguait,Candresse,fuguet,Dax-Saint-Vincent,{},{'i': 1},"{('a', 'e'): 1}",,,,,,,,,,
+fuguet,Dax-Saint-Vincent,fut,Cabara-bis,{},"{'g': 1, 'u': 1, 'e': 1}",{},fuguait,Candresse,{'a': 1},{},"{('e', 'i'): 1}",fugué,Bénesse-lès-Dax,{},{'t': 1},"{('e', 'é'): 1}"
+fugué,Dax,fugué,Herm,{},{},{},,,,,,,,,,
+fugué,Herm,fuguét,Heugas,{'t': 1},{},{},fugué,Dax,{},{},{},,,,,
+fuguét,Heugas,fugué,Herm,{},{'t': 1},{},,,,,,,,,,
+figué,Mées,fugué,Narrosse,{},{},"{('i', 'u'): 1}",fouèt,Fronsac-bis,{},{},"{('i', 'o'): 1, ('g', 'u'): 1, ('u', 'è'): 1, ('é', 't'): 1}",fuguè,Oeyreluy,{},{},"{('i', 'u'): 1, ('é', 'è'): 1}"
+fugué,Narrosse,fousquét,Tabanac,"{'o': 1, 's': 1, 't': 1}",{},"{('g', 'q'): 1}",figué,Mées,{},{},"{('u', 'i'): 1}",fuguè,Oeyreluy,{},{},"{('é', 'è'): 1}"
+fuguè,Oeyreluy,figué,Mées,{},{},"{('u', 'i'): 1, ('è', 'é'): 1}",fugué,Narrosse,{},{},"{('è', 'é'): 1}",,,,,
+fugué,Rivière-Saas-et-Gourby,fut,Bourg,{},"{'u': 1, 'é': 1}","{('g', 't'): 1}",fugué,Sablar,{},{},{},fugué,Saint-Pandelon,{},{},{}
+fugué,Sablar,fugué,Rivière-Saas-et-Gourby,{},{},{},hou,Coudures,{},"{'g': 1, 'é': 1}","{('f', 'h'): 1, ('u', 'o'): 1}",,,,,
+fugué,Saint-Pandelon,fut,Saint-Seurin-de-Bourg,{},"{'u': 1, 'é': 1}","{('g', 't'): 1}",fugué,Rivière-Saas-et-Gourby,{},{},{},,,,,
+fugué,Saint-Paul-lès-Dax,fousquèt,Saillans,"{'o': 1, 's': 1, 'è': 1}",{},"{('g', 'q'): 1, ('é', 't'): 1}",,,,,,,,,,
+fusqué,Saint-Vincent-de-Paul,fuchqué,Saugnac-et-Cambran,{'c': 1},{},"{('s', 'h'): 1}",fousquèt,Saint-Germain-de-la-Rivière,"{'o': 1, 'è': 1}",{},"{('é', 't'): 1}",fit,Herré,{},"{'q': 1, 'u': 1, 'é': 1}","{('u', 'i'): 1, ('s', 't'): 1}"
+fugué,Saubusse,fit,Gabarret,{},"{'u': 1, 'é': 1}","{('u', 'i'): 1, ('g', 't'): 1}",fouscait,Bagas,"{'o': 1, 's': 1, 'c': 1}",{},"{('g', 'a'): 1, ('u', 'i'): 1, ('é', 't'): 1}",fi,Siest,{},"{'g': 1, 'u': 1, 'é': 1}","{('u', 'i'): 1}"
+fuchqué,Saugnac-et-Cambran,fousquet,Martillac,"{'o': 1, 'e': 1}",{'h': 1},"{('c', 's'): 1, ('é', 't'): 1}",fusqué,Saint-Vincent-de-Paul,{},{'h': 1},"{('c', 's'): 1}",fi,Siest,{},"{'c': 1, 'h': 1, 'q': 1, 'u': 1, 'é': 1}","{('u', 'i'): 1}"
+fi,Siest,fuguet,Blaignac,"{'u': 2, 'g': 1, 'e': 1}",{},"{('i', 't'): 1}",fuchqué,Saugnac-et-Cambran,"{'u': 2, 'c': 1, 'h': 1, 'q': 1}",{},"{('i', 'é'): 1}",fugué,Saubusse,"{'u': 2, 'g': 1}",{},"{('i', 'é'): 1}"
+fugué,Tercis-les-Bains,fousquèt,Grignols-bis,"{'o': 1, 's': 1, 'è': 1}",{},"{('g', 'q'): 1, ('é', 't'): 1}",fugué,Créon-d'Armagnac,{},{},{},,,,,
+fut,Téthieu,fuguè,Saint-Julien-d'Armagnac,"{'g': 1, 'u': 1}",{},"{('t', 'è'): 1}",fi,Betbezer-d'Armagnac,{},{'t': 1},"{('u', 'i'): 1}",,,,,
+figué,Yzosse,fut,Arx,{},"{'i': 1, 'g': 1}","{('é', 't'): 1}",fouèt,Grignols,{},{},"{('i', 'o'): 1, ('g', 'u'): 1, ('u', 'è'): 1, ('é', 't'): 1}",fugué,Créon-d'Armagnac,{},{},"{('i', 'u'): 1}"
+fut,Arx,fugué,Baudignan,"{'g': 1, 'u': 1}",{},"{('t', 'é'): 1}",fouait,Lavazan,"{'o': 1, 'a': 1, 'i': 1}",{},{},figué,Yzosse,"{'i': 1, 'g': 1}",{},"{('t', 'é'): 1}"
+fugué,Baudignan,fuguè,Sainte-Meille,{},{},"{('é', 'è'): 1}",fut,Arx,{},"{'u': 1, 'é': 1}","{('g', 't'): 1}",fi,Betbezer-d'Armagnac,{},"{'g': 1, 'u': 1, 'é': 1}","{('u', 'i'): 1}"
+fi,Betbezer-d'Armagnac,fut,Téthieu,{'u': 1},{},"{('i', 't'): 1}",fugué,Baudignan,"{'u': 2, 'g': 1}",{},"{('i', 'é'): 1}",fugué,Créon-d'Armagnac,"{'u': 2, 'g': 1}",{},"{('i', 'é'): 1}"
+fugué,Créon-d'Armagnac,figué,Yzosse,{},{},"{('u', 'i'): 1}",fugué,Tercis-les-Bains,{},{},{},fi,Betbezer-d'Armagnac,{},"{'g': 1, 'u': 1, 'é': 1}","{('u', 'i'): 1}"
+fut,Estigarde,fouscait,Bagas,"{'o': 1, 's': 1, 'c': 1, 'a': 1, 'i': 1}",{},{},fit,Gabarret,{},{},"{('u', 'i'): 1}",,,,,
+fit,Gabarret,fut,Estigarde,{},{},"{('i', 'u'): 1}",fugué,Saubusse,"{'u': 1, 'g': 1}",{},"{('i', 'u'): 1, ('t', 'é'): 1}",fit,Herré,{},{},{}
+fit,Herré,fusqué,Saint-Vincent-de-Paul,"{'u': 1, 's': 1, 'q': 1}",{},"{('i', 'u'): 1, ('t', 'é'): 1}",fit,Lagrange,{},{},{},fit,Gabarret,{},{},{}
+fit,Lagrange,fousquèt,Cours-les-Bains,"{'o': 1, 'u': 2, 's': 1, 'q': 1}",{},"{('i', 'è'): 1}",fit,Herré,{},{},{},,,,,
+fugué,Losse,fut,Génissac,{},"{'u': 1, 'é': 1}","{('g', 't'): 1}",,,,,,,,,,
+fugué,Mauvezin-d'Armagnac,fuguè,Nerbis,{},{},"{('é', 'è'): 1}",,,,,,,,,,
+fuguè,Parleboscq,,,,,,,,,,,,,,,
+figué,Rimbez-et-Baudiets,fuguè,Saint-Julien-d'Armagnac,{},{},"{('i', 'u'): 1, ('é', 'è'): 1}",fugue,Bordères,{},{},"{('i', 'u'): 1, ('é', 'e'): 1}",fugué,Castelnau-Tursan,{},{},"{('i', 'u'): 1}"
+fuguè,Saint-Julien-d'Armagnac,fut,Téthieu,{},"{'u': 1, 'è': 1}","{('g', 't'): 1}",figué,Rimbez-et-Baudiets,{},{},"{('u', 'i'): 1, ('è', 'é'): 1}",fuguè,Sainte-Meille,{},{},{}
+fuguè,Sainte-Meille,fugué,Baudignan,{},{},"{('è', 'é'): 1}",fuguè,Saint-Julien-d'Armagnac,{},{},{},,,,,
+fuguet,Arboucave,fuguè,Lauret,{},{'t': 1},"{('e', 'è'): 1}",fuguè,Bats,{},{'t': 1},"{('e', 'è'): 1}",figué,Lacajunte,{},{'t': 1},"{('u', 'i'): 1, ('e', 'é'): 1}"
+fuguè,Bats,fuguet,Arboucave,{'e': 1},{},"{('è', 't'): 1}",fugué,Castelnau-Tursan,{},{},"{('è', 'é'): 1}",,,,,
+fugué,Castelnau-Tursan,figué,Rimbez-et-Baudiets,{},{},"{('u', 'i'): 1}",fuguè,Bats,{},{},"{('é', 'è'): 1}",,,,,
+fuguè,Geaune-bis,fuguè,Geaune,{},{},{},,,,,,,,,,
+fuguè,Geaune,fuguè,Geaune-bis,{},{},{},figué,Lacajunte,{},{},"{('u', 'i'): 1, ('è', 'é'): 1}",,,,,
+figué,Lacajunte,fuguet,Arboucave,{'e': 1},{},"{('i', 'u'): 1, ('é', 't'): 1}",fuguè,Geaune,{},{},"{('i', 'u'): 1, ('é', 'è'): 1}",,,,,
+fuguè,Lauret,fuguet,Arboucave,{'e': 1},{},"{('è', 't'): 1}",fuguè,Mauries,{},{},{},,,,,
+fuguè,Mauries,figué,Miramont-Sensacq,{},{},"{('u', 'i'): 1, ('è', 'é'): 1}",fuguè,Lauret,{},{},{},,,,,
+figué,Miramont-Sensacq,fuguè,Mauries,{},{},"{('i', 'u'): 1, ('é', 'è'): 1}",,,,,,,,,,
+figuè,Philondenx,,,,,,,,,,,,,,,
+figué,Pimbo,fugué,Oeyregave,{},{},"{('i', 'u'): 1}",,,,,,,,,,
+figuè,Puyol-Cazalet,fuguè,Casseuil,{},{},"{('i', 'u'): 1}",,,,,,,,,,
+fugué,Samadet,fousquét,Gaillan-en-Médoc,"{'o': 1, 's': 1, 't': 1}",{},"{('g', 'q'): 1}",fugué,Sorbets,{},{},{},,,,,
+fugué,Sorbets,fugué,Samadet,{},{},{},fousquèt,Civrac,"{'o': 1, 's': 1, 'è': 1}",{},"{('g', 'q'): 1, ('é', 't'): 1}",fué,Artassenx,{},"{'g': 1, 'u': 1}",{}
+figué,Urgons,fué,Artassenx,{},"{'i': 1, 'g': 1}",{},fouét,Ordonnac,{'t': 1},{'g': 1},"{('i', 'o'): 1}",,,,,
+fué,Artassenx,fousquét,Saint-Germain-d'Esteuil,"{'o': 1, 's': 1, 'q': 1, 'u': 1, 't': 1}",{},{},figué,Urgons,"{'i': 1, 'g': 1}",{},{},fugué,Sorbets,"{'g': 1, 'u': 1}",{},{}
+fugué,Bascons,fuguè,Moulon,{},{},"{('é', 'è'): 1}",,,,,,,,,,
+fuyié,Benquet,,,,,,,,,,,,,,,
+fugue,Bordères,figué,Rimbez-et-Baudiets,{},{},"{('u', 'i'): 1, ('e', 'é'): 1}",,,,,,,,,,
+fuhiè,Castandet,fuyè,Cazères-sur-l'Adour,{},{'i': 1},"{('h', 'y'): 1}",fousquèt,Cours-les-Bains,"{'o': 1, 's': 1, 't': 1}",{},"{('h', 'q'): 1, ('i', 'u'): 1}",fuyè,Grenade-sur-l'Adour,{},{'i': 1},"{('h', 'y'): 1}"
+fuyè,Cazères-sur-l'Adour,fu,Naujan-et-Postiac,{},"{'y': 1, 'è': 1}",{},fuhiè,Castandet,{'h': 1},{},"{('y', 'i'): 1}",fuyè,Grenade-sur-l'Adour-bis,{},{},{}
+fuyè,Grenade-sur-l'Adour-bis,fuguit,Morganx,"{'g': 1, 'u': 1}",{},"{('y', 'i'): 1, ('è', 't'): 1}",fuyè,Cazères-sur-l'Adour,{},{},{},,,,,
+fuyè,Grenade-sur-l'Adour,fuhiè,Castandet,{'h': 1},{},"{('y', 'i'): 1}",,,,,,,,,,
+fuyait,Le Vignau,fuyet,Lussagnet,{},{'i': 1},"{('a', 'e'): 1}",,,,,,,,,,
+fuyet,Lussagnet,fué,Latrille,{},"{'e': 1, 't': 1}","{('y', 'é'): 1}",fuyait,Le Vignau,{'a': 1},{},"{('e', 'i'): 1}",fugué,Maurrin,{},{},"{('y', 'g'): 1, ('e', 'u'): 1, ('t', 'é'): 1}"
+fugué,Maurrin,fuyet,Lussagnet,{},{},"{('g', 'y'): 1, ('u', 'e'): 1, ('é', 't'): 1}",,,,,,,,,,
+fuyet,Aubagnan,fuguet,Cazalis,{'g': 1},{},"{('y', 'u'): 1}",fuyé,Castelner,{},{'t': 1},"{('e', 'é'): 1}",,,,,
+fuyé,Castelner,fuyet,Aubagnan,{'e': 1},{},"{('é', 't'): 1}",,,,,,,,,,
+fuguet,Cazalis,fuyet,Aubagnan,{},{'u': 1},"{('g', 'y'): 1}",,,,,,,,,,
+fugait,Hagetmau-bis,fugué,Labastide-Chalosse,{},{'t': 1},"{('a', 'u'): 1, ('i', 'é'): 1}",,,,,,,,,,
+fugué,Hagetmau,fugué,Horsarrieu,{},{},{},fugué,Peyre,{},{},{},,,,,
+fugué,Horsarrieu,fuguè,Moulon,{},{},"{('é', 'è'): 1}",fugué,Hagetmau,{},{},{},,,,,
+fugué,Labastide-Chalosse,fuguè,Momuy,{},{},"{('é', 'è'): 1}",fugait,Hagetmau-bis,{'a': 1},{},"{('u', 'i'): 1, ('é', 't'): 1}",,,,,
+fugué,Lacrabe,fuïé,Monségur,{},{'u': 1},"{('g', 'ï'): 1}",,,,,,,,,,
+fuyé,Mant,fuguè,Momuy,{'g': 1},{},"{('y', 'u'): 1, ('é', 'è'): 1}",fuguit,Morganx,"{'g': 1, 'u': 1}",{},"{('y', 'i'): 1, ('é', 't'): 1}",,,,,
+fuguè,Momuy,fuyé,Mant,{},{'è': 1},"{('g', 'y'): 1, ('u', 'é'): 1}",fugué,Labastide-Chalosse,{},{},"{('è', 'é'): 1}",fuïé,Monségur,{},{'è': 1},"{('g', 'ï'): 1, ('u', 'é'): 1}"
+fuïé,Monségur,fugué,Lacrabe,{'g': 1},{},"{('ï', 'u'): 1}",fugué,Peyre,{'g': 1},{},"{('ï', 'u'): 1}",fuguè,Momuy,{'g': 1},{},"{('ï', 'u'): 1, ('é', 'è'): 1}"
+fuguit,Morganx,fugué,Peyre,{},{'t': 1},"{('i', 'é'): 1}",fuyè,Grenade-sur-l'Adour-bis,{},"{'i': 1, 't': 1}","{('g', 'y'): 1, ('u', 'è'): 1}",fuyé,Mant,{},"{'i': 1, 't': 1}","{('g', 'y'): 1, ('u', 'é'): 1}"
+fugué,Peyre,fugué,Hagetmau,{},{},{},fuguit,Morganx,{'i': 1},{},"{('é', 't'): 1}",fuïé,Monségur,{},{'u': 1},"{('g', 'ï'): 1}"
+fuguet,Poudenx,fugué,Nérigean,{},{'t': 1},"{('e', 'é'): 1}",fuguet,Saint-Cricq-Chalosse,{},{},{},,,,,
+fuguet,Saint-Cricq-Chalosse,fuguet,Poudenx,{},{},{},fugué,Nérigean,{},{'t': 1},"{('e', 'é'): 1}",fuguet,Sainte-Colombe,{},{},{}
+fuguet,Sainte-Colombe,fuguet,Saint-Cricq-Chalosse,{},{},{},fouèt,Queyrac,{},{'g': 1},"{('u', 'o'): 1, ('e', 'è'): 1}",,,,,
+fuguè,Serres-Gaston,fouét,Ordonnac,{'o': 1},{'è': 1},"{('g', 'é'): 1, ('u', 't'): 1}",fuguè,Serreslous-et-Arribans,{},{},{},fuyé,Mézos,{},{'è': 1},"{('g', 'y'): 1, ('u', 'é'): 1}"
+fuguè,Serreslous-et-Arribans,fuguè,Serres-Gaston,{},{},{},fousquét,Saint-Germain-d'Esteuil,"{'o': 1, 's': 1, 'é': 1}",{},"{('g', 'q'): 1, ('è', 't'): 1}",fugué,Bélis,{},{},"{('è', 'é'): 1}"
+fugué,Bélis,fuguè,Aureilhan,{},{},"{('é', 'è'): 1}",fuguè,Serreslous-et-Arribans,{},{},"{('é', 'è'): 1}",,,,,
+fuguè,Brocas,fousquèt,Civrac,"{'o': 1, 's': 1, 't': 1}",{},"{('g', 'q'): 1}",fuguè,Garein,{},{},{},fugué,Canenx-et-Réaut,{},{},"{('è', 'é'): 1}"
+fugué,Canenx-et-Réaut,fousquét,Saint-Germain-d'Esteuil,"{'o': 1, 's': 1, 't': 1}",{},"{('g', 'q'): 1}",fuguè,Brocas,{},{},"{('é', 'è'): 1}",fuguè,Cère,{},{},"{('é', 'è'): 1}"
+fuguè,Cère,fugué,Labrit,{},{},"{('è', 'é'): 1}",fousquèt,Saint-Seurin-de-Cadourne,"{'o': 1, 's': 1, 't': 1}",{},"{('g', 'q'): 1}",fugué,Canenx-et-Réaut,{},{},"{('è', 'é'): 1}"
+fuguè,Garein,fugué,Labrit,{},{},"{('è', 'é'): 1}",fuguè,Brocas,{},{},{},,,,,
+fugué,Labrit,fuguè,Garein,{},{},"{('é', 'è'): 1}",fousquèt,Lesparre-Médoc,"{'o': 1, 's': 1, 'è': 1}",{},"{('g', 'q'): 1, ('é', 't'): 1}",fuguè,Cère,{},{},"{('é', 'è'): 1}"
+fugué,Maillères,fué,Latrille,{},"{'g': 1, 'u': 1}",{},,,,,,,,,,
+fugué,Vert,,,,,,,,,,,,,,,
+fuguè,Aureilhan,fugué,Bélis,{},{},"{('è', 'é'): 1}",fuyé,Mézos,{},{'è': 1},"{('g', 'y'): 1, ('u', 'é'): 1}",,,,,
+fuyé,Mézos,fuguè,Serres-Gaston,{'g': 1},{},"{('y', 'u'): 1, ('é', 'è'): 1}",fuguè,Aureilhan,{'g': 1},{},"{('y', 'u'): 1, ('é', 'è'): 1}",,,,,
+fugué,Mimizan-bis,fuyè,Mazerolles,{},{'é': 1},"{('g', 'y'): 1, ('u', 'è'): 1}",fugué,Pontenx-les-Forges,{},{},{},fuyè,Mimizan,{},{'é': 1},"{('g', 'y'): 1, ('u', 'è'): 1}"
+fuyè,Mimizan,fousquet,Beautiran,"{'o': 1, 's': 1, 'q': 1, 'u': 1}",{},"{('y', 'e'): 1, ('è', 't'): 1}",fugué,Mimizan-bis,{'g': 1},{},"{('y', 'u'): 1, ('è', 'é'): 1}",,,,,
+fugué,Pontenx-les-Forges,fugué,Mimizan-bis,{},{},{},fuguè,Saint-Paul-en-Born,{},{},"{('é', 'è'): 1}",,,,,
+fuguè,Saint-Paul-en-Born,fugué,Pontenx-les-Forges,{},{},"{('è', 'é'): 1}",,,,,,,,,,
+fuguè,Bostens,,,,,,,,,,,,,,,
+fuyé,Bretagne-de-Marsan,fuyé,Préchacq-les-Bains,{},{},{},fayit,Campagne,{'i': 1},{},"{('u', 'a'): 1, ('é', 't'): 1}",,,,,
+fayit,Campagne,fuyé,Bretagne-de-Marsan,{},{'t': 1},"{('a', 'u'): 1, ('i', 'é'): 1}",fusquèt,Latresne,"{'u': 1, 's': 1}",{},"{('a', 'q'): 1, ('y', 'u'): 1, ('i', 'è'): 1}",fiyit,Campet,{},{},"{('a', 'i'): 1}"
+fiyit,Campet,fugué,Gaujacq,{},{},"{('i', 'u'): 2, ('y', 'g'): 1, ('t', 'é'): 1}",fuyé,Gaillères,{},{'t': 1},"{('i', 'u'): 1, ('i', 'é'): 1}",fayit,Campagne,{},{},"{('i', 'a'): 1}"
+fuyé,Gaillères,fiyit,Campet,{'i': 1},{},"{('u', 'i'): 1, ('é', 't'): 1}",fiyè,Haut-Mauco,{},{},"{('u', 'i'): 1, ('é', 'è'): 1}",,,,,
+fiyè,Geloux,fusquait,Haux,"{'u': 2, 's': 1, 'q': 1, 'a': 1}",{'è': 1},"{('y', 't'): 1}",,,,,,,,,,
+fiyè,Haut-Mauco,fuyé,Gaillères,{},{},"{('i', 'u'): 1, ('è', 'é'): 1}",fiyè,Laglorieuse,{},{},{},,,,,
+fiyè,Laglorieuse,fiyè,Haut-Mauco,{},{},{},fugué,Gaujacq,{'u': 1},{},"{('i', 'g'): 1, ('y', 'u'): 1, ('è', 'é'): 1}",,,,,
+fugué,Lucbardez-et-Bargues,,,,,,,,,,,,,,,
+fuyè,Mazerolles,fugué,Mimizan-bis,{'g': 1},{},"{('y', 'u'): 1, ('è', 'é'): 1}",fagué,Montfort-en-Chalosse-bis,"{'a': 1, 'g': 1}",{'è': 1},"{('y', 'é'): 1}",,,,,
+fuyé,Mont-de-Marsan-bis,fuyè,Montfort-en-Chalosse,{},{},"{('é', 'è'): 1}",fousquec,Saint-Yzans-de-Médoc,"{'o': 1, 's': 1, 'q': 1, 'u': 1}",{},"{('y', 'e'): 1, ('é', 'c'): 1}",,,,,
+fuguet,Mont-de-Marsan,fuyet,Saint-Avit,{},{'u': 1},"{('g', 'y'): 1}",fuié,Goos,{},"{'e': 1, 't': 1}","{('g', 'i'): 1, ('u', 'é'): 1}",fuyé,Saint-Pierre-du-Mont,{},"{'e': 1, 't': 1}","{('g', 'y'): 1, ('u', 'é'): 1}"
+fuyet,Saint-Avit,fousquec,Valeyrac,"{'o': 1, 's': 1, 'q': 1}",{},"{('y', 'u'): 1, ('t', 'c'): 1}",fuguet,Mont-de-Marsan,{'g': 1},{},"{('y', 'u'): 1}",fi,Saint-Martin-d'Oney,{},"{'y': 1, 'e': 1, 't': 1}","{('u', 'i'): 1}"
+fi,Saint-Martin-d'Oney,fuyé,Saint-Perdon,"{'u': 1, 'y': 1}",{},"{('i', 'é'): 1}",fousquet,Beautiran,"{'o': 1, 'u': 2, 's': 1, 'q': 1, 'e': 1}",{},"{('i', 't'): 1}",fuyet,Saint-Avit,"{'u': 1, 'y': 1, 'e': 1}",{},"{('i', 't'): 1}"
+fuyé,Saint-Perdon,fi,Saint-Martin-d'Oney,{},"{'y': 1, 'é': 1}","{('u', 'i'): 1}",fuyé,Saint-Pierre-du-Mont,{},{},{},,,,,
+fuyé,Saint-Pierre-du-Mont,fuguet,Mont-de-Marsan,"{'g': 1, 'u': 1}",{},"{('y', 'e'): 1, ('é', 't'): 1}",fousquèc,Cadaujac,"{'o': 1, 's': 1, 'q': 1, 'u': 1}",{},"{('y', 'è'): 1, ('é', 'c'): 1}",fuyé,Saint-Perdon,{},{},{}
+fi,Uchacq,fuguait,Clermont,"{'u': 2, 'g': 1, 'a': 1, 't': 1}",{},{},fuguè,Origne,"{'u': 2, 'g': 1}",{},"{('i', 'è'): 1}",,,,,
+fi,Cassen,fousquèc,Cadaujac,"{'o': 1, 'u': 2, 's': 1, 'q': 1, 'è': 1}",{},"{('i', 'c'): 1}",fi,Garrey,{},{},{},,,,,
+fuguait,Clermont,fuguè,Saint-Léger-de-Balson,{},"{'i': 1, 't': 1}","{('a', 'è'): 1}",fi,Uchacq,{},"{'u': 2, 'g': 1, 'a': 1, 't': 1}",{},fi,Gamarde-les-Bains,{},"{'u': 2, 'g': 1, 'a': 1, 't': 1}",{}
+fi,Gamarde-les-Bains,fuguè,Buanes,"{'u': 2, 'g': 1}",{},"{('i', 'è'): 1}",fuguait,Clermont,"{'u': 2, 'g': 1, 'a': 1, 't': 1}",{},{},fi,Garrey,{},{},{}
+fi,Garrey,fousquec,Castres-Gironde,"{'o': 1, 'u': 2, 's': 1, 'q': 1, 'e': 1}",{},"{('i', 'c'): 1}",fi,Gamarde-les-Bains,{},{},{},fi,Cassen,{},{},{}
+fuié,Goos,fuguet,Mont-de-Marsan,"{'g': 1, 'u': 1}",{},"{('i', 'e'): 1, ('é', 't'): 1}",fuguèt,Hinx,"{'g': 1, 'u': 1}",{},"{('i', 'è'): 1, ('é', 't'): 1}",fyè,Gousse,{},{'é': 1},"{('u', 'y'): 1, ('i', 'è'): 1}"
+fyè,Gousse,fousquèc,Cadaujac,"{'o': 1, 'u': 1, 's': 1, 'q': 1, 'c': 1}",{},"{('y', 'u'): 1}",fuié,Goos,{'u': 1},{},"{('y', 'i'): 1, ('è', 'é'): 1}",fugè,Louer,{'u': 1},{},"{('y', 'g'): 1}"
+fuguèt,Hinx,fuié,Goos,{},"{'è': 1, 't': 1}","{('g', 'i'): 1, ('u', 'é'): 1}",fouèt,Queyrac,{},{'g': 1},"{('u', 'o'): 1}",fugué,Laurède,{},{'t': 1},"{('è', 'é'): 1}"
+fugué,Laurède,fugué,Saint-Germain-du-Puch,{},{},{},fugè,Louer,{},{'é': 1},"{('u', 'è'): 1}",fuguèt,Hinx,{'è': 1},{},"{('é', 't'): 1}"
+fugè,Louer,fugué,Laurède,{'u': 1},{},"{('è', 'é'): 1}",fousquet,Cabanac-et-Villagrains,"{'o': 1, 's': 1, 'q': 1, 'u': 1}",{},"{('g', 'e'): 1, ('è', 't'): 1}",fyè,Gousse,{},{'g': 1},"{('u', 'y'): 1}"
+figuè,Lourquen,fuguè,Jau-Dignac-et-Loirac,{},{},"{('i', 'u'): 1}",,,,,,,,,,
+fagué,Montfort-en-Chalosse-bis,fuyè,Mazerolles,{},{'é': 1},"{('a', 'u'): 1, ('g', 'y'): 1, ('u', 'è'): 1}",fuyè,Montfort-en-Chalosse,{},{'é': 1},"{('a', 'u'): 1, ('g', 'y'): 1, ('u', 'è'): 1}",,,,,
+fuyè,Montfort-en-Chalosse,fuyé,Mont-de-Marsan-bis,{},{},"{('è', 'é'): 1}",fagué,Montfort-en-Chalosse-bis,"{'a': 1, 'g': 1}",{'è': 1},"{('y', 'é'): 1}",,,,,
+figuéï,Nousse,fousquéq,Isle-Saint-Georges,"{'o': 1, 'u': 1}",{},"{('i', 's'): 1, ('g', 'q'): 1, ('ï', 'q'): 1}",fagai,Onard,{},{'ï': 1},"{('i', 'a'): 1, ('u', 'a'): 1, ('é', 'i'): 1}",,,,,
+fagai,Onard,fousquet,La Brède-bis,"{'o': 1, 'u': 1, 's': 1}",{},"{('a', 'q'): 1, ('g', 'u'): 1, ('a', 'e'): 1, ('i', 't'): 1}",figuéï,Nousse,{'u': 1},{},"{('a', 'i'): 1, ('a', 'é'): 1, ('i', 'ï'): 1}",,,,,
+figuè,Ozourt,fousquéq,Isle-Saint-Georges,"{'o': 1, 'u': 1, 'é': 1}",{},"{('i', 's'): 1, ('g', 'q'): 1, ('è', 'q'): 1}",fuguè,Poyanne,{},{},"{('i', 'u'): 1}",,,,,
+fuguè,Poyanne,fousquet,La Brède-bis,"{'o': 1, 's': 1, 'e': 1}",{},"{('g', 'q'): 1, ('è', 't'): 1}",figuè,Ozourt,{},{},"{('u', 'i'): 1}",,,,,
+fugué,Poyartin,fugué,Saint-Geours-d'Auribat,{},{},{},,,,,,,,,,
+fuyé,Préchacq-les-Bains,fuyé,Bretagne-de-Marsan,{},{},{},,,,,,,,,,
+fugué,Saint-Geours-d'Auribat,fugué,Poyartin,{},{},{},,,,,,,,,,
+fuyit,Saint-Jean-de-Lier,,,,,,,,,,,,,,,
+fuguè,Sort-en-Chalosse,fugué,Vicq-d'Auribat,{},{},"{('è', 'é'): 1}",,,,,,,,,,
+fugué,Vicq-d'Auribat,fuguè,Sort-en-Chalosse,{},{},"{('é', 'è'): 1}",,,,,,,,,,
+fuguè,Arengosse,fugué,Arjuzanx,{},{},"{('è', 'é'): 1}",fusqué,Saint-Quentin-de-Baron,{'s': 1},{},"{('g', 'q'): 1, ('è', 'é'): 1}",,,,,
+fugué,Arjuzanx,fuguè,Garrosse,{},{},"{('é', 'è'): 1}",fugué,Tizac-de-Curton,{},{},{},fuguè,Arengosse,{},{},"{('é', 'è'): 1}"
+fuguè,Garrosse,fuguet,Morcenx-bourg,{'e': 1},{},"{('è', 't'): 1}",fugué,Arjuzanx,{},{},"{('è', 'é'): 1}",,,,,
+fugué,Lesperon,fugué,Morcenx,{},{},{},fuguet,Morcenx-bourg,{'e': 1},{},"{('é', 't'): 1}",,,,,
+fuguet,Morcenx-bourg,fugué,Lesperon,{},{'t': 1},"{('e', 'é'): 1}",fuguè,Garrosse,{},{'t': 1},"{('e', 'è'): 1}",,,,,
+fugué,Morcenx-gare,,,,,,,,,,,,,,,
+fugué,Morcenx,fugué,Lesperon,{},{},{},,,,,,,,,,
+fugué,Onesse-Laharie,fugué,Sindères,{},{},{},fugué,Camiran-bis,{},{},{},,,,,
+fuguét,Ousse-Suzan,fusquei,La Brède,{'s': 1},{},"{('g', 'q'): 1, ('é', 'e'): 1, ('t', 'i'): 1}",fugué,Sindères,{},{'t': 1},{},,,,,
+fugué,Sindères,fuguét,Ousse-Suzan,{'t': 1},{},{},fu,Capian,{},"{'g': 1, 'u': 1, 'é': 1}",{},fugué,Onesse-Laharie,{},{},{}
+fugué,Ygos-Saint-Saturnin,fugué,Camiran-bis,{},{},{},fugué,Baigts,{},{},{},,,,,
+fugué,Baigts,fugué,Ygos-Saint-Saturnin,{},{},{},fuguè,Camiran,{},{},"{('é', 'è'): 1}",,,,,
+fûgué,Bergouey,,,,,,,,,,,,,,,
+fugué,Caupenne,fugué,Saint-Aubin,{},{},{},fugué,Hauriet,{},{},{},,,,,
+fuguei,Doazit,fugué,Fontet,{},{'i': 1},"{('e', 'é'): 1}",fugué,Toulouzette,{},{'i': 1},"{('e', 'é'): 1}",,,,,
+fugué,Hauriet,fugué,Caupenne,{},{},{},fugué,Lahosse,{},{},{},,,,,
+fugué,Lahosse,fuguet,Larbey,{'e': 1},{},"{('é', 't'): 1}",fugué,Hauriet,{},{},{},,,,,
+fuguet,Larbey,fugué,Lahosse,{},{'t': 1},"{('e', 'é'): 1}",fugué,Maylis,{},{'t': 1},"{('e', 'é'): 1}",,,,,
+fugué,Maylis,fuguet,Larbey,{'e': 1},{},"{('é', 't'): 1}",,,,,,,,,,
+fuguè,Mugron-bis,fuguè,Nerbis,{},{},{},,,,,,,,,,
+fugué,Mugron,fuguè,Nerbis,{},{},"{('é', 'è'): 1}",,,,,,,,,,
+fuguè,Nerbis,fugué,Mauvezin-d'Armagnac,{},{},"{('è', 'é'): 1}",fuguè,Mugron-bis,{},{},{},fugué,Mugron,{},{},"{('è', 'é'): 1}"
+fugué,Saint-Aubin,fugué,Caupenne,{},{},{},fugué,Toulouzette,{},{},{},,,,,
+fugué,Toulouzette,fuguei,Doazit,{'e': 1},{},"{('é', 'i'): 1}",fuguè,Biscarosse-bis,{},{},"{('é', 'è'): 1}",fugué,Saint-Aubin,{},{},{}
+fuguè,Biscarosse-bis,fugué,Fontet,{},{},"{('è', 'é'): 1}",fugué,Toulouzette,{},{},"{('è', 'é'): 1}",,,,,
+fuguè,Biscarosse,fuguè,Gastes,{},{},{},,,,,,,,,,
+fuguè,Gastes,fuguè,Biscarosse,{},{},{},,,,,,,,,,
+fuguè,Parentis-en-Born,fugué,Misson,{},{},"{('è', 'é'): 1}",fuguet,Sainte-Eulalie-en-Born,{'e': 1},{},"{('è', 't'): 1}",,,,,
+fuguet,Sainte-Eulalie-en-Born,fuguè,Parentis-en-Born,{},{'t': 1},"{('e', 'è'): 1}",fuguè,Bélus,{},{'t': 1},"{('e', 'è'): 1}",,,,,
+fugué,Sanguinet,fut,Ychoux,{},"{'u': 1, 'é': 1}","{('g', 't'): 1}",,,,,,,,,,
+fut,Ychoux,fut,Blanquefort,{},{},{},fugué,Sanguinet,"{'g': 1, 'u': 1}",{},"{('t', 'é'): 1}",fuguè,Bélus,"{'g': 1, 'u': 1}",{},"{('t', 'è'): 1}"
+fuguè,Bélus,fuguet,Sainte-Eulalie-en-Born,{'e': 1},{},"{('è', 't'): 1}",fut,Ychoux,{},"{'u': 1, 'è': 1}","{('g', 't'): 1}",,,,,
+fugei,Cauneille,fugué,Peyrehorade,{},{},"{('e', 'u'): 1, ('i', 'é'): 1}",,,,,,,,,,
+fuïè,Hastingues,fugué,Port-de-Lanne,{'g': 1},{},"{('ï', 'u'): 1, ('è', 'é'): 1}",,,,,,,,,,
+fugué,Oeyregave,figué,Pimbo,{},{},"{('u', 'i'): 1}",fugué,Orthevielle,{},{},{},,,,,
+fugué,Orist,fuguéi,Saint-Étienne-d'Orthe,{'i': 1},{},{},fugué,Orthevielle,{},{},{},fudié,Peyrehorade-bis,{},{},"{('g', 'd'): 1, ('u', 'i'): 1}"
+fugué,Orthevielle,fugué,Orist,{},{},{},fugué,Oeyregave,{},{},{},fuyé,Pey,{},{'u': 1},"{('g', 'y'): 1}"
+fuyé,Pey,fugué,Port-de-Lanne,{'g': 1},{},"{('y', 'u'): 1}",fugué,Orthevielle,{'g': 1},{},"{('y', 'u'): 1}",,,,,
+fudié,Peyrehorade-bis,fugué,Peyrehorade,{},{},"{('d', 'g'): 1, ('i', 'u'): 1}",fugué,Orist,{},{},"{('d', 'g'): 1, ('i', 'u'): 1}",,,,,
+fugué,Peyrehorade,fugei,Cauneille,{},{},"{('u', 'e'): 1, ('é', 'i'): 1}",fudié,Peyrehorade-bis,{},{},"{('g', 'd'): 1, ('u', 'i'): 1}",fugué,Port-de-Lanne,{},{},{}
+fugué,Port-de-Lanne,fuyé,Pey,{},{'u': 1},"{('g', 'y'): 1}",fuïè,Hastingues,{},{'é': 1},"{('g', 'ï'): 1, ('u', 'è'): 1}",fugué,Peyrehorade,{},{},{}
+fugué,Saint-Cricq-du-Gave,fuguéi,Saint-Étienne-d'Orthe,{'i': 1},{},{},,,,,,,,,,
+fuguéi,Saint-Étienne-d'Orthe,fugué,Saint-Cricq-du-Gave,{},{'i': 1},{},fugué,Orist,{},{'i': 1},{},,,,,
+fugué,Saint-Lon-les-Mines,fut,Branne-bis,{},"{'u': 1, 'é': 1}","{('g', 't'): 1}",fuguèt,Sorde-l'Abbaye,{'è': 1},{},"{('é', 't'): 1}",,,,,
+fuguèt,Sorde-l'Abbaye,fugué,Saint-Lon-les-Mines,{},{'t': 1},"{('è', 'é'): 1}",fugué,Gironde-sur-Dropt-bis,{},{'t': 1},"{('è', 'é'): 1}",fugué,Belhade,{},{'t': 1},"{('è', 'é'): 1}"
+fugué,Belhade,fuguèt,Sorde-l'Abbaye,{'è': 1},{},"{('é', 't'): 1}",,,,,,,,,,
+fugueï,Biganon,fugué,Liposthey,{},{'ï': 1},"{('e', 'é'): 1}",,,,,,,,,,
+fugué,Liposthey,fugué,Mano,{},{},{},fuguet,Pissos,{'e': 1},{},"{('é', 't'): 1}",fugueï,Biganon,{'e': 1},{},"{('é', 'ï'): 1}"
+fugué,Mano,fousquèt,Antagnac,"{'o': 1, 's': 1, 'è': 1}",{},"{('g', 'q'): 1, ('é', 't'): 1}",fugué,Liposthey,{},{},{},fugué,Moustey,{},{},{}
+fugué,Moustey,fugué,Gironde-sur-Dropt,{},{},{},fugué,Mano,{},{},{},,,,,
+fugué,Pissos-bis,fuguet,Pissos,{'e': 1},{},"{('é', 't'): 1}",fousquèt,Saint-Gein,"{'o': 1, 's': 1, 'è': 1}",{},"{('g', 'q'): 1, ('é', 't'): 1}",,,,,
+fuguet,Pissos,fugué,Liposthey,{},{'t': 1},"{('e', 'é'): 1}",fugué,Pissos-bis,{},{'t': 1},"{('e', 'é'): 1}",fugué,Richet,{},{'t': 1},"{('e', 'é'): 1}"
+fugué,Richet,fuguét,Saugnacq-et-Muret-bis,{'t': 1},{},{},fuguet,Pissos,{'e': 1},{},"{('é', 't'): 1}",,,,,
+fuguét,Saugnacq-et-Muret-bis,fugué,Richet,{},{'t': 1},{},fugué,Saugnacq-et-Muret,{},{'t': 1},{},,,,,
+fugué,Saugnacq-et-Muret,fuguét,Saugnacq-et-Muret-bis,{'t': 1},{},{},fuguet,La Réole-bis,{'e': 1},{},"{('é', 't'): 1}",fuguè,Cagnotte,{},{},"{('é', 'è'): 1}"
+fuguè,Cagnotte,fuguet,Hure,{'e': 1},{},"{('è', 't'): 1}",fugué,Saugnacq-et-Muret,{},{},"{('è', 'é'): 1}",,,,,
+fugué,Estibeaux,fuguè,Gaas,{},{},"{('é', 'è'): 1}",fuguet,Hure,{'e': 1},{},"{('é', 't'): 1}",fuguet,Mimbaste,{'e': 1},{},"{('é', 't'): 1}"
+fuguè,Gaas,fugué,Gironde-sur-Dropt-bis,{},{},"{('è', 'é'): 1}",fugué,Estibeaux,{},{},"{('è', 'é'): 1}",fuguè,Habas,{},{},{}
+fuguè,Habas,fugué,Labatut,{},{},"{('è', 'é'): 1}",fuguè,Gaas,{},{},{},,,,,
+fugué,Labatut,fuguè,Habas,{},{},"{('é', 'è'): 1}",fuguet,Mimbaste,{'e': 1},{},"{('é', 't'): 1}",,,,,
+fuguet,Mimbaste,fuguet,La Réole-bis,{},{},{},fugué,Labatut,{},{'t': 1},"{('e', 'é'): 1}",fugué,Estibeaux,{},{'t': 1},"{('e', 'é'): 1}"
+fugué,Misson,fuguè,Parentis-en-Born,{},{},"{('é', 'è'): 1}",fugué,Mouscardès,{},{},{},,,,,
+fugué,Mouscardès,fuguè,La Réole,{},{},"{('é', 'è'): 1}",fugué,Misson,{},{},{},fuguè,Ossages,{},{},"{('é', 'è'): 1}"
+fuguè,Ossages,fugué,Pouillon,{},{},"{('è', 'é'): 1}",fugué,Mouscardès,{},{},"{('è', 'é'): 1}",,,,,
+fugué,Pouillon,fuguè,Ossages,{},{},"{('é', 'è'): 1}",,,,,,,,,,
+fugait,Tilh,fuguè,Lamothe-Landerron,{},{'t': 1},"{('a', 'u'): 1, ('i', 'è'): 1}",,,,,,,,,,
+fuguè,Arouille,fuguè,Morizès,{},{},{},hou,Luglon,{},"{'g': 1, 'è': 1}","{('f', 'h'): 1, ('u', 'o'): 1}",fugué,Arue,{},{},"{('è', 'é'): 1}"
+fugué,Arue,ou,Sabres,{},"{'g': 1, 'u': 1, 'é': 1}","{('f', 'o'): 1}",fugué,Mongauzy,{},{},{},fuguè,Arouille,{},{},"{('é', 'è'): 1}"
+fugué,Cachen,fugué,Lencouacq,{},{},{},hou,Lue-bis,{},"{'g': 1, 'é': 1}","{('f', 'h'): 1, ('u', 'o'): 1}",hou,Commensacq-bis,{},"{'g': 1, 'é': 1}","{('f', 'h'): 1, ('u', 'o'): 1}"
+fuguè,Labastide-d'Armagnac,fugué,Maillas,{},{},"{('è', 'é'): 1}",hou,Commensacq,{},"{'g': 1, 'è': 1}","{('f', 'h'): 1, ('u', 'o'): 1}",,,,,
+fugué,Lencouacq,fugué,Lugaut,{},{},{},fugué,Cachen,{},{},{},fugué,Maillas,{},{},{}
+fugué,Lugaut,fuguè,Noaillac,{},{},"{('é', 'è'): 1}",fugué,Lencouacq,{},{},{},,,,,
+fugué,Maillas,fuguè,Labastide-d'Armagnac,{},{},"{('é', 'è'): 1}",fugué,Lencouacq,{},{},{},,,,,
+fugué,Pouydesseaux,hou,Saint-Justin,{},"{'g': 1, 'é': 1}","{('f', 'h'): 1, ('u', 'o'): 1}",hou,Saint-Gor,{},"{'g': 1, 'é': 1}","{('f', 'h'): 1, ('u', 'o'): 1}",,,,,
+fait,Roquefort,fuguê,Pompéjac,{'u': 1},{},"{('a', 'g'): 1, ('i', 'u'): 1, ('t', 'ê'): 1}",hou,Sarbazan,{},{'t': 1},"{('f', 'h'): 1, ('a', 'o'): 1, ('i', 'u'): 1}",hou,Saint-Gor,{},{'t': 1},"{('f', 'h'): 1, ('a', 'o'): 1, ('i', 'u'): 1}"
+hou,Saint-Gor,fugué,Pouydesseaux,"{'f': 1, 'é': 1}",{},"{('h', 'u'): 1, ('o', 'g'): 1}",fait,Roquefort,{'f': 1},{},"{('h', 'a'): 1, ('o', 'i'): 1, ('u', 't'): 1}",,,,,
+hou,Saint-Justin,hou,Escource-bis,{},{},{},fugué,Pouydesseaux,"{'f': 1, 'é': 1}",{},"{('h', 'u'): 1, ('o', 'g'): 1}",,,,,
+hou,Sarbazan,fait,Roquefort,{'f': 1},{},"{('h', 'a'): 1, ('o', 'i'): 1, ('u', 't'): 1}",,,,,,,,,,
+hou,Vielle-Soubiran,ou,Labouheyre,{},{'h': 1},{},hou,Commensacq-bis,{},{},{},,,,,
+hou,Commensacq-bis,hou,Commensacq,{},{},{},fugué,Cachen,"{'f': 1, 'é': 1}",{},"{('h', 'u'): 1, ('o', 'g'): 1}",hou,Vielle-Soubiran,{},{},{}
+hou,Commensacq,fuguè,Labastide-d'Armagnac,"{'f': 1, 'è': 1}",{},"{('h', 'u'): 1, ('o', 'g'): 1}",hou,Commensacq-bis,{},{},{},,,,,
+hou,Escource-bis,hou,Saint-Justin,{},{},{},hou,Escource,{},{},{},,,,,
+hou,Escource,ou,Labouheyre,{},{'h': 1},{},hou,Escource-bis,{},{},{},,,,,
+ou,Labouheyre,hou,Escource,{'h': 1},{},{},hou,Vielle-Soubiran,{'h': 1},{},{},hou,Lue-bis,{'h': 1},{},{}
+hou,Lue-bis,fugué,Cachen,"{'f': 1, 'é': 1}",{},"{('h', 'u'): 1, ('o', 'g'): 1}",ou,Labouheyre,{},{'h': 1},{},,,,,
+hou,Lue,fuyè,Cazaux,{'f': 1},{},"{('h', 'u'): 1, ('o', 'y'): 1, ('u', 'è'): 1}",,,,,,,,,,
+hou,Luglon,fuguè,Arouille,"{'f': 1, 'è': 1}",{},"{('h', 'u'): 1, ('o', 'g'): 1}",hou,Solférino,{},{},{},ou,Sabres,{},{'h': 1},{}
+hou,Sabres-bis,hou,Trensacq,{},{},{},,,,,,,,,,
+ou,Sabres,fugué,Arue,"{'g': 1, 'u': 1, 'é': 1}",{},"{('o', 'f'): 1}",hou,Luglon,{'h': 1},{},{},,,,,
+hou,Solférino,hou,Luglon,{},{},{},eut,Lestiac-sur-Garonne,{},{},"{('h', 'e'): 1, ('o', 'u'): 1, ('u', 't'): 1}",hou,Trensacq,{},{},{}
+hou,Trensacq,hou,Solférino,{},{},{},hou,Sabres-bis,{},{},{},,,,,
+hou,Barthes,hou,Biaudos,{},{},{},hou,Tarnos,{},{},{},hou,Biarrotte,{},{},{}
+hou,Biarrotte,hou,Barthes,{},{},{},,,,,,,,,,
+hou,Biaudos,fut,Loupiac,{},{},"{('h', 'f'): 1, ('o', 'u'): 1, ('u', 't'): 1}",hou,Barthes,{},{},{},,,,,
+hou,Ondres,,,,,,,,,,,,,,,
+hou,Saint-André-de-Seignanx,,,,,,,,,,,,,,,
+hou,Saint-Barthélemy,hou,Saint-Laurent-de-Gosse,{},{},{},,,,,,,,,,
+hou,Saint-Laurent-de-Gosse,hou,Saint-Barthélemy,{},{},{},fuguè,La Teste-de-Buch-ter,"{'f': 1, 'è': 1}",{},"{('h', 'u'): 1, ('o', 'g'): 1}",hou,Saint-Martin-de-Seignanx-bis,{},{},{}
+hou,Saint-Martin-de-Seignanx-bis,hou,Saint-Laurent-de-Gosse,{},{},{},,,,,,,,,,
+hou,Saint-Martin-de-Seignanx,,,,,,,,,,,,,,,
+hou,Tarnos,hou,Barthes,{},{},{},,,,,,,,,,
+hou,Audignon,,,,,,,,,,,,,,,
+oû,Aurice,fuguè,La Teste-de-Buch-ter,"{'f': 1, 'u': 1, 'g': 1}",{},"{('o', 'u'): 1, ('û', 'è'): 1}",hou,Banos,{'h': 1},{},"{('û', 'u'): 1}",,,,,
+hou,Banos,oû,Aurice,{},{'h': 1},"{('u', 'û'): 1}",hou,Cachon,{},{},{},,,,,
+hou,Cachon,hou,Banos,{},{},{},,,,,,,,,,
+hou,Cauna,,,,,,,,,,,,,,,
+hou,Coudures,fugué,Sablar,"{'f': 1, 'é': 1}",{},"{('h', 'u'): 1, ('o', 'g'): 1}",hou,Dumes,{},{},{},aou,Eyres-Moncube,{},{},"{('h', 'a'): 1}"
+hou,Dumes,hou,Coudures,{},{},{},,,,,,,,,,
+aou,Eyres-Moncube,hou,Coudures,{},{},"{('a', 'h'): 1}",,,,,,,,,,
+aou,Fargues,fugué,Langon-bis,"{'f': 1, 'é': 1}",{},"{('a', 'u'): 1, ('o', 'g'): 1}",,,,,,,,,,
+aou,Larrivière-Saint-Savin,fuguè,Langon,"{'f': 1, 'è': 1}",{},"{('a', 'u'): 1, ('o', 'g'): 1}",hou,Montgaillard,{},{},"{('a', 'h'): 1}",hou,Montaut,{},{},"{('a', 'h'): 1}"
+hou,Montaut,hou,Montsoué,{},{},{},fugué,Guillos,"{'f': 1, 'é': 1}",{},"{('h', 'u'): 1, ('o', 'g'): 1}",aou,Larrivière-Saint-Savin,{},{},"{('h', 'a'): 1}"
+hou,Montgaillard,fut,Le Pian-Médoc,{},{},"{('h', 'f'): 1, ('o', 'u'): 1, ('u', 't'): 1}",hou,Montsoué,{},{},{},aou,Larrivière-Saint-Savin,{},{},"{('h', 'a'): 1}"
+hou,Montsoué,hou,Montgaillard,{},{},{},fu,Escaudes,{},{'o': 1},"{('h', 'f'): 1}",hou,Montaut,{},{},{}
+hou,Saint-Maurice-sur-Adour,houc,Sainte-Eulalie,{'c': 1},{},{},fuguei,Castets-en-Dorthe,"{'f': 1, 'e': 1, 'i': 1}",{},"{('h', 'u'): 1, ('o', 'g'): 1}",ou,Saint-Sever,{},{'h': 1},{}
+ou,Saint-Sever,hou,Saint-Maurice-sur-Adour,{'h': 1},{},{},fugué,Sauternes,"{'g': 1, 'u': 1, 'é': 1}",{},"{('o', 'f'): 1}",houc,Sarraziet,"{'h': 1, 'c': 1}",{},{}
+houc,Sainte-Eulalie,fusquèt,Pompignac,"{'f': 1, 'u': 1, 'è': 1}",{},"{('h', 's'): 1, ('o', 'q'): 1, ('c', 't'): 1}",hou,Saint-Maurice-sur-Adour,{},{'c': 1},{},houc,Sarraziet,{},{},{}
+houc,Sarraziet,fuguè,Roaillan,{'f': 1},{},"{('h', 'u'): 1, ('o', 'g'): 1, ('c', 'è'): 1}",houc,Sainte-Eulalie,{},{},{},ou,Saint-Sever,{},"{'h': 1, 'c': 1}",{}
+houc,Bénesse-Maremne,fut,Le Haillan,{},{'o': 1},"{('h', 'f'): 1, ('c', 't'): 1}",houc,Josse,{},{},{},houc,Capbreton,{},{},{}
+houc,Capbreton,fuguè,Saint-Pardon-de-Conques,{'f': 1},{},"{('h', 'u'): 1, ('o', 'g'): 1, ('c', 'è'): 1}",houc,Bénesse-Maremne,{},{},{},houc,Labenne,{},{},{}
+houc,Josse,houc,Bénesse-Maremne,{},{},{},fut,Le Pian-Médoc,{},{'o': 1},"{('h', 'f'): 1, ('c', 't'): 1}",houc,Labenne,{},{},{}
+houc,Labenne,houc,Josse,{},{},{},fugué,Saint-Pierre-de-Mons,{'f': 1},{},"{('h', 'u'): 1, ('o', 'g'): 1, ('c', 'é'): 1}",houc,Capbreton,{},{},{}
+houc,Orx,houc,Saint-Geours-de-Maremne,{},{},{},fuguè,Izon,{'f': 1},{},"{('h', 'u'): 1, ('o', 'g'): 1, ('c', 'è'): 1}",houc,Saint-Jean-de-Marsacq,{},{},{}
+houc,Saint-Jean-de-Marsacq,fugué,Monségur,{'f': 1},{},"{('h', 'u'): 1, ('o', 'g'): 1, ('c', 'é'): 1}",houc,Saint-Martin-de-Hinx,{},{},{},houc,Orx,{},{},{}
+houc,Saint-Martin-de-Hinx,houc,Luxey,{},{},{},houc,Saint-Vincent-de-Tyrosse,{},{},{},houc,Saint-Jean-de-Marsacq,{},{},{}
+houc,Saint-Vincent-de-Tyrosse,houc,Saint-Martin-de-Hinx,{},{},{},fugué,Saint-Julien-Beychevelle,{'f': 1},{},"{('h', 'u'): 1, ('o', 'g'): 1, ('c', 'é'): 1}",houc,Sainte-Marie-de-Gosse,{},{},{}
+houc,Sainte-Marie-de-Gosse,hou,Le Leuy,{},{'c': 1},{},hou,Seignosse,{},{'c': 1},{},houc,Saint-Vincent-de-Tyrosse,{},{},{}
+houc,Saubion,fuyé,Libourne-bis,{},{},"{('h', 'f'): 1, ('o', 'u'): 1, ('u', 'y'): 1, ('c', 'é'): 1}",houq,Saubrigues,{},{},"{('c', 'q'): 1}",,,,,
+houq,Saubrigues,fuguè,Izon,{'f': 1},{},"{('h', 'u'): 1, ('o', 'g'): 1, ('q', 'è'): 1}",houc,Saubion,{},{},"{('q', 'c'): 1}",hou,Argelouse,{},{'q': 1},{}
+hou,Argelouse,fuguè,Landerrouet-sur-Ségur,"{'f': 1, 'è': 1}",{},"{('h', 'u'): 1, ('o', 'g'): 1}",houq,Saubrigues,{'q': 1},{},{},,,,,
+houc,Callen,houc,Luxey,{},{},{},fugué,Monségur,{'f': 1},{},"{('h', 'u'): 1, ('o', 'g'): 1, ('c', 'é'): 1}",,,,,
+houc,Houaste,houc,Sore,{},{},{},,,,,,,,,,
+houc,Luxey,houc,Sore,{},{},{},houc,Saint-Martin-de-Hinx,{},{},{},houc,Callen,{},{},{}
+houc,Sore,fugué,Saint-Julien-Beychevelle,{'f': 1},{},"{('h', 'u'): 1, ('o', 'g'): 1, ('c', 'é'): 1}",houc,Luxey,{},{},{},houc,Houaste,{},{},{}
+houc,Angresse,fuguè,Landerrouet-sur-Ségur,{'f': 1},{},"{('h', 'u'): 1, ('o', 'g'): 1, ('c', 'è'): 1}",,,,,,,,,,
+huc,Azur,houc,Magescq,{'o': 1},{},{},,,,,,,,,,
+houc,Magescq,huc,Azur,{},{'o': 1},{},houc,Messanges-bis,{},{},{},,,,,
+houc,Messanges-bis,houc,Magescq,{},{},{},,,,,,,,,,
+houc,Messanges,fuguè,Cissac-Médoc,{'f': 1},{},"{('h', 'u'): 1, ('o', 'g'): 1, ('c', 'è'): 1}",houc,Saint-Geours-de-Maremne,{},{},{},houc,Moliets-et-Maa,{},{},{}
+houc,Moliets-et-Maa,hou,Seignosse,{},{'c': 1},{},hou,Audon,{},{'c': 1},{},houc,Messanges,{},{},{}
+houc,Saint-Geours-de-Maremne,houc,Messanges,{},{},{},houc,Orx,{},{},{},hou,Seignosse,{},{'c': 1},{}
+hou,Seignosse,houc,Sainte-Marie-de-Gosse,{'c': 1},{},{},houc,Moliets-et-Maa,{'c': 1},{},{},houc,Saint-Geours-de-Maremne,{'c': 1},{},{}
+aou,Soorts-Hossegor,houc,Soustons,{'c': 1},{},"{('a', 'h'): 1}",fuyei,Roquebrune,"{'f': 1, 'u': 1}",{},"{('a', 'y'): 1, ('o', 'e'): 1, ('u', 'i'): 1}",hou,Lamothe,{},{},"{('a', 'h'): 1}"
+houc,Soustons,fugueï,Toulenne,"{'f': 1, 'e': 1}",{},"{('h', 'u'): 1, ('o', 'g'): 1, ('c', 'ï'): 1}",aou,Soorts-Hossegor,{},{'c': 1},"{('h', 'a'): 1}",hou,Tosse,{},{'c': 1},{}
+hou,Tosse,hou,Vieux-Boucau-les-Bains,{},{},{},fugé,Arveyres,{'f': 1},{},"{('h', 'u'): 1, ('o', 'g'): 1, ('u', 'é'): 1}",houc,Soustons,{'c': 1},{},{}
+hou,Vieux-Boucau-les-Bains,hou,Tosse,{},{},{},hou,Gouts,{},{},{},,,,,
+hou,Audon,houc,Moliets-et-Maa,{'c': 1},{},{},hou,Le Leuy,{},{},{},hou,Lamothe,{},{},{}
+ou,Carcarès-Sainte-Croix,hou,Gouts,{'h': 1},{},{},,,,,,,,,,
+hou,Gouts,ou,Carcarès-Sainte-Croix,{},{'h': 1},{},hou,Vieux-Boucau-les-Bains,{},{},{},hou,Lamothe,{},{},{}
+hou,Lamothe,aou,Soorts-Hossegor,{},{},"{('h', 'a'): 1}",hou,Audon,{},{},{},hou,Gouts,{},{},{}
+hou,Le Leuy,hou,Audon,{},{},{},houc,Sainte-Marie-de-Gosse,{'c': 1},{},{},,,,,
+ou,Meilhan,,,,,,,,,,,,,,,
+hou,Souprosse,fugué,Brassempouy,"{'f': 1, 'é': 1}",{},"{('h', 'u'): 1, ('o', 'g'): 1}",ou,Tartas-bis,{},{'h': 1},{},,,,,
+ou,Tartas-bis,fugué,Bassercles,"{'g': 1, 'u': 1, 'é': 1}",{},"{('o', 'f'): 1}",hou,Souprosse,{'h': 1},{},{},,,,,
+hou,Tartas-ville-haute-bis,où,Tartas-ville-haute,{},{'h': 1},"{('u', 'ù'): 1}",,,,,,,,,,
+où,Tartas-ville-haute,fousquèt,Anzex,"{'f': 1, 'u': 2, 's': 1, 'q': 1, 'è': 1}",{},"{('ù', 't'): 1}",hou,Tartas-ville-haute-bis,{'h': 1},{},"{('ù', 'u'): 1}",,,,,
+hou,Tartas,,,,,,,,,,,,,,,
+hou,Bégaar,fousquec,Fargues-sur-Ourbise,"{'s': 1, 'q': 1, 'u': 1, 'e': 1, 'c': 1}",{},"{('h', 'f'): 1}",,,,,,,,,,
+hou,Beylongue,hou,Rion-des-Landes-bis,{},{},{},hou,Boos,{},{},{},,,,,
+hou,Boos,hou,Beylongue,{},{},{},hou,Arthez-d'Armagnac,{},{},{},hou,Carcen-Ponson,{},{},{}
+hou,Carcen-Ponson,fousquéc,Saint-Léon,"{'s': 1, 'q': 1, 'u': 1, 'é': 1, 'c': 1}",{},"{('h', 'f'): 1}",hou,Boos,{},{},{},,,,,
+hou,Laluque,,,,,,,,,,,,,,,
+hou,Lesgor,hou,Rion-des-Landes,{},{},{},hou,Rion-des-Landes-bis,{},{},{},,,,,
+hou,Pontonx-sur-l'Adour,hou,Rion-des-Landes-bis,{},{},{},,,,,,,,,,
+hou,Rion-des-Landes-bis,hou,Lesgor,{},{},{},hou,Beylongue,{},{},{},hou,Pontonx-sur-l'Adour,{},{},{}
+hou,Rion-des-Landes,hou,Arthez-d'Armagnac,{},{},{},hou,Lesgor,{},{},{},fousquec,Lacquy,"{'s': 1, 'q': 1, 'u': 1, 'e': 1, 'c': 1}",{},"{('h', 'f'): 1}"
+hou,Saint-Yaguen,hou,Villenave,{},{},{},fuguet,Saint-Sauveur,"{'f': 1, 'e': 1, 't': 1}",{},"{('h', 'u'): 1, ('o', 'g'): 1}",hou,Bourdalat,{},{},{}
+hou,Villenave,hou,Saint-Yaguen,{},{},{},hou,Hontanx,{},{},{},,,,,
+hou,Arthez-d'Armagnac,hou,Boos,{},{},{},hou,Rion-des-Landes,{},{},{},hou,Bourdalat,{},{},{}
+hou,Bourdalat,hou,Saint-Yaguen,{},{},{},fousquéc,Razimet,"{'s': 1, 'q': 1, 'u': 1, 'é': 1, 'c': 1}",{},"{('h', 'f'): 1}",hou,Arthez-d'Armagnac,{},{},{}
+hou,Hontanx,hou,Villenave,{},{},{},fousquec,Lacquy,"{'s': 1, 'q': 1, 'u': 1, 'e': 1, 'c': 1}",{},"{('h', 'f'): 1}",,,,,
+fousquec,Lacquy,hou,Rion-des-Landes,{},"{'s': 1, 'q': 1, 'u': 1, 'e': 1, 'c': 1}","{('f', 'h'): 1}",hou,Hontanx,{},"{'s': 1, 'q': 1, 'u': 1, 'e': 1, 'c': 1}","{('f', 'h'): 1}",,,,,
+fousquet,Le Frêche,fousquèt,Montégut,{},{},"{('e', 'è'): 1}",,,,,,,,,,
+fousquèt,Montégut,fousquet,Le Frêche,{},{},"{('è', 'e'): 1}",,,,,,,,,,
+fousquét,Perquie,,,,,,,,,,,,,,,
+fousquet,Pujo-le-Plan,,,,,,,,,,,,,,,
+fousquec,Saint-Cricq-Villeneuve,,,,,,,,,,,,,,,
+fousquèt,Saint-Gein,fugué,Pissos-bis,{},"{'o': 1, 'q': 1, 't': 1}","{('s', 'g'): 1, ('è', 'é'): 1}",fousquèt,Antagnac,{},{},{},fousquèc,Sainte-Foy,{},{},"{('t', 'c'): 1}"
+fousquèc,Sainte-Foy,fousquèt,Saint-Gein,{},{},"{('c', 't'): 1}",,,,,,,,,,
+fousquèt,Villeneuve-de-Marsan,fugué,Langoiran-bis,{},"{'o': 1, 'q': 1, 't': 1}","{('s', 'g'): 1, ('è', 'é'): 1}",fousquèt,Antagnac,{},{},{},,,,,
+fousquèt,Antagnac,fousquèt,Saint-Gein,{},{},{},fugué,Mano,{},"{'o': 1, 'q': 1, 't': 1}","{('s', 'g'): 1, ('è', 'é'): 1}",fousquèt,Villeneuve-de-Marsan,{},{},{}
+fousquéc,Argenton,,,,,,,,,,,,,,,
+fousquec,Bouglon,,,,,,,,,,,,,,,
+fousquèc,Grézet-Cavagnan,fousquèc,Guérin,{},{},{},fousquec,Labastide-Castel-Amouroux,{},{},"{('è', 'e'): 1}",fousquéc,Casteljaloux,{},{},"{('è', 'é'): 1}"
+fousquèc,Guérin,fousquec,Caubeyres,{},{},"{('è', 'e'): 1}",fousquèc,Grézet-Cavagnan,{},{},{},,,,,
+fousquec,Labastide-Castel-Amouroux,fousquèc,Grézet-Cavagnan,{},{},"{('e', 'è'): 1}",fousquec,Poussignac,{},{},{},,,,,
+fousquec,Poussignac,fousquèc,Ruffiac,{},{},"{('e', 'è'): 1}",fousquec,Labastide-Castel-Amouroux,{},{},{},,,,,
+housquec,Romestaing,fousquèc,Ruffiac_bis,{},{},"{('h', 'f'): 1, ('e', 'è'): 1}",,,,,,,,,,
+fousquèc,Ruffiac_bis,fousquèt,Anzex,{},{},"{('c', 't'): 1}",housquec,Romestaing,{},{},"{('f', 'h'): 1, ('è', 'e'): 1}",fousquec,Leyritz-Moncassin,{},{},"{('è', 'e'): 1}"
+fousquèc,Ruffiac,fousquec,Poussignac,{},{},"{('è', 'e'): 1}",fousquèt,Saint-Gemme-Martaillac,{},{},"{('c', 't'): 1}",fousquèt,Heuliès,{},{},"{('c', 't'): 1}"
+fousquèt,Saint-Gemme-Martaillac,fousquèc,Ruffiac,{},{},"{('t', 'c'): 1}",fousquèt,Anzex,{},{},{},,,,,
+fousquèt,Anzex,où,Tartas-ville-haute,{},"{'f': 1, 's': 1, 'q': 1, 'u': 1, 'è': 1, 't': 1}","{('u', 'ù'): 1}",fousquèc,Ruffiac_bis,{},{},"{('t', 'c'): 1}",fousquèt,Saint-Gemme-Martaillac,{},{},{}
+fousquèc,Beauziac,fousquait,Casteljaloux-bis,{'a': 1},{},"{('è', 'i'): 1, ('c', 't'): 1}",fousquec,Leyritz-Moncassin,{},{},"{('è', 'e'): 1}",,,,,
+fousquait,Casteljaloux-bis,fousquèc,Beauziac,{},{'t': 1},"{('a', 'è'): 1, ('i', 'c'): 1}",fousquec,Damazan-bis,{},{'t': 1},"{('a', 'e'): 1, ('i', 'c'): 1}",fousquéc,Casteljaloux,{},{'t': 1},"{('a', 'é'): 1, ('i', 'c'): 1}"
+fousquéc,Casteljaloux,fousquèc,Grézet-Cavagnan,{},{},"{('é', 'è'): 1}",fousquèt,Heuliès,{},{},"{('é', 'è'): 1, ('c', 't'): 1}",fousquait,Casteljaloux-bis,{'a': 1},{},"{('é', 'i'): 1, ('c', 't'): 1}"
+fousquèt,Heuliès,fousquéc,Casteljaloux,{},{},"{('è', 'é'): 1, ('t', 'c'): 1}",fousquèc,Ruffiac,{},{},"{('t', 'c'): 1}",fousquec,Leyritz-Moncassin,{},{},"{('è', 'e'): 1, ('t', 'c'): 1}"
+fousquec,Leyritz-Moncassin,fousquèc,Ruffiac_bis,{},{},"{('e', 'è'): 1}",fousquèc,Beauziac,{},{},"{('e', 'è'): 1}",fousquèt,Heuliès,{},{},"{('e', 'è'): 1, ('c', 't'): 1}"
+fousquéc,Saint-Martin-Curton,fousquait,Laparade,{'a': 1},{},"{('é', 'i'): 1, ('c', 't'): 1}",,,,,,,,,,
+fousquèc,Villefranche-du-Queyran,fousquéc,Castelmoron-sur-Lot,{},{},"{('è', 'é'): 1}",housquéc,Brugnac,{},{},"{('f', 'h'): 1, ('è', 'é'): 1}",,,,,
+housquéc,Brugnac,housquèc,Castelmoron-sur-Lot-bis,{},{},"{('é', 'è'): 1}",fousquèc,Villefranche-du-Queyran,{},{},"{('h', 'f'): 1, ('é', 'è'): 1}",,,,,
+housquèc,Castelmoron-sur-Lot-bis,housquéc,Brugnac,{},{},"{('è', 'é'): 1}",fousquéc,Castelmoron-sur-Lot,{},{},"{('h', 'f'): 1, ('è', 'é'): 1}",,,,,
+fousquéc,Castelmoron-sur-Lot,fousquèc,Villefranche-du-Queyran,{},{},"{('é', 'è'): 1}",fousquet,Coulx,{},{},"{('é', 'e'): 1, ('c', 't'): 1}",housquèc,Castelmoron-sur-Lot-bis,{},{},"{('f', 'h'): 1, ('é', 'è'): 1}"
+fousquet,Coulx,fousquéc,Castelmoron-sur-Lot,{},{},"{('e', 'é'): 1, ('t', 'c'): 1}",fousquéq,Grateloup,{},{},"{('e', 'é'): 1, ('t', 'q'): 1}",,,,,
+fousquéq,Grateloup,fousquèc,Saint-Gayrand,{},{},"{('é', 'è'): 1, ('q', 'c'): 1}",fousquet,Coulx,{},{},"{('é', 'e'): 1, ('q', 't'): 1}",,,,,
+fousquèc,Labretonie,fousquet,Ambrus,{},{},"{('è', 'e'): 1, ('c', 't'): 1}",,,,,,,,,,
+fousquait,Laparade,fousquéc,Saint-Martin-Curton,{},{'t': 1},"{('a', 'é'): 1, ('i', 'c'): 1}",fousquèc,Saint-Gayrand,{},{'t': 1},"{('a', 'è'): 1, ('i', 'c'): 1}",,,,,
+fousquèc,Saint-Gayrand,fousquait,Laparade,{'a': 1},{},"{('è', 'i'): 1, ('c', 't'): 1}",fousquéq,Grateloup,{},{},"{('è', 'é'): 1, ('c', 'q'): 1}",fousquèc,Verteuil-d'Agenais,{},{},{}
+fousquèc,Verteuil-d'Agenais,fousquèc,Saint-Gayrand,{},{},{},fousquet,Ambrus,{},{},"{('è', 'e'): 1, ('c', 't'): 1}",,,,,
+fousquet,Ambrus,fousquèc,Labretonie,{},{},"{('e', 'è'): 1, ('t', 'c'): 1}",fousquec,Caubeyres,{},{},"{('t', 'c'): 1}",fousquèc,Verteuil-d'Agenais,{},{},"{('e', 'è'): 1, ('t', 'c'): 1}"
+fousquet,Buzet-sur-Baïse,fousquec,Damazan-bis,{},{},"{('t', 'c'): 1}",,,,,,,,,,
+fousquec,Caubeyres,fousquet,Ambrus,{},{},"{('c', 't'): 1}",fousquèc,Guérin,{},{},"{('e', 'è'): 1}",fousquec,Damazan-bis,{},{},{}
+fousquec,Damazan-bis,fousquait,Casteljaloux-bis,{'a': 1},{},"{('e', 'i'): 1, ('c', 't'): 1}",fousquet,Buzet-sur-Baïse,{},{},"{('c', 't'): 1}",fousquec,Caubeyres,{},{},{}
+fousquèc,Damazan,fousquèc,Esclottes,{},{},{},fousquait,Moncrabeau-bis,{'a': 1},{},"{('è', 'i'): 1, ('c', 't'): 1}",fousquét,Saint-Léger,{},{},"{('è', 'é'): 1, ('c', 't'): 1}"
+fousquec,Fargues-sur-Ourbise,hou,Bégaar,{},"{'s': 1, 'q': 1, 'u': 1, 'e': 1, 'c': 1}","{('f', 'h'): 1}",fousquéc,Saint-Pierre-de-Buzet,{},{},"{('e', 'é'): 1}",fousquéc,Monheurt,{},{},"{('e', 'é'): 1}"
+fousquéc,Monheurt,fugué,Listrac-de-Durèze,{},"{'o': 1, 'q': 1, 'c': 1}","{('s', 'g'): 1}",fousquec,Fargues-sur-Ourbise,{},{},"{('é', 'e'): 1}",fousquet,Puch-d'Agenais,{},{},"{('é', 'e'): 1, ('c', 't'): 1}"
+fousquet,Puch-d'Agenais,fousquèt,Moncrabeau,{},{},"{('e', 'è'): 1}",fuguè,Pellegrue,{},"{'o': 1, 'q': 1, 't': 1}","{('s', 'g'): 1, ('e', 'è'): 1}",fousquéc,Monheurt,{},{},"{('e', 'é'): 1, ('t', 'c'): 1}"
+fousquéc,Razimet,hou,Bourdalat,{},"{'s': 1, 'q': 1, 'u': 1, 'é': 1, 'c': 1}","{('f', 'h'): 1}",fousquec,Baleyssagues,{},{},"{('é', 'e'): 1}",fousquéc,Saint-Léon,{},{},{}
+fousquét,Saint-Léger,fousquèc,Duras,{},{},"{('é', 'è'): 1, ('t', 'c'): 1}",fousquèc,Damazan,{},{},"{('é', 'è'): 1, ('t', 'c'): 1}",fousquéc,Saint-Pierre-de-Buzet,{},{},"{('t', 'c'): 1}"
+fousquéc,Saint-Léon,fousquéc,Saint-Pierre-de-Buzet,{},{},{},hou,Carcen-Ponson,{},"{'s': 1, 'q': 1, 'u': 1, 'é': 1, 'c': 1}","{('f', 'h'): 1}",fousquéc,Razimet,{},{},{}
+fousquéc,Saint-Pierre-de-Buzet,fousquec,Fargues-sur-Ourbise,{},{},"{('é', 'e'): 1}",fousquéc,Saint-Léon,{},{},{},fousquét,Saint-Léger,{},{},"{('c', 't'): 1}"
+fousquéc,Auriac-sur-Dropt,fousquec,Baleyssagues,{},{},"{('é', 'e'): 1}",fugué,Vertheuil,{},"{'o': 1, 'q': 1, 'c': 1}","{('s', 'g'): 1}",housquec,Moustier,{},{},"{('f', 'h'): 1, ('é', 'e'): 1}"
+fousquec,Baleyssagues,fousquéc,Razimet,{},{},"{('e', 'é'): 1}",fousquéc,Auriac-sur-Dropt,{},{},"{('e', 'é'): 1}",fousquèc,Duras,{},{},"{('e', 'è'): 1}"
+fousquèc,Duras,fousquèc,Esclottes,{},{},{},fousquét,Saint-Léger,{},{},"{('è', 'é'): 1, ('c', 't'): 1}",fousquec,Baleyssagues,{},{},"{('è', 'e'): 1}"
+fousquèc,Esclottes,fousquéq,La Sauvetat-du-Dropt,{},{},"{('è', 'é'): 1, ('c', 'q'): 1}",fousquèc,Damazan,{},{},{},fousquèc,Duras,{},{},{}
+fousquéq,La Sauvetat-du-Dropt,housquec,Moustier,{},{},"{('f', 'h'): 1, ('é', 'e'): 1, ('q', 'c'): 1}",fusqué,Ambarès-et-Lagrave,{},"{'o': 1, 'q': 1}",{},fousquèc,Esclottes,{},{},"{('é', 'è'): 1, ('q', 'c'): 1}"
+housquec,Moustier,fousquèc,Saint-Astier,{},{},"{('h', 'f'): 1, ('e', 'è'): 1}",fousquéq,La Sauvetat-du-Dropt,{},{},"{('h', 'f'): 1, ('e', 'é'): 1, ('c', 'q'): 1}",fousquéc,Auriac-sur-Dropt,{},{},"{('h', 'f'): 1, ('e', 'é'): 1}"
+fousquèc,Saint-Astier,fousquèc,Savignac-de-Duras,{},{},{},housquec,Moustier,{},{},"{('f', 'h'): 1, ('è', 'e'): 1}",fousquèc,Saint-Sernin,{},{},{}
+fousquèc,Saint-Sernin,fugué,Cazaugitat,{},"{'o': 1, 'q': 1, 'c': 1}","{('s', 'g'): 1, ('è', 'é'): 1}",fousquèc,Saint-Astier,{},{},{},,,,,
+fousquèc,Savignac-de-Duras,fugué,Saint-Julien-en-Born,{},"{'o': 1, 'q': 1, 'c': 1}","{('s', 'g'): 1, ('è', 'é'): 1}",fousquèc,Saint-Astier,{},{},{},,,,,
+fousquet,Soumensac,fugué,Listrac-de-Durèze,{},"{'o': 1, 'q': 1, 't': 1}","{('s', 'g'): 1, ('e', 'é'): 1}",fousquet,Villeneuve-de-Duras,{},{},{},,,,,
+fousquet,Villeneuve-de-Duras,fousquet,Soumensac,{},{},{},fusquait,Bassens,{'a': 1},{'o': 1},"{('e', 'i'): 1}",,,,,
+fousquéc,Fieux,fusqué,Ambès,{},"{'o': 1, 'c': 1}",{},fousquèc,Francescas,{},{},"{('é', 'è'): 1}",,,,,
+fousquèc,Francescas,fousquéc,Fieux,{},{},"{('è', 'é'): 1}",fué,Pujols-sur-Ciron,{},"{'o': 1, 'q': 1, 'u': 1, 'è': 1, 'c': 1}","{('s', 'é'): 1}",,,,,
+fousquèt,Lamontjoie,fuguè,Pellegrue,{},"{'o': 1, 'q': 1, 't': 1}","{('s', 'g'): 1}",fousquèt,Moncrabeau,{},{},{},,,,,
+fousquait,Moncrabeau-bis,fousquèc,Damazan,{},{'t': 1},"{('a', 'è'): 1, ('i', 'c'): 1}",fousquèt,Moncrabeau,{},{'i': 1},"{('a', 'è'): 1}",,,,,
+fousquèt,Moncrabeau,fousquèt,Lamontjoie,{},{},{},fousquet,Puch-d'Agenais,{},{},"{('è', 'e'): 1}",fousquait,Moncrabeau-bis,{'a': 1},{},"{('è', 'i'): 1}"
+fousquet,Nomdieu,fousquec,Boussès,{},{},"{('t', 'c'): 1}",fuguèt,Preignac,{},"{'o': 1, 'q': 1}","{('s', 'g'): 1, ('e', 'è'): 1}",fousquet,Allons,{},{},{}
+fousquet,Allons,fousquet,Nomdieu,{},{},{},fuguè,Cestas,{},"{'o': 1, 'q': 1, 't': 1}","{('s', 'g'): 1, ('e', 'è'): 1}",fousquèt,Durance,{},{},"{('e', 'è'): 1}"
+fousquec,Boussès,fugué,Carbon-Blanc-bis,{},"{'o': 1, 'q': 1, 'c': 1}","{('s', 'g'): 1, ('e', 'é'): 1}",fousquet,Nomdieu,{},{},"{('c', 't'): 1}",fousquèt,Durance,{},{},"{('e', 'è'): 1, ('c', 't'): 1}"
+fousquèt,Durance,fuguè,Canéjan,{},"{'o': 1, 'q': 1, 't': 1}","{('s', 'g'): 1}",fousquec,Boussès,{},{},"{('è', 'e'): 1, ('t', 'c'): 1}",fousquet,Allons,{},{},"{('è', 'e'): 1}"
+fougait,Houeillès-bis,fousquèt,Houeillès,{'s': 1},{},"{('g', 'q'): 1, ('a', 'u'): 1, ('i', 'è'): 1}",fuguait,Lormont,{'u': 1},{'o': 1},{},,,,,
+fousquèt,Houeillès,fué,Pujols-sur-Ciron,{},"{'o': 1, 'q': 1, 'u': 1, 'è': 1, 't': 1}","{('s', 'é'): 1}",fougait,Houeillès-bis,{},{'è': 1},"{('s', 'g'): 1, ('q', 'a'): 1, ('u', 'i'): 1}",,,,,
+fousquet,Pindères,fousquèc,Lauzun-bis,{},{},"{('e', 'è'): 1, ('t', 'c'): 1}",fousquec,Sauméjan,{},{},"{('t', 'c'): 1}",fousquèt,Armillac,{},{},"{('e', 'è'): 1}"
+fousquèc,Pompogne,fut,Lège,{},"{'o': 1, 'q': 1, 'u': 1, 'è': 1, 'c': 1}","{('s', 't'): 1}",fousquec,Agnac,{},{},"{('è', 'e'): 1}",fousquec,Sauméjan,{},{},"{('è', 'e'): 1}"
+fousquec,Sauméjan,fuguè,Doulezon,{},"{'o': 1, 'q': 1, 'c': 1}","{('s', 'g'): 1, ('e', 'è'): 1}",fousquèc,Pompogne,{},{},"{('e', 'è'): 1}",fousquet,Pindères,{},{},"{('c', 't'): 1}"
+fousquec,Agnac,fousquèc,Pompogne,{},{},"{('e', 'è'): 1}",fut,Ludon-Médoc,{},"{'o': 1, 'q': 1, 'u': 1, 'e': 1, 'c': 1}","{('s', 't'): 1}",fousquèt,Armillac,{},{},"{('e', 'è'): 1, ('c', 't'): 1}"
+fousquèt,Armillac,fousquec,Agnac,{},{},"{('è', 'e'): 1, ('t', 'c'): 1}",fousquec,Lavergne,{},{},"{('è', 'e'): 1, ('t', 'c'): 1}",fousquet,Pindères,{},{},"{('è', 'e'): 1}"
+fousquet,Bourgougnague,fousquèc,Lauzun-ter,{},{},"{('e', 'è'): 1, ('t', 'c'): 1}",fuguè,Saint-Michel-de-Rieufret,{},"{'o': 1, 'q': 1, 't': 1}","{('s', 'g'): 1, ('e', 'è'): 1}",fousquèc,Laperche,{},{},"{('e', 'è'): 1, ('t', 'c'): 1}"
+fousquèc,Laperche,fuguè,Doulezon,{},"{'o': 1, 'q': 1, 'c': 1}","{('s', 'g'): 1}",fousquèc,Lauzun-bis,{},{},{},fousquet,Bourgougnague,{},{},"{('è', 'e'): 1, ('c', 't'): 1}"
+fousquèc,Lauzun-bis,fousquèc,Laperche,{},{},{},fousquet,Pindères,{},{},"{('è', 'e'): 1, ('c', 't'): 1}",fousquec,Lavergne,{},{},"{('è', 'e'): 1}"
+fousquèc,Lauzun-ter,fousquec,Bruch,{},{},"{('è', 'e'): 1}",fousquet,Bourgougnague,{},{},"{('è', 'e'): 1, ('c', 't'): 1}",fousquéc,Lauzun-tet,{},{},"{('è', 'é'): 1}"
+fousquéc,Lauzun-tet,fousquét,Lauzun,{},{},"{('c', 't'): 1}",fut,Saint-Loubès,{},"{'o': 1, 'q': 1, 'u': 1, 'é': 1, 'c': 1}","{('s', 't'): 1}",fousquèc,Lauzun-ter,{},{},"{('é', 'è'): 1}"
+fousquét,Lauzun,fut,Macau,{},"{'o': 1, 's': 1, 'q': 1, 'u': 1, 'é': 1}",{},fousquéc,Lauzun-tet,{},{},"{('t', 'c'): 1}",fousquec,Lavergne,{},{},"{('é', 'e'): 1, ('t', 'c'): 1}"
+fousquec,Lavergne,fousquèt,Armillac,{},{},"{('e', 'è'): 1, ('c', 't'): 1}",fousquét,Lauzun,{},{},"{('e', 'é'): 1, ('c', 't'): 1}",fousquèc,Lauzun-bis,{},{},"{('e', 'è'): 1}"
+fousquec,Lévignac-de-Guyenne,fousquet,Thouars-sur-Garonne,{},{},"{('c', 't'): 1}",fousquèg,Miramont-de-Guyenne,{},{},"{('e', 'è'): 1, ('c', 'g'): 1}",fousquét,Montignac-de-Lauzun,{},{},"{('e', 'é'): 1, ('c', 't'): 1}"
+fousquèg,Miramont-de-Guyenne,fousquec,Lévignac-de-Guyenne,{},{},"{('è', 'e'): 1, ('g', 'c'): 1}",fousquec,Peyrière,{},{},"{('è', 'e'): 1, ('g', 'c'): 1}",,,,,
+fousquét,Montignac-de-Lauzun,fugué,Pessac-sur-Dordogne,{},"{'o': 1, 'q': 1, 't': 1}","{('s', 'g'): 1}",fousquec,Lévignac-de-Guyenne,{},{},"{('é', 'e'): 1, ('t', 'c'): 1}",fousquec,Peyrière,{},{},"{('é', 'e'): 1, ('t', 'c'): 1}"
+fousquec,Peyrière,fousquèg,Miramont-de-Guyenne,{},{},"{('e', 'è'): 1, ('c', 'g'): 1}",fuguèt,Saint-Pierre-d'Aurillac,{},"{'o': 1, 'q': 1}","{('s', 'g'): 1, ('e', 'è'): 1, ('c', 't'): 1}",fousquét,Montignac-de-Lauzun,{},{},"{('e', 'é'): 1, ('c', 't'): 1}"
+fousquec,Puysserampion,fousquet,Lavardac-bis,{},{},"{('c', 't'): 1}",fousquec,Virazeil,{},{},{},fousquèc,Roumagne,{},{},"{('e', 'è'): 1}"
+fousquèc,Roumagne,fousquec,Puysserampion,{},{},"{('è', 'e'): 1}",,,,,,,,,,
+fousquèt,Saint-Colomb-de-Lauzun,fousquec,Marmande,{},{},"{('è', 'e'): 1, ('t', 'c'): 1}",fuguet,Rauzan,{},"{'o': 1, 'q': 1}","{('s', 'g'): 1, ('è', 'e'): 1}",,,,,
+fousquec,Saint-Nazaire,fuguet,Saint-Jean-de-Blaignac,{},"{'o': 1, 'q': 1}","{('s', 'g'): 1, ('c', 't'): 1}",fousquec,Sérignac-Péboudou,{},{},{},,,,,
+fousquéc,Ségalas,fousquec,Sérignac-Péboudou,{},{},"{('é', 'e'): 1}",fousquec,Lavardac,{},{},"{('é', 'e'): 1}",,,,,
+fousquec,Sérignac-Péboudou,fuguet,Rauzan,{},"{'o': 1, 'q': 1}","{('s', 'g'): 1, ('c', 't'): 1}",fousquéc,Ségalas,{},{},"{('e', 'é'): 1}",fousquec,Saint-Nazaire,{},{},{}
+fousquèc,Barbaste,fuguait,Aubie-et-Espessas,{},{'o': 1},"{('s', 'g'): 1, ('q', 'u'): 1, ('u', 'a'): 1, ('è', 'i'): 1, ('c', 't'): 1}",fousquec,Bruch,{},{},"{('è', 'e'): 1}",fousquèt,Saint-Laurent,{},{},"{('c', 't'): 1}"
+fousquec,Béquin,fut,Saint-Aubin-de-Médoc,{},"{'o': 1, 'q': 1, 'u': 1, 'e': 1, 'c': 1}","{('s', 't'): 1}",fousquèt,Pompiey,{},{},"{('e', 'è'): 1, ('c', 't'): 1}",fusqueg,Bruch-bis,{},{'o': 1},"{('c', 'g'): 1}"
+fusqueg,Bruch-bis,fusqué,Montussan,{},{'g': 1},"{('e', 'é'): 1}",fousquec,Béquin,{'o': 1},{},"{('g', 'c'): 1}",fousquec,Bruch,{'o': 1},{},"{('g', 'c'): 1}"
+fousquec,Bruch,fousquèc,Barbaste,{},{},"{('e', 'è'): 1}",fousquèc,Lauzun-ter,{},{},"{('e', 'è'): 1}",fusqueg,Bruch-bis,{},{'o': 1},"{('c', 'g'): 1}"
+fousquet,Feugarolles,fousquèt,Montesquieu,{},{},"{('e', 'è'): 1}",fut,Saint-Aubin-de-Médoc,{},"{'o': 1, 's': 1, 'q': 1, 'u': 1, 'e': 1}",{},fousquet,Lavardac-bis,{},{},{}
+fousquet,Lavardac-bis,fousquet,Feugarolles,{},{},{},fousquec,Puysserampion,{},{},"{('t', 'c'): 1}",,,,,
+fousquec,Lavardac,fousquéc,Ségalas,{},{},"{('e', 'é'): 1}",fusquéc,Méneau,{},{'o': 1},"{('e', 'é'): 1}",fousquèc,Mongaillard,{},{},"{('e', 'è'): 1}"
+fusquéc,Méneau,fousquec,Lavardac,{'o': 1},{},"{('é', 'e'): 1}",fugué,Cubzac-les-Ponts,{},"{'q': 1, 'c': 1}","{('s', 'g'): 1}",fousquèt,Saint-Laurent,{'o': 1},{},"{('é', 'è'): 1, ('c', 't'): 1}"
+fousquèc,Mongaillard,fousquec,Lavardac,{},{},"{('è', 'e'): 1}",fousquèt,Montesquieu,{},{},"{('c', 't'): 1}",,,,,
+fousquèt,Montesquieu,fousquèt,Pompiey,{},{},{},fousquet,Feugarolles,{},{},"{('è', 'e'): 1}",fousquèc,Mongaillard,{},{},"{('t', 'c'): 1}"
+fousquèt,Pompiey,fousquec,Béquin,{},{},"{('è', 'e'): 1, ('t', 'c'): 1}",fousquèt,Montesquieu,{},{},{},fousquèt,Saint-Laurent,{},{},{}
+fousquèt,Saint-Laurent,fusquéc,Méneau,{},{'o': 1},"{('è', 'é'): 1, ('t', 'c'): 1}",fousquèc,Barbaste,{},{},"{('t', 'c'): 1}",fousquèt,Pompiey,{},{},{}
+fousquet,Thouars-sur-Garonne,fousquec,Lévignac-de-Guyenne,{},{},"{('t', 'c'): 1}",fousquet,Vianne,{},{},{},,,,,
+fousquet,Vianne,fousquet,Thouars-sur-Garonne,{},{},{},fuguèt,Peujard,{},"{'o': 1, 'q': 1}","{('s', 'g'): 1, ('e', 'è'): 1}",fousquèc,Birac-sur-Trec,{},{},"{('e', 'è'): 1, ('t', 'c'): 1}"
+fousquait,Xaintrailles,fuguait,Saint-André-de-Cubzac,{},"{'o': 1, 'q': 1}","{('s', 'g'): 1}",fusquet,Beaupuy,{},"{'o': 1, 'i': 1}","{('a', 'e'): 1}",fousquèc,Birac-sur-Trec,{},{'t': 1},"{('a', 'è'): 1, ('i', 'c'): 1}"
+fousquéc,Agmé,fusquet,Beaupuy,{},{'o': 1},"{('é', 'e'): 1, ('c', 't'): 1}",,,,,,,,,,
+fusquet,Beaupuy,fousquait,Xaintrailles,"{'o': 1, 'a': 1}",{},"{('e', 'i'): 1}",fousquéc,Agmé,{'o': 1},{},"{('e', 'é'): 1, ('t', 'c'): 1}",,,,,
+fousquèc,Birac-sur-Trec,fousquet,Vianne,{},{},"{('è', 'e'): 1, ('c', 't'): 1}",fousquait,Xaintrailles,{'a': 1},{},"{('è', 'i'): 1, ('c', 't'): 1}",,,,,
+fousquèc,Fauguerolles,fuguet,Saint-Vincent-de-Pertignas,{},"{'o': 1, 'q': 1}","{('s', 'g'): 1, ('è', 'e'): 1, ('c', 't'): 1}",fousquè̄p,Marmande-bis,{'̄': 1},{},"{('c', 'p'): 1}",,,,,
+fousquec,Gontaud-de-Nogaret-bis,fugué,Saint-Antoine,{},"{'o': 1, 'q': 1, 'c': 1}","{('s', 'g'): 1, ('e', 'é'): 1}",fousquèc,Gontaud-de-Nogaret,{},{},"{('e', 'è'): 1}",fousquec,Hautesvignes,{},{},{}
+fousquèc,Gontaud-de-Nogaret,fousquec,Gontaud-de-Nogaret-bis,{},{},"{('è', 'e'): 1}",fousquè̄p,Marmande-bis,{'̄': 1},{},"{('c', 'p'): 1}",,,,,
+fousquec,Hautesvignes,fousquec,Marmande-ter,{},{},{},fousquec,Gontaud-de-Nogaret-bis,{},{},{},,,,,
+fousquèq,Longueville,fusquét,Saint-Pey-de-Castets,{},{'o': 1},"{('è', 'é'): 1, ('q', 't'): 1}",fousquec,Marmande,{},{},"{('è', 'e'): 1, ('q', 'c'): 1}",fousquè̄p,Marmande-bis,{'̄': 1},{},"{('q', 'p'): 1}"
+fousquè̄p,Marmande-bis,fousquèc,Fauguerolles,{},{'p': 1},"{('̄', 'c'): 1}",fousquèq,Longueville,{},{'p': 1},"{('̄', 'q'): 1}",fousquèc,Gontaud-de-Nogaret,{},{'p': 1},"{('̄', 'c'): 1}"
+fousquec,Marmande-ter,fousquec,Hautesvignes,{},{},{},fousquec,Marmande,{},{},{},,,,,
+fousquec,Marmande,fousquèq,Longueville,{},{},"{('e', 'è'): 1, ('c', 'q'): 1}",fousquèt,Saint-Colomb-de-Lauzun,{},{},"{('e', 'è'): 1, ('c', 't'): 1}",fousquec,Marmande-ter,{},{},{}
+fusquet,Saint-Pardoux-du-Breuil,fugué,Saint-Antoine,{},"{'q': 1, 't': 1}","{('s', 'g'): 1, ('e', 'é'): 1}",,,,,,,,,,
+fousquet,Saint-Pierre de Nogaret,fugué,Flaujagues,{},"{'o': 1, 'q': 1, 't': 1}","{('s', 'g'): 1, ('e', 'é'): 1}",fousquèc,Sainte-Bazeille,{},{},"{('e', 'è'): 1, ('t', 'c'): 1}",,,,,
+fousquèc,Sainte-Bazeille,figué,Juillac,{},"{'s': 1, 'q': 1, 'c': 1}","{('o', 'i'): 1, ('u', 'g'): 1, ('è', 'é'): 1}",fousquet,Saint-Pierre de Nogaret,{},{},"{('è', 'e'): 1, ('c', 't'): 1}",,,,,
+fousquéc,Taillebourg,fuèt,Saint-Laurent-Médoc,{},"{'o': 1, 'u': 1, 'é': 1, 'c': 1}","{('s', 'è'): 1, ('q', 't'): 1}",fousquec,Virazeil,{},{},"{('é', 'e'): 1}",,,,,
+fousquec,Virazeil,fousquec,Puysserampion,{},{},{},fousquéc,Taillebourg,{},{},"{('e', 'é'): 1}",,,,,
+fousquèt,Cocumont,fousquèt,Couthures-sur-Garonne,{},{},{},,,,,,,,,,
+fousquèt,Couthures-sur-Garonne,fousquèt,Cocumont,{},{},{},,,,,,,,,,
+fousquèc,Gaujac,,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+Mot,Commune,Voisin_1,Commune_1,Insertions_1,Suppressions_1,Substitutions_1,Voisin_2,Commune_2,Insertions_2,Suppressions_2,Substitutions_2,Voisin_3,Commune_3,Insertions_3,Suppressions_3,Substitutions_3
+bitous,Andernos-les-Bains,bitous,Audenge-bis,{},{},{},,,,,,,,,,
+bitous,Arès,,,,,,,,,,,,,,,
+bitous,Audenge-bis,bitous,Andernos-les-Bains,{},{},{},,,,,,,,,,
+bitous,Audenge,,,,,,,,,,,,,,,

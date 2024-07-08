@@ -1,0 +1,765 @@
+Mot,Commune,Voisin_1,Commune_1,Insertions_1,Suppressions_1,Substitutions_1,Voisin_2,Commune_2,Insertions_2,Suppressions_2,Substitutions_2,Voisin_3,Commune_3,Insertions_3,Suppressions_3,Substitutions_3
+alors,Andernos-les-Bains,alors,Bazas-bis,{},{},{},alors,Auros-bis,{},{},{},alors,Audenge-bis,{},{},{}
+alors,Arès,alors,Savignac,{},{},{},alors,Ailas,{},{},{},alors,Coimères,{},{},{}
+alors,Audenge-bis,alors,Andernos-les-Bains,{},{},{},alors,Le Porge,{},{},{},alors,Saint-Étienne-de-Lisse,{},{},{}
+alors,Audenge,alors,Lignan-de-Bazas,{},{},{},alors,Belin-Béliet,{},{},{},,,,,
+alors,Biganos,alors,Blanquefort-bis,{},{},{},,,,,,,,,,
+alors,Lacanau-de-Mios,alors,Eysines,{},{},{},alors,Carbon-Blanc-bis,{},{},{},,,,,
+alors,Lanton,alors,Macau,{},{},{},alors,Castelnau-de-Médoc,{},{},{},alors,Saint-Loubès,{},{},{}
+alors,Lège,alors,Saint-Sulpice-et-Cameyrac,{},{},{},,,,,,,,,,
+alors,Mios,alors,Ailas,{},{},{},alors,Saint-Maixant,{},{},{},,,,,
+alors,Ailas,alors,Arès,{},{},{},alors,Mios,{},{},{},alors,Auros-bis,{},{},{}
+alors,Auros-bis,alors,Andernos-les-Bains,{},{},{},alors,Ailas,{},{},{},,,,,
+alors,Auros,alors,Bordeaux,{},{},{},alors,Sainte-Foy-la-Grande-bis,{},{},{},alors,Brannens,{},{},{}
+alors,Barie,alors,Yvrac,{},{},{},,,,,,,,,,
+alors,Brannens,alors,Auros,{},{},{},alors,Castillon-de-Castets,{},{},{},,,,,
+alors,Castillon-de-Castets,alors,Saint-Médard-en-Jalles,{},{},{},alors,Brannens,{},{},{},,,,,
+alors,Coimères,alors,Arès,{},{},{},alors,Cudos,{},{},{},alors,Lados,{},{},{}
+alors,Lados,aloure,Gans,{'u': 1},{},"{('s', 'e'): 1}",alors,Puybarban,{},{},{},alors,Coimères,{},{},{}
+alors,Pondaurat,alors,Blaignan,{},{},{},,,,,,,,,,
+alors,Puybarban,alors,Lados,{},{},{},alors,Le Bouscat,{},{},{},alors,Savignac,{},{},{}
+alors,Savignac,alors,Sigalens,{},{},{},alors,Arès,{},{},{},alors,Puybarban,{},{},{}
+alors,Sigalens,alors,Caudéran,{},{},{},alors,Savignac,{},{},{},alors,Bayon-sur-Gironde,{},{},{}
+alors,Bazas-bis,alors,Bazas,{},{},{},alors,Andernos-les-Bains,{},{},{},,,,,
+alors,Bazas,aloure,Cazats,{'u': 1},{},"{('s', 'e'): 1}",alors,Bazas-bis,{},{},{},,,,,
+alors,Bernos-Beaulac,alors,Birac,{},{},{},alors,Saumos,{},{},{},aloure,Gajac,{'u': 1},{},"{('s', 'e'): 1}"
+alors,Birac,alors,Saint-Magne-de-Castillon,{},{},{},alors,Bernos-Beaulac,{},{},{},aloure,Cazats,{'u': 1},{},"{('s', 'e'): 1}"
+aloure,Cazats,alors,Cudos,{},{'u': 1},"{('e', 's'): 1}",alors,Bazas,{},{'u': 1},"{('e', 's'): 1}",alors,Birac,{},{'u': 1},"{('e', 's'): 1}"
+alors,Cudos,alors,Coimères,{},{},{},aloure,Cazats,{'u': 1},{},"{('s', 'e'): 1}",aloure,Gans,{'u': 1},{},"{('s', 'e'): 1}"
+aloure,Gajac,alors,Belvès-de-Castillon,{},{'u': 1},"{('e', 's'): 1}",aloure,Gans,{},{},{},alors,Bernos-Beaulac,{},{'u': 1},"{('e', 's'): 1}"
+aloure,Gans,aloure,Gajac,{},{},{},alors,Lados,{},{'u': 1},"{('e', 's'): 1}",alors,Cudos,{},{'u': 1},"{('e', 's'): 1}"
+alore,Le Nizan,alors,Prignac-et-Marcamps,{},{},"{('e', 's'): 1}",alors,Gauriac,{},{},"{('e', 's'): 1}",alors,Saint-Antoine-sur-l'Isle,{},{},"{('e', 's'): 1}"
+alors,Lignan-de-Bazas,alors,Audenge,{},{},{},alors,Lansac,{},{},{},alour,Béliet,{'u': 1},{'s': 1},{}
+alors,Saint-Côme,alors,Bonnetan,{},{},{},alors,Saint-Trojan,{},{},{},alour,Béliet,{'u': 1},{'s': 1},{}
+alour,Béliet,alors,Belin-Béliet,{},{},"{('u', 'r'): 1, ('r', 's'): 1}",alors,Lignan-de-Bazas,{},{},"{('u', 'r'): 1, ('r', 's'): 1}",alors,Saint-Côme,{},{},"{('u', 'r'): 1, ('r', 's'): 1}"
+alors,Belin-Béliet,alors,Cadillac-en-Fronsadais,{},{},{},alors,Audenge,{},{},{},alour,Béliet,{'u': 1},{'s': 1},{}
+alours,Joué,alore,Le Barp,{},{'u': 1},"{('s', 'e'): 1}",alors,Tabanac,{},{'u': 1},{},,,,,
+alore,Le Barp,alors,Cabara,{},{},"{('e', 's'): 1}",alours,Joué,{'u': 1},{},"{('e', 's'): 1}",,,,,
+alors,Lugos,alors,Saint-Magne,{},{},{},alors,Salles-bis,{},{},{},,,,,
+alors,Saint-Magne,alors,Salles,{},{},{},alors,Lugos,{},{},{},alor,Saint-Romain-la-Virvée,{},{'s': 1},{}
+alors,Salles-bis,alors,Lugos,{},{},{},alors,Génissac,{},{},{},,,,,
+alors,Salles,alors,Saint-Magne,{},{},{},alort,Saint-Quentin-de-Baron,{},{},"{('s', 't'): 1}",,,,,
+alors,Blanquefort-bis,alors,Langoiran,{},{},{},alors,Biganos,{},{},{},alors,Blanquefort,{},{},{}
+alors,Blanquefort,alors,Blanquefort-bis,{},{},{},alors,Ychoux,{},{},{},alors,La Réole,{},{},{}
+alors,Caychac,alors,Omet,{},{},{},alors,Eysines,{},{},{},alors,Giscos,{},{},{}
+alors,Eysines,alors,Caychac,{},{},{},alors,Lacanau-de-Mios,{},{},{},alors,Le Haillan,{},{},{}
+alors,Le Haillan,alors,Le Pian-Médoc,{},{},{},olor,Bénesse-Maremne,{},{'s': 1},"{('a', 'o'): 1}",alors,Eysines,{},{},{}
+alors,Le Pian-Médoc,alor,Josse,{},{'s': 1},{},alors,Le Haillan,{},{},{},olors,Montgaillard,{},{},"{('a', 'o'): 1}"
+alors,Le Taillan-Médoc,alors,Sainte-Croix-du-Mont,{},{},{},alors,Bassens,{},{},{},alors,Landerrouat,{},{},{}
+alors,Ludon-Médoc,alors,Macau,{},{},{},,,,,,,,,,
+alors,Macau,alors,Ludon-Médoc,{},{},{},alors,Lanton,{},{},{},,,,,
+alors,Parempuyre,alors,Arcins,{},{},{},alors,Arsac,{},{},{},,,,,
+alors,Saint-Aubin-de-Médoc,alors,Labarde,{},{},{},,,,,,,,,,
+alors,Saint-Médard-en-Jalles,alors,Margaux,{},{},{},alors,Castillon-de-Castets,{},{},{},alors,Moulis-en-Médoc-bis,{},{},{}
+alors,Bègles,alors,Lugon-et-l'Île-du-Carnay,{},{},{},alors,Moulis-en-Médoc,{},{},{},,,,,
+alors,Bordeaux,alors,Auros,{},{},{},,,,,,,,,,
+alors,Bruges,alors,Bégadan,{},{},{},alors,Caudéran,{},{},{},,,,,
+alors,Caudéran,alors,Bruges,{},{},{},alors,Sigalens,{},{},{},alors,Bayon-sur-Gironde,{},{},{}
+alors,Chartrons,alors,Sainte-Colombe,{},{},{},alors,Salaunes,{},{},{},,,,,
+alors,Le Bouscat,alors,Puybarban,{},{},{},alors,Castillon-la-Bataille-bis,{},{},{},alors,Bayon-sur-Gironde,{},{},{}
+alors,Bayon-sur-Gironde,alors,Caudéran,{},{},{},alors,Sigalens,{},{},{},alors,Le Bouscat,{},{},{}
+alors,Bourg-bis,alore,Castres-Gironde,{},{},"{('s', 'e'): 1}",alors,Castillon-la-Bataille,{},{},{},alors,Bahus-Soubiran,{},{},{}
+alors,Bourg,alors,Comps,{},{},{},olor,Rivière-Saas-et-Gourby,{},{'s': 1},"{('a', 'o'): 1}",alors,Baron,{},{},{}
+alors,Comps,alors,Gauriac,{},{},{},alors,Bourg,{},{},{},,,,,
+alors,Gauriac,alore,Le Nizan,{},{},"{('s', 'e'): 1}",alors,Comps,{},{},{},alors,Baurech,{},{},{}
+alors,Lansac,alors,Lignan-de-Bazas,{},{},{},alors,Marcamps,{},{},{},alèro,Saint-Loubouer,{},{},"{('o', 'è'): 1, ('s', 'o'): 1}"
+alors,Marcamps,alors,Prignac-et-Marcamps,{},{},{},alors,Lansac,{},{},{},,,,,
+alors,Prignac-et-Marcamps,alors,Marcamps,{},{},{},alore,Le Nizan,{},{},"{('s', 'e'): 1}",alèro,Renung,{},{},"{('o', 'è'): 1, ('s', 'o'): 1}"
+alors,Saint-Seurin-de-Bourg,olors,Saint-Pandelon,{},{},"{('a', 'o'): 1}",alors,Samonac,{},{},{},alors,Baron,{},{},{}
+alors,Saint-Trojan,alors,Saint-Côme,{},{},{},alors,Tauriac,{},{},{},alors,Samonac,{},{},{}
+alors,Samonac,alors,Saint-Seurin-de-Bourg,{},{},{},alors,Fronsac,{},{},{},alors,Saint-Trojan,{},{},{}
+alors,Tauriac,alors,Saint-Trojan,{},{},{},alors,Camarsac,{},{},{},alors,Baron,{},{},{}
+alors,Baron,alors,Bourg,{},{},{},alors,Saint-Seurin-de-Bourg,{},{},{},alors,Tauriac,{},{},{}
+alors,Branne-bis,alors,Saint-Lon-les-Mines,{},{},{},alaro,Bonnegarde,{},{},"{('o', 'a'): 1, ('s', 'o'): 1}",alors,Camblanes-et-Meynac,{},{},{}
+alors,Branne,alors,Hure,{},{},{},alors,Gironde-sur-Dropt-bis,{},{},{},alors,Carignan-de-Bordeaux,{},{},{}
+alor,Cabara-bis,alors,Le Tourne,{'s': 1},{},{},alors,Linxe,{'s': 1},{},{},alors,Dax-Saint-Vincent,{'s': 1},{},{}
+alors,Cabara,alors,Saillans,{},{},{},alore,Le Barp,{},{},"{('s', 'e'): 1}",,,,,
+alors,Daignac,alors,Génissac,{},{},{},,,,,,,,,,
+alors,Génissac,alors,Salles-bis,{},{},{},alors,Daignac,{},{},{},olor,Losse,{},{'s': 1},"{('a', 'o'): 1}"
+alors,Grézillac,alors,Jugazan,{},{},{},,,,,,,,,,
+alors,Jugazan,alors,Grézillac,{},{},{},alors,Civrac,{},{},{},alors,Gaillan-en-Médoc,{},{},{}
+alors,Moulon,olor,Horsarrieu,{},{'s': 1},"{('a', 'o'): 1}",alors,Bascons,{},{},{},alors,Naujan-et-Postiac,{},{},{}
+alors,Naujan-et-Postiac,alors,Grignols-bis,{},{},{},olor,Cazères-sur-l'Adour,{},{'s': 1},"{('a', 'o'): 1}",alors,Moulon,{},{},{}
+alors,Nérigean,olor,Saint-Cricq-Chalosse,{},{'s': 1},"{('a', 'o'): 1}",olor,Poudenx,{},{'s': 1},"{('a', 'o'): 1}",alors,Saint-Germain-du-Puch,{},{},{}
+alors,Saint-Germain-du-Puch,alors,Uzeste,{},{},{},alor,Laurède,{},{'s': 1},{},alors,Nérigean,{},{},{}
+alort,Saint-Quentin-de-Baron,alors,Salles,{},{},"{('t', 's'): 1}",alor,Arengosse,{},{'t': 1},{},,,,,
+alors,Tizac-de-Curton,olors,Arjuzanx,{},{},"{('a', 'o'): 1}",,,,,,,,,,
+alors,Béguey,alors,Sendets,{},{},{},alors,Gabarnac,{},{},{},,,,,
+alors,Cadillac,alors,Cardan,{},{},{},alors,Camiran,{},{},{},alors,Capian,{},{},{}
+alors,Capian,alors,Saint-Michel-de-Fronsac,{},{},{},alors,Cadillac,{},{},{},alors,Sindères,{},{},{}
+alors,Cardan,alors,Lerm-et-Musset,{},{},{},alors,Cadillac,{},{},{},alors,Donzac,{},{},{}
+alors,Donzac,alors,Saint-Médard-d'Eyrans,{},{},{},alors,Gabarnac,{},{},{},alors,Cardan,{},{},{}
+alors,Gabarnac,alors,Donzac,{},{},{},alors,Béguey,{},{},{},alors,Marions,{},{},{}
+alors,Langoiran-bis,alors,Villeneuve-de-Marsan,{},{},{},alor,Gironde-sur-Dropt,{},{'s': 1},{},,,,,
+alors,Langoiran,alors,Blanquefort-bis,{},{},{},,,,,,,,,,
+alors,Lestiac-sur-Garonne,alors,Solférino,{},{},{},alors,Morizès,{},{},{},,,,,
+alors,Loupiac,alors,Biaudos,{},{},{},alors,Gujan,{},{},{},alors,Monprimblanc,{},{},{}
+alors,Monprimblanc,alors,Saint-Hilaire-de-la-Noaille,{},{},{},alors,Loupiac,{},{},{},,,,,
+alors,Omet,alors,Paillet,{},{},{},alors,Caychac,{},{},{},alors,La Teste-de-Buch,{},{},{}
+alors,Paillet,alor,Rions,{},{'s': 1},{},alors,Omet,{},{},{},alors,Le Teich,{},{},{}
+alor,Rions,alors,Paillet,{'s': 1},{},{},,,,,,,,,,
+alors,Sainte-Croix-du-Mont,alor,Captieux-bis,{},{'s': 1},{},alors,Le Taillan-Médoc,{},{},{},alors,Mazères,{},{},{}
+alors,Villenave-de-Rions,alors,Beychac-et-Caillau,{},{},{},alor,Captieux-bis,{},{'s': 1},{},alor,Arbanats,{},{'s': 1},{}
+alor,Captieux-bis,alors,Villenave-de-Rions,{'s': 1},{},{},alors,Sainte-Croix-du-Mont,{'s': 1},{},{},alors,Captieux,{'s': 1},{},{}
+alors,Captieux,alors,Léogeats,{},{},{},alors,Langon,{},{},{},alor,Captieux-bis,{},{'s': 1},{}
+alors,Escaudes,alors,Bouliac,{},{},{},alor,Cérons,{},{'s': 1},{},olors,Montsoué,{},{},"{('a', 'o'): 1}"
+alors,Giscos,alors,Bieujac,{},{},{},alors,Caychac,{},{},{},alors,Saint-Pardon-de-Conques,{},{},{}
+alors,Saint-Michel-de-Castelnau,alors,Cenon,{},{},{},alors,Saint-Émilion,{},{},{},alors,Toulenne,{},{},{}
+alors,Ambarès-et-Lagrave,olor,Taller,{},{'s': 1},"{('a', 'o'): 1}",,,,,,,,,,
+alors,Ambès,alor,Martignas-sur-Jalle,{},{'s': 1},{},alors,Beychac-et-Caillau,{},{},{},,,,,
+alors,Bassens,alors,Le Taillan-Médoc,{},{},{},alors,Beychac-et-Caillau,{},{},{},,,,,
+alors,Beychac-et-Caillau,alors,Bassens,{},{},{},alors,Villenave-de-Rions,{},{},{},alors,Ambès,{},{},{}
+alors,Bouliac,alors,Podensac,{},{},{},alors,Escaudes,{},{},{},alors,Carbon-Blanc-bis,{},{},{}
+alors,Carbon-Blanc-bis,alors,Bouliac,{},{},{},alors,Lacanau-de-Mios,{},{},{},,,,,
+alors,Carbon-Blanc,alors,Pessac,{},{},{},alors,Libourne,{},{},{},alors,Lormont,{},{},{}
+alors,Cenon,alors,Floirac,{},{},{},alors,Saint-Michel-de-Castelnau,{},{},{},,,,,
+alors,Floirac,alors,Saint-Sulpice-de-Faleyrens,{},{},{},alors,Cenon,{},{},{},alors,Lormont,{},{},{}
+alors,Lormont,alors,Carbon-Blanc,{},{},{},alors,Floirac,{},{},{},,,,,
+alors,Montussan,alors,Saint-Loubès,{},{},{},alors,Cussac-Fort-Médoc,{},{},{},,,,,
+alors,Saint-Loubès,alors,Lanton,{},{},{},alors,Montussan,{},{},{},,,,,
+alors,Saint-Louis-de-Montferrand,alors,Virelade,{},{},{},alors,Saint-Sulpice-et-Cameyrac,{},{},{},,,,,
+alors,Saint-Sulpice-et-Cameyrac,alors,Saint-Vincent-de-Paul,{},{},{},alors,Lège,{},{},{},alors,Saint-Louis-de-Montferrand,{},{},{}
+alors,Saint-Vincent-de-Paul,alors,Flaujagues,{},{},{},alors,Saint-Sulpice-et-Cameyrac,{},{},{},,,,,
+alors,Sainte-Eulalie,alors,Saint-Martin-de-Sescas,{},{},{},alors,Juillac,{},{},{},,,,,
+alors,Tresses-bis,alors,Peujard,{},{},{},alors,Pessac-sur-Dordogne,{},{},{},,,,,
+alors,Tresses,alors,Rauzan,{},{},{},alor,Saint-Pey-de-Castets,{},{'s': 1},{},alors,Cubzac-les-Ponts,{},{},{}
+alors,Yvrac,alors,Arcins,{},{},{},alors,Barie,{},{},{},,,,,
+alors,Arcins,alors,Parempuyre,{},{},{},alors,Yvrac,{},{},{},alors,Virsac,{},{},{}
+alors,Arsac-bis,alors,Cantenac,{},{},{},alors,Saint-Gervais,{},{},{},alors,Lamarque,{},{},{}
+alors,Arsac,alors,Castelnau-de-Médoc,{},{},{},alors,Parempuyre,{},{},{},alors,Cantenac,{},{},{}
+alors,Cantenac,alors,Salignac,{},{},{},alors,Arsac-bis,{},{},{},alors,Arsac,{},{},{}
+alors,Castelnau-de-Médoc,alors,Lanton,{},{},{},alors,Arsac,{},{},{},alors,Cussac-Fort-Médoc,{},{},{}
+alors,Cussac-Fort-Médoc,alors,Montussan,{},{},{},alors,Castelnau-de-Médoc,{},{},{},alors,Lacanau,{},{},{}
+alors,Labarde,alors,Saint-Aubin-de-Médoc,{},{},{},alors,Lacanau,{},{},{},alors,Caudrot,{},{},{}
+alors,Lacanau,alors,Labarde,{},{},{},alors,Cussac-Fort-Médoc,{},{},{},alors,Lamarque,{},{},{}
+alors,Lamarque,alors,Arsac-bis,{},{},{},alors,Saint-André-du-Bois,{},{},{},alors,Lacanau,{},{},{}
+alors,Le Porge,alors,Audenge-bis,{},{},{},alors,Saint-Germain-de-Grave,{},{},{},alors,Le Temple,{},{},{}
+alors,Le Temple,alor,Verdelais,{},{'s': 1},{},alors,Le Porge,{},{},{},,,,,
+alors,Listrac-Médoc,alor,Pujols-bis,{},{'s': 1},{},,,,,,,,,,
+alors,Margaux,alors,Saint-Médard-en-Jalles,{},{},{},,,,,,,,,,
+alors,Moulis-en-Médoc-bis,alors,Saint-Médard-en-Jalles,{},{},{},alors,Sainte-Foy-la-Grande-ter,{},{},{},,,,,
+alors,Moulis-en-Médoc,alors,Bègles,{},{},{},alors,Gornac,{},{},{},,,,,
+alors,Sainte-Hélène,alor,Cazalis,{},{'s': 1},{},,,,,,,,,,
+alors,Salaunes,alors,Soussans,{},{},{},alors,Chartrons,{},{},{},alors,Castillon-la-Bataille-bis,{},{},{}
+alors,Saumos,alors,Bernos-Beaulac,{},{},{},alors,Soussans,{},{},{},alors,Belvès-de-Castillon,{},{},{}
+alors,Soussans,alors,Saumos,{},{},{},alors,Saint-Pey-d'Armens,{},{},{},alors,Salaunes,{},{},{}
+alors,Belvès-de-Castillon,alors,Castillon-la-Bataille-bis,{},{},{},aloure,Gajac,{'u': 1},{},"{('s', 'e'): 1}",alors,Saumos,{},{},{}
+alors,Castillon-la-Bataille-bis,alors,Le Bouscat,{},{},{},alors,Belvès-de-Castillon,{},{},{},alors,Salaunes,{},{},{}
+alors,Castillon-la-Bataille,alors,Bourg-bis,{},{},{},alors,Puisseguin,{},{},{},alor,Classun,{},{'s': 1},{}
+alors,Gardegan,alor,Lucmau,{},{'s': 1},{},alors,Villandraut-bis,{},{},{},,,,,
+alors,Saint-Étienne-de-Lisse,alors,Audenge-bis,{},{},{},alorss,Saint-Genès-de-Castillon,{'s': 1},{},{},,,,,
+alorss,Saint-Genès-de-Castillon,alors,Saint-Étienne-de-Lisse,{},{'s': 1},{},alor,Balizac,{},{'s': 2},{},alors,Saint-Laurent-des-Combes,{},{'s': 1},{}
+alors,Saint-Laurent-des-Combes,alor,Saint-Symphorien-bis,{},{'s': 1},{},alors,Aire-sur-l'Adour,{},{},{},alorss,Saint-Genès-de-Castillon,{'s': 1},{},{}
+alors,Saint-Magne-de-Castillon,alors,Saint-Pey-d'Armens,{},{},{},alors,Birac,{},{},{},,,,,
+alors,Saint-Pey-d'Armens,alors,Soussans,{},{},{},alors,Saint-Magne-de-Castillon,{},{},{},alors,Saint-Philippe-d'Aiguille,{},{},{}
+alors,Saint-Philippe-d'Aiguille,alors,Sainte-Terre,{},{},{},alors,Saint-Pey-d'Armens,{},{},{},alors,Eugénie-les-Bains,{},{},{}
+alors,Sainte-Colombe,alors,Chartrons,{},{},{},alors,Sainte-Terre,{},{},{},,,,,
+alors,Sainte-Terre,alors,Sainte-Colombe,{},{},{},alors,Saint-Philippe-d'Aiguille,{},{},{},alors,Vignonet,{},{},{}
+alors,Vignonet,alors,Sainte-Terre,{},{},{},,,,,,,,,,
+alors,Saint-Antoine-sur-l'Isle,alèro,Saint-Agnet,{},{},"{('o', 'è'): 1, ('s', 'o'): 1}",alore,Le Nizan,{},{},"{('s', 'e'): 1}",alors,Baurech,{},{},{}
+alors,Baurech,alors,Saint-Antoine-sur-l'Isle,{},{},{},alors,Gauriac,{},{},{},alors,Camarsac,{},{},{}
+alors,Bonnetan,alors,Camarsac,{},{},{},alors,Saint-Côme,{},{},{},aléro,Sarron,{},{},"{('o', 'é'): 1, ('s', 'o'): 1}"
+alors,Camarsac,alors,Tauriac,{},{},{},alors,Bonnetan,{},{},{},alors,Baurech,{},{},{}
+alors,Cambes,alors,Cénac,{},{},{},alèro,Vielle-Tursan,{},{},"{('o', 'è'): 1, ('s', 'o'): 1}",alors,Camblanes-et-Meynac,{},{},{}
+alors,Camblanes-et-Meynac,alors,Branne-bis,{},{},{},alors,Cambes,{},{},{},alors,Carignan-de-Bordeaux,{},{},{}
+alors,Carignan-de-Bordeaux,alèro,Amou,{},{},"{('o', 'è'): 1, ('s', 'o'): 1}",alors,Branne,{},{},{},alors,Camblanes-et-Meynac,{},{},{}
+alors,Cénac,alors,Cambes,{},{},{},alèro,Bassercles,{},{},"{('o', 'è'): 1, ('s', 'o'): 1}",,,,,
+alors,Créon,aléro,Brassempouy,{},{},"{('o', 'é'): 1, ('s', 'o'): 1}",,,,,,,,,,
+alors,Haux,alèro,Castelnau-Chalosse,{},{},"{('o', 'è'): 1, ('s', 'o'): 1}",alors,Geloux,{},{},{},,,,,
+alors,Latresne,alèro,Castel-Sarrazin,{},{},"{('o', 'è'): 1, ('s', 'o'): 1}",aléro,Donzacq,{},{},"{('o', 'é'): 1, ('s', 'o'): 1}",alorch,Campagne,{'c': 1},{},"{('s', 'h'): 1}"
+alors,Le Tourne,alor,Cabara-bis,{},{'s': 1},{},alor,Sallebœuf,{},{'s': 1},{},,,,,
+alors,Lignan-de-Bordeaux,alors,Bommes,{},{},{},alors,Pompignac,{},{},{},alors,Madirac,{},{},{}
+alors,Madirac,alors,Quinsac,{},{},{},alors,Lignan-de-Bordeaux,{},{},{},,,,,
+alors,Pompignac,alors,Lignan-de-Bordeaux,{},{},{},alors,Sainte-Eulalie,{},{},{},alors,Quinsac,{},{},{}
+alors,Quinsac,olor,Uza,{},{'s': 1},"{('a', 'o'): 1}",alors,Madirac,{},{},{},alors,Pompignac,{},{},{}
+alors,Sadirac,alors,Saint-Caprais-de-Bordeaux,{},{},{},,,,,,,,,,
+alors,Saint-Caprais-de-Bordeaux,alor,Sallebœuf,{},{'s': 1},{},olors,Bénesse-lès-Dax,{},{},"{('a', 'o'): 1}",alors,Sadirac,{},{},{}
+alor,Sallebœuf,alors,Le Tourne,{'s': 1},{},{},alors,Saint-Caprais-de-Bordeaux,{'s': 1},{},{},,,,,
+alors,Tabanac,alours,Joué,{'u': 1},{},{},alor,Narrosse,{},{'s': 1},{},,,,,
+alors,Asques,alors,Fronsac-bis,{},{},{},alors,La Lande-de-Fronsac,{},{},{},,,,,
+alors,Cadillac-en-Fronsadais,alors,Fronsac-bis,{},{},{},alors,Belin-Béliet,{},{},{},alors,Fronsac,{},{},{}
+alors,Fronsac-bis,olor,Mées,{},{'s': 1},"{('a', 'o'): 1}",alors,Cadillac-en-Fronsadais,{},{},{},alors,Asques,{},{},{}
+alors,Fronsac,alors,Samonac,{},{},{},alors,La Lande-de-Fronsac,{},{},{},alors,Cadillac-en-Fronsadais,{},{},{}
+alors,La Lande-de-Fronsac,alors,Fronsac,{},{},{},alors,Asques,{},{},{},,,,,
+alors,Lugon-et-l'Île-du-Carnay,alors,Bègles,{},{},{},alors,Saillans,{},{},{},,,,,
+alors,Saillans,alors,Lugon-et-l'Île-du-Carnay,{},{},{},alors,Cabara,{},{},{},alor,Saint-Paul-lès-Dax,{},{'s': 1},{}
+alors,Saint-Germain-de-la-Rivière,olors,Saint-Vincent-de-Paul,{},{},"{('a', 'o'): 1}",alors,Martillac,{},{},{},alors,Saint-Michel-de-Fronsac,{},{},{}
+alors,Saint-Michel-de-Fronsac,alors,Saint-Germain-de-la-Rivière,{},{},{},alors,Capian,{},{},{},,,,,
+alor,Saint-Romain-la-Virvée,alors,Saint-Magne,{'s': 1},{},{},alors,Vérac,{'s': 1},{},{},,,,,
+alors,Vérac,alor,Saint-Romain-la-Virvée,{},{'s': 1},{},alors,Villegouge,{},{},{},,,,,
+alors,Villegouge,alors,Campin,{},{},{},alors,Vérac,{},{},{},,,,,
+alors,Campin,alors,Villegouge,{},{},{},alors,Cours-les-Bains,{},{},{},,,,,
+alors,Cours-les-Bains,alor,Castandet,{},{'s': 1},{},olor,Lagrange,{},{'s': 1},"{('a', 'o'): 1}",alors,Campin,{},{},{}
+alors,Grignols-bis,alors,Grignols,{},{},{},alors,Naujan-et-Postiac,{},{},{},olors,Tercis-les-Bains,{},{},"{('a', 'o'): 1}"
+alors,Grignols,alors,Grignols-bis,{},{},{},olor,Yzosse,{},{'s': 1},"{('a', 'o'): 1}",,,,,
+alors,Lavazan,olors,Arx,{},{},"{('a', 'o'): 1}",alors,Saucats,{},{},{},,,,,
+alors,Lerm-et-Musset,alors,Cardan,{},{},{},alors,Marions,{},{},{},,,,,
+alors,Marions,alors,Gabarnac,{},{},{},alors,Lerm-et-Musset,{},{},{},,,,,
+alors,Sendets,alors,Béguey,{},{},{},,,,,,,,,,
+alors,Bégadan,alors,Blaignan,{},{},{},alors,Bruges,{},{},{},,,,,
+alors,Blaignan,alors,Pondaurat,{},{},{},alors,Bégadan,{},{},{},,,,,
+alors,Civrac,alors,Jugazan,{},{},{},aulors,Brocas,{'u': 1},{},{},olor,Sorbets,{},{'s': 1},"{('a', 'o'): 1}"
+alors,Gaillan-en-Médoc,alors,Jugazan,{},{},{},alors,Samadet,{},{},{},,,,,
+alors,Lesparre-Médoc,alors,Labrit,{},{},{},alors,Naujac-sur-Mer,{},{},{},,,,,
+alors,Naujac-sur-Mer,alors,Lesparre-Médoc,{},{},{},,,,,,,,,,
+alors,Ordonnac,olor,Urgons,{},{'s': 1},"{('a', 'o'): 1}",olor,Serres-Gaston,{},{'s': 1},"{('a', 'o'): 1}",alors,Saint-Christoly-Médoc,{},{},{}
+alors,Queyrac,alor,Hinx,{},{'s': 1},{},alors,Saint-Christoly-Médoc,{},{},{},olors,Sainte-Colombe,{},{},"{('a', 'o'): 1}"
+alors,Saint-Christoly-Médoc,alors,Queyrac,{},{},{},alors,Valeyrac,{},{},{},alors,Ordonnac,{},{},{}
+alors,Saint-Germain-d'Esteuil,olor,Serreslous-et-Arribans,{},{'s': 1},"{('a', 'o'): 1}",olors,Artassenx,{},{},"{('a', 'o'): 1}",alors,Canenx-et-Réaut,{},{},{}
+alors,Saint-Seurin-de-Cadourne,olors,Cère,{},{},"{('a', 'o'): 1}",,,,,,,,,,
+alors,Saint-Yzans-de-Médoc,alors,Isle-Saint-Georges,{},{},{},alor,Mont-de-Marsan-bis,{},{'s': 1},{},,,,,
+alors,Valeyrac,alors,Saint-Christoly-Médoc,{},{},{},alor,Saint-Avit,{},{'s': 1},{},,,,,
+alors,Vendays-Montalivet,alors,Beautiran,{},{},{},,,,,,,,,,
+alors,Beautiran,alors,Saint-Martin-d'Oney,{},{},{},olor,Mimizan,{},{'s': 1},"{('a', 'o'): 1}",alors,Vendays-Montalivet,{},{},{}
+alore,Cabanac-et-Villagrains,alors,Préchac,{},{},"{('e', 's'): 1}",alore,Castres-Gironde,{},{},{},alors,Louer,{},{},"{('e', 's'): 1}"
+alors,Cadaujac,alor,Saint-Pierre-du-Mont,{},{'s': 1},{},alor,Gousse,{},{'s': 1},{},alors,Cassen,{},{},{}
+alore,Castres-Gironde,alore,Cabanac-et-Villagrains,{},{},{},alors,Bourg-bis,{},{},"{('e', 's'): 1}",alor,Garrey,{},{'e': 1},{}
+alors,Isle-Saint-Georges,alor,Nousse,{},{'s': 1},{},alors,Saint-Yzans-de-Médoc,{},{},{},alors,Ozourt,{},{},{}
+alors,La Brède-bis,olors,Poyanne,{},{},"{('a', 'o'): 1}",alors,Louchats,{},{},{},alor,Onard,{},{'s': 1},{}
+alors,La Brède,alor,Ousse-Suzan,{},{'s': 1},{},alors,Léognan,{},{},{},,,,,
+alors,Léognan,alors,La Brède,{},{},{},,,,,,,,,,
+alors,Martillac,alors,Saint-Germain-de-la-Rivière,{},{},{},olors,Saugnac-et-Cambran,{},{},"{('a', 'o'): 1}",alors,Saint-Médard-d'Eyrans,{},{},{}
+alors,Saint-Médard-d'Eyrans,alors,Saint-Morillon,{},{},{},alors,Donzac,{},{},{},alors,Martillac,{},{},{}
+alors,Saint-Morillon,alors,Saint-Médard-d'Eyrans,{},{},{},alors,Blaignac,{},{},{},,,,,
+alorss,Saint-Selve,alors,Saucats,{},{'s': 1},{},alors,Blaignac,{},{'s': 1},{},,,,,
+alors,Saucats,alors,Lavazan,{},{},{},alorss,Saint-Selve,{'s': 1},{},{},alors,Bagas,{},{},{}
+alors,Bagas,alors,Saubusse,{},{},{},alor,Estigarde,{},{'s': 1},{},alors,Saucats,{},{},{}
+alors,Blaignac,alorss,Saint-Selve,{'s': 1},{},{},alors,Saint-Morillon,{},{},{},olor,Siest,{},{'s': 1},"{('a', 'o'): 1}"
+alors,Camiran-bis,alors,Ygos-Saint-Saturnin,{},{},{},alors,Onesse-Laharie,{},{},{},,,,,
+alors,Camiran,alors,Cadillac,{},{},{},alors,Baigts,{},{},{},,,,,
+alors,Casseuil,olor,Puyol-Cazalet,{},{'s': 1},"{('a', 'o'): 1}",alors,Fontet,{},{},{},,,,,
+alors,Fontet,alors,Casseuil,{},{},{},olor,Biscarosse-bis,{},{'s': 1},"{('a', 'o'): 1}",olors,Doazit,{},{},"{('a', 'o'): 1}"
+alors,Gironde-sur-Dropt-bis,alors,Branne,{},{},{},alor,Gaas,{},{'s': 1},{},alor,Sorde-l'Abbaye,{},{'s': 1},{}
+alor,Gironde-sur-Dropt,alors,Langoiran-bis,{'s': 1},{},{},alors,Moustey,{'s': 1},{},{},,,,,
+alors,Hure,alors,Estibeaux,{},{},{},alors,Branne,{},{},{},alors,Cagnotte,{},{},{}
+alors,La Réole-bis,alorsé,Saugnacq-et-Muret,{'é': 1},{},{},alors,Mimbaste,{},{},{},,,,,
+alors,La Réole,alors,Blanquefort,{},{},{},alors,Mouscardès,{},{},{},,,,,
+alor,Lamothe-Landerron,alor,Loupiac-de-la-Réole,{},{},{},alors,Tilh,{'s': 1},{},{},,,,,
+alor,Loupiac-de-la-Réole,alor,Lamothe-Landerron,{},{},{},,,,,,,,,,
+alor,Mongauzy,olors,Arue,{'s': 1},{},"{('a', 'o'): 1}",,,,,,,,,,
+alors,Morizès,alors,Lestiac-sur-Garonne,{},{},{},olors,Arouille,{},{},"{('a', 'o'): 1}",,,,,
+alors,Noaillac,alor,Arveyres,{},{'s': 1},{},alors,Lugaut,{},{},{},,,,,
+alors,Pompéjac,alors,Arcachon-bis,{},{},{},olor,Roquefort,{},{'s': 1},"{('a', 'o'): 1}",,,,,
+alors,Saint-Hilaire-de-la-Noaille-bis,alors,Saint-Hilaire-de-la-Noaille,{},{},{},alors,Civrac-sur-Dordogne,{},{},{},,,,,
+alors,Saint-Hilaire-de-la-Noaille,alors,Monprimblanc,{},{},{},alors,Saint-Hilaire-de-la-Noaille-bis,{},{},{},,,,,
+alors,Arcachon-bis,alors,Pompéjac,{},{},{},alors,Arcachon,{},{},{},,,,,
+alors,Arcachon,alors,Arcachon-bis,{},{},{},alors,La Teste-de-Buch-bis,{},{},{},,,,,
+alors,Cazaux,alors,Gujan,{},{},{},olors,Lue,{},{},"{('a', 'o'): 1}",,,,,
+alors,Gujan,alors,Loupiac,{},{},{},alors,Cazaux,{},{},{},alors,La Teste-de-Buch-bis,{},{},{}
+alors,La Teste-de-Buch-bis,alors,Arcachon,{},{},{},alors,Gujan,{},{},{},,,,,
+alors,La Teste-de-Buch-ter,alors,Saint-Laurent-de-Gosse,{},{},{},alors,Aurice,{},{},{},,,,,
+alors,La Teste-de-Buch,alors,Omet,{},{},{},alors,Bieujac,{},{},{},alors,Le Teich,{},{},{}
+alors,Le Teich,alor,Mestras,{},{'s': 1},{},alors,Paillet,{},{},{},alors,La Teste-de-Buch,{},{},{}
+alor,Mestras,alors,Le Teich,{'s': 1},{},{},alors,Bommes,{'s': 1},{},{},,,,,
+alors,Bieujac,alors,La Teste-de-Buch,{},{},{},alors,Giscos,{},{},{},alors,Castets-en-Dorthe,{},{},{}
+alors,Bommes,alors,Castets-en-Dorthe,{},{},{},alors,Lignan-de-Bordeaux,{},{},{},alor,Mestras,{},{'s': 1},{}
+alors,Castets-en-Dorthe,alors,Saint-Maurice-sur-Adour,{},{},{},alors,Bommes,{},{},{},alors,Bieujac,{},{},{}
+alors,Fargues,alors,Langon-bis,{},{},{},,,,,,,,,,
+alors,Langon-bis,alors,Fargues,{},{},{},alors,Fargues,{},{},{},,,,,
+alors,Langon,alors,Captieux,{},{},{},alors,Larrivière-Saint-Savin,{},{},{},alors,Budos,{},{},{}
+alors,Léogeats,alors,Saint-Pierre-de-Mons,{},{},{},alors,Captieux,{},{},{},alors,Mazères,{},{},{}
+alors,Mazères,alors,Sainte-Croix-du-Mont,{},{},{},alors,Roaillan,{},{},{},alors,Léogeats,{},{},{}
+alors,Roaillan,alors,Mazères,{},{},{},alor,Sarraziet,{},{'s': 1},{},,,,,
+alors,Saint-Pardon-de-Conques,alors,Giscos,{},{},{},alors,Capbreton,{},{},{},alors,Sauternes,{},{},{}
+alors,Saint-Pierre-de-Mons,alors,Labenne,{},{},{},alors,Léogeats,{},{},{},alors,Sauternes,{},{},{}
+alors,Sauternes,alorsè,Saint-Sever,{'è': 1},{},{},alors,Saint-Pardon-de-Conques,{},{},{},alors,Saint-Pierre-de-Mons,{},{},{}
+alors,Toulenne,alors,Saint-Michel-de-Castelnau,{},{},{},alors,Soustons,{},{},{},,,,,
+alor,Arveyres,olors,Tosse,{'s': 1},{},"{('a', 'o'): 1}",alors,Noaillac,{'s': 1},{},{},,,,,
+alors,Civrac-sur-Dordogne,alors,Saint-Hilaire-de-la-Noaille-bis,{},{},{},alors,Saint-Estèphe,{},{},{},,,,,
+alors,Izon,alors,Orx,{},{},{},alors,Cissac-Médoc,{},{},{},alors,Saubrigues,{},{},{}
+alors,Libourne-bis,alors,Libourne,{},{},{},alor,Saubion,{},{'s': 1},{},alors,Pomerol,{},{},{}
+alors,Libourne,alors,Carbon-Blanc,{},{},{},alors,Libourne-bis,{},{},{},alors,Vayres,{},{},{}
+alors,Pomerol,alors,Libourne-bis,{},{},{},alors,Pauillac,{},{},{},alors,Vayres,{},{},{}
+alors,Saint-Émilion,alors,Saint-Michel-de-Castelnau,{},{},{},alors,Saint-Sulpice-de-Faleyrens,{},{},{},alors,Roquebrune,{},{},{}
+alors,Saint-Sulpice-de-Faleyrens,alors,Saint-Émilion,{},{},{},alors,Floirac,{},{},{},alors,Vayres,{},{},{}
+alors,Vayres,alors,Saint-Sulpice-de-Faleyrens,{},{},{},alors,Libourne,{},{},{},alors,Pomerol,{},{},{}
+alor,Landerrouet-sur-Ségur,alors,Argelouse,{'s': 1},{},{},alor,Angresse,{},{},{},alors,Monségur,{'s': 1},{},{}
+alors,Monségur,olors,Callen,{},{},"{('a', 'o'): 1}",olors,Saint-Jean-de-Marsacq,{},{},"{('a', 'o'): 1}",alor,Landerrouet-sur-Ségur,{},{'s': 1},{}
+alors,Roquebrune,olors,Soorts-Hossegor,{},{},"{('a', 'o'): 1}",alors,Saint-Émilion,{},{},{},alors,Pauillac,{},{},{}
+alors,Cissac-Médoc,alors,Izon,{},{},{},alors,Messanges,{},{},{},alors,Pauillac,{},{},{}
+alors,Pauillac,alors,Pomerol,{},{},{},alors,Cissac-Médoc,{},{},{},alors,Roquebrune,{},{},{}
+alors,Saint-Estèphe,alors,Civrac-sur-Dordogne,{},{},{},alor,Saint-Julien-Beychevelle,{},{'s': 1},{},,,,,
+alor,Saint-Julien-Beychevelle,alors,Saint-Vincent-de-Tyrosse,{'s': 1},{},{},alors,Sore,{'s': 1},{},{},alors,Saint-Estèphe,{'s': 1},{},{}
+alor,Saint-Sauveur,olors,Saint-Yaguen,{'s': 1},{},"{('a', 'o'): 1}",alor,Vertheuil,{},{},{},,,,,
+alor,Vertheuil,alor,Saint-Sauveur,{},{},{},alors,Cazaugitat,{'s': 1},{},{},,,,,
+alors,Cazaugitat,alor,Vertheuil,{},{'s': 1},{},,,,,,,,,,
+alors,Landerrouat,alor,Massugas,{},{'s': 1},{},alors,Le Taillan-Médoc,{},{},{},alors,Listrac-de-Durèze,{},{},{}
+alors,Listrac-de-Durèze,alors,Landerrouat,{},{},{},,,,,,,,,,
+alor,Massugas,alors,Landerrouat,{'s': 1},{},{},alors,Pellegrue,{'s': 1},{},{},,,,,
+alors,Pellegrue,alor,Massugas,{},{'s': 1},{},,,,,,,,,,
+alors,Canéjan,alor,Cestas,{},{'s': 1},{},alor,Illats,{},{'s': 1},{},,,,,
+alor,Cestas,alor,Villenave-d'Ornon,{},{},{},alors,Canéjan,{'s': 1},{},{},,,,,
+alors,Gradignan,alors,Landiras,{},{},{},alor,Villenave-d'Ornon,{},{'s': 1},{},alors,Mérignac,{},{},{}
+alor,Martignas-sur-Jalle,alors,Saint-Jean-d'Illac,{'s': 1},{},{},alors,Ambès,{'s': 1},{},{},alors,Mérignac,{'s': 1},{},{}
+alors,Mérignac,alor,Martignas-sur-Jalle,{},{'s': 1},{},alor,Barsac,{},{'s': 1},{},alors,Gradignan,{},{},{}
+alors,Pessac,alors,Talence,{},{},{},alors,Carbon-Blanc,{},{},{},alors,Saint-Jean-d'Illac,{},{},{}
+alors,Saint-Jean-d'Illac,alors,Pujols-sur-Ciron,{},{},{},alor,Martignas-sur-Jalle,{},{'s': 1},{},alors,Pessac,{},{},{}
+alors,Talence,alors,Pessac,{},{},{},alor,Villenave-d'Ornon,{},{'s': 1},{},,,,,
+alor,Villenave-d'Ornon,alors,Gradignan,{'s': 1},{},{},alor,Cestas,{},{},{},alors,Talence,{'s': 1},{},{}
+alor,Arbanats,alor,Barsac,{},{},{},alors,Villenave-de-Rions,{'s': 1},{},{},alors,Budos,{'s': 1},{},{}
+alor,Barsac,alors,Mérignac,{'s': 1},{},{},alor,Arbanats,{},{},{},alors,Budos-bis,{'s': 1},{},{}
+alors,Budos-bis,alor,Cérons,{},{'s': 1},{},alors,Portets,{},{},{},alor,Barsac,{},{'s': 1},{}
+alors,Budos,alor,Arbanats,{},{'s': 1},{},alors,Langon,{},{},{},alor,Guillos,{},{'s': 1},{}
+alor,Cérons,alors,Escaudes,{'s': 1},{},{},alors,Budos-bis,{'s': 1},{},{},alor,Guillos,{},{},{}
+alor,Guillos,alor,Montaut,{},{},{},alor,Cérons,{},{},{},alors,Budos,{'s': 1},{},{}
+alor,Illats,alors,Canéjan,{'s': 1},{},{},alors,Landiras,{'s': 1},{},{},alors,Podensac,{'s': 1},{},{}
+alors,Landiras,alor,Illats,{},{'s': 1},{},alors,Gradignan,{},{},{},alors,Portets,{},{},{}
+alors,Podensac,alors,Portets,{},{},{},alors,Bouliac,{},{},{},alor,Illats,{},{'s': 1},{}
+alors,Portets,alors,Budos-bis,{},{},{},alors,Podensac,{},{},{},alors,Landiras,{},{},{}
+alors,Preignac,,,,,,,,,,,,,,,
+alors,Pujols-sur-Ciron,alors,Saint-Jean-d'Illac,{},{},{},,,,,,,,,,
+alors,Saint-Michel-de-Rieufret,alors,Aubie-et-Espessas,{},{},{},alor,Sainte-Radegonde,{},{'s': 1},{},,,,,
+alors,Virelade,alor,Saint-Vincent-de-Pertignas,{},{'s': 1},{},alors,Saint-Louis-de-Montferrand,{},{},{},alors,Doulezon,{},{},{}
+alors,Doulezon,alors,Virelade,{},{},{},,,,,,,,,,
+alors,Flaujagues,alors,Gensac,{},{},{},alors,Saint-Vincent-de-Paul,{},{},{},,,,,
+alors,Gensac,alors,Juillac,{},{},{},alors,Flaujagues,{},{},{},,,,,
+alors,Juillac,alors,Sainte-Eulalie,{},{},{},alors,Gensac,{},{},{},,,,,
+alors,Mouliets,alors,Saint-Macaire,{},{},{},alors,Pessac-sur-Dordogne,{},{},{},,,,,
+alors,Pessac-sur-Dordogne,alors,Mouliets,{},{},{},alors,Tresses-bis,{},{},{},,,,,
+alor,Pujols-bis,alors,Listrac-Médoc,{'s': 1},{},{},,,,,,,,,,
+alor,Pujols,alors,Saint-Jean-de-Blaignac,{'s': 1},{},{},,,,,,,,,,
+alors,Rauzan,alors,Tresses,{},{},{},,,,,,,,,,
+alors,Saint-Jean-de-Blaignac,alor,Pujols,{},{'s': 1},{},,,,,,,,,,
+alor,Saint-Pey-de-Castets,alors,Tresses,{'s': 1},{},{},alor,Sainte-Radegonde,{},{},{},,,,,
+alor,Saint-Vincent-de-Pertignas,alors,Virelade,{'s': 1},{},{},alor,Sainte-Radegonde,{},{},{},,,,,
+alor,Sainte-Radegonde,alors,Saint-Michel-de-Rieufret,{'s': 1},{},{},alor,Saint-Pey-de-Castets,{},{},{},alor,Saint-Vincent-de-Pertignas,{},{},{}
+alors,Aubie-et-Espessas,alors,Saint-Michel-de-Rieufret,{},{},{},alors,Cubzac-les-Ponts,{},{},{},,,,,
+alors,Cubzac-les-Ponts,alors,Tresses,{},{},{},alors,Aubie-et-Espessas,{},{},{},,,,,
+alors,Peujard,alors,Tresses-bis,{},{},{},alors,Saint-André-de-Cubzac,{},{},{},,,,,
+alors,Saint-André-de-Cubzac,alors,Peujard,{},{},{},,,,,,,,,,
+alors,Saint-Antoine,,,,,,,,,,,,,,,
+alors,Saint-Gervais,alors,Arsac-bis,{},{},{},alors,Benon,{},{},{},alors,Saint-Laurent-d'Arce,{},{},{}
+alors,Saint-Laurent-d'Arce,alors,Le Pian-sur-Garonne,{},{},{},alors,Saint-Gervais,{},{},{},,,,,
+alors,Salignac,alors,Benon,{},{},{},alors,Cantenac,{},{},{},alors,Virsac,{},{},{}
+alors,Virsac,alors,Salignac,{},{},{},alors,Arcins,{},{},{},,,,,
+alors,Benon,alors,Saint-Gervais,{},{},{},alors,Salignac,{},{},{},alors,Carcans,{},{},{}
+alors,Carcans,alors,Hourtin,{},{},{},alors,Benon,{},{},{},,,,,
+alors,Hourtin,alors,Carcans,{},{},{},alors,Saint-Quentin-de-Caplong,{},{},{},,,,,
+alors,Saint-Laurent-Médoc,alors,Le Pian-sur-Garonne,{},{},{},alors,Caudrot,{},{},{},,,,,
+alors,Caudrot,alors,Saint-Laurent-Médoc,{},{},{},alors,Labarde,{},{},{},alors,Saint-André-du-Bois,{},{},{}
+alors,Le Pian-sur-Garonne,alors,Saint-Laurent-d'Arce,{},{},{},alors,Saint-Laurent-Médoc,{},{},{},alors,Saint-André-du-Bois,{},{},{}
+alors,Saint-André-du-Bois,alors,Lamarque,{},{},{},alors,Le Pian-sur-Garonne,{},{},{},alors,Caudrot,{},{},{}
+alors,Saint-Germain-de-Grave,alors,Le Porge,{},{},{},alors,Saint-Laurent-du-Bois,{},{},{},,,,,
+alors,Saint-Laurent-du-Bois,alors,Saint-Germain-de-Grave,{},{},{},,,,,,,,,,
+alors,Saint-Macaire,alors,Mouliets,{},{},{},alors,Saint-Martin-de-Sescas,{},{},{},,,,,
+alors,Saint-Maixant,alors,Mios,{},{},{},alors,Saint-Martin-de-Sescas,{},{},{},,,,,
+alors,Saint-Martin-de-Sescas,alors,Saint-Maixant,{},{},{},alors,Sainte-Eulalie,{},{},{},alors,Saint-Macaire,{},{},{}
+alor,Saint-Pierre-d'Aurillac,,,,,,,,,,,,,,,
+alor,Verdelais,alors,Le Temple,{'s': 1},{},{},alors,Grayan-bis,{'s': 1},{},{},alor,Balizac,{},{},{}
+alor,Balizac,alorss,Saint-Genès-de-Castillon,{'s': 2},{},{},alor,Verdelais,{},{},{},alors,Grayan,{'s': 1},{},{}
+alors,Hostens,alor,Le Verdon-sur-Mer,{},{'s': 1},{},alor,Le Tuzan,{},{'s': 1},{},,,,,
+alor,Le Tuzan,alors,Hostens,{'s': 1},{},{},alors,Louchats,{'s': 1},{},{},,,,,
+alors,Louchats,alors,La Brède-bis,{},{},{},alors,Origne,{},{},{},alor,Le Tuzan,{},{'s': 1},{}
+alors,Origne,alors,Uchacq,{},{},{},alors,Saint-Léger-de-Balson,{},{},{},alors,Louchats,{},{},{}
+alors,Saint-Léger-de-Balson,alors,Origne,{},{},{},olor,Clermont,{},{'s': 1},"{('a', 'o'): 1}",alor,Saint-Symphorien-bis,{},{'s': 1},{}
+alor,Saint-Symphorien-bis,alors,Saint-Léger-de-Balson,{'s': 1},{},{},alors,Saint-Laurent-des-Combes,{'s': 1},{},{},,,,,
+alors,Saint-Symphorien,,,,,,,,,,,,,,,
+alors,Grayan-bis,alor,Verdelais,{},{'s': 1},{},alors,Grayan,{},{},{},,,,,
+alors,Grayan,alor,Balizac,{},{'s': 1},{},alors,Grayan-bis,{},{},{},,,,,
+alors,Jau-Dignac-et-Loirac,alors,Lourquen,{},{},{},alor,Le Verdon-sur-Mer,{},{'s': 1},{},,,,,
+alor,Le Verdon-sur-Mer,alors,Jau-Dignac-et-Loirac,{'s': 1},{},{},alors,Hostens,{'s': 1},{},{},alors,Saint-Vivien-de-Médoc,{'s': 1},{},{}
+alors,Saint-Vivien-de-Médoc,alor,Le Verdon-sur-Mer,{},{'s': 1},{},,,,,,,,,,
+alors,Soulac-sur-Mer,,,,,,,,,,,,,,,
+alor,Talais,,,,,,,,,,,,,,,
+alors,Vensac,alors,La Roquille,{},{},{},alors,Appelles,{},{},{},,,,,
+alors,Appelles,alors,Vensac,{},{},{},alors,Caplong,{},{},{},,,,,
+alors,Caplong,alors,Appelles,{},{},{},,,,,,,,,,
+alors,Eynesse,alors,La Roquille,{},{},{},,,,,,,,,,
+alors,La Roquille,alors,Vensac,{},{},{},alors,Eynesse,{},{},{},,,,,
+alors,Les Lèves-et-Thoumeyragues,alors,Riocaud,{},{},{},alors,Ligueux,{},{},{},,,,,
+alors,Ligueux,alors,Les Lèves-et-Thoumeyragues,{},{},{},alors,Pineuilh,{},{},{},,,,,
+alors,Pineuilh,alors,Ligueux,{},{},{},,,,,,,,,,
+alors,Riocaud,alors,Les Lèves-et-Thoumeyragues,{},{},{},alor,Saint-Avit-de-Soulège,{},{'s': 1},{},,,,,
+alor,Saint-Avit-de-Soulège,alors,Riocaud,{'s': 1},{},{},,,,,,,,,,
+alors,Saint-Avit-Saint-Nazaire,,,,,,,,,,,,,,,
+alors,Saint-Quentin-de-Caplong,alors,Hourtin,{},{},{},,,,,,,,,,
+alors,Sainte-Foy-la-Grande-bis,alors,Auros,{},{},{},alors,Sainte-Foy-la-Grande-ter,{},{},{},,,,,
+alors,Sainte-Foy-la-Grande-ter,alors,Moulis-en-Médoc-bis,{},{},{},alors,Sainte-Foy-la-Grande-bis,{},{},{},,,,,
+alors,Sainte-Foy-la-Grande,alor,Blasimon,{},{'s': 1},{},,,,,,,,,,
+alor,Blasimon,alors,Sainte-Foy-la-Grande,{'s': 1},{},{},alors,Castelviel,{'s': 1},{},{},,,,,
+alors,Castelviel,alor,Blasimon,{},{'s': 1},{},,,,,,,,,,
+alor,Cleyrac,,,,,,,,,,,,,,,
+alor,Coirac,,,,,,,,,,,,,,,
+alors,Gornac,alors,Moulis-en-Médoc,{},{},{},,,,,,,,,,
+alors,Mérignas,alors,Saint-Sulpice-de-Pommiers,{},{},{},,,,,,,,,,
+alors,Mourens,alors,Ruch,{},{},{},,,,,,,,,,
+alors,Ruch,alors,Mourens,{},{},{},alors,Saint-Brice,{},{},{},,,,,
+alors,Saint-Brice,alors,Ruch,{},{},{},,,,,,,,,,
+alors,Saint-Félix-de-Foncaude,,,,,,,,,,,,,,,
+alors,Saint-Léger-de-Vignague,alors,Saint-Sulpice-de-Pommiers,{},{},{},,,,,,,,,,
+alors,Saint-Sulpice-de-Pommiers,alors,Saint-Léger-de-Vignague,{},{},{},alors,Mérignas,{},{},{},alors,Sauveterre-de-Guyenne-bis,{},{},{}
+alors,Sauveterre-de-Guyenne-bis,alors,Saint-Sulpice-de-Pommiers,{},{},{},,,,,,,,,,
+alors,Sauveterre-de-Guyenne-ter,alors,Arbis,{},{},{},,,,,,,,,,
+alors,Sauveterre-de-Guyenne,alor,Escoussans,{},{'s': 1},{},,,,,,,,,,
+alors,Arbis,alors,Sauveterre-de-Guyenne-ter,{},{},{},alors,Baigneaux,{},{},{},,,,,
+alors,Baigneaux,alors,Arbis,{},{},{},,,,,,,,,,
+alor,Escoussans,alors,Sauveterre-de-Guyenne,{'s': 1},{},{},,,,,,,,,,
+alors,Faleyras,alors,Frontenac,{},{},{},,,,,,,,,,
+alors,Frontenac,alors,Romagne,{},{},{},alors,Faleyras,{},{},{},,,,,
+alors,Ladaux,alors,Lugasson,{},{},{},alors,Soulignac,{},{},{},,,,,
+alors,Lugasson,alors,Ladaux,{},{},{},alors,Romagne,{},{},{},,,,,
+alors,Romagne,alors,Frontenac,{},{},{},alors,Lugasson,{},{},{},,,,,
+alors,Saint-Pierre-de-Bat,,,,,,,,,,,,,,,
+alors,Soulignac,alors,Ladaux,{},{},{},,,,,,,,,,
+alors,Targon-bis,,,,,,,,,,,,,,,
+alors,Targon,alor,Cazalis,{},{'s': 1},{},,,,,,,,,,
+alor,Cazalis,alors,Sainte-Hélène,{'s': 1},{},{},alors,Targon,{'s': 1},{},{},,,,,
+alor,Lucmau,alors,Gardegan,{'s': 1},{},{},alor,Gours,{},{},{},,,,,
+alor,Noaillan,alors,Préchac-bis,{'s': 1},{},{},,,,,,,,,,
+alors,Préchac-bis,alor,Noaillan,{},{'s': 1},{},alors,Francs,{},{},{},,,,,
+alors,Préchac,alor,Puynormand,{},{'s': 1},{},alore,Cabanac-et-Villagrains,{},{},"{('s', 'e'): 1}",alors,Uzeste,{},{},{}
+alors,Uzeste,alors,Préchac,{},{},{},alors,Saint-Germain-du-Puch,{},{},{},alors,Villandraut-bis,{},{},{}
+alors,Villandraut-bis,alors,Uzeste,{},{},{},alors,Gardegan,{},{},{},alors,Saint-Christophe-des-Bardes,{},{},{}
+alors,Villandraut,alors,Francs,{},{},{},alor,Duhort-Bachen,{},{'s': 1},{},alors,Puisseguin,{},{},{}
+alors,Francs,alors,Préchac-bis,{},{},{},alors,Villandraut,{},{},{},alor,Gours,{},{'s': 1},{}
+alor,Gours,alors,Saint-Christophe-des-Bardes,{'s': 1},{},{},alor,Lucmau,{},{},{},alors,Francs,{'s': 1},{},{}
+alors,Puisseguin,alors,Castillon-la-Bataille,{},{},{},alor,Puynormand,{},{'s': 1},{},alors,Villandraut,{},{},{}
+alor,Puynormand,alors,Puisseguin,{'s': 1},{},{},alors,Préchac,{'s': 1},{},{},alors,Saint-Christophe-des-Bardes,{'s': 1},{},{}
+alors,Saint-Christophe-des-Bardes,alors,Villandraut-bis,{},{},{},alor,Gours,{},{'s': 1},{},alor,Puynormand,{},{'s': 1},{}
+alors,Aire-sur-l'Adour,alors,Saint-Laurent-des-Combes,{},{},{},alors,Buanes,{},{},{},,,,,
+alors,Bahus-Soubiran,alors,Bourg-bis,{},{},{},alor,Classun,{},{'s': 1},{},alors,Buanes,{},{},{}
+alors,Buanes,alors,Aire-sur-l'Adour,{},{},{},alor,Gamarde-les-Bains,{},{'s': 1},{},alors,Bahus-Soubiran,{},{},{}
+alor,Classun,alors,Bahus-Soubiran,{'s': 1},{},{},alors,Castillon-la-Bataille,{'s': 1},{},{},alor,Duhort-Bachen,{},{},{}
+alor,Duhort-Bachen,alors,Villandraut,{'s': 1},{},{},alor,Classun,{},{},{},,,,,
+alors,Eugénie-les-Bains,alors,Saint-Philippe-d'Aiguille,{},{},{},,,,,,,,,,
+alors,Latrille,alors,Maillères,{},{},{},olors,Lussagnet,{},{},"{('a', 'o'): 1}",,,,,
+alèro,Renung,alors,Prignac-et-Marcamps,{},{},"{('è', 'o'): 1, ('o', 's'): 1}",alèro,Saint-Agnet,{},{},{},alèro,Saint-Loubouer,{},{},{}
+alèro,Saint-Agnet,alèro,Renung,{},{},{},alors,Saint-Antoine-sur-l'Isle,{},{},"{('è', 'o'): 1, ('o', 's'): 1}",aléro,Sarron,{},{},"{('è', 'é'): 1}"
+alèro,Saint-Loubouer,aléro,Sarron,{},{},"{('è', 'é'): 1}",alors,Lansac,{},{},"{('è', 'o'): 1, ('o', 's'): 1}",alèro,Renung,{},{},{}
+aléro,Sarron,alors,Bonnetan,{},{},"{('é', 'o'): 1, ('o', 's'): 1}",alèro,Saint-Loubouer,{},{},"{('é', 'è'): 1}",alèro,Saint-Agnet,{},{},"{('é', 'è'): 1}"
+alèro,Vielle-Tursan,alors,Cambes,{},{},"{('è', 'o'): 1, ('o', 's'): 1}",alèro,Amou-bis,{},{},{},alèro,Amou,{},{},{}
+alèro,Amou-bis,alèro,Vielle-Tursan,{},{},{},,,,,,,,,,
+alèro,Amou,alors,Carignan-de-Bordeaux,{},{},"{('è', 'o'): 1, ('o', 's'): 1}",alèro,Vielle-Tursan,{},{},{},,,,,
+alèro,Bassercles,alors,Cénac,{},{},"{('è', 'o'): 1, ('o', 's'): 1}",alaro,Bonnegarde,{},{},"{('è', 'a'): 1}",alor,Tartas-bis,{},{'o': 1},"{('è', 'o'): 1}"
+alaro,Bonnegarde,alors,Branne-bis,{},{},"{('a', 'o'): 1, ('o', 's'): 1}",aléro,Brassempouy,{},{},"{('a', 'é'): 1}",alèro,Bassercles,{},{},"{('a', 'è'): 1}"
+aléro,Brassempouy,alaro,Bonnegarde,{},{},"{('é', 'a'): 1}",alors,Créon,{},{},"{('é', 'o'): 1, ('o', 's'): 1}",alors,Souprosse,{},{},"{('é', 'o'): 1, ('o', 's'): 1}"
+aléro,Castaignos-Souslens,,,,,,,,,,,,,,,
+alèro,Castel-Sarrazin,alors,Latresne,{},{},"{('è', 'o'): 1, ('o', 's'): 1}",,,,,,,,,,
+alèro,Castelnau-Chalosse,alors,Haux,{},{},"{('è', 'o'): 1, ('o', 's'): 1}",,,,,,,,,,
+aléro,Donzacq,alors,Latresne,{},{},"{('é', 'o'): 1, ('o', 's'): 1}",alaro,Marpaps,{},{},"{('é', 'a'): 1}",alèro,Gaujacq,{},{},"{('é', 'è'): 1}"
+alèro,Gaujacq,alor,Laglorieuse,{},{'o': 1},"{('è', 'o'): 1}",olors,Campet,{},{},"{('a', 'o'): 1, ('è', 'o'): 1, ('o', 's'): 1}",aléro,Donzacq,{},{},"{('è', 'é'): 1}"
+alaro,Marpaps,aléro,Donzacq,{},{},"{('a', 'é'): 1}",,,,,,,,,,
+alèro,Nassiet,,,,,,,,,,,,,,,
+alors,Pomarez,aléro,Castets,{},{},"{('o', 'é'): 1, ('s', 'o'): 1}",,,,,,,,,,
+aléro,Castets,alors,Pomarez,{},{},"{('é', 'o'): 1, ('o', 's'): 1}",,,,,,,,,,
+alors,Léon,,,,,,,,,,,,,,,
+alors,Lévignacq,,,,,,,,,,,,,,,
+alors,Linxe,alor,Cabara-bis,{},{'s': 1},{},alors,Lit-et-Mixe,{},{},{},,,,,
+alors,Lit-et-Mixe,olor,Saint-Michel-Escalus,{},{'s': 1},"{('a', 'o'): 1}",alors,Linxe,{},{},{},,,,,
+olors,Saint-Julien-en-Born,olor,Taller,{},{'s': 1},{},olor,Saint-Michel-Escalus,{},{'s': 1},{},,,,,
+olor,Saint-Michel-Escalus,olors,Saint-Julien-en-Born,{'s': 1},{},{},alors,Lit-et-Mixe,{'s': 1},{},"{('o', 'a'): 1}",olor,Vielle-Saint-Girons,{},{},{}
+olor,Taller,alors,Ambarès-et-Lagrave,{'s': 1},{},"{('o', 'a'): 1}",olors,Saint-Julien-en-Born,{'s': 1},{},{},olor,Uza,{},{},{}
+olor,Uza,olor,Vielle-Saint-Girons,{},{},{},alors,Quinsac,{'s': 1},{},"{('o', 'a'): 1}",olor,Taller,{},{},{}
+olor,Vielle-Saint-Girons,olor,Uza,{},{},{},olor,Saint-Michel-Escalus,{},{},{},,,,,
+olors,Bénesse-lès-Dax,alors,Saint-Caprais-de-Bordeaux,{},{},"{('o', 'a'): 1}",alors,Dax-Saint-Vincent,{},{},"{('o', 'a'): 1}",,,,,
+olors,Candresse,alors,Dax-Saint-Vincent,{},{},"{('o', 'a'): 1}",,,,,,,,,,
+alors,Dax-Saint-Vincent,alor,Cabara-bis,{},{'s': 1},{},olors,Candresse,{},{},"{('a', 'o'): 1}",olors,Bénesse-lès-Dax,{},{},"{('a', 'o'): 1}"
+olors,Dax,olorch,Herm,{'c': 1},{},"{('s', 'h'): 1}",,,,,,,,,,
+olorch,Herm,olors,Heugas,{},{'h': 1},"{('c', 's'): 1}",olors,Dax,{},{'h': 1},"{('c', 's'): 1}",,,,,
+olors,Heugas,olorch,Herm,{'c': 1},{},"{('s', 'h'): 1}",,,,,,,,,,
+olor,Mées,alor,Narrosse,{},{},"{('o', 'a'): 1}",alors,Fronsac-bis,{'s': 1},{},"{('o', 'a'): 1}",olor,Oeyreluy,{},{},{}
+alor,Narrosse,alors,Tabanac,{'s': 1},{},{},olor,Mées,{},{},"{('a', 'o'): 1}",olor,Oeyreluy,{},{},"{('a', 'o'): 1}"
+olor,Oeyreluy,olor,Mées,{},{},{},alor,Narrosse,{},{},"{('o', 'a'): 1}",,,,,
+olor,Rivière-Saas-et-Gourby,alors,Bourg,{'s': 1},{},"{('o', 'a'): 1}",olor,Sablar,{},{},{},olors,Saint-Pandelon,{'s': 1},{},{}
+olor,Sablar,olor,Rivière-Saas-et-Gourby,{},{},{},alors,Coudures,{'s': 1},{},"{('o', 'a'): 1}",,,,,
+olors,Saint-Pandelon,alors,Saint-Seurin-de-Bourg,{},{},"{('o', 'a'): 1}",olor,Rivière-Saas-et-Gourby,{},{'s': 1},{},,,,,
+alor,Saint-Paul-lès-Dax,alors,Saillans,{'s': 1},{},{},,,,,,,,,,
+olors,Saint-Vincent-de-Paul,olors,Saugnac-et-Cambran,{},{},{},alors,Saint-Germain-de-la-Rivière,{},{},"{('o', 'a'): 1}",olors,Herré,{},{},{}
+alors,Saubusse,olor,Gabarret,{},{'s': 1},"{('a', 'o'): 1}",alors,Bagas,{},{},{},olor,Siest,{},{'s': 1},"{('a', 'o'): 1}"
+olors,Saugnac-et-Cambran,alors,Martillac,{},{},"{('o', 'a'): 1}",olors,Saint-Vincent-de-Paul,{},{},{},olor,Siest,{},{'s': 1},{}
+olor,Siest,alors,Blaignac,{'s': 1},{},"{('o', 'a'): 1}",olors,Saugnac-et-Cambran,{'s': 1},{},{},alors,Saubusse,{'s': 1},{},"{('o', 'a'): 1}"
+olors,Tercis-les-Bains,alors,Grignols-bis,{},{},"{('o', 'a'): 1}",olors,Créon-d'Armagnac,{},{},{},,,,,
+alors,Téthieu,olors,Saint-Julien-d'Armagnac,{},{},"{('a', 'o'): 1}",alor,Betbezer-d'Armagnac,{},{'s': 1},{},,,,,
+olor,Yzosse,olors,Arx,{'s': 1},{},{},alors,Grignols,{'s': 1},{},"{('o', 'a'): 1}",olors,Créon-d'Armagnac,{'s': 1},{},{}
+olors,Arx,olor,Baudignan,{},{'s': 1},{},alors,Lavazan,{},{},"{('o', 'a'): 1}",olor,Yzosse,{},{'s': 1},{}
+olor,Baudignan,olors,Sainte-Meille,{'s': 1},{},{},olors,Arx,{'s': 1},{},{},alor,Betbezer-d'Armagnac,{},{},"{('o', 'a'): 1}"
+alor,Betbezer-d'Armagnac,alors,Téthieu,{'s': 1},{},{},olor,Baudignan,{},{},"{('a', 'o'): 1}",olors,Créon-d'Armagnac,{'s': 1},{},"{('a', 'o'): 1}"
+olors,Créon-d'Armagnac,olor,Yzosse,{},{'s': 1},{},olors,Tercis-les-Bains,{},{},{},alor,Betbezer-d'Armagnac,{},{'s': 1},"{('o', 'a'): 1}"
+alor,Estigarde,alors,Bagas,{'s': 1},{},{},olor,Gabarret,{},{},"{('a', 'o'): 1}",,,,,
+olor,Gabarret,alor,Estigarde,{},{},"{('o', 'a'): 1}",alors,Saubusse,{'s': 1},{},"{('o', 'a'): 1}",olors,Herré,{'s': 1},{},{}
+olors,Herré,olors,Saint-Vincent-de-Paul,{},{},{},olor,Lagrange,{},{'s': 1},{},olor,Gabarret,{},{'s': 1},{}
+olor,Lagrange,alors,Cours-les-Bains,{'s': 1},{},"{('o', 'a'): 1}",olors,Herré,{'s': 1},{},{},,,,,
+olor,Losse,alors,Génissac,{'s': 1},{},"{('o', 'a'): 1}",,,,,,,,,,
+olor,Mauvezin-d'Armagnac,olor,Nerbis,{},{},{},,,,,,,,,,
+olor,Parleboscq,,,,,,,,,,,,,,,
+olors,Rimbez-et-Baudiets,olors,Saint-Julien-d'Armagnac,{},{},{},olor,Bordères,{},{'s': 1},{},olor,Castelnau-Tursan,{},{'s': 1},{}
+olors,Saint-Julien-d'Armagnac,alors,Téthieu,{},{},"{('o', 'a'): 1}",olors,Rimbez-et-Baudiets,{},{},{},olors,Sainte-Meille,{},{},{}
+olors,Sainte-Meille,olor,Baudignan,{},{'s': 1},{},olors,Saint-Julien-d'Armagnac,{},{},{},,,,,
+olor,Arboucave,olors,Lauret,{'s': 1},{},{},olor,Bats,{},{},{},olors,Lacajunte,{'s': 1},{},{}
+olor,Bats,olor,Arboucave,{},{},{},olor,Castelnau-Tursan,{},{},{},,,,,
+olor,Castelnau-Tursan,olors,Rimbez-et-Baudiets,{'s': 1},{},{},olor,Bats,{},{},{},,,,,
+olor,Geaune-bis,olor,Geaune,{},{},{},,,,,,,,,,
+olor,Geaune,olor,Geaune-bis,{},{},{},olors,Lacajunte,{'s': 1},{},{},,,,,
+olors,Lacajunte,olor,Arboucave,{},{'s': 1},{},olor,Geaune,{},{'s': 1},{},,,,,
+olors,Lauret,olor,Arboucave,{},{'s': 1},{},olors,Mauries,{},{},{},,,,,
+olors,Mauries,olor,Miramont-Sensacq,{},{'s': 1},{},olors,Lauret,{},{},{},,,,,
+olor,Miramont-Sensacq,olors,Mauries,{'s': 1},{},{},,,,,,,,,,
+alors,Philondenx,,,,,,,,,,,,,,,
+olor,Pimbo,olors,Oeyregave,{'s': 1},{},{},,,,,,,,,,
+olor,Puyol-Cazalet,alors,Casseuil,{'s': 1},{},"{('o', 'a'): 1}",,,,,,,,,,
+alors,Samadet,alors,Gaillan-en-Médoc,{},{},{},olor,Sorbets,{},{'s': 1},"{('a', 'o'): 1}",,,,,
+olor,Sorbets,alors,Samadet,{'s': 1},{},"{('o', 'a'): 1}",alors,Civrac,{'s': 1},{},"{('o', 'a'): 1}",olors,Artassenx,{'s': 1},{},{}
+olor,Urgons,olors,Artassenx,{'s': 1},{},{},alors,Ordonnac,{'s': 1},{},"{('o', 'a'): 1}",,,,,
+olors,Artassenx,alors,Saint-Germain-d'Esteuil,{},{},"{('o', 'a'): 1}",olor,Urgons,{},{'s': 1},{},olor,Sorbets,{},{'s': 1},{}
+alors,Bascons,alors,Moulon,{},{},{},,,,,,,,,,
+olor,Benquet,,,,,,,,,,,,,,,
+olor,Bordères,olors,Rimbez-et-Baudiets,{'s': 1},{},{},,,,,,,,,,
+alor,Castandet,olor,Cazères-sur-l'Adour,{},{},"{('a', 'o'): 1}",alors,Cours-les-Bains,{'s': 1},{},{},olors,Grenade-sur-l'Adour,{'s': 1},{},"{('a', 'o'): 1}"
+olor,Cazères-sur-l'Adour,alors,Naujan-et-Postiac,{'s': 1},{},"{('o', 'a'): 1}",alor,Castandet,{},{},"{('o', 'a'): 1}",olor,Grenade-sur-l'Adour-bis,{},{},{}
+olor,Grenade-sur-l'Adour-bis,olor,Morganx,{},{},{},olor,Cazères-sur-l'Adour,{},{},{},,,,,
+olors,Grenade-sur-l'Adour,alor,Castandet,{},{'s': 1},"{('o', 'a'): 1}",,,,,,,,,,
+olor,Le Vignau,olors,Lussagnet,{'s': 1},{},{},,,,,,,,,,
+olors,Lussagnet,alors,Latrille,{},{},"{('o', 'a'): 1}",olor,Le Vignau,{},{'s': 1},{},olors,Maurrin,{},{},{}
+olors,Maurrin,olors,Lussagnet,{},{},{},,,,,,,,,,
+olor,Aubagnan,olors,Cazalis,{'s': 1},{},{},olor,Castelner,{},{},{},,,,,
+olor,Castelner,olor,Aubagnan,{},{},{},,,,,,,,,,
+olors,Cazalis,olor,Aubagnan,{},{'s': 1},{},,,,,,,,,,
+olor,Hagetmau-bis,olors,Labastide-Chalosse,{'s': 1},{},{},,,,,,,,,,
+olors,Hagetmau,olor,Horsarrieu,{},{'s': 1},{},olor,Peyre,{},{'s': 1},{},,,,,
+olor,Horsarrieu,alors,Moulon,{'s': 1},{},"{('o', 'a'): 1}",olors,Hagetmau,{'s': 1},{},{},,,,,
+olors,Labastide-Chalosse,alor,Momuy,{},{'s': 1},"{('o', 'a'): 1}",olor,Hagetmau-bis,{},{'s': 1},{},,,,,
+olor,Lacrabe,olors,Monségur,{'s': 1},{},{},,,,,,,,,,
+olor,Mant,alor,Momuy,{},{},"{('o', 'a'): 1}",olor,Morganx,{},{},{},,,,,
+alor,Momuy,olor,Mant,{},{},"{('a', 'o'): 1}",olors,Labastide-Chalosse,{'s': 1},{},"{('a', 'o'): 1}",olors,Monségur,{'s': 1},{},"{('a', 'o'): 1}"
+olors,Monségur,olor,Lacrabe,{},{'s': 1},{},olor,Peyre,{},{'s': 1},{},alor,Momuy,{},{'s': 1},"{('o', 'a'): 1}"
+olor,Morganx,olor,Peyre,{},{},{},olor,Grenade-sur-l'Adour-bis,{},{},{},olor,Mant,{},{},{}
+olor,Peyre,olors,Hagetmau,{'s': 1},{},{},olor,Morganx,{},{},{},olors,Monségur,{'s': 1},{},{}
+olor,Poudenx,alors,Nérigean,{'s': 1},{},"{('o', 'a'): 1}",olor,Saint-Cricq-Chalosse,{},{},{},,,,,
+olor,Saint-Cricq-Chalosse,olor,Poudenx,{},{},{},alors,Nérigean,{'s': 1},{},"{('o', 'a'): 1}",olors,Sainte-Colombe,{'s': 1},{},{}
+olors,Sainte-Colombe,olor,Saint-Cricq-Chalosse,{},{'s': 1},{},alors,Queyrac,{},{},"{('o', 'a'): 1}",,,,,
+olor,Serres-Gaston,alors,Ordonnac,{'s': 1},{},"{('o', 'a'): 1}",olor,Serreslous-et-Arribans,{},{},{},alors,Mézos,{'s': 1},{},"{('o', 'a'): 1}"
+olor,Serreslous-et-Arribans,olor,Serres-Gaston,{},{},{},alors,Saint-Germain-d'Esteuil,{'s': 1},{},"{('o', 'a'): 1}",olor,Bélis,{},{},{}
+olor,Bélis,olor,Aureilhan,{},{},{},olor,Serreslous-et-Arribans,{},{},{},,,,,
+aulors,Brocas,alors,Civrac,{},{'u': 1},{},alors,Garein,{},{'u': 1},{},alors,Canenx-et-Réaut,{},{'u': 1},{}
+alors,Canenx-et-Réaut,alors,Saint-Germain-d'Esteuil,{},{},{},aulors,Brocas,{'u': 1},{},{},olors,Cère,{},{},"{('a', 'o'): 1}"
+olors,Cère,alors,Labrit,{},{},"{('o', 'a'): 1}",alors,Saint-Seurin-de-Cadourne,{},{},"{('o', 'a'): 1}",alors,Canenx-et-Réaut,{},{},"{('o', 'a'): 1}"
+alors,Garein,alors,Labrit,{},{},{},aulors,Brocas,{'u': 1},{},{},,,,,
+alors,Labrit,alors,Garein,{},{},{},alors,Lesparre-Médoc,{},{},{},olors,Cère,{},{},"{('a', 'o'): 1}"
+alors,Maillères,alors,Latrille,{},{},{},,,,,,,,,,
+alors,Vert,,,,,,,,,,,,,,,
+olor,Aureilhan,olor,Bélis,{},{},{},alors,Mézos,{'s': 1},{},"{('o', 'a'): 1}",,,,,
+alors,Mézos,olor,Serres-Gaston,{},{'s': 1},"{('a', 'o'): 1}",olor,Aureilhan,{},{'s': 1},"{('a', 'o'): 1}",,,,,
+olōr,Mimizan-bis,alors,Mazerolles,{},{},"{('o', 'a'): 1, ('̄', 'r'): 1, ('r', 's'): 1}",olor,Pontenx-les-Forges,{},{'̄': 1},{},olor,Mimizan,{},{'̄': 1},{}
+olor,Mimizan,alors,Beautiran,{'s': 1},{},"{('o', 'a'): 1}",olōr,Mimizan-bis,{'̄': 1},{},{},,,,,
+olor,Pontenx-les-Forges,olōr,Mimizan-bis,{'̄': 1},{},{},olor,Saint-Paul-en-Born,{},{},{},,,,,
+olor,Saint-Paul-en-Born,olor,Pontenx-les-Forges,{},{},{},,,,,,,,,,
+olors,Bostens,,,,,,,,,,,,,,,
+olors,Bretagne-de-Marsan,olor,Préchacq-les-Bains,{},{'s': 1},{},alorch,Campagne,{'c': 1},{},"{('o', 'a'): 1, ('s', 'h'): 1}",,,,,
+alorch,Campagne,olors,Bretagne-de-Marsan,{},{'h': 1},"{('a', 'o'): 1, ('c', 's'): 1}",alors,Latresne,{},{'h': 1},"{('c', 's'): 1}",olors,Campet,{},{'h': 1},"{('a', 'o'): 1, ('c', 's'): 1}"
+olors,Campet,alèro,Gaujacq,{},{},"{('o', 'a'): 1, ('o', 'è'): 1, ('s', 'o'): 1}",alors,Gaillères,{},{},"{('o', 'a'): 1}",alorch,Campagne,{'c': 1},{},"{('o', 'a'): 1, ('s', 'h'): 1}"
+alors,Gaillères,olors,Campet,{},{},"{('a', 'o'): 1}",alors,Haut-Mauco,{},{},{},,,,,
+alors,Geloux,alors,Haux,{},{},{},,,,,,,,,,
+alors,Haut-Mauco,alors,Gaillères,{},{},{},alor,Laglorieuse,{},{'s': 1},{},,,,,
+alor,Laglorieuse,alors,Haut-Mauco,{'s': 1},{},{},alèro,Gaujacq,{'o': 1},{},"{('o', 'è'): 1}",,,,,
+alor,Lucbardez-et-Bargues,,,,,,,,,,,,,,,
+alors,Mazerolles,olōr,Mimizan-bis,{'̄': 1},{'s': 1},"{('a', 'o'): 1}",olors,Montfort-en-Chalosse-bis,{},{},"{('a', 'o'): 1}",,,,,
+alor,Mont-de-Marsan-bis,alor,Montfort-en-Chalosse,{},{},{},alors,Saint-Yzans-de-Médoc,{'s': 1},{},{},,,,,
+alor,Mont-de-Marsan,alor,Saint-Avit,{},{},{},alor,Goos,{},{},{},alor,Saint-Pierre-du-Mont,{},{},{}
+alor,Saint-Avit,alors,Valeyrac,{'s': 1},{},{},alor,Mont-de-Marsan,{},{},{},alors,Saint-Martin-d'Oney,{'s': 1},{},{}
+alors,Saint-Martin-d'Oney,alors,Saint-Perdon,{},{},{},alors,Beautiran,{},{},{},alor,Saint-Avit,{},{'s': 1},{}
+alors,Saint-Perdon,alors,Saint-Martin-d'Oney,{},{},{},alor,Saint-Pierre-du-Mont,{},{'s': 1},{},,,,,
+alor,Saint-Pierre-du-Mont,alor,Mont-de-Marsan,{},{},{},alors,Cadaujac,{'s': 1},{},{},alors,Saint-Perdon,{'s': 1},{},{}
+alors,Uchacq,olor,Clermont,{},{'s': 1},"{('a', 'o'): 1}",alors,Origne,{},{},{},,,,,
+alors,Cassen,alors,Cadaujac,{},{},{},alor,Garrey,{},{'s': 1},{},,,,,
+olor,Clermont,alors,Saint-Léger-de-Balson,{'s': 1},{},"{('o', 'a'): 1}",alors,Uchacq,{'s': 1},{},"{('o', 'a'): 1}",alor,Gamarde-les-Bains,{},{},"{('o', 'a'): 1}"
+alor,Gamarde-les-Bains,alors,Buanes,{'s': 1},{},{},olor,Clermont,{},{},"{('a', 'o'): 1}",alor,Garrey,{},{},{}
+alor,Garrey,alore,Castres-Gironde,{'e': 1},{},{},alor,Gamarde-les-Bains,{},{},{},alors,Cassen,{'s': 1},{},{}
+alor,Goos,alor,Mont-de-Marsan,{},{},{},alor,Hinx,{},{},{},alor,Gousse,{},{},{}
+alor,Gousse,alors,Cadaujac,{'s': 1},{},{},alor,Goos,{},{},{},alors,Louer,{'s': 1},{},{}
+alor,Hinx,alor,Goos,{},{},{},alors,Queyrac,{'s': 1},{},{},alor,Laurède,{},{},{}
+alor,Laurède,alors,Saint-Germain-du-Puch,{'s': 1},{},{},alors,Louer,{'s': 1},{},{},alor,Hinx,{},{},{}
+alors,Louer,alor,Laurède,{},{'s': 1},{},alore,Cabanac-et-Villagrains,{},{},"{('s', 'e'): 1}",alor,Gousse,{},{'s': 1},{}
+alors,Lourquen,alors,Jau-Dignac-et-Loirac,{},{},{},,,,,,,,,,
+olors,Montfort-en-Chalosse-bis,alors,Mazerolles,{},{},"{('o', 'a'): 1}",alor,Montfort-en-Chalosse,{},{'s': 1},"{('o', 'a'): 1}",,,,,
+alor,Montfort-en-Chalosse,alor,Mont-de-Marsan-bis,{},{},{},olors,Montfort-en-Chalosse-bis,{'s': 1},{},"{('a', 'o'): 1}",,,,,
+alor,Nousse,alors,Isle-Saint-Georges,{'s': 1},{},{},alor,Onard,{},{},{},,,,,
+alor,Onard,alors,La Brède-bis,{'s': 1},{},{},alor,Nousse,{},{},{},,,,,
+alors,Ozourt,alors,Isle-Saint-Georges,{},{},{},olors,Poyanne,{},{},"{('a', 'o'): 1}",,,,,
+olors,Poyanne,alors,La Brède-bis,{},{},"{('o', 'a'): 1}",alors,Ozourt,{},{},"{('o', 'a'): 1}",,,,,
+alors,Poyartin,olor,Saint-Geours-d'Auribat,{},{'s': 1},"{('a', 'o'): 1}",,,,,,,,,,
+olor,Préchacq-les-Bains,olors,Bretagne-de-Marsan,{'s': 1},{},{},,,,,,,,,,
+olor,Saint-Geours-d'Auribat,alors,Poyartin,{'s': 1},{},"{('o', 'a'): 1}",,,,,,,,,,
+alor,Saint-Jean-de-Lier,,,,,,,,,,,,,,,
+alors,Sort-en-Chalosse,alor,Vicq-d'Auribat,{},{'s': 1},{},,,,,,,,,,
+alor,Vicq-d'Auribat,alors,Sort-en-Chalosse,{'s': 1},{},{},,,,,,,,,,
+alor,Arengosse,olors,Arjuzanx,{'s': 1},{},"{('a', 'o'): 1}",alort,Saint-Quentin-de-Baron,{'t': 1},{},{},,,,,
+olors,Arjuzanx,olor,Garrosse,{},{'s': 1},{},alors,Tizac-de-Curton,{},{},"{('o', 'a'): 1}",alor,Arengosse,{},{'s': 1},"{('o', 'a'): 1}"
+olor,Garrosse,alor,Morcenx-bourg,{},{},"{('o', 'a'): 1}",olors,Arjuzanx,{'s': 1},{},{},,,,,
+olor,Lesperon,alors,Morcenx,{'s': 1},{},"{('o', 'a'): 1}",alor,Morcenx-bourg,{},{},"{('o', 'a'): 1}",,,,,
+alor,Morcenx-bourg,olor,Lesperon,{},{},"{('a', 'o'): 1}",olor,Garrosse,{},{},"{('a', 'o'): 1}",,,,,
+alor,Morcenx-gare,,,,,,,,,,,,,,,
+alors,Morcenx,olor,Lesperon,{},{'s': 1},"{('a', 'o'): 1}",,,,,,,,,,
+alors,Onesse-Laharie,alors,Sindères,{},{},{},alors,Camiran-bis,{},{},{},,,,,
+alor,Ousse-Suzan,alors,La Brède,{'s': 1},{},{},alors,Sindères,{'s': 1},{},{},,,,,
+alors,Sindères,alor,Ousse-Suzan,{},{'s': 1},{},alors,Capian,{},{},{},alors,Onesse-Laharie,{},{},{}
+alors,Ygos-Saint-Saturnin,alors,Camiran-bis,{},{},{},alors,Baigts,{},{},{},,,,,
+alors,Baigts,alors,Ygos-Saint-Saturnin,{},{},{},alors,Camiran,{},{},{},,,,,
+alor,Bergouey,,,,,,,,,,,,,,,
+alor,Caupenne,olor,Saint-Aubin,{},{},"{('a', 'o'): 1}",olors,Hauriet,{'s': 1},{},"{('a', 'o'): 1}",,,,,
+olors,Doazit,alors,Fontet,{},{},"{('o', 'a'): 1}",olors,Toulouzette,{},{},{},,,,,
+olors,Hauriet,alor,Caupenne,{},{'s': 1},"{('o', 'a'): 1}",alors,Lahosse,{},{},"{('o', 'a'): 1}",,,,,
+alors,Lahosse,alors,Larbey,{},{},{},olors,Hauriet,{},{},"{('a', 'o'): 1}",,,,,
+alors,Larbey,alors,Lahosse,{},{},{},olor,Maylis,{},{'s': 1},"{('a', 'o'): 1}",,,,,
+olor,Maylis,alors,Larbey,{'s': 1},{},"{('o', 'a'): 1}",,,,,,,,,,
+olor,Mugron-bis,olor,Nerbis,{},{},{},,,,,,,,,,
+olors,Mugron,olor,Nerbis,{},{'s': 1},{},,,,,,,,,,
+olor,Nerbis,olor,Mauvezin-d'Armagnac,{},{},{},olor,Mugron-bis,{},{},{},olors,Mugron,{'s': 1},{},{}
+olor,Saint-Aubin,alor,Caupenne,{},{},"{('o', 'a'): 1}",olors,Toulouzette,{'s': 1},{},{},,,,,
+olors,Toulouzette,olors,Doazit,{},{},{},olor,Biscarosse-bis,{},{'s': 1},{},olor,Saint-Aubin,{},{'s': 1},{}
+olor,Biscarosse-bis,alors,Fontet,{'s': 1},{},"{('o', 'a'): 1}",olors,Toulouzette,{'s': 1},{},{},,,,,
+alor,Biscarosse,alors,Gastes,{'s': 1},{},{},,,,,,,,,,
+alors,Gastes,alor,Biscarosse,{},{'s': 1},{},,,,,,,,,,
+alor,Parentis-en-Born,alor,Misson,{},{},{},alor,Sainte-Eulalie-en-Born,{},{},{},,,,,
+alor,Sainte-Eulalie-en-Born,alor,Parentis-en-Born,{},{},{},olor,Bélus,{},{},"{('a', 'o'): 1}",,,,,
+alor,Sanguinet,alors,Ychoux,{'s': 1},{},{},,,,,,,,,,
+alors,Ychoux,alors,Blanquefort,{},{},{},alor,Sanguinet,{},{'s': 1},{},olor,Bélus,{},{'s': 1},"{('a', 'o'): 1}"
+olor,Bélus,alor,Sainte-Eulalie-en-Born,{},{},"{('o', 'a'): 1}",alors,Ychoux,{'s': 1},{},"{('o', 'a'): 1}",,,,,
+olors,Cauneille,alors,Peyrehorade,{},{},"{('o', 'a'): 1}",,,,,,,,,,
+alors,Hastingues,alor,Port-de-Lanne,{},{'s': 1},{},,,,,,,,,,
+olors,Oeyregave,olor,Pimbo,{},{'s': 1},{},olors,Orthevielle,{},{},{},,,,,
+olors,Orist,alors,Saint-Étienne-d'Orthe,{},{},"{('o', 'a'): 1}",olors,Orthevielle,{},{},{},alors,Peyrehorade-bis,{},{},"{('o', 'a'): 1}"
+olors,Orthevielle,olors,Orist,{},{},{},olors,Oeyregave,{},{},{},olor,Pey,{},{'s': 1},{}
+olor,Pey,alor,Port-de-Lanne,{},{},"{('o', 'a'): 1}",olors,Orthevielle,{'s': 1},{},{},,,,,
+alors,Peyrehorade-bis,alors,Peyrehorade,{},{},{},olors,Orist,{},{},"{('a', 'o'): 1}",,,,,
+alors,Peyrehorade,olors,Cauneille,{},{},"{('a', 'o'): 1}",alors,Peyrehorade-bis,{},{},{},alor,Port-de-Lanne,{},{'s': 1},{}
+alor,Port-de-Lanne,olor,Pey,{},{},"{('a', 'o'): 1}",alors,Hastingues,{'s': 1},{},{},alors,Peyrehorade,{'s': 1},{},{}
+alors,Saint-Cricq-du-Gave,alors,Saint-Étienne-d'Orthe,{},{},{},,,,,,,,,,
+alors,Saint-Étienne-d'Orthe,alors,Saint-Cricq-du-Gave,{},{},{},olors,Orist,{},{},"{('a', 'o'): 1}",,,,,
+alors,Saint-Lon-les-Mines,alors,Branne-bis,{},{},{},alor,Sorde-l'Abbaye,{},{'s': 1},{},,,,,
+alor,Sorde-l'Abbaye,alors,Saint-Lon-les-Mines,{'s': 1},{},{},alors,Gironde-sur-Dropt-bis,{'s': 1},{},{},alors,Belhade,{'s': 1},{},{}
+alors,Belhade,alor,Sorde-l'Abbaye,{},{'s': 1},{},,,,,,,,,,
+alors,Biganon,alors,Liposthey,{},{},{},,,,,,,,,,
+alors,Liposthey,alor,Mano,{},{'s': 1},{},alor,Pissos,{},{'s': 1},{},alors,Biganon,{},{},{}
+alor,Mano,alors,Antagnac,{'s': 1},{},{},alors,Liposthey,{'s': 1},{},{},alors,Moustey,{'s': 1},{},{}
+alors,Moustey,alor,Gironde-sur-Dropt,{},{'s': 1},{},alor,Mano,{},{'s': 1},{},,,,,
+alor,Pissos-bis,alor,Pissos,{},{},{},alors,Saint-Gein,{'s': 1},{},{},,,,,
+alor,Pissos,alors,Liposthey,{'s': 1},{},{},alor,Pissos-bis,{},{},{},alor,Richet,{},{},{}
+alor,Richet,alor,Saugnacq-et-Muret-bis,{},{},{},alor,Pissos,{},{},{},,,,,
+alor,Saugnacq-et-Muret-bis,alor,Richet,{},{},{},alorsé,Saugnacq-et-Muret,"{'s': 1, 'é': 1}",{},{},,,,,
+alorsé,Saugnacq-et-Muret,alor,Saugnacq-et-Muret-bis,{},"{'s': 1, 'é': 1}",{},alors,La Réole-bis,{},{'é': 1},{},alors,Cagnotte,{},{'é': 1},{}
+alors,Cagnotte,alors,Hure,{},{},{},alorsé,Saugnacq-et-Muret,{'é': 1},{},{},,,,,
+alors,Estibeaux,alor,Gaas,{},{'s': 1},{},alors,Hure,{},{},{},alors,Mimbaste,{},{},{}
+alor,Gaas,alors,Gironde-sur-Dropt-bis,{'s': 1},{},{},alors,Estibeaux,{'s': 1},{},{},alors,Habas,{'s': 1},{},{}
+alors,Habas,alors,Labatut,{},{},{},alor,Gaas,{},{'s': 1},{},,,,,
+alors,Labatut,alors,Habas,{},{},{},alors,Mimbaste,{},{},{},,,,,
+alors,Mimbaste,alors,La Réole-bis,{},{},{},alors,Labatut,{},{},{},alors,Estibeaux,{},{},{}
+alor,Misson,alor,Parentis-en-Born,{},{},{},alors,Mouscardès,{'s': 1},{},{},,,,,
+alors,Mouscardès,alors,La Réole,{},{},{},alor,Misson,{},{'s': 1},{},alors,Ossages,{},{},{}
+alors,Ossages,alors,Pouillon,{},{},{},alors,Mouscardès,{},{},{},,,,,
+alors,Pouillon,alors,Ossages,{},{},{},,,,,,,,,,
+alors,Tilh,alor,Lamothe-Landerron,{},{'s': 1},{},,,,,,,,,,
+olors,Arouille,alors,Morizès,{},{},"{('o', 'a'): 1}",olors,Luglon,{},{},{},olors,Arue,{},{},{}
+olors,Arue,alors,Sabres,{},{},"{('o', 'a'): 1}",alor,Mongauzy,{},{'s': 1},"{('o', 'a'): 1}",olors,Arouille,{},{},{}
+alors,Cachen,alors,Lencouacq,{},{},{},alors,Lue-bis,{},{},{},olor,Commensacq-bis,{},{'s': 1},"{('a', 'o'): 1}"
+alors,Labastide-d'Armagnac,alors,Maillas,{},{},{},olors,Commensacq,{},{},"{('a', 'o'): 1}",,,,,
+alors,Lencouacq,alors,Lugaut,{},{},{},alors,Cachen,{},{},{},alors,Maillas,{},{},{}
+alors,Lugaut,alors,Noaillac,{},{},{},alors,Lencouacq,{},{},{},,,,,
+alors,Maillas,alors,Labastide-d'Armagnac,{},{},{},alors,Lencouacq,{},{},{},,,,,
+olor,Pouydesseaux,olors,Saint-Justin,{'s': 1},{},{},olors,Saint-Gor,{'s': 1},{},{},,,,,
+olor,Roquefort,alors,Pompéjac,{'s': 1},{},"{('o', 'a'): 1}",alors,Sarbazan,{'s': 1},{},"{('o', 'a'): 1}",olors,Saint-Gor,{'s': 1},{},{}
+olors,Saint-Gor,olor,Pouydesseaux,{},{'s': 1},{},olor,Roquefort,{},{'s': 1},{},,,,,
+olors,Saint-Justin,olors,Escource-bis,{},{},{},olor,Pouydesseaux,{},{'s': 1},{},,,,,
+alors,Sarbazan,olor,Roquefort,{},{'s': 1},"{('a', 'o'): 1}",,,,,,,,,,
+olors,Vielle-Soubiran,alors,Labouheyre,{},{},"{('o', 'a'): 1}",olor,Commensacq-bis,{},{'s': 1},{},,,,,
+olor,Commensacq-bis,olors,Commensacq,{'s': 1},{},{},alors,Cachen,{'s': 1},{},"{('o', 'a'): 1}",olors,Vielle-Soubiran,{'s': 1},{},{}
+olors,Commensacq,alors,Labastide-d'Armagnac,{},{},"{('o', 'a'): 1}",olor,Commensacq-bis,{},{'s': 1},{},,,,,
+olors,Escource-bis,olors,Saint-Justin,{},{},{},alors,Escource,{},{},"{('o', 'a'): 1}",,,,,
+alors,Escource,alors,Labouheyre,{},{},{},olors,Escource-bis,{},{},"{('a', 'o'): 1}",,,,,
+alors,Labouheyre,alors,Escource,{},{},{},olors,Vielle-Soubiran,{},{},"{('a', 'o'): 1}",alors,Lue-bis,{},{},{}
+alors,Lue-bis,alors,Cachen,{},{},{},alors,Labouheyre,{},{},{},,,,,
+olors,Lue,alors,Cazaux,{},{},"{('o', 'a'): 1}",,,,,,,,,,
+olors,Luglon,olors,Arouille,{},{},{},alors,Solférino,{},{},"{('o', 'a'): 1}",alors,Sabres,{},{},"{('o', 'a'): 1}"
+alors,Sabres-bis,olor,Trensacq,{},{'s': 1},"{('a', 'o'): 1}",,,,,,,,,,
+alors,Sabres,olors,Arue,{},{},"{('a', 'o'): 1}",olors,Luglon,{},{},"{('a', 'o'): 1}",,,,,
+alors,Solférino,olors,Luglon,{},{},"{('a', 'o'): 1}",alors,Lestiac-sur-Garonne,{},{},{},olor,Trensacq,{},{'s': 1},"{('a', 'o'): 1}"
+olor,Trensacq,alors,Solférino,{'s': 1},{},"{('o', 'a'): 1}",alors,Sabres-bis,{'s': 1},{},"{('o', 'a'): 1}",,,,,
+alors,Barthes,alors,Biaudos,{},{},{},alorss,Tarnos,{'s': 1},{},{},olor,Biarrotte,{},{'s': 1},"{('a', 'o'): 1}"
+olor,Biarrotte,alors,Barthes,{'s': 1},{},"{('o', 'a'): 1}",,,,,,,,,,
+alors,Biaudos,alors,Loupiac,{},{},{},alors,Barthes,{},{},{},,,,,
+alor,Ondres,,,,,,,,,,,,,,,
+alors,Saint-André-de-Seignanx,,,,,,,,,,,,,,,
+alors,Saint-Barthélemy,alors,Saint-Laurent-de-Gosse,{},{},{},,,,,,,,,,
+alors,Saint-Laurent-de-Gosse,alors,Saint-Barthélemy,{},{},{},alors,La Teste-de-Buch-ter,{},{},{},olors,Saint-Martin-de-Seignanx-bis,{},{},"{('a', 'o'): 1}"
+olors,Saint-Martin-de-Seignanx-bis,alors,Saint-Laurent-de-Gosse,{},{},"{('o', 'a'): 1}",,,,,,,,,,
+olor,Saint-Martin-de-Seignanx,,,,,,,,,,,,,,,
+alorss,Tarnos,alors,Barthes,{},{'s': 1},{},,,,,,,,,,
+alors,Audignon,,,,,,,,,,,,,,,
+alors,Aurice,alors,La Teste-de-Buch-ter,{},{},{},alor,Banos,{},{'s': 1},{},,,,,
+alor,Banos,alors,Aurice,{'s': 1},{},{},alors,Cachon,{'s': 1},{},{},,,,,
+alors,Cachon,alor,Banos,{},{'s': 1},{},,,,,,,,,,
+alors,Cauna,,,,,,,,,,,,,,,
+alors,Coudures,olor,Sablar,{},{'s': 1},"{('a', 'o'): 1}",alors,Dumes,{},{},{},alor,Eyres-Moncube,{},{'s': 1},{}
+alors,Dumes,alors,Coudures,{},{},{},,,,,,,,,,
+alor,Eyres-Moncube,alors,Coudures,{'s': 1},{},{},,,,,,,,,,
+alors,Fargues,alors,Langon-bis,{},{},{},,,,,,,,,,
+alors,Larrivière-Saint-Savin,alors,Langon,{},{},{},olors,Montgaillard,{},{},"{('a', 'o'): 1}",alor,Montaut,{},{'s': 1},{}
+alor,Montaut,olors,Montsoué,{'s': 1},{},"{('a', 'o'): 1}",alor,Guillos,{},{},{},alors,Larrivière-Saint-Savin,{'s': 1},{},{}
+olors,Montgaillard,alors,Le Pian-Médoc,{},{},"{('o', 'a'): 1}",olors,Montsoué,{},{},{},alors,Larrivière-Saint-Savin,{},{},"{('o', 'a'): 1}"
+olors,Montsoué,olors,Montgaillard,{},{},{},alors,Escaudes,{},{},"{('o', 'a'): 1}",alor,Montaut,{},{'s': 1},"{('o', 'a'): 1}"
+alors,Saint-Maurice-sur-Adour,alors,Sainte-Eulalie,{},{},{},alors,Castets-en-Dorthe,{},{},{},alorsè,Saint-Sever,{'è': 1},{},{}
+alorsè,Saint-Sever,alors,Saint-Maurice-sur-Adour,{},{'è': 1},{},alors,Sauternes,{},{'è': 1},{},alor,Sarraziet,{},"{'s': 1, 'è': 1}",{}
+alors,Sainte-Eulalie,alors,Pompignac,{},{},{},alors,Saint-Maurice-sur-Adour,{},{},{},alor,Sarraziet,{},{'s': 1},{}
+alor,Sarraziet,alors,Roaillan,{'s': 1},{},{},alors,Sainte-Eulalie,{'s': 1},{},{},alorsè,Saint-Sever,"{'s': 1, 'è': 1}",{},{}
+olor,Bénesse-Maremne,alors,Le Haillan,{'s': 1},{},"{('o', 'a'): 1}",alor,Josse,{},{},"{('o', 'a'): 1}",alors,Capbreton,{'s': 1},{},"{('o', 'a'): 1}"
+alors,Capbreton,alors,Saint-Pardon-de-Conques,{},{},{},olor,Bénesse-Maremne,{},{'s': 1},"{('a', 'o'): 1}",alors,Labenne,{},{},{}
+alor,Josse,olor,Bénesse-Maremne,{},{},"{('a', 'o'): 1}",alors,Le Pian-Médoc,{'s': 1},{},{},alors,Labenne,{'s': 1},{},{}
+alors,Labenne,alor,Josse,{},{'s': 1},{},alors,Saint-Pierre-de-Mons,{},{},{},alors,Capbreton,{},{},{}
+alors,Orx,alors,Saint-Geours-de-Maremne,{},{},{},alors,Izon,{},{},{},olors,Saint-Jean-de-Marsacq,{},{},"{('a', 'o'): 1}"
+olors,Saint-Jean-de-Marsacq,alors,Monségur,{},{},"{('o', 'a'): 1}",alor,Saint-Martin-de-Hinx,{},{'s': 1},"{('o', 'a'): 1}",alors,Orx,{},{},"{('o', 'a'): 1}"
+alor,Saint-Martin-de-Hinx,alors,Luxey,{'s': 1},{},{},alors,Saint-Vincent-de-Tyrosse,{'s': 1},{},{},olors,Saint-Jean-de-Marsacq,{'s': 1},{},"{('a', 'o'): 1}"
+alors,Saint-Vincent-de-Tyrosse,alor,Saint-Martin-de-Hinx,{},{'s': 1},{},alor,Saint-Julien-Beychevelle,{},{'s': 1},{},alor,Sainte-Marie-de-Gosse,{},{'s': 1},{}
+alor,Sainte-Marie-de-Gosse,alors,Le Leuy,{'s': 1},{},{},alor,Seignosse,{},{},{},alors,Saint-Vincent-de-Tyrosse,{'s': 1},{},{}
+alor,Saubion,alors,Libourne-bis,{'s': 1},{},{},alors,Saubrigues,{'s': 1},{},{},,,,,
+alors,Saubrigues,alors,Izon,{},{},{},alor,Saubion,{},{'s': 1},{},alors,Argelouse,{},{},{}
+alors,Argelouse,alor,Landerrouet-sur-Ségur,{},{'s': 1},{},alors,Saubrigues,{},{},{},,,,,
+olors,Callen,alors,Luxey,{},{},"{('o', 'a'): 1}",alors,Monségur,{},{},"{('o', 'a'): 1}",,,,,
+alor,Houaste,alors,Sore,{'s': 1},{},{},,,,,,,,,,
+alors,Luxey,alors,Sore,{},{},{},alor,Saint-Martin-de-Hinx,{},{'s': 1},{},olors,Callen,{},{},"{('a', 'o'): 1}"
+alors,Sore,alor,Saint-Julien-Beychevelle,{},{'s': 1},{},alors,Luxey,{},{},{},alor,Houaste,{},{'s': 1},{}
+alor,Angresse,alor,Landerrouet-sur-Ségur,{},{},{},,,,,,,,,,
+olor,Azur,olor,Magescq,{},{},{},,,,,,,,,,
+olor,Magescq,olor,Azur,{},{},{},alors,Messanges-bis,{'s': 1},{},"{('o', 'a'): 1}",,,,,
+alors,Messanges-bis,olor,Magescq,{},{'s': 1},"{('a', 'o'): 1}",,,,,,,,,,
+alors,Messanges,alors,Cissac-Médoc,{},{},{},alors,Saint-Geours-de-Maremne,{},{},{},olors,Moliets-et-Maa,{},{},"{('a', 'o'): 1}"
+olors,Moliets-et-Maa,alor,Seignosse,{},{'s': 1},"{('o', 'a'): 1}",alors,Audon,{},{},"{('o', 'a'): 1}",alors,Messanges,{},{},"{('o', 'a'): 1}"
+alors,Saint-Geours-de-Maremne,alors,Messanges,{},{},{},alors,Orx,{},{},{},alor,Seignosse,{},{'s': 1},{}
+alor,Seignosse,alor,Sainte-Marie-de-Gosse,{},{},{},olors,Moliets-et-Maa,{'s': 1},{},"{('a', 'o'): 1}",alors,Saint-Geours-de-Maremne,{'s': 1},{},{}
+olors,Soorts-Hossegor,alors,Soustons,{},{},"{('o', 'a'): 1}",alors,Roquebrune,{},{},"{('o', 'a'): 1}",alors,Lamothe,{},{},"{('o', 'a'): 1}"
+alors,Soustons,alors,Toulenne,{},{},{},olors,Soorts-Hossegor,{},{},"{('a', 'o'): 1}",olors,Tosse,{},{},"{('a', 'o'): 1}"
+olors,Tosse,alors,Vieux-Boucau-les-Bains,{},{},"{('o', 'a'): 1}",alor,Arveyres,{},{'s': 1},"{('o', 'a'): 1}",alors,Soustons,{},{},"{('o', 'a'): 1}"
+alors,Vieux-Boucau-les-Bains,olors,Tosse,{},{},"{('a', 'o'): 1}",alor,Gouts,{},{'s': 1},{},,,,,
+alors,Audon,olors,Moliets-et-Maa,{},{},"{('a', 'o'): 1}",alors,Le Leuy,{},{},{},alors,Lamothe,{},{},{}
+alors,Carcarès-Sainte-Croix,alor,Gouts,{},{'s': 1},{},,,,,,,,,,
+alor,Gouts,alors,Carcarès-Sainte-Croix,{'s': 1},{},{},alors,Vieux-Boucau-les-Bains,{'s': 1},{},{},alors,Lamothe,{'s': 1},{},{}
+alors,Lamothe,olors,Soorts-Hossegor,{},{},"{('a', 'o'): 1}",alors,Audon,{},{},{},alor,Gouts,{},{'s': 1},{}
+alors,Le Leuy,alors,Audon,{},{},{},alor,Sainte-Marie-de-Gosse,{},{'s': 1},{},,,,,
+alors,Meilhan,,,,,,,,,,,,,,,
+alors,Souprosse,aléro,Brassempouy,{},{},"{('o', 'é'): 1, ('s', 'o'): 1}",alor,Tartas-bis,{},{'s': 1},{},,,,,
+alor,Tartas-bis,alèro,Bassercles,{'o': 1},{},"{('o', 'è'): 1}",alors,Souprosse,{'s': 1},{},{},,,,,
+alors,Tartas-ville-haute-bis,alors,Tartas-ville-haute,{},{},{},,,,,,,,,,
+alors,Tartas-ville-haute,alors,Tartas-ville-haute-bis,{},{},{},,,,,,,,,,
+alors,Tartas,,,,,,,,,,,,,,,
+alors,Bégaar,,,,,,,,,,,,,,,
+alors,Beylongue,alors,Rion-des-Landes-bis,{},{},{},alors,Boos,{},{},{},,,,,
+alors,Boos,alors,Beylongue,{},{},{},alors,Arthez-d'Armagnac,{},{},{},alorsè,Carcen-Ponson,{'è': 1},{},{}
+alorsè,Carcen-Ponson,alors,Boos,{},{'è': 1},{},,,,,,,,,,
+alorsè,Laluque,,,,,,,,,,,,,,,
+alors,Lesgor,alor,Rion-des-Landes,{},{'s': 1},{},alors,Rion-des-Landes-bis,{},{},{},,,,,
+alors,Pontonx-sur-l'Adour,alors,Rion-des-Landes-bis,{},{},{},,,,,,,,,,
+alors,Rion-des-Landes-bis,alors,Lesgor,{},{},{},alors,Beylongue,{},{},{},alors,Pontonx-sur-l'Adour,{},{},{}
+alor,Rion-des-Landes,alors,Arthez-d'Armagnac,{'s': 1},{},{},alors,Lesgor,{'s': 1},{},{},alors,Lacquy,{'s': 1},{},{}
+olors,Saint-Yaguen,olors,Villenave,{},{},{},alor,Saint-Sauveur,{},{'s': 1},"{('o', 'a'): 1}",alors,Bourdalat,{},{},"{('o', 'a'): 1}"
+olors,Villenave,olors,Saint-Yaguen,{},{},{},alors,Hontanx,{},{},"{('o', 'a'): 1}",,,,,
+alors,Arthez-d'Armagnac,alors,Boos,{},{},{},alor,Rion-des-Landes,{},{'s': 1},{},alors,Bourdalat,{},{},{}
+alors,Bourdalat,olors,Saint-Yaguen,{},{},"{('a', 'o'): 1}",alors,Arthez-d'Armagnac,{},{},{},,,,,
+alors,Hontanx,olors,Villenave,{},{},"{('a', 'o'): 1}",alors,Lacquy,{},{},{},,,,,
+alors,Lacquy,alor,Rion-des-Landes,{},{'s': 1},{},alors,Hontanx,{},{},{},,,,,
+alors,Le Frêche,alor,Montégut,{},{'s': 1},{},,,,,,,,,,
+alor,Montégut,alors,Le Frêche,{'s': 1},{},{},,,,,,,,,,
+alors,Perquie,,,,,,,,,,,,,,,
+alors,Pujo-le-Plan,,,,,,,,,,,,,,,
+alors,Saint-Cricq-Villeneuve,,,,,,,,,,,,,,,
+alors,Saint-Gein,alor,Pissos-bis,{},{'s': 1},{},alors,Antagnac,{},{},{},alors,Sainte-Foy,{},{},{}
+alors,Sainte-Foy,alors,Saint-Gein,{},{},{},,,,,,,,,,
+alors,Villeneuve-de-Marsan,alors,Langoiran-bis,{},{},{},alors,Antagnac,{},{},{},,,,,
+alors,Antagnac,alors,Saint-Gein,{},{},{},alor,Mano,{},{'s': 1},{},alors,Villeneuve-de-Marsan,{},{},{}

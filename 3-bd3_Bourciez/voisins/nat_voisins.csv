@@ -1,0 +1,1139 @@
+Mot,Commune,Voisin_1,Commune_1,Insertions_1,Suppressions_1,Substitutions_1,Voisin_2,Commune_2,Insertions_2,Suppressions_2,Substitutions_2,Voisin_3,Commune_3,Insertions_3,Suppressions_3,Substitutions_3
+nat,Andernos-les-Bains,nat,Bazas-bis,{},{},{},nat,Auros-bis,{},{},{},nat,Audenge-bis,{},{},{}
+nat,Arès,nat,Savignac,{},{},{},nat,Ailas,{},{},{},nat,Coimères,{},{},{}
+nat,Audenge-bis,nat,Andernos-les-Bains,{},{},{},nat,Le Porge,{},{},{},nat,Saint-Étienne-de-Lisse,{},{},{}
+nat,Audenge,nad,Lignan-de-Bazas,{},{},"{('t', 'd'): 1}",nat,Belin-Béliet,{},{},{},,,,,
+natt,Biganos,nat,Blanquefort-bis,{},{'t': 1},{},,,,,,,,,,
+nat,Lacanau-de-Mios,nat,Eysines,{},{},{},nat,Carbon-Blanc-bis,{},{},{},,,,,
+nat,Lanton,nat,Macau,{},{},{},nat,Castelnau-de-Médoc,{},{},{},nad,Saint-Loubès,{},{},"{('t', 'd'): 1}"
+nat,Lège,nat,Pompogne,{},{},{},nat,Saint-Sulpice-et-Cameyrac,{},{},{},,,,,
+nat,Mios,nat,Ailas,{},{},{},nat,Saint-Maixant,{},{},{},,,,,
+nat,Ailas,nat,Arès,{},{},{},nat,Mios,{},{},{},nat,Auros-bis,{},{},{}
+nat,Auros-bis,nat,Andernos-les-Bains,{},{},{},nat,Ailas,{},{},{},nat,Meylan,{},{},{}
+nat,Auros,nat,Bordeaux,{},{},{},nat,Sainte-Foy-la-Grande-bis,{},{},{},nat,Brannens,{},{},{}
+nat,Barie,nat,Yvrac,{},{},{},,,,,,,,,,
+nat,Brannens,nat,Auros,{},{},{},nat,Castillon-de-Castets,{},{},{},,,,,
+nat,Castillon-de-Castets,nat,Saint-Médard-en-Jalles,{},{},{},nat,Boé,{},{},{},nat,Brannens,{},{},{}
+nat,Coimères,nat,Arès,{},{},{},nat,Cudos,{},{},{},nat,Lados,{},{},{}
+nat,Lados,nat,Gans,{},{},{},nat,Puybarban,{},{},{},nat,Coimères,{},{},{}
+nat,Pondaurat,nat,Blaignan,{},{},{},nat,Bescat,{},{},{},,,,,
+nat,Puybarban,nat,Lados,{},{},{},nat,Le Bouscat,{},{},{},nat,Savignac,{},{},{}
+nat,Savignac,nat,Sigalens,{},{},{},nat,Arès,{},{},{},nat,Puybarban,{},{},{}
+nat,Sigalens,nat,Caudéran,{},{},{},nat,Savignac,{},{},{},nat,Bayon-sur-Gironde,{},{},{}
+nat,Bazas-bis,nat,Bazas,{},{},{},nat,Andernos-les-Bains,{},{},{},nat,Saint-Aubin,{},{},{}
+nat,Bazas,nat,Cazats,{},{},{},nat,Bazas-bis,{},{},{},,,,,
+nat,Bernos-Beaulac,nat,Birac,{},{},{},nat,Saumos,{},{},{},nat,Gajac,{},{},{}
+nat,Birac,nat,Saint-Magne-de-Castillon,{},{},{},nat,Bernos-Beaulac,{},{},{},nat,Cazats,{},{},{}
+nat,Cazats,nat,Cudos,{},{},{},nat,Bazas,{},{},{},nat,Birac,{},{},{}
+nat,Cudos,nat,Coimères,{},{},{},nat,Cazats,{},{},{},nat,Gans,{},{},{}
+nat,Gajac,nat,Belvès-de-Castillon,{},{},{},nat,Gans,{},{},{},nat,Bernos-Beaulac,{},{},{}
+nat,Gans,nat,Gajac,{},{},{},nat,Lados,{},{},{},nat,Cudos,{},{},{}
+nat,Le Nizan,nat,Prignac-et-Marcamps,{},{},{},nat,Gauriac,{},{},{},nat,Saint-Antoine-sur-l'Isle,{},{},{}
+nad,Lignan-de-Bazas,nat,Audenge,{},{},"{('d', 't'): 1}",nat,Lansac,{},{},"{('d', 't'): 1}",nat,Béliet,{},{},"{('d', 't'): 1}"
+nat,Saint-Côme,nat,Bonnetan,{},{},{},nat,Saint-Trojan,{},{},{},nat,Béliet,{},{},{}
+nat,Béliet,nat,Belin-Béliet,{},{},{},nad,Lignan-de-Bazas,{},{},"{('t', 'd'): 1}",nat,Saint-Côme,{},{},{}
+nat,Belin-Béliet,nat,Cadillac-en-Fronsadais,{},{},{},nat,Audenge,{},{},{},nat,Béliet,{},{},{}
+nat,Joué,nat,Le Barp,{},{},{},nat,Tabanac,{},{},{},,,,,
+nat,Le Barp,nat,Cabara,{},{},{},nat,Joué,{},{},{},,,,,
+nat,Lugos,nat,Saint-Magne,{},{},{},nat,Salles-bis,{},{},{},,,,,
+nat,Saint-Magne,nat,Salles,{},{},{},nat,Lugos,{},{},{},nat,Saint-Romain-la-Virvée,{},{},{}
+nat,Salles-bis,nat,Lugos,{},{},{},nat,Génissac,{},{},{},not,Osse-en-Aspe,{},{},"{('a', 'o'): 1}"
+nat,Salles,nat,Saint-Magne,{},{},{},nat,Saint-Quentin-de-Baron,{},{},{},,,,,
+nat,Blanquefort-bis,nat,Langoiran,{},{},{},natt,Biganos,{'t': 1},{},{},nat,Blanquefort,{},{},{}
+nat,Blanquefort,nat,Blanquefort-bis,{},{},{},nat,Ychoux,{},{},{},nat,La Réole,{},{},{}
+nat,Caychac,nat,Omet,{},{},{},nat,Eysines,{},{},{},nat,Giscos,{},{},{}
+nat,Eysines,nat,Caychac,{},{},{},nat,Lacanau-de-Mios,{},{},{},nat,Le Haillan,{},{},{}
+nat,Le Haillan,nat,Le Pian-Médoc,{},{},{},nat,Bénesse-Maremne,{},{},{},nat,Eysines,{},{},{}
+nat,Le Pian-Médoc,nat,Josse,{},{},{},nat,Le Haillan,{},{},{},nat,Montgaillard,{},{},{}
+nat,Le Taillan-Médoc,nat,Sainte-Croix-du-Mont,{},{},{},nat,Bassens,{},{},{},nat,Landerrouat,{},{},{}
+nat,Ludon-Médoc,nat,Agnac,{},{},{},nat,Macau,{},{},{},,,,,
+nat,Macau,nat,Ludon-Médoc,{},{},{},nat,Lanton,{},{},{},nat,Lauzun,{},{},{}
+nat,Parempuyre,nat,Arcins,{},{},{},nat,Arsac,{},{},{},,,,,
+nat,Saint-Aubin-de-Médoc,nat,Feugarolles,{},{},{},nat,Béquin,{},{},{},nat,Labarde,{},{},{}
+nat,Saint-Médard-en-Jalles,nat,Margaux,{},{},{},nat,Castillon-de-Castets,{},{},{},nat,Moulis-en-Médoc-bis,{},{},{}
+nat,Bègles,nat,Castelnaud-de-Gratecambe,{},{},{},nat,Lugon-et-l'Île-du-Carnay,{},{},{},nat,Moulis-en-Médoc,{},{},{}
+nat,Bordeaux,nat,Auros,{},{},{},,,,,,,,,,
+nat,Bruges,nad,Bégadan,{},{},"{('t', 'd'): 1}",nat,Caudéran,{},{},{},,,,,
+nat,Caudéran,nat,Bruges,{},{},{},nat,Sigalens,{},{},{},nat,Bayon-sur-Gironde,{},{},{}
+nat,Chartrons,nat,Sainte-Colombe,{},{},{},nat,Salaunes,{},{},{},,,,,
+nat,Le Bouscat,nat,Puybarban,{},{},{},nat,Castillon-la-Bataille-bis,{},{},{},nat,Bayon-sur-Gironde,{},{},{}
+nat,Bayon-sur-Gironde,nat,Caudéran,{},{},{},nat,Sigalens,{},{},{},nat,Le Bouscat,{},{},{}
+nat,Bourg-bis,nat,Castres-Gironde,{},{},{},nât,Castillon-la-Bataille,{},{},"{('a', 'â'): 1}",nat,Bahus-Soubiran,{},{},{}
+nat,Bourg,nat,Comps,{},{},{},nat,Rivière-Saas-et-Gourby,{},{},{},nat,Baron,{},{},{}
+nat,Comps,nat,Gauriac,{},{},{},nat,Bourg,{},{},{},,,,,
+nat,Gauriac,nat,Le Nizan,{},{},{},nat,Comps,{},{},{},nat,Baurech,{},{},{}
+nat,Lansac,nad,Lignan-de-Bazas,{},{},"{('t', 'd'): 1}",nat,Marcamps,{},{},{},nat,Saint-Loubouer,{},{},{}
+nat,Marcamps,nat,Prignac-et-Marcamps,{},{},{},nat,Lansac,{},{},{},,,,,
+nat,Prignac-et-Marcamps,nat,Marcamps,{},{},{},nat,Le Nizan,{},{},{},nat,Renung,{},{},{}
+nat,Saint-Seurin-de-Bourg,nat,Saint-Pandelon,{},{},{},nat,Samonac,{},{},{},nat,Baron,{},{},{}
+nat,Saint-Trojan,nat,Saint-Côme,{},{},{},nat,Tauriac,{},{},{},nat,Samonac,{},{},{}
+nat,Samonac,nat,Saint-Seurin-de-Bourg,{},{},{},nat,Fronsac,{},{},{},nat,Saint-Trojan,{},{},{}
+nat,Tauriac,nat,Saint-Trojan,{},{},{},nat,Camarsac,{},{},{},nat,Baron,{},{},{}
+nat,Baron,nat,Bourg,{},{},{},nat,Saint-Seurin-de-Bourg,{},{},{},nat,Tauriac,{},{},{}
+nat,Branne-bis,nat,Saint-Lon-les-Mines,{},{},{},nat,Bonnegarde,{},{},{},nat,Camblanes-et-Meynac,{},{},{}
+nat,Branne,nat,Hure,{},{},{},nat,Gironde-sur-Dropt-bis,{},{},{},nat,Carignan-de-Bordeaux,{},{},{}
+nat,Cabara-bis,nat,Le Tourne,{},{},{},nat,Linxe,{},{},{},nat,Dax-Saint-Vincent,{},{},{}
+nat,Cabara,nat,Saillans,{},{},{},nat,Le Barp,{},{},{},nat,Pujols,{},{},{}
+nat,Daignac,nat,Génissac,{},{},{},nat,Aramits,{},{},{},,,,,
+nat,Génissac,nat,Salles-bis,{},{},{},nat,Daignac,{},{},{},nat,Losse,{},{},{}
+nat,Grézillac,nat,Jugazan,{},{},{},,,,,,,,,,
+nat,Jugazan,nat,Grézillac,{},{},{},nat,Civrac,{},{},{},nat,Gaillan-en-Médoc,{},{},{}
+nat,Moulon,nat,Horsarrieu,{},{},{},nat,Bascons,{},{},{},nat,Naujan-et-Postiac,{},{},{}
+nat,Naujan-et-Postiac,nat,Grignols-bis,{},{},{},nat,Cazères-sur-l'Adour,{},{},{},nat,Moulon,{},{},{}
+nat,Nérigean,nat,Saint-Cricq-Chalosse,{},{},{},nat,Poudenx,{},{},{},nat,Saint-Germain-du-Puch,{},{},{}
+nat,Saint-Germain-du-Puch,nat,Uzeste,{},{},{},nat,Laurède,{},{},{},nat,Nérigean,{},{},{}
+nat,Saint-Quentin-de-Baron,nat,Salles,{},{},{},nat,Arengosse,{},{},{},,,,,
+nat,Tizac-de-Curton,nat,Arjuzanx,{},{},{},,,,,,,,,,
+nat,Béguey,nad,Sendets,{},{},"{('t', 'd'): 1}",nát,Gabarnac,{},{},"{('a', 'á'): 1}",,,,,
+nat,Cadillac,nat,Cardan,{},{},{},nat,Camiran,{},{},{},nad,Capian,{},{},"{('t', 'd'): 1}"
+nad,Capian,nat,Saint-Michel-de-Fronsac,{},{},"{('d', 't'): 1}",nat,Cadillac,{},{},"{('d', 't'): 1}",nat,Sindères,{},{},"{('d', 't'): 1}"
+nat,Cardan,nat,Lerm-et-Musset,{},{},{},nat,Cadillac,{},{},{},nat,Donzac,{},{},{}
+nat,Donzac,nat,Saint-Médard-d'Eyrans,{},{},{},nát,Gabarnac,{},{},"{('a', 'á'): 1}",nat,Cardan,{},{},{}
+nát,Gabarnac,nat,Donzac,{},{},"{('á', 'a'): 1}",nat,Béguey,{},{},"{('á', 'a'): 1}",nat,Marions,{},{},"{('á', 'a'): 1}"
+nat,Langoiran-bis,nat,Villeneuve-de-Marsan,{},{},{},nat,Gironde-sur-Dropt,{},{},{},,,,,
+nat,Langoiran,nat,Blanquefort-bis,{},{},{},,,,,,,,,,
+nat,Lestiac-sur-Garonne,nat,Solférino,{},{},{},nat,Morizès,{},{},{},,,,,
+nat,Loupiac,nat,Biaudos,{},{},{},nat,Gujan,{},{},{},nat,Monprimblanc,{},{},{}
+nat,Monprimblanc,nat,Saint-Hilaire-de-la-Noaille,{},{},{},nat,Loupiac,{},{},{},,,,,
+nat,Omet,nat,Paillet,{},{},{},nat,Caychac,{},{},{},nat,La Teste-de-Buch,{},{},{}
+nat,Paillet,nat,Rions,{},{},{},nat,Omet,{},{},{},nat,Le Teich,{},{},{}
+nat,Rions,nat,Paillet,{},{},{},,,,,,,,,,
+nat,Sainte-Croix-du-Mont,nat,Captieux-bis,{},{},{},nat,Le Taillan-Médoc,{},{},{},nat,Mazères,{},{},{}
+nat,Villenave-de-Rions,nat,Beychac-et-Caillau,{},{},{},nat,Captieux-bis,{},{},{},nat,Arbanats,{},{},{}
+nat,Captieux-bis,nat,Villenave-de-Rions,{},{},{},nat,Sainte-Croix-du-Mont,{},{},{},nat,Captieux,{},{},{}
+nat,Captieux,nat,Léogeats,{},{},{},nat,Langon,{},{},{},nat,Captieux-bis,{},{},{}
+nat,Escaudes,nat,Bouliac,{},{},{},nat,Cérons,{},{},{},nat,Montsoué,{},{},{}
+nat,Giscos,nat,Bieujac,{},{},{},nat,Caychac,{},{},{},nat,Saint-Pardon-de-Conques,{},{},{}
+nat,Saint-Michel-de-Castelnau,nat,Cenon,{},{},{},natzèt,Saint-Émilion,"{'z': 1, 'è': 1, 't': 1}",{},{},nat,Toulenne,{},{},{}
+nat,Ambarès-et-Lagrave,nat,La Sauvetat-du-Dropt,{},{},{},nat,Taller,{},{},{},,,,,
+nat,Ambès,nat,Martignas-sur-Jalle,{},{},{},nat,Fieux,{},{},{},nat,Beychac-et-Caillau,{},{},{}
+nat,Bassens,nat,Le Taillan-Médoc,{},{},{},nat,Beychac-et-Caillau,{},{},{},nat,Villeneuve-de-Duras,{},{},{}
+nat,Beychac-et-Caillau,nat,Bassens,{},{},{},nat,Villenave-de-Rions,{},{},{},nat,Ambès,{},{},{}
+nat,Bouliac,nat,Podensac,{},{},{},nat,Escaudes,{},{},{},nat,Carbon-Blanc-bis,{},{},{}
+nat,Carbon-Blanc-bis,nat,Bouliac,{},{},{},nat,Lacanau-de-Mios,{},{},{},nat,Boussès,{},{},{}
+nat,Carbon-Blanc,nat,Pessac,{},{},{},nat,Libourne,{},{},{},nat,Lormont,{},{},{}
+nat,Cenon,nat,Floirac,{},{},{},nat,Saint-Michel-de-Castelnau,{},{},{},,,,,
+nat,Floirac,nat,Saint-Sulpice-de-Faleyrens,{},{},{},nat,Cenon,{},{},{},nat,Lormont,{},{},{}
+nat,Lormont,nat,Houeillès-bis,{},{},{},nat,Carbon-Blanc,{},{},{},nat,Floirac,{},{},{}
+nat,Montussan,nad,Saint-Loubès,{},{},"{('t', 'd'): 1}",nat,Cussac-Fort-Médoc,{},{},{},nat,Bruch-bis,{},{},{}
+nad,Saint-Loubès,nat,Lanton,{},{},"{('d', 't'): 1}",nat,Montussan,{},{},"{('d', 't'): 1}",nat,Lauzun-tet,{},{},"{('d', 't'): 1}"
+nat,Saint-Louis-de-Montferrand,nat,Virelade,{},{},{},nat,Saint-Sulpice-et-Cameyrac,{},{},{},,,,,
+nat,Saint-Sulpice-et-Cameyrac,nat,Saint-Vincent-de-Paul,{},{},{},nat,Lège,{},{},{},nat,Saint-Louis-de-Montferrand,{},{},{}
+nat,Saint-Vincent-de-Paul,nat,Flaujagues,{},{},{},nat,Saint-Sulpice-et-Cameyrac,{},{},{},,,,,
+nat,Sainte-Eulalie,nat,Saint-Martin-de-Sescas,{},{},{},nat,Juillac,{},{},{},,,,,
+nat,Tresses-bis,nat,Peujard,{},{},{},nat,Pessac-sur-Dordogne,{},{},{},,,,,
+nat,Tresses,nat,Rauzan,{},{},{},nat,Saint-Pey-de-Castets,{},{},{},nat,Cubzac-les-Ponts,{},{},{}
+nat,Yvrac,nat,Arcins,{},{},{},nat,Barie,{},{},{},nat,Bon-Encontre,{},{},{}
+nat,Arcins,nat,Parempuyre,{},{},{},nat,Yvrac,{},{},{},nat,Virsac,{},{},{}
+nat,Arsac-bis,nat,Cantenac,{},{},{},nat,Saint-Gervais,{},{},{},nat,Lamarque,{},{},{}
+nat,Arsac,nat,Castelnau-de-Médoc,{},{},{},nat,Parempuyre,{},{},{},nat,Cantenac,{},{},{}
+nat,Cantenac,nat,Salignac,{},{},{},nat,Arsac-bis,{},{},{},nat,Arsac,{},{},{}
+nat,Castelnau-de-Médoc,nat,Lanton,{},{},{},nat,Arsac,{},{},{},nat,Cussac-Fort-Médoc,{},{},{}
+nat,Cussac-Fort-Médoc,nat,Montussan,{},{},{},nat,Castelnau-de-Médoc,{},{},{},nat,Lacanau,{},{},{}
+nat,Labarde,nat,Saint-Aubin-de-Médoc,{},{},{},nat,Lacanau,{},{},{},nat,Caudrot,{},{},{}
+nat,Lacanau,nat,Labarde,{},{},{},nat,Cussac-Fort-Médoc,{},{},{},nat,Lamarque,{},{},{}
+nat,Lamarque,nat,Arsac-bis,{},{},{},nat,Saint-André-du-Bois,{},{},{},nat,Lacanau,{},{},{}
+nat,Le Porge,nat,Audenge-bis,{},{},{},nat,Saint-Germain-de-Grave,{},{},{},nat,Le Temple,{},{},{}
+nat,Le Temple,nat,Verdelais,{},{},{},nat,Le Porge,{},{},{},,,,,
+nat,Listrac-Médoc,nat,Villeton,{},{},{},nat,Pujols-bis,{},{},{},,,,,
+nat,Margaux,nat,Artigues,{},{},{},nat,Saint-Médard-en-Jalles,{},{},{},nat,Saint-Front-sur-Lémance-Bonaguil,{},{},{}
+nat,Moulis-en-Médoc-bis,nat,Saint-Médard-en-Jalles,{},{},{},nat,Sainte-Foy-la-Grande-ter,{},{},{},nat,Estillac,{},{},{}
+nat,Moulis-en-Médoc,nat,Bègles,{},{},{},nat,Gornac,{},{},{},,,,,
+nat,Sainte-Hélène,nat,Cazalis,{},{},{},,,,,,,,,,
+nat,Salaunes,nat,Soussans,{},{},{},nat,Chartrons,{},{},{},nat,Castillon-la-Bataille-bis,{},{},{}
+nat,Saumos,nat,Bernos-Beaulac,{},{},{},nat,Soussans,{},{},{},nat,Belvès-de-Castillon,{},{},{}
+nat,Soussans,nat,Saumos,{},{},{},nat,Saint-Pey-d'Armens,{},{},{},nat,Salaunes,{},{},{}
+nat,Belvès-de-Castillon,nat,Castillon-la-Bataille-bis,{},{},{},nat,Gajac,{},{},{},nat,Saumos,{},{},{}
+nat,Castillon-la-Bataille-bis,nat,Le Bouscat,{},{},{},nat,Belvès-de-Castillon,{},{},{},nat,Salaunes,{},{},{}
+nât,Castillon-la-Bataille,nat,Bourg-bis,{},{},"{('â', 'a'): 1}",nat,Puisseguin,{},{},"{('â', 'a'): 1}",nat,Classun,{},{},"{('â', 'a'): 1}"
+nat,Gardegan,nat,Lucmau,{},{},{},nat,Villandraut-bis,{},{},{},,,,,
+nat,Saint-Étienne-de-Lisse,nat,Paulhiac,{},{},{},nat,Audenge-bis,{},{},{},nat,Saint-Genès-de-Castillon,{},{},{}
+nat,Saint-Genès-de-Castillon,nat,Saint-Étienne-de-Lisse,{},{},{},nad,Balizac,{},{},"{('t', 'd'): 1}",nat,Saint-Laurent-des-Combes,{},{},{}
+nat,Saint-Laurent-des-Combes,nat,Saint-Symphorien-bis,{},{},{},nat,Aire-sur-l'Adour,{},{},{},nat,Saint-Genès-de-Castillon,{},{},{}
+nat,Saint-Magne-de-Castillon,nat,Saint-Pey-d'Armens,{},{},{},nat,Birac,{},{},{},,,,,
+nat,Saint-Pey-d'Armens,nat,Soussans,{},{},{},nat,Saint-Magne-de-Castillon,{},{},{},nat,Saint-Philippe-d'Aiguille,{},{},{}
+nat,Saint-Philippe-d'Aiguille,nat,Sainte-Terre,{},{},{},nat,Saint-Pey-d'Armens,{},{},{},nat,Eugénie-les-Bains,{},{},{}
+nat,Sainte-Colombe,nat,Chartrons,{},{},{},nat,Sainte-Terre,{},{},{},,,,,
+nat,Sainte-Terre,nat,Sainte-Colombe,{},{},{},nat,Saint-Philippe-d'Aiguille,{},{},{},nat,Vignonet,{},{},{}
+nat,Vignonet,nat,Sainte-Terre,{},{},{},nat,Savignac-sur-Leyze,{},{},{},,,,,
+nat,Saint-Antoine-sur-l'Isle,nat,Saint-Agnet,{},{},{},nat,Le Nizan,{},{},{},nat,Baurech,{},{},{}
+nat,Baurech,nat,Saint-Antoine-sur-l'Isle,{},{},{},nat,Gauriac,{},{},{},nat,Camarsac,{},{},{}
+nat,Bonnetan,nat,Camarsac,{},{},{},nat,Saint-Côme,{},{},{},nat,Sarron,{},{},{}
+nat,Camarsac,nat,Tauriac,{},{},{},nat,Bonnetan,{},{},{},nat,Baurech,{},{},{}
+nat,Cambes,nat,Cénac,{},{},{},nat,Vielle-Tursan,{},{},{},nat,Camblanes-et-Meynac,{},{},{}
+nat,Camblanes-et-Meynac,nat,Branne-bis,{},{},{},nat,Cambes,{},{},{},nat,Carignan-de-Bordeaux,{},{},{}
+nat,Carignan-de-Bordeaux,nad,Amou,{},{},"{('t', 'd'): 1}",nat,Branne,{},{},{},nat,Camblanes-et-Meynac,{},{},{}
+nat,Cénac,nat,Cambes,{},{},{},nat,Bassercles,{},{},{},,,,,
+nat,Créon,nat,Brassempouy,{},{},{},,,,,,,,,,
+nat,Haux,nat,Castelnau-Chalosse,{},{},{},nat,Geloux,{},{},{},,,,,
+nat,Latresne,nat,Castel-Sarrazin,{},{},{},nat,Donzacq,{},{},{},nat,Campagne,{},{},{}
+nat,Le Tourne,nat,Tournon-d'Agenais,{},{},{},nat,Cabara-bis,{},{},{},nat,Sallebœuf,{},{},{}
+nat,Lignan-de-Bordeaux,nat,Bommes,{},{},{},nat,Pompignac,{},{},{},nat,Madirac,{},{},{}
+nat,Madirac,nat,Quinsac,{},{},{},nat,Lignan-de-Bordeaux,{},{},{},,,,,
+nat,Pompignac,nat,Lignan-de-Bordeaux,{},{},{},nat,Sainte-Eulalie,{},{},{},nat,Quinsac,{},{},{}
+nat,Quinsac,nat,Uza,{},{},{},nat,Madirac,{},{},{},nat,Pompignac,{},{},{}
+nat,Sadirac,nat,Saint-Caprais-de-Bordeaux,{},{},{},,,,,,,,,,
+nat,Saint-Caprais-de-Bordeaux,nat,Sallebœuf,{},{},{},nat,Bénesse-lès-Dax,{},{},{},nat,Sadirac,{},{},{}
+nat,Sallebœuf,nat,Le Tourne,{},{},{},nat,Saint-Caprais-de-Bordeaux,{},{},{},nat,Bias,{},{},{}
+nat,Tabanac,nat,Joué,{},{},{},nat,Narrosse,{},{},{},,,,,
+nat,Asques,nat,Fronsac-bis,{},{},{},nat,La Lande-de-Fronsac,{},{},{},,,,,
+nat,Cadillac-en-Fronsadais,nat,Fronsac-bis,{},{},{},nat,Belin-Béliet,{},{},{},nat,Fronsac,{},{},{}
+nat,Fronsac-bis,nat,Mées,{},{},{},nat,Cadillac-en-Fronsadais,{},{},{},nat,Asques,{},{},{}
+nat,Fronsac,nat,Samonac,{},{},{},nat,La Lande-de-Fronsac,{},{},{},nat,Cadillac-en-Fronsadais,{},{},{}
+nat,La Lande-de-Fronsac,nat,Fronsac,{},{},{},nat,Dévillac,{},{},{},nat,Asques,{},{},{}
+nat,Lugon-et-l'Île-du-Carnay,nat,Bègles,{},{},{},nat,Saillans,{},{},{},nat,Tourliac,{},{},{}
+nat,Saillans,nat,Lugon-et-l'Île-du-Carnay,{},{},{},nat,Cabara,{},{},{},nat,Saint-Paul-lès-Dax,{},{},{}
+nat,Saint-Germain-de-la-Rivière,nat,Saint-Vincent-de-Paul,{},{},{},nat,Martillac,{},{},{},nat,Saint-Michel-de-Fronsac,{},{},{}
+nat,Saint-Michel-de-Fronsac,nat,Saint-Germain-de-la-Rivière,{},{},{},nad,Capian,{},{},"{('t', 'd'): 1}",,,,,
+nat,Saint-Romain-la-Virvée,nat,Saint-Magne,{},{},{},nat,Vérac,{},{},{},,,,,
+nat,Vérac,nat,Saint-Romain-la-Virvée,{},{},{},nat,Lescun,{},{},{},nat,Villegouge,{},{},{}
+nat,Villegouge,nat,Campin,{},{},{},nat,Vérac,{},{},{},,,,,
+nat,Campin,nat,Villegouge,{},{},{},nat,Cours-les-Bains,{},{},{},,,,,
+nat,Cours-les-Bains,nat,Castandet,{},{},{},nat,Lagrange,{},{},{},nat,Campin,{},{},{}
+nat,Grignols-bis,nat,Grignols,{},{},{},nat,Naujan-et-Postiac,{},{},{},nat,Tercis-les-Bains,{},{},{}
+nat,Grignols,nat,Cette-Eygun,{},{},{},nat,Grignols-bis,{},{},{},nat,Yzosse,{},{},{}
+nat,Lavazan,nat,Arx,{},{},{},nat,Saucats,{},{},{},nat,Bedous,{},{},{}
+nat,Lerm-et-Musset,nat,Cardan,{},{},{},nat,Marions,{},{},{},,,,,
+nat,Marions,nát,Gabarnac,{},{},"{('a', 'á'): 1}",nat,Lerm-et-Musset,{},{},{},,,,,
+nad,Sendets,nat,Béguey,{},{},"{('d', 't'): 1}",,,,,,,,,,
+nad,Bégadan,nat,Blaignan,{},{},"{('d', 't'): 1}",nat,Bruges,{},{},"{('d', 't'): 1}",,,,,
+nat,Blaignan,nat,Pondaurat,{},{},{},nad,Bégadan,{},{},"{('t', 'd'): 1}",,,,,
+nat,Civrac,nat,Jugazan,{},{},{},nat,Brocas,{},{},{},nat,Sorbets,{},{},{}
+nat,Gaillan-en-Médoc,nat,Jugazan,{},{},{},nat,Samadet,{},{},{},,,,,
+nat,Lesparre-Médoc,nat,Labrit,{},{},{},nat,Naujac-sur-Mer,{},{},{},,,,,
+nat,Naujac-sur-Mer,nat,Lesparre-Médoc,{},{},{},,,,,,,,,,
+nat,Ordonnac,nat,Urgons,{},{},{},nat,Serres-Gaston,{},{},{},nat,Saint-Christoly-Médoc,{},{},{}
+nat,Queyrac,nat,Hinx,{},{},{},nat,Saint-Christoly-Médoc,{},{},{},nat,Sainte-Colombe,{},{},{}
+nat,Saint-Christoly-Médoc,nat,Queyrac,{},{},{},nat,Valeyrac,{},{},{},nat,Ordonnac,{},{},{}
+nat,Saint-Germain-d'Esteuil,nat,Serreslous-et-Arribans,{},{},{},nat,Artassenx,{},{},{},nat,Canenx-et-Réaut,{},{},{}
+nat,Saint-Seurin-de-Cadourne,nat,Cère,{},{},{},,,,,,,,,,
+nat,Saint-Yzans-de-Médoc,nat,Isle-Saint-Georges,{},{},{},nat,Mont-de-Marsan-bis,{},{},{},,,,,
+nat,Valeyrac,nat,Saint-Christoly-Médoc,{},{},{},nat,Saint-Avit,{},{},{},,,,,
+nat,Vendays-Montalivet,nat,Beautiran,{},{},{},,,,,,,,,,
+nat,Beautiran,nat,Saint-Martin-d'Oney,{},{},{},nat,Mimizan,{},{},{},nat,Vendays-Montalivet,{},{},{}
+nat,Cabanac-et-Villagrains,nat,Préchac,{},{},{},nat,Castres-Gironde,{},{},{},nat,Louer,{},{},{}
+nat̄,Cadaujac,nat,Saint-Pierre-du-Mont,{},{'̄': 1},{},nat,Gousse,{},{'̄': 1},{},nat,Cassen,{},{'̄': 1},{}
+nat,Castres-Gironde,nat,Cabanac-et-Villagrains,{},{},{},nat,Bourg-bis,{},{},{},nat,Garrey,{},{},{}
+nat,Isle-Saint-Georges,nat,Nousse,{},{},{},nat,Saint-Yzans-de-Médoc,{},{},{},nat,Ozourt,{},{},{}
+nat,La Brède-bis,nat,Poyanne,{},{},{},nat,Louchats,{},{},{},nat,Onard,{},{},{}
+nate,La Brède,nat,Ousse-Suzan,{},{'e': 1},{},nat,Léognan,{},{'e': 1},{},,,,,
+nat,Léognan,nate,La Brède,{'e': 1},{},{},,,,,,,,,,
+nat,Martillac,nat,Saint-Germain-de-la-Rivière,{},{},{},nat,Saugnac-et-Cambran,{},{},{},nat,Saint-Médard-d'Eyrans,{},{},{}
+nat,Saint-Médard-d'Eyrans,nat,Saint-Morillon,{},{},{},nat,Donzac,{},{},{},nat,Martillac,{},{},{}
+nat,Saint-Morillon,nat,Saint-Médard-d'Eyrans,{},{},{},nat,Blaignac,{},{},{},,,,,
+nat,Saint-Selve,nat,Saucats,{},{},{},nat,Blaignac,{},{},{},,,,,
+nat,Saucats,nat,Lavazan,{},{},{},nat,Saint-Selve,{},{},{},nat,Bagas,{},{},{}
+nat,Bagas,nat,Saubusse,{},{},{},nat,Estigarde,{},{},{},nat,Saucats,{},{},{}
+nat,Blaignac,nat,Saint-Selve,{},{},{},nat,Saint-Morillon,{},{},{},nat,Siest,{},{},{}
+nat,Camiran-bis,nat,Ygos-Saint-Saturnin,{},{},{},nat,Onesse-Laharie,{},{},{},,,,,
+nat,Camiran,nat,Cadillac,{},{},{},nat,Baigts,{},{},{},,,,,
+nat,Casseuil,nat,Puyol-Cazalet,{},{},{},nat,Fontet,{},{},{},,,,,
+nat,Fontet,nat,Casseuil,{},{},{},nat,Biscarosse-bis,{},{},{},nat,Doazit,{},{},{}
+nat,Gironde-sur-Dropt-bis,nat,Branne,{},{},{},nat,Gaas,{},{},{},nat,Sorde-l'Abbaye,{},{},{}
+nat,Gironde-sur-Dropt,nat,Langoiran-bis,{},{},{},nat,Moustey,{},{},{},,,,,
+nat,Hure,nat,Estibeaux,{},{},{},nat,Branne,{},{},{},nat,Cagnotte,{},{},{}
+nat,La Réole-bis,nat,Saugnacq-et-Muret,{},{},{},nat,Mimbaste,{},{},{},,,,,
+nat,La Réole,nat,Blanquefort,{},{},{},nat,Mouscardès,{},{},{},,,,,
+nat,Lamothe-Landerron,nat,Loupiac-de-la-Réole,{},{},{},nat,Tilh,{},{},{},,,,,
+nat,Loupiac-de-la-Réole,nat,Lamothe-Landerron,{},{},{},,,,,,,,,,
+nat,Mongauzy,nat,Arue,{},{},{},,,,,,,,,,
+nat,Morizès,nat,Lestiac-sur-Garonne,{},{},{},nat,Arouille,{},{},{},,,,,
+nat,Noaillac,nat,Arveyres,{},{},{},nat,Lugaut,{},{},{},,,,,
+nat,Pompéjac,nat,Arcachon-bis,{},{},{},nat,Roquefort,{},{},{},,,,,
+nat,Saint-Hilaire-de-la-Noaille-bis,nat,Saint-Hilaire-de-la-Noaille,{},{},{},nat,Civrac-sur-Dordogne,{},{},{},,,,,
+nat,Saint-Hilaire-de-la-Noaille,nat,Monprimblanc,{},{},{},nat,Saint-Hilaire-de-la-Noaille-bis,{},{},{},,,,,
+nat,Arcachon-bis,nat,Pompéjac,{},{},{},nat,Arcachon,{},{},{},,,,,
+nat,Arcachon,nat,Arcachon-bis,{},{},{},nat,La Teste-de-Buch-bis,{},{},{},,,,,
+nat,Cazaux,nat,Gujan,{},{},{},nat,Lue,{},{},{},,,,,
+nat,Gujan,nat,Loupiac,{},{},{},nat,Cazaux,{},{},{},nat,La Teste-de-Buch-bis,{},{},{}
+nat,La Teste-de-Buch-bis,nat,Arcachon,{},{},{},nat,Gujan,{},{},{},,,,,
+nat,La Teste-de-Buch-ter,nat,Saint-Laurent-de-Gosse,{},{},{},nat,Aurice,{},{},{},,,,,
+nat,La Teste-de-Buch,nat,Omet,{},{},{},nat,Bieujac,{},{},{},nat,Le Teich,{},{},{}
+nat,Le Teich,nat,Mestras,{},{},{},nat,Paillet,{},{},{},nat,La Teste-de-Buch,{},{},{}
+nat,Mestras,nat,Eysses,{},{},{},nat,Le Teich,{},{},{},nat,Bommes,{},{},{}
+nat,Bieujac,nat,La Teste-de-Buch,{},{},{},nat,Giscos,{},{},{},nat,Castets-en-Dorthe,{},{},{}
+nat,Bommes,nat,Castets-en-Dorthe,{},{},{},nat,Lignan-de-Bordeaux,{},{},{},nat,Mestras,{},{},{}
+nat,Castets-en-Dorthe,nat,Saint-Maurice-sur-Adour,{},{},{},nat,Bommes,{},{},{},nat,Bieujac,{},{},{}
+nat,Fargues,nat,Langon-bis,{},{},{},,,,,,,,,,
+nat,Langon-bis,nat,Fargues,{},{},{},nat,Fargues,{},{},{},,,,,
+nat,Langon,nat,Captieux,{},{},{},nat,Larrivière-Saint-Savin,{},{},{},nat,Budos,{},{},{}
+nat,Léogeats,nat,Saint-Pierre-de-Mons,{},{},{},nat,Captieux,{},{},{},nat,Mazères,{},{},{}
+nat,Mazères,nat,Sainte-Croix-du-Mont,{},{},{},nat,Roaillan,{},{},{},nat,Léogeats,{},{},{}
+nat,Roaillan,nat,Mazères,{},{},{},nat,Sarraziet,{},{},{},,,,,
+nat,Saint-Pardon-de-Conques,nat,Giscos,{},{},{},nat,Capbreton,{},{},{},nat,Sauternes,{},{},{}
+nat,Saint-Pierre-de-Mons,nat,Labenne,{},{},{},nat,Léogeats,{},{},{},nat,Sauternes,{},{},{}
+nat,Sauternes,nat,Saint-Sever,{},{},{},nat,Saint-Pardon-de-Conques,{},{},{},nat,Saint-Pierre-de-Mons,{},{},{}
+nat,Toulenne,nat,Saint-Michel-de-Castelnau,{},{},{},nat,Soustons,{},{},{},,,,,
+nat,Arveyres,nat,Tosse,{},{},{},nat,Noaillac,{},{},{},,,,,
+nat,Civrac-sur-Dordogne,nat,Saint-Hilaire-de-la-Noaille-bis,{},{},{},nat,Saint-Estèphe,{},{},{},,,,,
+nat,Izon,nat,Orx,{},{},{},nat,Cissac-Médoc,{},{},{},nat,Saubrigues,{},{},{}
+nat,Libourne-bis,nat,Libourne,{},{},{},nat,Saubion,{},{},{},nat,Pomerol,{},{},{}
+nat,Libourne,nat,Carbon-Blanc,{},{},{},nat,Libourne-bis,{},{},{},nat,Vayres,{},{},{}
+nat,Pomerol,nat,Libourne-bis,{},{},{},nat,Pauillac,{},{},{},nat,Vayres,{},{},{}
+natzèt,Saint-Émilion,nat,Saint-Michel-de-Castelnau,{},"{'z': 1, 'è': 1, 't': 1}",{},nat,Saint-Sulpice-de-Faleyrens,{},"{'z': 1, 'è': 1, 't': 1}",{},nat,Roquebrune,{},"{'z': 1, 'è': 1, 't': 1}",{}
+nat,Saint-Sulpice-de-Faleyrens,natzèt,Saint-Émilion,"{'z': 1, 'è': 1, 't': 1}",{},{},nat,Floirac,{},{},{},nat,Vayres,{},{},{}
+nat,Vayres,nat,Saint-Sulpice-de-Faleyrens,{},{},{},nat,Libourne,{},{},{},nat,Pomerol,{},{},{}
+nat,Landerrouet-sur-Ségur,natt,Argelouse,{'t': 1},{},{},nat,Angresse,{},{},{},nat,Monségur,{},{},{}
+nat,Monségur,nat,Callen,{},{},{},nat,Saint-Jean-de-Marsacq,{},{},{},nat,Landerrouet-sur-Ségur,{},{},{}
+nat,Roquebrune,nat,Soorts-Hossegor,{},{},{},natzèt,Saint-Émilion,"{'z': 1, 'è': 1, 't': 1}",{},{},nat,Pauillac,{},{},{}
+nat,Cissac-Médoc,nat,Izon,{},{},{},nad,Messanges,{},{},"{('t', 'd'): 1}",nat,Pauillac,{},{},{}
+nat,Pauillac,nat,Pomerol,{},{},{},nat,Cissac-Médoc,{},{},{},nat,Roquebrune,{},{},{}
+nat,Saint-Estèphe,nat,Civrac-sur-Dordogne,{},{},{},nat,Saint-Julien-Beychevelle,{},{},{},,,,,
+nat,Saint-Julien-Beychevelle,nat,Saint-Vincent-de-Tyrosse,{},{},{},nat,Sore,{},{},{},nat,Saint-Estèphe,{},{},{}
+nat,Saint-Sauveur,nat,Saint-Yaguen,{},{},{},nat,Vertheuil,{},{},{},,,,,
+nat,Vertheuil,nat,Auriac-sur-Dropt,{},{},{},nat,Saint-Sauveur,{},{},{},nat,Cazaugitat,{},{},{}
+nat,Cazaugitat,nat,Saint-Sernin,{},{},{},nat,Vertheuil,{},{},{},,,,,
+nat,Landerrouat,nat,Massugas,{},{},{},nat,Le Taillan-Médoc,{},{},{},nat,Listrac-de-Durèze,{},{},{}
+nat,Listrac-de-Durèze,nat,Landerrouat,{},{},{},nat,Soumensac,{},{},{},nat,Monheurt,{},{},{}
+nat,Massugas,nat,Landerrouat,{},{},{},nat,Pellegrue,{},{},{},,,,,
+nat,Pellegrue,nat,Puch-d'Agenais,{},{},{},nat,Lamontjoie,{},{},{},nat,Massugas,{},{},{}
+nat,Canéjan,nat,Cestas,{},{},{},nat,Illats,{},{},{},nat,Durance,{},{},{}
+nat,Cestas,nat,Villenave-d'Ornon,{},{},{},nat,Canéjan,{},{},{},nat,Allons,{},{},{}
+nat,Gradignan,nat,Landiras,{},{},{},nat,Villenave-d'Ornon,{},{},{},nat,Mérignac,{},{},{}
+nat,Martignas-sur-Jalle,nat,Saint-Jean-d'Illac,{},{},{},nat,Ambès,{},{},{},nat,Mérignac,{},{},{}
+nat,Mérignac,nat,Martignas-sur-Jalle,{},{},{},nat,Barsac,{},{},{},nat,Gradignan,{},{},{}
+nat,Pessac,nat,Talence,{},{},{},nat,Carbon-Blanc,{},{},{},nat,Saint-Jean-d'Illac,{},{},{}
+nat,Saint-Jean-d'Illac,nat,Pujols-sur-Ciron,{},{},{},nat,Martignas-sur-Jalle,{},{},{},nat,Pessac,{},{},{}
+nat,Talence,nat,Pessac,{},{},{},nat,Villenave-d'Ornon,{},{},{},,,,,
+nat,Villenave-d'Ornon,nat,Gradignan,{},{},{},nat,Cestas,{},{},{},nat,Talence,{},{},{}
+nat,Arbanats,nat,Barsac,{},{},{},nat,Villenave-de-Rions,{},{},{},nat,Budos,{},{},{}
+nat,Barsac,nat,Mérignac,{},{},{},nat,Arbanats,{},{},{},nat,Budos-bis,{},{},{}
+nat,Budos-bis,nat,Cérons,{},{},{},nat,Portets,{},{},{},nat,Barsac,{},{},{}
+nat,Budos,nat,Arbanats,{},{},{},nat,Langon,{},{},{},nat,Guillos,{},{},{}
+nat,Cérons,nat,Escaudes,{},{},{},nat,Budos-bis,{},{},{},nat,Guillos,{},{},{}
+nat,Guillos,nat,Montaut,{},{},{},nat,Cérons,{},{},{},nat,Budos,{},{},{}
+nat,Illats,nat,Canéjan,{},{},{},nat,Landiras,{},{},{},nat,Podensac,{},{},{}
+nat,Landiras,nat,Illats,{},{},{},nat,Gradignan,{},{},{},nat,Portets,{},{},{}
+nat,Podensac,nat,Portets,{},{},{},nat,Bouliac,{},{},{},nat,Illats,{},{},{}
+nat,Portets,nat,Budos-bis,{},{},{},nat,Podensac,{},{},{},nat,Landiras,{},{},{}
+nat,Preignac,nat,Nomdieu,{},{},{},,,,,,,,,,
+nat,Pujols-sur-Ciron,nat,Francescas,{},{},{},nat,Saint-Jean-d'Illac,{},{},{},nat,Houeillès,{},{},{}
+nat,Saint-Michel-de-Rieufret,nat,Bourgougnague,{},{},{},nat,Aubie-et-Espessas,{},{},{},nat,Sainte-Radegonde,{},{},{}
+nat,Virelade,nat,Saint-Vincent-de-Pertignas,{},{},{},nat,Saint-Louis-de-Montferrand,{},{},{},nat,Doulezon,{},{},{}
+nat,Doulezon,nat,Virelade,{},{},{},nat,Sauméjan,{},{},{},nat,Laperche,{},{},{}
+nat,Flaujagues,nat,Gensac,{},{},{},nat,Saint-Vincent-de-Paul,{},{},{},nat,Saint-Pierre de Nogaret,{},{},{}
+nat,Gensac,nat,Juillac,{},{},{},nat,Flaujagues,{},{},{},,,,,
+nat,Juillac,nat,Sainte-Eulalie,{},{},{},nat,Gensac,{},{},{},nât,Sainte-Bazeille,{},{},"{('a', 'â'): 1}"
+nat,Mouliets,nat,Sainte-Maure-de-Peyriac,{},{},{},nat,Saint-Macaire,{},{},{},nat,Pessac-sur-Dordogne,{},{},{}
+nat,Pessac-sur-Dordogne,nat,Mouliets,{},{},{},nat,Tresses-bis,{},{},{},nad,Montignac-de-Lauzun,{},{},"{('t', 'd'): 1}"
+nat,Pujols-bis,nat,Listrac-Médoc,{},{},{},,,,,,,,,,
+nat,Pujols,nat,Saint-Jean-de-Blaignac,{},{},{},,,,,,,,,,
+nat,Rauzan,nat,Saint-Colomb-de-Lauzun,{},{},{},nat,Tresses,{},{},{},nat,Sérignac-Péboudou,{},{},{}
+nat,Saint-Jean-de-Blaignac,nat,Saint-Nazaire,{},{},{},nat,Pujols,{},{},{},,,,,
+nat,Saint-Pey-de-Castets,nat,Tresses,{},{},{},nat,Longueville,{},{},{},nat,Sainte-Radegonde,{},{},{}
+nat,Saint-Vincent-de-Pertignas,nat,Fauguerolles,{},{},{},nat,Virelade,{},{},{},nat,Sainte-Radegonde,{},{},{}
+nat,Sainte-Radegonde,nat,Saint-Michel-de-Rieufret,{},{},{},nat,Saint-Pey-de-Castets,{},{},{},nat,Saint-Vincent-de-Pertignas,{},{},{}
+nat,Aubie-et-Espessas,nat,Saint-Michel-de-Rieufret,{},{},{},nat,Barbaste,{},{},{},nat,Cubzac-les-Ponts,{},{},{}
+nat,Cubzac-les-Ponts,nat,Méneau,{},{},{},nat,Tresses,{},{},{},nat,Aubie-et-Espessas,{},{},{}
+nat,Peujard,nat,Tresses-bis,{},{},{},nat,Saint-André-de-Cubzac,{},{},{},nat,Vianne,{},{},{}
+nat,Saint-André-de-Cubzac,nat,Peujard,{},{},{},nat,Xaintrailles,{},{},{},,,,,
+nat,Saint-Antoine,nat,Saint-Pardoux-du-Breuil,{},{},{},nat,Gontaud-de-Nogaret-bis,{},{},{},,,,,
+nat,Saint-Gervais,nat,Arsac-bis,{},{},{},nat,Benon,{},{},{},nat,Saint-Laurent-d'Arce,{},{},{}
+nat,Saint-Laurent-d'Arce,nat,Le Pian-sur-Garonne,{},{},{},nat,Saint-Gervais,{},{},{},,,,,
+nat,Salignac,nat,Benon,{},{},{},nat,Cantenac,{},{},{},nat,Virsac,{},{},{}
+nat,Virsac,nat,Salignac,{},{},{},nat,Arcins,{},{},{},nat,Colayrac-Saint-Cirq,{},{},{}
+nat,Benon,nat,Saint-Gervais,{},{},{},nat,Salignac,{},{},{},nat,Carcans,{},{},{}
+nat,Carcans,nat,Foulayronnes,{},{},{},nat,Hourtin,{},{},{},nat,Benon,{},{},{}
+nat,Hourtin,nat,Carcans,{},{},{},nat,Saint-Quentin-de-Caplong,{},{},{},,,,,
+nat,Saint-Laurent-Médoc,nat,Le Pian-sur-Garonne,{},{},{},nat,Taillebourg,{},{},{},nat,Caudrot,{},{},{}
+nat,Caudrot,nat,Saint-Laurent-Médoc,{},{},{},nat,Labarde,{},{},{},nat,Saint-André-du-Bois,{},{},{}
+nat,Le Pian-sur-Garonne,nat,Saint-Laurent-d'Arce,{},{},{},nat,Saint-Laurent-Médoc,{},{},{},nat,Saint-André-du-Bois,{},{},{}
+nat,Saint-André-du-Bois,nat,Lamarque,{},{},{},nat,Le Pian-sur-Garonne,{},{},{},nat,Caudrot,{},{},{}
+nat,Saint-Germain-de-Grave,nat,Le Porge,{},{},{},nat,Saint-Sauveur-de-Meilhan,{},{},{},nat,Saint-Laurent-du-Bois,{},{},{}
+nat,Saint-Laurent-du-Bois,nat,Saint-Germain-de-Grave,{},{},{},,,,,,,,,,
+nat,Saint-Macaire,nat,Mouliets,{},{},{},nat,Poudenas,{},{},{},nat,Saint-Martin-de-Sescas,{},{},{}
+nat,Saint-Maixant,nat,Mios,{},{},{},nat,Saint-Martin-de-Sescas,{},{},{},,,,,
+nat,Saint-Martin-de-Sescas,nat,Saint-Maixant,{},{},{},nat,Sainte-Eulalie,{},{},{},nat,Saint-Macaire,{},{},{}
+nat,Saint-Pierre-d'Aurillac,nat,Peyrière,{},{},{},nat,Espiens,{},{},{},nat,Sos,{},{},{}
+nat,Verdelais,nat,Le Temple,{},{},{},nat,Grayan-bis,{},{},{},nad,Balizac,{},{},"{('t', 'd'): 1}"
+nad,Balizac,nat,Saint-Genès-de-Castillon,{},{},"{('d', 't'): 1}",nat,Verdelais,{},{},"{('d', 't'): 1}",nat,Grayan,{},{},"{('d', 't'): 1}"
+nat,Hostens,nat,Le Verdon-sur-Mer,{},{},{},nad,Le Tuzan,{},{},"{('t', 'd'): 1}",,,,,
+nad,Le Tuzan,nat,Hostens,{},{},"{('d', 't'): 1}",nat,Louchats,{},{},"{('d', 't'): 1}",,,,,
+nat,Louchats,nat,La Brède-bis,{},{},{},nat,Origne,{},{},{},nad,Le Tuzan,{},{},"{('t', 'd'): 1}"
+nat,Origne,nat,Uchacq,{},{},{},nat,Saint-Léger-de-Balson,{},{},{},nat,Louchats,{},{},{}
+nat,Saint-Léger-de-Balson,nat,Origne,{},{},{},nat,Clermont,{},{},{},nat,Saint-Symphorien-bis,{},{},{}
+nat,Saint-Symphorien-bis,nat,Saint-Léger-de-Balson,{},{},{},nat,Saint-Laurent-des-Combes,{},{},{},nat,Montagnac-sur-Auvignon,{},{},{}
+nad,Saint-Symphorien,neat,Castelnau-sur-Gupie,{'e': 1},{},"{('d', 't'): 1}",,,,,,,,,,
+nat,Grayan-bis,nat,Verdelais,{},{},{},nat,Grayan,{},{},{},,,,,
+nat,Grayan,nat,Nérac-bis,{},{},{},nad,Balizac,{},{},"{('t', 'd'): 1}",nat,Grayan-bis,{},{},{}
+nad,Jau-Dignac-et-Loirac,nat,Lourquen,{},{},"{('d', 't'): 1}",nat,Le Verdon-sur-Mer,{},{},"{('d', 't'): 1}",,,,,
+nat,Le Verdon-sur-Mer,nad,Jau-Dignac-et-Loirac,{},{},"{('t', 'd'): 1}",nat,Hostens,{},{},{},nat,Saint-Vivien-de-Médoc,{},{},{}
+nat,Saint-Vivien-de-Médoc,nat,Le Verdon-sur-Mer,{},{},{},,,,,,,,,,
+nat,Soulac-sur-Mer,nat,Mauvezin-sur-Gupie,{},{},{},,,,,,,,,,
+nat,Talais,nat,Calonges,{},{},{},,,,,,,,,,
+nat,Vensac,nat,La Roquille,{},{},{},nat,Appelles,{},{},{},,,,,
+nat,Appelles,nat,Vensac,{},{},{},nat,Caplong,{},{},{},,,,,
+nat,Caplong,nat,Puymiclan,{},{},{},nat,Appelles,{},{},{},,,,,
+nat,Eynesse,nat,Sénestis,{},{},{},nat,La Roquille,{},{},{},,,,,
+nat,La Roquille,nat,Lachapelle,{},{},{},nat,Vensac,{},{},{},nat,Eynesse,{},{},{}
+nat,Les Lèves-et-Thoumeyragues,nat,Samazan,{},{},{},nat,Riocaud,{},{},{},nat,Ligueux,{},{},{}
+nat,Ligueux,nat,Lagruère,{},{},{},nat,Les Lèves-et-Thoumeyragues,{},{},{},nat,Pineuilh,{},{},{}
+nat,Pineuilh,nat,Ligueux,{},{},{},,,,,,,,,,
+nat,Riocaud,nat,Les Lèves-et-Thoumeyragues,{},{},{},nat,Saint-Avit-de-Soulège,{},{},{},,,,,
+nat,Saint-Avit-de-Soulège,nat,Riocaud,{},{},{},,,,,,,,,,
+nat,Saint-Avit-Saint-Nazaire,nad,Monsempron-Libos,{},{},"{('t', 'd'): 1}",nat,Agen,{},{},{},,,,,
+nat,Saint-Quentin-de-Caplong,nat,Hourtin,{},{},{},nat,Le Passage,{},{},{},,,,,
+nat,Sainte-Foy-la-Grande-bis,nat,Auros,{},{},{},nat,Sainte-Foy-la-Grande-ter,{},{},{},,,,,
+nat,Sainte-Foy-la-Grande-ter,nat,Moulis-en-Médoc-bis,{},{},{},nat,Sainte-Foy-la-Grande-bis,{},{},{},nad,Laplume-bis,{},{},"{('t', 'd'): 1}"
+nat,Sainte-Foy-la-Grande,nat,Blasimon,{},{},{},,,,,,,,,,
+nat,Blasimon,nat,Sainte-Foy-la-Grande,{},{},{},nat,Castelviel,{},{},{},,,,,
+nat,Castelviel,nat,Caudecoste,{},{},{},nat,Blasimon,{},{},{},,,,,
+nat,Cleyrac,,,,,,,,,,,,,,,
+nat,Coirac,not,Sauveterre-Saint-Denis,{},{},"{('a', 'o'): 1}",not,Cancon-bis,{},{},"{('a', 'o'): 1}",nat,Engayrac,{},{},{}
+nat,Gornac,nat,Moulis-en-Médoc,{},{},{},,,,,,,,,,
+nat,Mérignas,nat,Saint-Sulpice-de-Pommiers,{},{},{},nat,Blanquefort-sur-Briolance-La-Sauvetat,{},{},{},,,,,
+nat,Mourens,nat,Ruch,{},{},{},,,,,,,,,,
+nat,Ruch,nat,Mourens,{},{},{},nat,Saint-Brice,{},{},{},,,,,
+nat,Saint-Brice,nat,Ferrensac,{},{},{},nat,Ruch,{},{},{},,,,,
+nat,Saint-Félix-de-Foncaude,not,Trémons,{},{},"{('a', 'o'): 1}",nat,Fumel-bis,{},{},{},,,,,
+nat,Saint-Léger-de-Vignague,nat,Saint-Nicolas-de-la-Balerme,{},{},{},nat,Saint-Sulpice-de-Pommiers,{},{},{},nat,Blanquefort-sur-Briolance,{},{},{}
+nat,Saint-Sulpice-de-Pommiers,nat,Saint-Léger-de-Vignague,{},{},{},nat,Mérignas,{},{},{},nat,Sauveterre-de-Guyenne-bis,{},{},{}
+nat,Sauveterre-de-Guyenne-bis,nat,Saint-Sulpice-de-Pommiers,{},{},{},,,,,,,,,,
+nat,Sauveterre-de-Guyenne-ter,natt,Arbis,{'t': 1},{},{},,,,,,,,,,
+nat,Sauveterre-de-Guyenne,nat,Castang,{},{},{},nat,Escoussans,{},{},{},,,,,
+natt,Arbis,nat,Sauveterre-de-Guyenne-ter,{},{'t': 1},{},nat,Baigneaux,{},{'t': 1},{},,,,,
+nat,Baigneaux,nad,Roquefort,{},{},"{('t', 'd'): 1}",nat,Bonnenouvelle,{},{},{},natt,Arbis,{'t': 1},{},{}
+nat,Escoussans,nat,Sauveterre-de-Guyenne,{},{},{},nat,La Croix-Blanche,{},{},{},,,,,
+nat,Faleyras,nat,Montastruc,{},{},{},nat,La Sauvetat-de-Savères,{},{},{},nat,Frontenac,{},{},{}
+nat,Frontenac,not,Saint-Martin-de-Beauville,{},{},"{('a', 'o'): 1}",nat,Romagne,{},{},{},nat,Faleyras,{},{},{}
+nat,Ladaux,nat,Lugasson,{},{},{},nat,Soulignac,{},{},{},,,,,
+nat,Lugasson,nat,Ladaux,{},{},{},nat,Romagne,{},{},{},,,,,
+nat,Romagne,nat,Frontenac,{},{},{},not,Tayrac,{},{},"{('a', 'o'): 1}",nat,Lugasson,{},{},{}
+nat,Saint-Pierre-de-Bat,nat,Monclar-bis,{},{},{},net,Sérignac-sur-Garonne,{},{},"{('a', 'e'): 1}",,,,,
+nat,Soulignac,nat,Ladaux,{},{},{},net,Monclar,{},{},"{('a', 'e'): 1}",nat,Saint-Étienne-de-Fougères,{},{},{}
+nat,Targon-bis,nat,La Sauvetat-sur-Lède,{},{},{},nat,Lacapelle-Biron,{},{},{},,,,,
+nat,Targon,nat,Pailloles,{},{},{},nat,Cazalis,{},{},{},,,,,
+nat,Cazalis,nat,Laussou,{},{},{},nat,Sainte-Hélène,{},{},{},nat,Targon,{},{},{}
+nat,Lucmau,nat,Gardegan,{},{},{},nat,Gours,{},{},{},,,,,
+nat,Noaillan,nat,Préchac-bis,{},{},{},,,,,,,,,,
+nat,Préchac-bis,nat,Noaillan,{},{},{},nat,Francs,{},{},{},,,,,
+nat,Préchac,nat,Puynormand,{},{},{},nat,Cabanac-et-Villagrains,{},{},{},nat,Uzeste,{},{},{}
+nat,Uzeste,nat,Préchac,{},{},{},nat,Saint-Germain-du-Puch,{},{},{},nat,Villandraut-bis,{},{},{}
+nat,Villandraut-bis,nat,Uzeste,{},{},{},nat,Gardegan,{},{},{},nat,Saint-Christophe-des-Bardes,{},{},{}
+nat,Villandraut,nat,Francs,{},{},{},nat,Duhort-Bachen,{},{},{},nat,Puisseguin,{},{},{}
+nat,Francs,nat,Préchac-bis,{},{},{},nat,Villandraut,{},{},{},nat,Gours,{},{},{}
+nat,Gours,nat,Saint-Christophe-des-Bardes,{},{},{},nat,Lucmau,{},{},{},nat,Francs,{},{},{}
+nat,Puisseguin,nât,Castillon-la-Bataille,{},{},"{('a', 'â'): 1}",nat,Puynormand,{},{},{},nat,Villandraut,{},{},{}
+nat,Puynormand,nat,Puisseguin,{},{},{},nat,Préchac,{},{},{},nat,Saint-Christophe-des-Bardes,{},{},{}
+nat,Saint-Christophe-des-Bardes,nat,Villandraut-bis,{},{},{},nat,Gours,{},{},{},nat,Puynormand,{},{},{}
+nat,Aire-sur-l'Adour,nat,Saint-Laurent-des-Combes,{},{},{},nat,Buanes,{},{},{},nat,Montagnac-sur-Lède,{},{},{}
+nat,Bahus-Soubiran,nat,Bourg-bis,{},{},{},nat,Classun,{},{},{},nat,Buanes,{},{},{}
+nat,Buanes,nat,Aire-sur-l'Adour,{},{},{},nat,Gamarde-les-Bains,{},{},{},nat,Bahus-Soubiran,{},{},{}
+nat,Classun,nat,Bahus-Soubiran,{},{},{},nât,Castillon-la-Bataille,{},{},"{('a', 'â'): 1}",nat,Duhort-Bachen,{},{},{}
+nat,Duhort-Bachen,nat,Villandraut,{},{},{},nad,Monségur,{},{},"{('t', 'd'): 1}",nat,Classun,{},{},{}
+nat,Eugénie-les-Bains,nat,Auradou,{},{},{},nat,Saint-Philippe-d'Aiguille,{},{},{},,,,,
+nat,Latrille,nat,Maillères,{},{},{},nat,Lussagnet,{},{},{},,,,,
+nat,Renung,nat,Prignac-et-Marcamps,{},{},{},nat,Saint-Agnet,{},{},{},nat,Saint-Loubouer,{},{},{}
+nat,Saint-Agnet,nat,Renung,{},{},{},nat,Saint-Antoine-sur-l'Isle,{},{},{},nat,Sarron,{},{},{}
+nat,Saint-Loubouer,nat,Sarron,{},{},{},nat,Lansac,{},{},{},nat,Renung,{},{},{}
+nat,Sarron,nat,Bonnetan,{},{},{},nat,Saint-Loubouer,{},{},{},nat,Saint-Agnet,{},{},{}
+nat,Vielle-Tursan,nat,Cambes,{},{},{},nat,Amou-bis,{},{},{},nad,Amou,{},{},"{('t', 'd'): 1}"
+nat,Amou-bis,nat,Vielle-Tursan,{},{},{},,,,,,,,,,
+nad,Amou,nat,Carignan-de-Bordeaux,{},{},"{('d', 't'): 1}",nat,Vielle-Tursan,{},{},"{('d', 't'): 1}",,,,,
+nat,Bassercles,nat,Cénac,{},{},{},nat,Bonnegarde,{},{},{},nat,Tartas-bis,{},{},{}
+nat,Bonnegarde,nat,Branne-bis,{},{},{},nat,Brassempouy,{},{},{},nat,Bassercles,{},{},{}
+nat,Brassempouy,nat,Bonnegarde,{},{},{},nat,Créon,{},{},{},nat,Souprosse,{},{},{}
+nat,Castaignos-Souslens,nat,Trentels,{},{},{},,,,,,,,,,
+nat,Castel-Sarrazin,nat,Latresne,{},{},{},nat,Port-Sainte-Marie,{},{},{},,,,,
+nat,Castelnau-Chalosse,nat,Haux,{},{},{},,,,,,,,,,
+nat,Donzacq,nat,Latresne,{},{},{},nat,Marpaps,{},{},{},nat,Gaujacq,{},{},{}
+nat,Gaujacq,nat,Laglorieuse,{},{},{},nat,Campet,{},{},{},nat,Donzacq,{},{},{}
+nat,Marpaps,nat,Donzacq,{},{},{},,,,,,,,,,
+nat,Nassiet,not,Allez-et-Cazeneuve,{},{},"{('a', 'o'): 1}",nat,Saint-Hilaire-de-Lusignan,{},{},{},,,,,
+nat,Pomarez,nat,Astaffort-bis,{},{},{},nat,Castets,{},{},{},,,,,
+nat,Castets,nat,Pomarez,{},{},{},,,,,,,,,,
+nat,Léon,nat,Bourlens,{},{},{},,,,,,,,,,
+nat,Lévignacq,nat,Sainte-Livrade-sur-Lot-bis,{},{},{},,,,,,,,,,
+nat,Linxe,nat,Cabara-bis,{},{},{},nat,Lit-et-Mixe,{},{},{},,,,,
+nat,Lit-et-Mixe,nat,Saint-Michel-Escalus,{},{},{},nat,Linxe,{},{},{},,,,,
+nat,Saint-Julien-en-Born,nat,Taller,{},{},{},nat,Savignac-de-Duras,{},{},{},nat,Saint-Michel-Escalus,{},{},{}
+nat,Saint-Michel-Escalus,nat,Saint-Julien-en-Born,{},{},{},nat,Lit-et-Mixe,{},{},{},nat,Vielle-Saint-Girons,{},{},{}
+nat,Taller,nat,Ambarès-et-Lagrave,{},{},{},nat,Saint-Julien-en-Born,{},{},{},nat,Uza,{},{},{}
+nat,Uza,nat,Vielle-Saint-Girons,{},{},{},nat,Quinsac,{},{},{},nat,Taller,{},{},{}
+nat,Vielle-Saint-Girons,nat,Uza,{},{},{},nat,Saint-Michel-Escalus,{},{},{},,,,,
+nat,Bénesse-lès-Dax,nat,Saint-Caprais-de-Bordeaux,{},{},{},nat,Dax-Saint-Vincent,{},{},{},,,,,
+nat,Candresse,nat,Dax-Saint-Vincent,{},{},{},,,,,,,,,,
+nat,Dax-Saint-Vincent,nat,Cabara-bis,{},{},{},nat,Candresse,{},{},{},nat,Bénesse-lès-Dax,{},{},{}
+nat,Dax,nat,Saint-Antoine-de-Ficalba,{},{},{},nat,Herm,{},{},{},,,,,
+nat,Herm,nat,Heugas,{},{},{},nad,Rayet,{},{},"{('t', 'd'): 1}",nat,Dax,{},{},{}
+nat,Heugas,nat,Sembas,{},{},{},nat,Herm,{},{},{},,,,,
+nat,Mées,nat,Narrosse,{},{},{},nat,Fronsac-bis,{},{},{},nat,Oeyreluy,{},{},{}
+nat,Narrosse,nat,Tabanac,{},{},{},nat,Mées,{},{},{},nat,Oeyreluy,{},{},{}
+nat,Oeyreluy,nat,Mées,{},{},{},nat,Narrosse,{},{},{},,,,,
+nat,Rivière-Saas-et-Gourby,nat,Bourg,{},{},{},nat,Sablar,{},{},{},nat,Saint-Pandelon,{},{},{}
+nat,Sablar,nat,Rivière-Saas-et-Gourby,{},{},{},nat,Coudures,{},{},{},,,,,
+nat,Saint-Pandelon,nat,Doudrac,{},{},{},nat,Saint-Seurin-de-Bourg,{},{},{},nat,Rivière-Saas-et-Gourby,{},{},{}
+nat,Saint-Paul-lès-Dax,nat,Saillans,{},{},{},nat,Saint-Germain,{},{},{},,,,,
+nat,Saint-Vincent-de-Paul,nat,Saugnac-et-Cambran,{},{},{},nat,Saint-Germain-de-la-Rivière,{},{},{},nat,Herré,{},{},{}
+nat,Saubusse,nat,Gabarret,{},{},{},nat,Bagas,{},{},{},nat,Siest,{},{},{}
+nat,Saugnac-et-Cambran,nat,Martillac,{},{},{},nat,Saint-Vincent-de-Paul,{},{},{},nat,Siest,{},{},{}
+nat,Siest,nat,Blaignac,{},{},{},nat,Saugnac-et-Cambran,{},{},{},nat,Saubusse,{},{},{}
+nat,Tercis-les-Bains,nat,Grignols-bis,{},{},{},nat,Créon-d'Armagnac,{},{},{},,,,,
+nat,Téthieu,nat,Saint-Julien-d'Armagnac,{},{},{},nat,Betbezer-d'Armagnac,{},{},{},,,,,
+nat,Yzosse,nat,Arx,{},{},{},nat,Grignols,{},{},{},nat,Créon-d'Armagnac,{},{},{}
+nat,Arx,nat,Baudignan,{},{},{},nat,Lavazan,{},{},{},nat,Yzosse,{},{},{}
+nat,Baudignan,nat,Sainte-Meille,{},{},{},nat,Arx,{},{},{},nat,Betbezer-d'Armagnac,{},{},{}
+nat,Betbezer-d'Armagnac,nat,Téthieu,{},{},{},nat,Baudignan,{},{},{},nat,Créon-d'Armagnac,{},{},{}
+nat,Créon-d'Armagnac,nat,Yzosse,{},{},{},nat,Tercis-les-Bains,{},{},{},nat,Betbezer-d'Armagnac,{},{},{}
+nat,Estigarde,nat,Bagas,{},{},{},nat,Gabarret,{},{},{},nott,Borce,{'o': 1},{},"{('a', 't'): 1}"
+nat,Gabarret,nat,Estigarde,{},{},{},nat,Saubusse,{},{},{},nat,Herré,{},{},{}
+nat,Herré,nat,Saint-Vincent-de-Paul,{},{},{},nat,Lagrange,{},{},{},nat,Gabarret,{},{},{}
+nat,Lagrange,nat,Cours-les-Bains,{},{},{},not,Escot,{},{},"{('a', 'o'): 1}",nat,Herré,{},{},{}
+nat,Losse,nat,Etsaut,{},{},{},nat,Génissac,{},{},{},nat,Arette,{},{},{}
+nat,Mauvezin-d'Armagnac,nat,Castet,{},{},{},nat,Nerbis,{},{},{},,,,,
+nat,Parleboscq,,,,,,,,,,,,,,,
+nat,Rimbez-et-Baudiets,nat,Saint-Julien-d'Armagnac,{},{},{},nat,Bordères,{},{},{},nat,Castelnau-Tursan,{},{},{}
+nat,Saint-Julien-d'Armagnac,nat,Téthieu,{},{},{},nat,Rimbez-et-Baudiets,{},{},{},nat,Sainte-Meille,{},{},{}
+nat,Sainte-Meille,nat,Baudignan,{},{},{},nat,Saint-Julien-d'Armagnac,{},{},{},,,,,
+nat,Arboucave,nat,Lauret,{},{},{},nat,Bats,{},{},{},nat,Lacajunte,{},{},{}
+nat,Bats,nat,Arboucave,{},{},{},nat,Castelnau-Tursan,{},{},{},,,,,
+nat,Castelnau-Tursan,nat,Rimbez-et-Baudiets,{},{},{},nat,Bats,{},{},{},,,,,
+nat,Geaune-bis,nat,Geaune,{},{},{},,,,,,,,,,
+nat,Geaune,nat,Geaune-bis,{},{},{},nat,Lacajunte,{},{},{},,,,,
+nat,Lacajunte,nat,Arboucave,{},{},{},nat,Geaune,{},{},{},,,,,
+nat,Lauret,nat,Arboucave,{},{},{},nat,Mauries,{},{},{},,,,,
+nat,Mauries,nat,Miramont-Sensacq,{},{},{},nat,Lauret,{},{},{},,,,,
+nat,Miramont-Sensacq,nat,Mauries,{},{},{},,,,,,,,,,
+nat,Philondenx,nat,Saint-Médard,{},{},{},,,,,,,,,,
+nat,Pimbo,nat,Oeyregave,{},{},{},,,,,,,,,,
+nat,Puyol-Cazalet,nat,Casseuil,{},{},{},,,,,,,,,,
+nat,Samadet,nat,Gaillan-en-Médoc,{},{},{},nat,Sorbets,{},{},{},,,,,
+nat,Sorbets,nat,Samadet,{},{},{},nat,Civrac,{},{},{},nat,Artassenx,{},{},{}
+nat,Urgons,nat,Artassenx,{},{},{},nat,Ordonnac,{},{},{},,,,,
+nat,Artassenx,nat,Saint-Germain-d'Esteuil,{},{},{},nat,Urgons,{},{},{},nat,Sorbets,{},{},{}
+nat,Bascons,nat,Moulon,{},{},{},,,,,,,,,,
+nat,Benquet,,,,,,,,,,,,,,,
+nat,Bordères,nat,Rimbez-et-Baudiets,{},{},{},,,,,,,,,,
+nat,Castandet,nat,Cazères-sur-l'Adour,{},{},{},nat,Cours-les-Bains,{},{},{},nat,Grenade-sur-l'Adour,{},{},{}
+nat,Cazères-sur-l'Adour,nat,Naujan-et-Postiac,{},{},{},nat,Castandet,{},{},{},nat,Grenade-sur-l'Adour-bis,{},{},{}
+nat,Grenade-sur-l'Adour-bis,nat,Morganx,{},{},{},nat,Cazères-sur-l'Adour,{},{},{},,,,,
+nat,Grenade-sur-l'Adour,nat,Castandet,{},{},{},,,,,,,,,,
+nat,Le Vignau,nat,Lussagnet,{},{},{},,,,,,,,,,
+nat,Lussagnet,nat,Latrille,{},{},{},nat,Le Vignau,{},{},{},nat,Maurrin,{},{},{}
+nat,Maurrin,nat,Lussagnet,{},{},{},,,,,,,,,,
+nat,Aubagnan,nat,Cazalis,{},{},{},nat,Castelner,{},{},{},,,,,
+nat,Castelner,nat,Aubagnan,{},{},{},,,,,,,,,,
+nat,Cazalis,nat,Aubagnan,{},{},{},,,,,,,,,,
+nat,Hagetmau-bis,nat,Labastide-Chalosse,{},{},{},,,,,,,,,,
+nat,Hagetmau,nat,Horsarrieu,{},{},{},nat,Peyre,{},{},{},,,,,
+nat,Horsarrieu,nat,Moulon,{},{},{},nat,Hagetmau,{},{},{},,,,,
+nat,Labastide-Chalosse,nat,Momuy,{},{},{},nat,Hagetmau-bis,{},{},{},,,,,
+nat,Lacrabe,nat,Monségur,{},{},{},,,,,,,,,,
+nat,Mant,nat,Momuy,{},{},{},nat,Morganx,{},{},{},,,,,
+nat,Momuy,nat,Mant,{},{},{},nat,Labastide-Chalosse,{},{},{},nat,Monségur,{},{},{}
+nat,Monségur,nat,Lacrabe,{},{},{},nat,Peyre,{},{},{},nat,Momuy,{},{},{}
+nat,Morganx,nat,Peyre,{},{},{},nat,Grenade-sur-l'Adour-bis,{},{},{},nat,Mant,{},{},{}
+nat,Peyre,nat,Hagetmau,{},{},{},nat,Morganx,{},{},{},nat,Monségur,{},{},{}
+nat,Poudenx,nat,Nérigean,{},{},{},nat,Saint-Cricq-Chalosse,{},{},{},,,,,
+nat,Saint-Cricq-Chalosse,nat,Poudenx,{},{},{},nat,Nérigean,{},{},{},nat,Sainte-Colombe,{},{},{}
+nat,Sainte-Colombe,nat,Saint-Cricq-Chalosse,{},{},{},nat,Queyrac,{},{},{},,,,,
+nat,Serres-Gaston,nat,Ordonnac,{},{},{},nat,Serreslous-et-Arribans,{},{},{},nat,Mézos,{},{},{}
+nat,Serreslous-et-Arribans,nat,Serres-Gaston,{},{},{},nat,Saint-Germain-d'Esteuil,{},{},{},nat,Bélis,{},{},{}
+nat,Bélis,nat,Aureilhan,{},{},{},nat,Serreslous-et-Arribans,{},{},{},,,,,
+nat,Brocas,nat,Civrac,{},{},{},nat,Garein,{},{},{},nat,Canenx-et-Réaut,{},{},{}
+nat,Canenx-et-Réaut,nat,Saint-Germain-d'Esteuil,{},{},{},nat,Brocas,{},{},{},nat,Cère,{},{},{}
+nat,Cère,nat,Labrit,{},{},{},nat,Saint-Seurin-de-Cadourne,{},{},{},nat,Canenx-et-Réaut,{},{},{}
+nat,Garein,nat,Labrit,{},{},{},nat,Brocas,{},{},{},,,,,
+nat,Labrit,nat,Garein,{},{},{},nat,Lesparre-Médoc,{},{},{},nat,Cère,{},{},{}
+nat,Maillères,nat,Latrille,{},{},{},,,,,,,,,,
+nat,Vert,,,,,,,,,,,,,,,
+nat,Aureilhan,nat,Bélis,{},{},{},nat,Mézos,{},{},{},,,,,
+nat,Mézos,nat,Serres-Gaston,{},{},{},nat,Aureilhan,{},{},{},,,,,
+nat,Mimizan-bis,nat,Mazerolles,{},{},{},nat,Pontenx-les-Forges,{},{},{},nat,Mimizan,{},{},{}
+nat,Mimizan,nat,Beautiran,{},{},{},nat,Mimizan-bis,{},{},{},,,,,
+nat,Pontenx-les-Forges,nat,Mimizan-bis,{},{},{},nat,Saint-Paul-en-Born,{},{},{},,,,,
+nat,Saint-Paul-en-Born,nat,Pontenx-les-Forges,{},{},{},,,,,,,,,,
+nat,Bostens,,,,,,,,,,,,,,,
+nat,Bretagne-de-Marsan,nat,Préchacq-les-Bains,{},{},{},nat,Campagne,{},{},{},,,,,
+nat,Campagne,nat,Bretagne-de-Marsan,{},{},{},nat,Latresne,{},{},{},nat,Campet,{},{},{}
+nat,Campet,nat,Gaujacq,{},{},{},nat,Gaillères,{},{},{},nat,Campagne,{},{},{}
+nat,Gaillères,nat,Campet,{},{},{},nat,Haut-Mauco,{},{},{},,,,,
+nat,Geloux,nat,Haux,{},{},{},,,,,,,,,,
+nat,Haut-Mauco,nat,Gaillères,{},{},{},nat,Laglorieuse,{},{},{},,,,,
+nat,Laglorieuse,nat,Haut-Mauco,{},{},{},nat,Gaujacq,{},{},{},,,,,
+nat,Lucbardez-et-Bargues,,,,,,,,,,,,,,,
+nat,Mazerolles,nat,Mimizan-bis,{},{},{},nat,Montfort-en-Chalosse-bis,{},{},{},,,,,
+nat,Mont-de-Marsan-bis,nat,Montfort-en-Chalosse,{},{},{},nat,Saint-Yzans-de-Médoc,{},{},{},,,,,
+nat,Mont-de-Marsan,nat,Saint-Avit,{},{},{},nat,Goos,{},{},{},nat,Saint-Pierre-du-Mont,{},{},{}
+nat,Saint-Avit,nat,Valeyrac,{},{},{},nat,Mont-de-Marsan,{},{},{},nat,Saint-Martin-d'Oney,{},{},{}
+nat,Saint-Martin-d'Oney,nat,Saint-Perdon,{},{},{},nat,Beautiran,{},{},{},nat,Saint-Avit,{},{},{}
+nat,Saint-Perdon,nat,Saint-Martin-d'Oney,{},{},{},nat,Saint-Pierre-du-Mont,{},{},{},,,,,
+nat,Saint-Pierre-du-Mont,nat,Mont-de-Marsan,{},{},{},nat̄,Cadaujac,{'̄': 1},{},{},nat,Saint-Perdon,{},{},{}
+nat,Uchacq,nat,Clermont,{},{},{},nat,Origne,{},{},{},,,,,
+nat,Cassen,nat̄,Cadaujac,{'̄': 1},{},{},nat,Garrey,{},{},{},,,,,
+nat,Clermont,nat,Saint-Léger-de-Balson,{},{},{},nat,Uchacq,{},{},{},nat,Gamarde-les-Bains,{},{},{}
+nat,Gamarde-les-Bains,nat,Buanes,{},{},{},nat,Clermont,{},{},{},nat,Garrey,{},{},{}
+nat,Garrey,nat,Castres-Gironde,{},{},{},nat,Gamarde-les-Bains,{},{},{},nat,Cassen,{},{},{}
+nat,Goos,nat,Mont-de-Marsan,{},{},{},nat,Hinx,{},{},{},nat,Gousse,{},{},{}
+nat,Gousse,nat̄,Cadaujac,{'̄': 1},{},{},nat,Goos,{},{},{},nat,Louer,{},{},{}
+nat,Hinx,nat,Goos,{},{},{},nat,Queyrac,{},{},{},nat,Laurède,{},{},{}
+nat,Laurède,nat,Saint-Germain-du-Puch,{},{},{},nat,Louer,{},{},{},nat,Hinx,{},{},{}
+nat,Louer,nat,Laurède,{},{},{},nat,Cabanac-et-Villagrains,{},{},{},nat,Gousse,{},{},{}
+nat,Lourquen,nad,Jau-Dignac-et-Loirac,{},{},"{('t', 'd'): 1}",,,,,,,,,,
+nat,Montfort-en-Chalosse-bis,nat,Mazerolles,{},{},{},nat,Montfort-en-Chalosse,{},{},{},,,,,
+nat,Montfort-en-Chalosse,nat,Mont-de-Marsan-bis,{},{},{},nat,Montfort-en-Chalosse-bis,{},{},{},,,,,
+nat,Nousse,nat,Isle-Saint-Georges,{},{},{},nat,Onard,{},{},{},,,,,
+nat,Onard,nat,La Brède-bis,{},{},{},nat,Nousse,{},{},{},,,,,
+nat,Ozourt,nat,Isle-Saint-Georges,{},{},{},nat,Poyanne,{},{},{},,,,,
+nat,Poyanne,nat,La Brède-bis,{},{},{},nat,Ozourt,{},{},{},,,,,
+nat,Poyartin,nat,Saint-Geours-d'Auribat,{},{},{},,,,,,,,,,
+nat,Préchacq-les-Bains,nat,Bretagne-de-Marsan,{},{},{},,,,,,,,,,
+nat,Saint-Geours-d'Auribat,nat,Poyartin,{},{},{},,,,,,,,,,
+nat,Saint-Jean-de-Lier,,,,,,,,,,,,,,,
+nat,Sort-en-Chalosse,nat,Vicq-d'Auribat,{},{},{},,,,,,,,,,
+nat,Vicq-d'Auribat,nat,Sort-en-Chalosse,{},{},{},,,,,,,,,,
+nat,Arengosse,nat,Arjuzanx,{},{},{},nat,Saint-Quentin-de-Baron,{},{},{},,,,,
+nat,Arjuzanx,nat,Garrosse,{},{},{},nat,Tizac-de-Curton,{},{},{},nat,Arengosse,{},{},{}
+nat,Garrosse,nat,Morcenx-bourg,{},{},{},nat,Arjuzanx,{},{},{},,,,,
+nat,Lesperon,nat,Morcenx,{},{},{},nat,Morcenx-bourg,{},{},{},,,,,
+nat,Morcenx-bourg,nat,Lesperon,{},{},{},nat,Garrosse,{},{},{},,,,,
+nat,Morcenx-gare,,,,,,,,,,,,,,,
+nat,Morcenx,nat,Lesperon,{},{},{},,,,,,,,,,
+nat,Onesse-Laharie,nat,Sindères,{},{},{},nat,Camiran-bis,{},{},{},,,,,
+nat,Ousse-Suzan,nate,La Brède,{'e': 1},{},{},nat,Sindères,{},{},{},,,,,
+nat,Sindères,nat,Ousse-Suzan,{},{},{},nad,Capian,{},{},"{('t', 'd'): 1}",nat,Onesse-Laharie,{},{},{}
+nat,Ygos-Saint-Saturnin,nat,Camiran-bis,{},{},{},nat,Baigts,{},{},{},,,,,
+nat,Baigts,nat,Ygos-Saint-Saturnin,{},{},{},nat,Camiran,{},{},{},,,,,
+nat,Bergouey,,,,,,,,,,,,,,,
+nat,Caupenne,nat,Saint-Aubin,{},{},{},nat,Hauriet,{},{},{},,,,,
+nat,Doazit,nat,Fontet,{},{},{},nat,Toulouzette,{},{},{},,,,,
+nat,Hauriet,nat,Caupenne,{},{},{},nat,Lahosse,{},{},{},,,,,
+nat,Lahosse,nat,Larbey,{},{},{},nat,Hauriet,{},{},{},,,,,
+nat,Larbey,nat,Lahosse,{},{},{},nat,Maylis,{},{},{},,,,,
+nat,Maylis,nat,Larbey,{},{},{},,,,,,,,,,
+nat,Mugron-bis,nat,Nerbis,{},{},{},,,,,,,,,,
+nat,Mugron,nat,Buzy,{},{},{},nat,Nerbis,{},{},{},,,,,
+nat,Nerbis,nat,Mauvezin-d'Armagnac,{},{},{},nat,Mugron-bis,{},{},{},nat,Mugron,{},{},{}
+nat,Saint-Aubin,nat,Caupenne,{},{},{},nat,Toulouzette,{},{},{},,,,,
+nat,Toulouzette,nat,Doazit,{},{},{},nat,Biscarosse-bis,{},{},{},nat,Saint-Aubin,{},{},{}
+nat,Biscarosse-bis,nat,Fontet,{},{},{},nat,Toulouzette,{},{},{},,,,,
+nat,Biscarosse,nat,Gastes,{},{},{},,,,,,,,,,
+nat,Gastes,nat,Biscarosse,{},{},{},,,,,,,,,,
+nat,Parentis-en-Born,nat,Misson,{},{},{},nat,Sainte-Eulalie-en-Born,{},{},{},,,,,
+nat,Sainte-Eulalie-en-Born,nat,Parentis-en-Born,{},{},{},nat,Bélus,{},{},{},,,,,
+nat,Sanguinet,nat,Ychoux,{},{},{},,,,,,,,,,
+nat,Ychoux,nat,Blanquefort,{},{},{},nat,Sanguinet,{},{},{},nat,Bélus,{},{},{}
+nat,Bélus,nat,Sainte-Eulalie-en-Born,{},{},{},nat,Ychoux,{},{},{},,,,,
+nat,Cauneille,nat,Peyrehorade,{},{},{},,,,,,,,,,
+nat,Hastingues,nat,Port-de-Lanne,{},{},{},,,,,,,,,,
+nat,Oeyregave,nat,Pimbo,{},{},{},nat,Orthevielle,{},{},{},,,,,
+nat,Orist,nat,Saint-Étienne-d'Orthe,{},{},{},nat,Orthevielle,{},{},{},nat,Peyrehorade-bis,{},{},{}
+nat,Orthevielle,nat,Orist,{},{},{},nat,Oeyregave,{},{},{},nat,Pey,{},{},{}
+nat,Pey,nat,Port-de-Lanne,{},{},{},nat,Orthevielle,{},{},{},,,,,
+nat,Peyrehorade-bis,nat,Peyrehorade,{},{},{},nat,Orist,{},{},{},,,,,
+nat,Peyrehorade,nat,Cauneille,{},{},{},nat,Peyrehorade-bis,{},{},{},nat,Port-de-Lanne,{},{},{}
+nat,Port-de-Lanne,nat,Pey,{},{},{},nat,Hastingues,{},{},{},nat,Peyrehorade,{},{},{}
+nat,Saint-Cricq-du-Gave,nat,Saint-Étienne-d'Orthe,{},{},{},,,,,,,,,,
+nat,Saint-Étienne-d'Orthe,nat,Saint-Cricq-du-Gave,{},{},{},nat,Orist,{},{},{},,,,,
+nat,Saint-Lon-les-Mines,nat,Branne-bis,{},{},{},nat,Sorde-l'Abbaye,{},{},{},,,,,
+nat,Sorde-l'Abbaye,nat,Saint-Lon-les-Mines,{},{},{},nat,Gironde-sur-Dropt-bis,{},{},{},nat,Belhade,{},{},{}
+nat,Belhade,nat,Sorde-l'Abbaye,{},{},{},,,,,,,,,,
+nat,Biganon,nat,Liposthey,{},{},{},,,,,,,,,,
+nat,Liposthey,nat,Mano,{},{},{},nat,Pissos,{},{},{},nat,Biganon,{},{},{}
+nat,Mano,nat,Antagnac,{},{},{},nat,Liposthey,{},{},{},nat,Moustey,{},{},{}
+nat,Moustey,nat,Gironde-sur-Dropt,{},{},{},nat,Mano,{},{},{},,,,,
+nat,Pissos-bis,nat,Pissos,{},{},{},nat,Saint-Gein,{},{},{},,,,,
+nat,Pissos,nat,Liposthey,{},{},{},nat,Pissos-bis,{},{},{},nat,Richet,{},{},{}
+nat,Richet,nat,Saugnacq-et-Muret-bis,{},{},{},nat,Pissos,{},{},{},,,,,
+nat,Saugnacq-et-Muret-bis,nat,Richet,{},{},{},nat,Saugnacq-et-Muret,{},{},{},,,,,
+nat,Saugnacq-et-Muret,nat,Saugnacq-et-Muret-bis,{},{},{},nat,La Réole-bis,{},{},{},nat,Cagnotte,{},{},{}
+nat,Cagnotte,nat,Hure,{},{},{},nat,Saugnacq-et-Muret,{},{},{},,,,,
+nat,Estibeaux,nat,Gaas,{},{},{},nat,Hure,{},{},{},nat,Mimbaste,{},{},{}
+nat,Gaas,nat,Gironde-sur-Dropt-bis,{},{},{},nat,Estibeaux,{},{},{},nat,Habas,{},{},{}
+nat,Habas,nat,Labatut,{},{},{},nat,Gaas,{},{},{},,,,,
+nat,Labatut,nat,Habas,{},{},{},nat,Mimbaste,{},{},{},,,,,
+nat,Mimbaste,nat,La Réole-bis,{},{},{},nat,Labatut,{},{},{},nat,Estibeaux,{},{},{}
+nat,Misson,nat,Parentis-en-Born,{},{},{},nat,Mouscardès,{},{},{},,,,,
+nat,Mouscardès,nat,La Réole,{},{},{},nat,Misson,{},{},{},nat,Ossages,{},{},{}
+nat,Ossages,nat,Pouillon,{},{},{},nat,Mouscardès,{},{},{},,,,,
+nat,Pouillon,nat,Ossages,{},{},{},,,,,,,,,,
+nat,Tilh,nat,Lamothe-Landerron,{},{},{},,,,,,,,,,
+nat,Arouille,nat,Morizès,{},{},{},nat,Luglon,{},{},{},nat,Arue,{},{},{}
+nat,Arue,nat,Sabres,{},{},{},nat,Mongauzy,{},{},{},nat,Arouille,{},{},{}
+nat,Cachen,nat,Lencouacq,{},{},{},nat,Lue-bis,{},{},{},nat,Commensacq-bis,{},{},{}
+nat,Labastide-d'Armagnac,nat,Maillas,{},{},{},nat,Commensacq,{},{},{},,,,,
+nat,Lencouacq,nat,Lugaut,{},{},{},nat,Cachen,{},{},{},nat,Maillas,{},{},{}
+nat,Lugaut,nat,Noaillac,{},{},{},nat,Lencouacq,{},{},{},,,,,
+nat,Maillas,nat,Labastide-d'Armagnac,{},{},{},nat,Lencouacq,{},{},{},,,,,
+nat,Pouydesseaux,nat,Saint-Justin,{},{},{},nat,Saint-Gor,{},{},{},,,,,
+nat,Roquefort,nat,Pompéjac,{},{},{},nat,Sarbazan,{},{},{},nat,Saint-Gor,{},{},{}
+nat,Saint-Gor,nat,Pouydesseaux,{},{},{},nat,Roquefort,{},{},{},,,,,
+nat,Saint-Justin,nat,Escource-bis,{},{},{},nat,Pouydesseaux,{},{},{},,,,,
+nat,Sarbazan,nat,Roquefort,{},{},{},,,,,,,,,,
+nat,Vielle-Soubiran,nat,Labouheyre,{},{},{},nat,Commensacq-bis,{},{},{},,,,,
+nat,Commensacq-bis,nat,Commensacq,{},{},{},nat,Cachen,{},{},{},nat,Vielle-Soubiran,{},{},{}
+nat,Commensacq,nat,Labastide-d'Armagnac,{},{},{},nat,Commensacq-bis,{},{},{},,,,,
+nat,Escource-bis,nat,Saint-Justin,{},{},{},nat,Escource,{},{},{},,,,,
+nat,Escource,nat,Labouheyre,{},{},{},nat,Escource-bis,{},{},{},,,,,
+nat,Labouheyre,nat,Escource,{},{},{},nat,Vielle-Soubiran,{},{},{},nat,Lue-bis,{},{},{}
+nat,Lue-bis,nat,Cachen,{},{},{},nat,Labouheyre,{},{},{},,,,,
+nat,Lue,nat,Cazaux,{},{},{},,,,,,,,,,
+nat,Luglon,nat,Arouille,{},{},{},nat,Solférino,{},{},{},nat,Sabres,{},{},{}
+nat,Sabres-bis,nat,Trensacq,{},{},{},,,,,,,,,,
+nat,Sabres,nat,Arue,{},{},{},nat,Luglon,{},{},{},,,,,
+nat,Solférino,nat,Luglon,{},{},{},nat,Lestiac-sur-Garonne,{},{},{},nat,Trensacq,{},{},{}
+nat,Trensacq,nat,Solférino,{},{},{},nat,Sabres-bis,{},{},{},,,,,
+nat,Barthes,nat,Biaudos,{},{},{},nat,Tarnos,{},{},{},nat,Biarrotte,{},{},{}
+nat,Biarrotte,nat,Barthes,{},{},{},,,,,,,,,,
+nat,Biaudos,nat,Loupiac,{},{},{},nat,Barthes,{},{},{},,,,,
+nat,Ondres,,,,,,,,,,,,,,,
+nat,Saint-André-de-Seignanx,,,,,,,,,,,,,,,
+nat,Saint-Barthélemy,nat,Saint-Laurent-de-Gosse,{},{},{},,,,,,,,,,
+nat,Saint-Laurent-de-Gosse,nat,Saint-Barthélemy,{},{},{},nat,La Teste-de-Buch-ter,{},{},{},nat,Saint-Martin-de-Seignanx-bis,{},{},{}
+nat,Saint-Martin-de-Seignanx-bis,nat,Saint-Laurent-de-Gosse,{},{},{},,,,,,,,,,
+nat,Saint-Martin-de-Seignanx,,,,,,,,,,,,,,,
+nat,Tarnos,nat,Barthes,{},{},{},,,,,,,,,,
+nat,Audignon,,,,,,,,,,,,,,,
+nat,Aurice,nat,La Teste-de-Buch-ter,{},{},{},nat,Banos,{},{},{},,,,,
+nat,Banos,nat,Aurice,{},{},{},nat,Cachon,{},{},{},,,,,
+nat,Cachon,nat,Banos,{},{},{},,,,,,,,,,
+nat,Cauna,,,,,,,,,,,,,,,
+nat,Coudures,nat,Sablar,{},{},{},nat,Dumes,{},{},{},nat,Eyres-Moncube,{},{},{}
+nat,Dumes,nat,Coudures,{},{},{},,,,,,,,,,
+nat,Eyres-Moncube,nat,Coudures,{},{},{},,,,,,,,,,
+nat,Fargues,nat,Langon-bis,{},{},{},,,,,,,,,,
+nat,Larrivière-Saint-Savin,nat,Langon,{},{},{},nat,Montgaillard,{},{},{},nat,Montaut,{},{},{}
+nat,Montaut,nat,Montsoué,{},{},{},nat,Guillos,{},{},{},nat,Larrivière-Saint-Savin,{},{},{}
+nat,Montgaillard,nat,Le Pian-Médoc,{},{},{},nat,Montsoué,{},{},{},nat,Larrivière-Saint-Savin,{},{},{}
+nat,Montsoué,nat,Montgaillard,{},{},{},nat,Escaudes,{},{},{},nat,Montaut,{},{},{}
+nat,Saint-Maurice-sur-Adour,nat,Sainte-Eulalie,{},{},{},nat,Castets-en-Dorthe,{},{},{},nat,Saint-Sever,{},{},{}
+nat,Saint-Sever,nat,Saint-Maurice-sur-Adour,{},{},{},nat,Sauternes,{},{},{},nat,Sarraziet,{},{},{}
+nat,Sainte-Eulalie,nat,Pompignac,{},{},{},nat,Saint-Maurice-sur-Adour,{},{},{},nat,Sarraziet,{},{},{}
+nat,Sarraziet,nat,Roaillan,{},{},{},nat,Sainte-Eulalie,{},{},{},nat,Saint-Sever,{},{},{}
+nat,Bénesse-Maremne,nat,Le Haillan,{},{},{},nat,Josse,{},{},{},nat,Capbreton,{},{},{}
+nat,Capbreton,nat,Saint-Pardon-de-Conques,{},{},{},nat,Bénesse-Maremne,{},{},{},nat,Labenne,{},{},{}
+nat,Josse,nat,Bénesse-Maremne,{},{},{},nat,Le Pian-Médoc,{},{},{},nat,Labenne,{},{},{}
+nat,Labenne,nat,Josse,{},{},{},nat,Saint-Pierre-de-Mons,{},{},{},nat,Capbreton,{},{},{}
+nat,Orx,nat,Saint-Geours-de-Maremne,{},{},{},nat,Izon,{},{},{},nat,Saint-Jean-de-Marsacq,{},{},{}
+nat,Saint-Jean-de-Marsacq,nat,Monségur,{},{},{},nat,Saint-Martin-de-Hinx,{},{},{},nat,Orx,{},{},{}
+nat,Saint-Martin-de-Hinx,nat,Luxey,{},{},{},nat,Saint-Vincent-de-Tyrosse,{},{},{},nat,Saint-Jean-de-Marsacq,{},{},{}
+nat,Saint-Vincent-de-Tyrosse,nat,Saint-Martin-de-Hinx,{},{},{},nat,Saint-Julien-Beychevelle,{},{},{},nat,Sainte-Marie-de-Gosse,{},{},{}
+nat,Sainte-Marie-de-Gosse,nat,Le Leuy,{},{},{},nat,Seignosse,{},{},{},nat,Saint-Vincent-de-Tyrosse,{},{},{}
+nat,Saubion,nat,Libourne-bis,{},{},{},nat,Saubrigues,{},{},{},,,,,
+nat,Saubrigues,nat,Izon,{},{},{},nat,Saubion,{},{},{},natt,Argelouse,{'t': 1},{},{}
+natt,Argelouse,nat,Landerrouet-sur-Ségur,{},{'t': 1},{},nat,Saubrigues,{},{'t': 1},{},,,,,
+nat,Callen,nat,Luxey,{},{},{},nat,Monségur,{},{},{},,,,,
+nat,Houaste,nat,Sore,{},{},{},,,,,,,,,,
+nat,Luxey,nat,Sore,{},{},{},nat,Saint-Martin-de-Hinx,{},{},{},nat,Callen,{},{},{}
+nat,Sore,nat,Saint-Julien-Beychevelle,{},{},{},nat,Luxey,{},{},{},nat,Houaste,{},{},{}
+nat,Angresse,nat,Landerrouet-sur-Ségur,{},{},{},,,,,,,,,,
+nat,Azur,nat,Magescq,{},{},{},,,,,,,,,,
+nat,Magescq,nat,Azur,{},{},{},nat,Messanges-bis,{},{},{},,,,,
+nat,Messanges-bis,nat,Magescq,{},{},{},,,,,,,,,,
+nad,Messanges,nat,Cissac-Médoc,{},{},"{('d', 't'): 1}",nat,Saint-Geours-de-Maremne,{},{},"{('d', 't'): 1}",nat,Moliets-et-Maa,{},{},"{('d', 't'): 1}"
+nat,Moliets-et-Maa,nat,Seignosse,{},{},{},nat,Audon,{},{},{},nad,Messanges,{},{},"{('t', 'd'): 1}"
+nat,Saint-Geours-de-Maremne,nad,Messanges,{},{},"{('t', 'd'): 1}",nat,Orx,{},{},{},nat,Seignosse,{},{},{}
+nat,Seignosse,nat,Sainte-Marie-de-Gosse,{},{},{},nat,Moliets-et-Maa,{},{},{},nat,Saint-Geours-de-Maremne,{},{},{}
+nat,Soorts-Hossegor,nat,Soustons,{},{},{},nat,Roquebrune,{},{},{},nat,Lamothe,{},{},{}
+nat,Soustons,nat,Toulenne,{},{},{},nat,Soorts-Hossegor,{},{},{},nat,Tosse,{},{},{}
+nat,Tosse,nat,Vieux-Boucau-les-Bains,{},{},{},nat,Arveyres,{},{},{},nat,Soustons,{},{},{}
+nat,Vieux-Boucau-les-Bains,nat,Tosse,{},{},{},nat,Gouts,{},{},{},,,,,
+nat,Audon,nat,Moliets-et-Maa,{},{},{},nat,Le Leuy,{},{},{},nat,Lamothe,{},{},{}
+nat,Carcarès-Sainte-Croix,nat,Gouts,{},{},{},,,,,,,,,,
+nat,Gouts,nat,Carcarès-Sainte-Croix,{},{},{},nat,Vieux-Boucau-les-Bains,{},{},{},nat,Lamothe,{},{},{}
+nat,Lamothe,nat,Soorts-Hossegor,{},{},{},nat,Audon,{},{},{},nat,Gouts,{},{},{}
+nat,Le Leuy,nat,Audon,{},{},{},nat,Sainte-Marie-de-Gosse,{},{},{},,,,,
+nat,Meilhan,nat,Perricard,{},{},{},,,,,,,,,,
+nat,Souprosse,nat,Brassempouy,{},{},{},nat,Tartas-bis,{},{},{},,,,,
+nat,Tartas-bis,nat,Bassercles,{},{},{},nat,Souprosse,{},{},{},,,,,
+nat,Tartas-ville-haute-bis,nat,Tartas-ville-haute,{},{},{},,,,,,,,,,
+nat,Tartas-ville-haute,nat,Anzex,{},{},{},nat,Tartas-ville-haute-bis,{},{},{},,,,,
+nat,Tartas,nat,Cazideroque,{},{},{},,,,,,,,,,
+nat,Bégaar,nat,Fargues-sur-Ourbise,{},{},{},,,,,,,,,,
+nat,Beylongue,nat,Rion-des-Landes-bis,{},{},{},nat,Boos,{},{},{},,,,,
+nat,Boos,nat,Beylongue,{},{},{},nat,Arthez-d'Armagnac,{},{},{},nat,Carcen-Ponson,{},{},{}
+nat,Carcen-Ponson,nal,Saint-Léon,{},{},"{('t', 'l'): 1}",nat,Boos,{},{},{},,,,,
+nat,Laluque,,,,,,,,,,,,,,,
+nat,Lesgor,nat,Rion-des-Landes,{},{},{},nat,Rion-des-Landes-bis,{},{},{},,,,,
+nat,Pontonx-sur-l'Adour,nat,Rion-des-Landes-bis,{},{},{},,,,,,,,,,
+nat,Rion-des-Landes-bis,nat,Lesgor,{},{},{},nat,Beylongue,{},{},{},nat,Pontonx-sur-l'Adour,{},{},{}
+nat,Rion-des-Landes,nat,Arthez-d'Armagnac,{},{},{},nat,Lesgor,{},{},{},nat,Lacquy,{},{},{}
+nat,Saint-Yaguen,nat,Villenave,{},{},{},nat,Saint-Sauveur,{},{},{},nat,Bourdalat,{},{},{}
+nat,Villenave,nat,Saint-Yaguen,{},{},{},nat,Hontanx,{},{},{},,,,,
+nat,Arthez-d'Armagnac,nat,Boos,{},{},{},nat,Rion-des-Landes,{},{},{},nat,Bourdalat,{},{},{}
+nat,Bourdalat,nat,Saint-Yaguen,{},{},{},nat,Razimet,{},{},{},nat,Arthez-d'Armagnac,{},{},{}
+nat,Hontanx,nat,Villenave,{},{},{},nat,Lacquy,{},{},{},,,,,
+nat,Lacquy,nat,Rion-des-Landes,{},{},{},nat,Hontanx,{},{},{},,,,,
+nat,Le Frêche,nat,Montégut,{},{},{},,,,,,,,,,
+nat,Montégut,nat,Le Frêche,{},{},{},,,,,,,,,,
+nat,Perquie,,,,,,,,,,,,,,,
+nat,Pujo-le-Plan,,,,,,,,,,,,,,,
+nat,Saint-Cricq-Villeneuve,,,,,,,,,,,,,,,
+nat,Saint-Gein,nat,Pissos-bis,{},{},{},nat,Antagnac,{},{},{},nat,Sainte-Foy,{},{},{}
+nat,Sainte-Foy,nat,Saint-Gein,{},{},{},,,,,,,,,,
+nat,Villeneuve-de-Marsan,nat,Langoiran-bis,{},{},{},nat,Antagnac,{},{},{},,,,,
+nat,Antagnac,nat,Saint-Gein,{},{},{},nat,Mano,{},{},{},nat,Villeneuve-de-Marsan,{},{},{}
+nat,Argenton,,,,,,,,,,,,,,,
+nat,Bouglon,,,,,,,,,,,,,,,
+nat,Grézet-Cavagnan,nat,Guérin,{},{},{},nat,Labastide-Castel-Amouroux,{},{},{},nat,Casteljaloux,{},{},{}
+nat,Guérin,nat,Caubeyres,{},{},{},nat,Grézet-Cavagnan,{},{},{},,,,,
+nat,Labastide-Castel-Amouroux,nat,Grézet-Cavagnan,{},{},{},nat,Poussignac,{},{},{},,,,,
+nat,Poussignac,nat,Ruffiac,{},{},{},nat,Labastide-Castel-Amouroux,{},{},{},,,,,
+nat,Romestaing,nat,Ruffiac_bis,{},{},{},,,,,,,,,,
+nat,Ruffiac_bis,nat,Anzex,{},{},{},nat,Romestaing,{},{},{},nat,Leyritz-Moncassin,{},{},{}
+nat,Ruffiac,nat,Poussignac,{},{},{},nat,Saint-Gemme-Martaillac,{},{},{},nat,Heuliès,{},{},{}
+nat,Saint-Gemme-Martaillac,nat,Ruffiac,{},{},{},nat,Anzex,{},{},{},,,,,
+nat,Anzex,nat,Tartas-ville-haute,{},{},{},nat,Ruffiac_bis,{},{},{},nat,Saint-Gemme-Martaillac,{},{},{}
+nat,Beauziac,nat,Casteljaloux-bis,{},{},{},nat,Leyritz-Moncassin,{},{},{},,,,,
+nat,Casteljaloux-bis,nat,Beauziac,{},{},{},nat,Damazan-bis,{},{},{},nat,Casteljaloux,{},{},{}
+nat,Casteljaloux,nat,Grézet-Cavagnan,{},{},{},nat,Heuliès,{},{},{},nat,Casteljaloux-bis,{},{},{}
+nat,Heuliès,nat,Casteljaloux,{},{},{},nat,Ruffiac,{},{},{},nat,Leyritz-Moncassin,{},{},{}
+nat,Leyritz-Moncassin,nat,Ruffiac_bis,{},{},{},nat,Beauziac,{},{},{},nat,Heuliès,{},{},{}
+nat,Saint-Martin-Curton,nat,Laparade,{},{},{},,,,,,,,,,
+nat,Villefranche-du-Queyran,nat,Castelmoron-sur-Lot,{},{},{},nat,Brugnac,{},{},{},,,,,
+nat,Brugnac,nat,Castelmoron-sur-Lot-bis,{},{},{},nat,Villefranche-du-Queyran,{},{},{},,,,,
+nat,Castelmoron-sur-Lot-bis,nat,Brugnac,{},{},{},nat,Castelmoron-sur-Lot,{},{},{},,,,,
+nat,Castelmoron-sur-Lot,nat,Villefranche-du-Queyran,{},{},{},nat,Coulx,{},{},{},nat,Castelmoron-sur-Lot-bis,{},{},{}
+nat,Coulx,nat,Castelmoron-sur-Lot,{},{},{},nat,Grateloup,{},{},{},,,,,
+nat,Grateloup,nat,Saint-Gayrand,{},{},{},nat,Coulx,{},{},{},,,,,
+nat,Labretonie,nat,Ambrus,{},{},{},,,,,,,,,,
+nat,Laparade,nat,Saint-Martin-Curton,{},{},{},nat,Saint-Gayrand,{},{},{},,,,,
+nat,Saint-Gayrand,nat,Laparade,{},{},{},nat,Grateloup,{},{},{},nat,Verteuil-d'Agenais,{},{},{}
+nat,Verteuil-d'Agenais,nat,Saint-Gayrand,{},{},{},nat,Ambrus,{},{},{},,,,,
+nat,Ambrus,nat,Labretonie,{},{},{},nat,Caubeyres,{},{},{},nat,Verteuil-d'Agenais,{},{},{}
+nat,Buzet-sur-Baïse,nat,Damazan-bis,{},{},{},,,,,,,,,,
+nat,Caubeyres,nat,Ambrus,{},{},{},nat,Guérin,{},{},{},nat,Damazan-bis,{},{},{}
+nat,Damazan-bis,nat,Casteljaloux-bis,{},{},{},nat,Buzet-sur-Baïse,{},{},{},nat,Caubeyres,{},{},{}
+nat,Damazan,nat,Esclottes,{},{},{},nat,Moncrabeau-bis,{},{},{},nat,Saint-Léger,{},{},{}
+nat,Fargues-sur-Ourbise,nat,Bégaar,{},{},{},nat,Saint-Pierre-de-Buzet,{},{},{},nat,Monheurt,{},{},{}
+nat,Monheurt,nat,Listrac-de-Durèze,{},{},{},nat,Fargues-sur-Ourbise,{},{},{},nat,Puch-d'Agenais,{},{},{}
+nat,Puch-d'Agenais,nat,Moncrabeau,{},{},{},nat,Pellegrue,{},{},{},nat,Monheurt,{},{},{}
+nat,Razimet,nat,Bourdalat,{},{},{},nat,Baleyssagues,{},{},{},nal,Saint-Léon,{},{},"{('t', 'l'): 1}"
+nat,Saint-Léger,nat,Duras,{},{},{},nat,Damazan,{},{},{},nat,Saint-Pierre-de-Buzet,{},{},{}
+nal,Saint-Léon,nat,Saint-Pierre-de-Buzet,{},{},"{('l', 't'): 1}",nat,Carcen-Ponson,{},{},"{('l', 't'): 1}",nat,Razimet,{},{},"{('l', 't'): 1}"
+nat,Saint-Pierre-de-Buzet,nat,Fargues-sur-Ourbise,{},{},{},nal,Saint-Léon,{},{},"{('t', 'l'): 1}",nat,Saint-Léger,{},{},{}
+nat,Auriac-sur-Dropt,nat,Baleyssagues,{},{},{},nat,Vertheuil,{},{},{},nat,Moustier,{},{},{}
+nat,Baleyssagues,nat,Razimet,{},{},{},nat,Auriac-sur-Dropt,{},{},{},nat,Duras,{},{},{}
+nat,Duras,nat,Esclottes,{},{},{},nat,Saint-Léger,{},{},{},nat,Baleyssagues,{},{},{}
+nat,Esclottes,nat,La Sauvetat-du-Dropt,{},{},{},nat,Damazan,{},{},{},nat,Duras,{},{},{}
+nat,La Sauvetat-du-Dropt,nat,Moustier,{},{},{},nat,Ambarès-et-Lagrave,{},{},{},nat,Esclottes,{},{},{}
+nat,Moustier,nat,Saint-Astier,{},{},{},nat,La Sauvetat-du-Dropt,{},{},{},nat,Auriac-sur-Dropt,{},{},{}
+nat,Saint-Astier,nat,Savignac-de-Duras,{},{},{},nat,Moustier,{},{},{},nat,Saint-Sernin,{},{},{}
+nat,Saint-Sernin,nat,Cazaugitat,{},{},{},nat,Saint-Astier,{},{},{},,,,,
+nat,Savignac-de-Duras,nat,Saint-Julien-en-Born,{},{},{},nat,Saint-Astier,{},{},{},,,,,
+nat,Soumensac,nat,Listrac-de-Durèze,{},{},{},nat,Villeneuve-de-Duras,{},{},{},,,,,
+nat,Villeneuve-de-Duras,nat,Soumensac,{},{},{},nat,Bassens,{},{},{},,,,,
+nat,Fieux,nat,Ambès,{},{},{},nat,Francescas,{},{},{},,,,,
+nat,Francescas,nat,Fieux,{},{},{},nat,Pujols-sur-Ciron,{},{},{},,,,,
+nat,Lamontjoie,nat,Pellegrue,{},{},{},nat,Moncrabeau,{},{},{},,,,,
+nat,Moncrabeau-bis,nat,Damazan,{},{},{},nat,Moncrabeau,{},{},{},,,,,
+nat,Moncrabeau,nat,Lamontjoie,{},{},{},nat,Puch-d'Agenais,{},{},{},nat,Moncrabeau-bis,{},{},{}
+nat,Nomdieu,nat,Boussès,{},{},{},nat,Preignac,{},{},{},nat,Allons,{},{},{}
+nat,Allons,nat,Nomdieu,{},{},{},nat,Cestas,{},{},{},nat,Durance,{},{},{}
+nat,Boussès,nat,Carbon-Blanc-bis,{},{},{},nat,Nomdieu,{},{},{},nat,Durance,{},{},{}
+nat,Durance,nat,Canéjan,{},{},{},nat,Boussès,{},{},{},nat,Allons,{},{},{}
+nat,Houeillès-bis,nat,Houeillès,{},{},{},nat,Lormont,{},{},{},,,,,
+nat,Houeillès,nat,Pujols-sur-Ciron,{},{},{},nat,Houeillès-bis,{},{},{},,,,,
+nat,Pindères,nat,Lauzun-bis,{},{},{},nat,Sauméjan,{},{},{},nal,Armillac,{},{},"{('t', 'l'): 1}"
+nat,Pompogne,nat,Lège,{},{},{},nat,Agnac,{},{},{},nat,Sauméjan,{},{},{}
+nat,Sauméjan,nat,Doulezon,{},{},{},nat,Pompogne,{},{},{},nat,Pindères,{},{},{}
+nat,Agnac,nat,Pompogne,{},{},{},nat,Ludon-Médoc,{},{},{},nal,Armillac,{},{},"{('t', 'l'): 1}"
+nal,Armillac,nat,Agnac,{},{},"{('l', 't'): 1}",nat,Lavergne,{},{},"{('l', 't'): 1}",nat,Pindères,{},{},"{('l', 't'): 1}"
+nat,Bourgougnague,nat,Lauzun-ter,{},{},{},nat,Saint-Michel-de-Rieufret,{},{},{},nat,Laperche,{},{},{}
+nat,Laperche,nat,Doulezon,{},{},{},nat,Lauzun-bis,{},{},{},nat,Bourgougnague,{},{},{}
+nat,Lauzun-bis,nat,Laperche,{},{},{},nat,Pindères,{},{},{},nat,Lavergne,{},{},{}
+nat,Lauzun-ter,nat,Bruch,{},{},{},nat,Bourgougnague,{},{},{},nat,Lauzun-tet,{},{},{}
+nat,Lauzun-tet,nat,Lauzun,{},{},{},nad,Saint-Loubès,{},{},"{('t', 'd'): 1}",nat,Lauzun-ter,{},{},{}
+nat,Lauzun,nat,Macau,{},{},{},nat,Lauzun-tet,{},{},{},nat,Lavergne,{},{},{}
+nat,Lavergne,nal,Armillac,{},{},"{('t', 'l'): 1}",nat,Lauzun,{},{},{},nat,Lauzun-bis,{},{},{}
+nat,Lévignac-de-Guyenne,nat,Thouars-sur-Garonne,{},{},{},nath,Miramont-de-Guyenne,{'h': 1},{},{},nad,Montignac-de-Lauzun,{},{},"{('t', 'd'): 1}"
+nath,Miramont-de-Guyenne,nat,Lévignac-de-Guyenne,{},{'h': 1},{},nad,Fréchou,{},{'h': 1},"{('t', 'd'): 1}",nat,Peyrière,{},{'h': 1},{}
+nad,Montignac-de-Lauzun,nat,Pessac-sur-Dordogne,{},{},"{('d', 't'): 1}",nat,Lévignac-de-Guyenne,{},{},"{('d', 't'): 1}",nat,Peyrière,{},{},"{('d', 't'): 1}"
+nat,Peyrière,nath,Miramont-de-Guyenne,{'h': 1},{},{},nat,Saint-Pierre-d'Aurillac,{},{},{},nad,Montignac-de-Lauzun,{},{},"{('t', 'd'): 1}"
+nat,Puysserampion,nat,Lavardac-bis,{},{},{},nat,Virazeil,{},{},{},nat,Roumagne,{},{},{}
+nat,Roumagne,nat,Puysserampion,{},{},{},,,,,,,,,,
+nat,Saint-Colomb-de-Lauzun,nat,Marmande,{},{},{},nat,Rauzan,{},{},{},,,,,
+nat,Saint-Nazaire,nat,Saint-Jean-de-Blaignac,{},{},{},nat,Sérignac-Péboudou,{},{},{},,,,,
+nat,Ségalas,nat,Sérignac-Péboudou,{},{},{},nát,Lavardac,{},{},"{('a', 'á'): 1}",,,,,
+nat,Sérignac-Péboudou,nat,Rauzan,{},{},{},nat,Ségalas,{},{},{},nat,Saint-Nazaire,{},{},{}
+nat,Barbaste,nat,Aubie-et-Espessas,{},{},{},nat,Bruch,{},{},{},nat,Saint-Laurent,{},{},{}
+nat,Béquin,nat,Saint-Aubin-de-Médoc,{},{},{},nat,Pompiey,{},{},{},nat,Bruch-bis,{},{},{}
+nat,Bruch-bis,nat,Montussan,{},{},{},nat,Béquin,{},{},{},nat,Bruch,{},{},{}
+nat,Bruch,nat,Barbaste,{},{},{},nat,Lauzun-ter,{},{},{},nat,Bruch-bis,{},{},{}
+nat,Feugarolles,nat,Montesquieu,{},{},{},nat,Saint-Aubin-de-Médoc,{},{},{},nat,Lavardac-bis,{},{},{}
+nat,Lavardac-bis,nat,Feugarolles,{},{},{},nat,Puysserampion,{},{},{},,,,,
+nát,Lavardac,nat,Ségalas,{},{},"{('á', 'a'): 1}",nat,Méneau,{},{},"{('á', 'a'): 1}",nat,Mongaillard,{},{},"{('á', 'a'): 1}"
+nat,Méneau,nát,Lavardac,{},{},"{('a', 'á'): 1}",nat,Cubzac-les-Ponts,{},{},{},nat,Saint-Laurent,{},{},{}
+nat,Mongaillard,nát,Lavardac,{},{},"{('a', 'á'): 1}",nat,Montesquieu,{},{},{},,,,,
+nat,Montesquieu,nat,Pompiey,{},{},{},nat,Feugarolles,{},{},{},nat,Mongaillard,{},{},{}
+nat,Pompiey,nat,Béquin,{},{},{},nat,Montesquieu,{},{},{},nat,Saint-Laurent,{},{},{}
+nat,Saint-Laurent,nat,Méneau,{},{},{},nat,Barbaste,{},{},{},nat,Pompiey,{},{},{}
+nat,Thouars-sur-Garonne,nat,Lévignac-de-Guyenne,{},{},{},nat,Vianne,{},{},{},,,,,
+nat,Vianne,nat,Thouars-sur-Garonne,{},{},{},nat,Peujard,{},{},{},nat,Birac-sur-Trec,{},{},{}
+nat,Xaintrailles,nat,Saint-André-de-Cubzac,{},{},{},nat,Beaupuy,{},{},{},nat,Birac-sur-Trec,{},{},{}
+nad,Agmé,nat,Beaupuy,{},{},"{('d', 't'): 1}",,,,,,,,,,
+nat,Beaupuy,nat,Xaintrailles,{},{},{},nad,Agmé,{},{},"{('t', 'd'): 1}",,,,,
+nat,Birac-sur-Trec,nat,Vianne,{},{},{},nat,Xaintrailles,{},{},{},,,,,
+nat,Fauguerolles,nat,Saint-Vincent-de-Pertignas,{},{},{},nat,Marmande-bis,{},{},{},,,,,
+nat,Gontaud-de-Nogaret-bis,nat,Saint-Antoine,{},{},{},nat,Gontaud-de-Nogaret,{},{},{},nat,Hautesvignes,{},{},{}
+nat,Gontaud-de-Nogaret,nat,Gontaud-de-Nogaret-bis,{},{},{},nat,Marmande-bis,{},{},{},,,,,
+nat,Hautesvignes,nad,Marmande-ter,{},{},"{('t', 'd'): 1}",nat,Caumont-sur-Garonne,{},{},{},nat,Gontaud-de-Nogaret-bis,{},{},{}
+nat,Longueville,nat,Saint-Pey-de-Castets,{},{},{},nat,Marmande,{},{},{},nat,Marmande-bis,{},{},{}
+nat,Marmande-bis,nat,Fauguerolles,{},{},{},nat,Longueville,{},{},{},nat,Gontaud-de-Nogaret,{},{},{}
+nad,Marmande-ter,nat,Hautesvignes,{},{},"{('d', 't'): 1}",nat,Marmande,{},{},"{('d', 't'): 1}",,,,,
+nat,Marmande,nat,Longueville,{},{},{},nat,Saint-Colomb-de-Lauzun,{},{},{},nad,Marmande-ter,{},{},"{('t', 'd'): 1}"
+nat,Saint-Pardoux-du-Breuil,nat,Saint-Antoine,{},{},{},,,,,,,,,,
+nat,Saint-Pierre de Nogaret,nat,Flaujagues,{},{},{},nât,Sainte-Bazeille,{},{},"{('a', 'â'): 1}",,,,,
+nât,Sainte-Bazeille,nat,Juillac,{},{},"{('â', 'a'): 1}",nat,Saint-Pierre de Nogaret,{},{},"{('â', 'a'): 1}",,,,,
+nat,Taillebourg,nat,Saint-Laurent-Médoc,{},{},{},nat,Aubiac,{},{},{},nat,Virazeil,{},{},{}
+nat,Virazeil,nat,Puysserampion,{},{},{},nat,Taillebourg,{},{},{},,,,,
+nat,Cocumont,nat,Couthures-sur-Garonne,{},{},{},nat,Jusix,{},{},{},,,,,
+nat,Couthures-sur-Garonne,nat,Cocumont,{},{},{},nat,Montpouillan,{},{},{},nat,Lisse,{},{},{}
+næd,Gaujac,nat,Réaup-Lisse,{},{},"{('æ', 'a'): 1, ('d', 't'): 1}",nat,Jusix,{},{},"{('æ', 'a'): 1, ('d', 't'): 1}",nat,Lannes,{},{},"{('æ', 'a'): 1, ('d', 't'): 1}"
+nat,Jusix,næd,Gaujac,{},{},"{('a', 'æ'): 1, ('t', 'd'): 1}",nat,Cocumont,{},{},{},,,,,
+nat,Meilhan-sur-Garonne,nat,Montpouillan,{},{},{},nat,Saint-Sauveur-de-Meilhan,{},{},{},,,,,
+nat,Montpouillan,nat,Couthures-sur-Garonne,{},{},{},nat,Meilhan-sur-Garonne,{},{},{},nat,Gueyze,{},{},{}
+nat,Saint-Sauveur-de-Meilhan,nat,Saint-Germain-de-Grave,{},{},{},nat,Gueyze,{},{},{},nat,Meilhan-sur-Garonne,{},{},{}
+nat,Gueyze,nat,Saint-Sauveur-de-Meilhan,{},{},{},nat,Mézin,{},{},{},nat,Montpouillan,{},{},{}
+nat,Lannes,næd,Gaujac,{},{},"{('a', 'æ'): 1, ('t', 'd'): 1}",nat,Lisse,{},{},{},,,,,
+nat,Lisse,nat,Couthures-sur-Garonne,{},{},{},nat,Mézin,{},{},{},nat,Lannes,{},{},{}
+nat,Meylan,nat,Mézin,{},{},{},nat,Auros-bis,{},{},{},,,,,
+nat,Mézin,nat,Gueyze,{},{},{},nat,Meylan,{},{},{},nat,Lisse,{},{},{}
+nat,Poudenas,nat,Saint-Macaire,{},{},{},nat,Andiran,{},{},{},,,,,
+nat,Réaup-Lisse,næd,Gaujac,{},{},"{('a', 'æ'): 1, ('t', 'd'): 1}",nat,Saint-Pé-Saint-Simon,{},{},{},,,,,
+nat,Saint-Pé-Saint-Simon,nat,Réaup-Lisse,{},{},{},,,,,,,,,,
+nat,Sainte-Maure-de-Peyriac,nat,Andiran,{},{},{},nat,Mouliets,{},{},{},nat,Sos,{},{},{}
+nat,Sos,nat,Sainte-Maure-de-Peyriac,{},{},{},nat,Saint-Pierre-d'Aurillac,{},{},{},nat,Villeneuve-de-Mézin,{},{},{}
+nat,Villeneuve-de-Mézin,nat,Calignac,{},{},{},nat,Sos,{},{},{},,,,,
+nat,Andiran,nat,Poudenas,{},{},{},nat,Sainte-Maure-de-Peyriac,{},{},{},nat,Calignac,{},{},{}
+nat,Calignac,nat,Villeneuve-de-Mézin,{},{},{},nat,Andiran,{},{},{},,,,,
+nad,Fréchou,nath,Miramont-de-Guyenne,{'t': 1},{},"{('d', 'h'): 1}",nat,Espiens,{},{},"{('d', 't'): 1}",,,,,
+nat,Espiens,nat,Saint-Pierre-d'Aurillac,{},{},{},nad,Fréchou,{},{},"{('t', 'd'): 1}",nad,Moncaut,{},{},"{('t', 'd'): 1}"
+nad,Moncaut,nat,Espiens,{},{},"{('d', 't'): 1}",,,,,,,,,,
+nat,Montagnac-sur-Auvignon,nat,Saint-Symphorien-bis,{},{},{},nat,Nérac-bis,{},{},{},,,,,
+nat,Nérac-bis,nat,Montagnac-sur-Auvignon,{},{},{},nat,Grayan,{},{},{},nat,Nérac,{},{},{}
+nat,Nérac-ter,nat,Cambes,{},{},{},nat,Nérac,{},{},{},,,,,
+nat,Nérac,nat,Nérac-ter,{},{},{},nat,Nérac-bis,{},{},{},,,,,
+nat,Saumont,,,,,,,,,,,,,,,
+nat,Cambes,neat,Castelnau-sur-Gupie,{'e': 1},{},{},nat,Nérac-ter,{},{},{},,,,,
+neat,Castelnau-sur-Gupie,nad,Saint-Symphorien,{},{'e': 1},"{('t', 'd'): 1}",nat,Cambes,{},{'e': 1},{},,,,,
+nat,Caubon-Saint-Sauveur,nat,Escassefort,{},{},{},,,,,,,,,,
+nat,Escassefort,nat,Caubon-Saint-Sauveur,{},{},{},nat,Lagupie,{},{},{},,,,,
+nat,Lachapelle,nat,La Roquille,{},{},{},,,,,,,,,,
+nat,Lagupie,nat,Escassefort,{},{},{},nat,Monteton,{},{},{},,,,,
+nat,Mauvezin-sur-Gupie,nat,Soulac-sur-Mer,{},{},{},nat,Monteton,{},{},{},,,,,
+nat,Monteton,nat,Mauvezin-sur-Gupie,{},{},{},nat,Lagupie,{},{},{},,,,,
+nat,Montignac-Toupinerie,,,,,,,,,,,,,,,
+nat,Puymiclan,nat,Saint-Avit,{},{},{},nat,Caplong,{},{},{},,,,,
+nat,Saint-Avit,nat,Tonneins_bis,{},{},{},nat,Puymiclan,{},{},{},nat,Saint-Barthélemy-d'Agenais,{},{},{}
+nat,Saint-Barthélemy-d'Agenais,nat,Saint-Avit,{},{},{},,,,,,,,,,
+nat,Saint-Martin-Petit,nat,Tonneins_ter,{},{},{},nat,Lafitte-sur-Lot,{},{},{},,,,,
+nat,Saint-Pierre-sur-Dropt,nat,Unet,{},{},{},nat,Seyches,{},{},{},nat,Lafitte-sur-Lot,{},{},{}
+nat,Seyches,nat,Saint-Pierre-sur-Dropt,{},{},{},nat,Clairac,{},{},{},,,,,
+nat,Clairac,nat,Seyches,{},{},{},,,,,,,,,,
+nat,Fauillet,nat,Lafitte-sur-Lot,{},{},{},,,,,,,,,,
+nat,Lafitte-sur-Lot,nat,Saint-Martin-Petit,{},{},{},nat,Saint-Pierre-sur-Dropt,{},{},{},nat,Fauillet,{},{},{}
+nat,Tonneins_bis,nat,Tonneins_ter,{},{},{},nat,Saint-Avit,{},{},{},nat,Tonneins,{},{},{}
+nat,Tonneins_ter,nat,Saint-Martin-Petit,{},{},{},nat,Tonneins_bis,{},{},{},nat,Unet,{},{},{}
+nat,Tonneins,nat,Unet,{},{},{},nat,Tonneins_bis,{},{},{},,,,,
+nat,Unet,nat,Tonneins,{},{},{},nat,Saint-Pierre-sur-Dropt,{},{},{},nat,Tonneins_ter,{},{},{}
+nat,Varès,,,,,,,,,,,,,,,
+nat,Calonges,nat,Talais,{},{},{},,,,,,,,,,
+nat,Caumont-sur-Garonne,nat,Hautesvignes,{},{},{},nat,Fourques,{},{},{},,,,,
+nat,Fourques,nat,Caumont-sur-Garonne,{},{},{},nat,Le Mas-d'Agenais-bis,{},{},{},,,,,
+nat,Lagruère,nat,Lamarque,{},{},{},nat,Ligueux,{},{},{},,,,,
+nat,Lamarque,nat,Lagruère,{},{},{},nat,Le Mas-d'Agenais-bis,{},{},{},,,,,
+nat,Le Mas-d'Agenais-bis,nat,Fourques,{},{},{},nat,Lamarque,{},{},{},,,,,
+nat,Le Mas-d'Agenais,nat,Sainte-Marthe,{},{},{},,,,,,,,,,
+nat,Sainte-Marthe,nat,Le Mas-d'Agenais,{},{},{},,,,,,,,,,
+nat,Samazan,nat,Les Lèves-et-Thoumeyragues,{},{},{},,,,,,,,,,
+nat,Sénestis,nat,Villeton,{},{},{},nat,Eynesse,{},{},{},,,,,
+nat,Villeton,nat,Listrac-Médoc,{},{},{},nat,Sénestis,{},{},{},nat,Agen-bis,{},{},{}
+nat,Agen-bis,nat,Villeton,{},{},{},,,,,,,,,,
+nat,Agen-ter,nat,Dolmayrac,{},{},{},nat,Bon-Encontre,{},{},{},nat,Agen,{},{},{}
+nat,Agen,nat,Artigues,{},{},{},nat,Saint-Avit-Saint-Nazaire,{},{},{},nat,Agen-ter,{},{},{}
+nat,Artigues,nat,Boé,{},{},{},nat,Margaux,{},{},{},nat,Agen,{},{},{}
+nat,Boé,nat,Castillon-de-Castets,{},{},{},nat,Artigues,{},{},{},nat,Bon-Encontre,{},{},{}
+nat,Bon-Encontre,nat,Yvrac,{},{},{},nat,Boé,{},{},{},nat,Agen-ter,{},{},{}
+nat,Colayrac-Saint-Cirq,nat,Virsac,{},{},{},nat,Dolmayrac,{},{},{},nat,Foulayronnes,{},{},{}
+nat,Dolmayrac,nat,Colayrac-Saint-Cirq,{},{},{},nat,Agen-ter,{},{},{},nat,Le Passage,{},{},{}
+nat,Foulayronnes,nat,Le Passage,{},{},{},nat,Carcans,{},{},{},nat,Colayrac-Saint-Cirq,{},{},{}
+nat,Le Passage,nat,Saint-Quentin-de-Caplong,{},{},{},nat,Foulayronnes,{},{},{},nat,Dolmayrac,{},{},{}
+nat,Pont-du-Casse,,,,,,,,,,,,,,,
+nat,Saint-Hilaire-de-Lusignan,nat,Nassiet,{},{},{},,,,,,,,,,
+nat,Astaffort-bis,nat,Pomarez,{},{},{},,,,,,,,,,
+nat,Astaffort,nat,Caudecoste,{},{},{},,,,,,,,,,
+nat,Caudecoste,nat,Astaffort,{},{},{},nat,Castelviel,{},{},{},,,,,
+nat,Cuq,nat,Condezaygues,{},{},{},nat,Fals,{},{},{},nat,Saint-Nicolas-de-la-Balerme,{},{},{}
+nat,Fals,nat,Cuq,{},{},{},,,,,,,,,,
+nat,Layrac,nat,Saint-Quentin-du-Dropt,{},{},{},nat,Saint-Nicolas-de-la-Balerme,{},{},{},,,,,
+nat,Saint-Nicolas-de-la-Balerme,nat,Layrac,{},{},{},nat,Saint-Léger-de-Vignague,{},{},{},nat,Cuq,{},{},{}
+not,Sauveterre-Saint-Denis,not,Cauzac,{},{},{},nat,Coirac,{},{},"{('o', 'a'): 1}",neut,Beauville,{'e': 1},{},"{('o', 'u'): 1}"
+neut,Beauville,nat,Saint-Robert,{},{'u': 1},"{('e', 'a'): 1}",not,Sauveterre-Saint-Denis,{},{'u': 1},"{('e', 'o'): 1}",,,,,
+not,Blaymont,nat,Boudy-de-Beauregard,{},{},"{('o', 'a'): 1}",not,Cauzac,{},{},{},,,,,
+not,Cauzac,not,Blaymont,{},{},{},not,Sauveterre-Saint-Denis,{},{},{},not,Dondas,{},{},{}
+not,Dondas,not,Cauzac,{},{},{},,,,,,,,,,
+nat,Engayrac,nat,Sauvagnas,{},{},{},nat,Coirac,{},{},{},not,Gandaille,{},{},"{('a', 'o'): 1}"
+not,Gandaille,nat,Saint-Maurin,{},{},"{('o', 'a'): 1}",not,Saint-Martin-de-Beauville,{},{},{},nat,Engayrac,{},{},"{('o', 'a'): 1}"
+not,Saint-Martin-de-Beauville,not,Gandaille,{},{},{},nat,Frontenac,{},{},"{('o', 'a'): 1}",nat,Fongrave,{},{},"{('o', 'a'): 1}"
+nat,Saint-Maurin,not,Tayrac,{},{},"{('a', 'o'): 1}",not,Gandaille,{},{},"{('a', 'o'): 1}",not,Cancon-bis,{},{},"{('a', 'o'): 1}"
+not,Tayrac,nat,Romagne,{},{},"{('o', 'a'): 1}",nat,Saint-Maurin,{},{},"{('o', 'a'): 1}",nat,Beaugas,{},{},"{('o', 'a'): 1}"
+nat,Beaugas,nat,Boudy-de-Beauregard,{},{},{},not,Tayrac,{},{},"{('a', 'o'): 1}",,,,,
+nat,Boudy-de-Beauregard,not,Cancon-bis,{},{},"{('a', 'o'): 1}",not,Blaymont,{},{},"{('a', 'o'): 1}",nat,Beaugas,{},{},{}
+not,Cancon-bis,nat,Coirac,{},{},"{('o', 'a'): 1}",nat,Boudy-de-Beauregard,{},{},"{('o', 'a'): 1}",nat,Saint-Maurin,{},{},"{('o', 'a'): 1}"
+nàt,Cancon,nat,Lougratte,{},{},"{('à', 'a'): 1}",nat,Casseneuil,{},{},"{('à', 'a'): 1}",,,,,
+nat,Casseneuil,nat,Lalandusse,{},{},{},nat,Monviel,{},{},{},nàt,Cancon,{},{},"{('a', 'à'): 1}"
+nat,Castelnaud-de-Gratecambe,nat,Bègles,{},{},{},,,,,,,,,,
+nat,Monviel,nat,Casseneuil,{},{},{},nat,Moulinet,{},{},{},,,,,
+nat,Moulinet,nat,Monviel,{},{},{},,,,,,,,,,
+nat,Pailloles,nat,Targon,{},{},{},nat,Saint-Maurice-de-Lestapel,{},{},{},,,,,
+nat,Saint-Maurice-de-Lestapel,nat,Monflanquin-bis,{},{},{},nat,Pailloles,{},{},{},,,,,
+nat,Cahuzac,nat,Saint-Eutrope-de-Born,{},{},{},,,,,,,,,,
+nat,Castang,nat,Sauveterre-de-Guyenne,{},{},{},,,,,,,,,,
+nat,Castillonnès,nat,Ferrensac,{},{},{},nat,Lalandusse,{},{},{},,,,,
+nad,Cavarc,nat,Ferrensac,{},{},"{('d', 't'): 1}",,,,,,,,,,
+nat,Ferrensac,nat,Castillonnès,{},{},{},nat,Saint-Brice,{},{},{},nad,Cavarc,{},{},"{('t', 'd'): 1}"
+nat,Lalandusse,nat,Casseneuil,{},{},{},nat,Castillonnès,{},{},{},,,,,
+nat,Lougratte,nàt,Cancon,{},{},"{('a', 'à'): 1}",nat,Montauriol,{},{},{},,,,,
+nat,Montauriol,nat,Lougratte,{},{},{},,,,,,,,,,
+nat,Saint-Quentin-du-Dropt,nat,Layrac,{},{},{},nat,Blanquefort-sur-Briolance-La-Sauvetat,{},{},{},,,,,
+nat,Blanquefort-sur-Briolance-La-Sauvetat,nat,Mérignas,{},{},{},nat,Saint-Quentin-du-Dropt,{},{},{},,,,,
+nat,Blanquefort-sur-Briolance,nat,Condezaygues,{},{},{},nat,Saint-Léger-de-Vignague,{},{},{},nat,Fumel,{},{},{}
+nat,Condezaygues,nat,Cuzorn,{},{},{},nat,Cuq,{},{},{},nat,Blanquefort-sur-Briolance,{},{},{}
+nat,Cuzorn,not,Saint-Sylvestre-sur-Lot,{},{},"{('a', 'o'): 1}",nat,Condezaygues,{},{},{},nat,Fumel-bis,{},{},{}
+nat,Fumel-bis,nat,Saint-Félix-de-Foncaude,{},{},{},nat,Cuzorn,{},{},{},nat,Fumel,{},{},{}
+nat,Fumel,nat,Fumel-bis,{},{},{},nat,Blanquefort-sur-Briolance,{},{},{},,,,,
+nad,Monsempron-Libos,nat,Saint-Avit-Saint-Nazaire,{},{},"{('d', 't'): 1}",nat,Saint-Front-sur-Lémance-Bonaguil,{},{},"{('d', 't'): 1}",,,,,
+nat,Saint-Front-sur-Lémance-Bonaguil,nat,Margaux,{},{},{},nad,Monsempron-Libos,{},{},"{('t', 'd'): 1}",,,,,
+nat,Saint-Front-sur-Lémance,nat,Brax,{},{},{},,,,,,,,,,
+nat,Sauveterre-la-Lémance,nat,Marmont-Pachas,{},{},{},nat,Aubiac,{},{},{},,,,,
+nat,Aubiac,nat,Taillebourg,{},{},{},nat,Sauveterre-la-Lémance,{},{},{},,,,,
+nat,Brax,nat,Moirax,{},{},{},nat,Laplume,{},{},{},nat,Saint-Front-sur-Lémance,{},{},{}
+nat,Estillac,nat,Moulis-en-Médoc-bis,{},{},{},nad,Laplume-bis,{},{},"{('t', 'd'): 1}",,,,,
+nad,Laplume-bis,nat,Estillac,{},{},"{('d', 't'): 1}",nat,Sainte-Foy-la-Grande-ter,{},{},"{('d', 't'): 1}",,,,,
+nat,Laplume,nat,Brax,{},{},{},nat,Marmont-Pachas,{},{},{},,,,,
+nat,Marmont-Pachas,nat,Sauveterre-la-Lémance,{},{},{},nat,Laplume,{},{},{},,,,,
+nat,Moirax,nat,Brax,{},{},{},,,,,,,,,,
+nad,Roquefort,nat,Sainte-Colombe-en-Bruilhois,{},{},"{('d', 't'): 1}",nat,Baigneaux,{},{},"{('d', 't'): 1}",nat,Monbalen,{},{},"{('d', 't'): 1}"
+nat,Sainte-Colombe-en-Bruilhois,nat,Tourtrès,{},{},{},nad,Roquefort,{},{},"{('t', 'd'): 1}",net,Sérignac-sur-Garonne,{},{},"{('a', 'e'): 1}"
+net,Sérignac-sur-Garonne,nat,Saint-Pierre-de-Bat,{},{},"{('e', 'a'): 1}",nat,Sainte-Colombe-en-Bruilhois,{},{},"{('e', 'a'): 1}",nat,Tombebœuf,{},{},"{('e', 'a'): 1}"
+nat,La Croix-Blanche,nat,Escoussans,{},{},{},nat,Laroque-Timbaut-bis,{},{},{},nat,Monbalen,{},{},{}
+nat,La Sauvetat-de-Savères,nat,Faleyras,{},{},{},nat,Laroque-Timbaut,{},{},{},nat,Laroque-Timbaut-bis,{},{},{}
+nat,Laroque-Timbaut-bis,nat,La Croix-Blanche,{},{},{},nat,La Sauvetat-de-Savères,{},{},{},,,,,
+nat,Laroque-Timbaut,nat,La Sauvetat-de-Savères,{},{},{},nat,Saint-Pastour,{},{},{},nat,Monbalen,{},{},{}
+nat,Monbalen,nad,Roquefort,{},{},"{('t', 'd'): 1}",nat,La Croix-Blanche,{},{},{},nat,Laroque-Timbaut,{},{},{}
+nat,Saint-Robert,neut,Beauville,{'e': 1},{},"{('a', 'u'): 1}",nat,Sauvagnas,{},{},{},,,,,
+nat,Sauvagnas,nat,Saint-Robert,{},{},{},nat,Engayrac,{},{},{},nat,Fongrave,{},{},{}
+nat,Fongrave,not,Saint-Martin-de-Beauville,{},{},"{('a', 'o'): 1}",nat,Sauvagnas,{},{},{},,,,,
+nat,Monclar-bis,nat,Saint-Pierre-de-Bat,{},{},{},net,Monclar,{},{},"{('a', 'e'): 1}",,,,,
+net,Monclar,nat,Soulignac,{},{},"{('e', 'a'): 1}",nat,Monclar-bis,{},{},"{('e', 'a'): 1}",,,,,
+nat,Montastruc,nat,Saint-Pastour,{},{},{},nat,Faleyras,{},{},{},nat,Saint-Étienne-de-Fougères,{},{},{}
+nat,Saint-Étienne-de-Fougères,nat,Montastruc,{},{},{},nat,Soulignac,{},{},{},nat,Tombebœuf,{},{},{}
+nat,Saint-Pastour,nat,Laroque-Timbaut,{},{},{},nat,Montastruc,{},{},{},nat,Tombebœuf,{},{},{}
+nat,Tombebœuf,nat,Saint-Étienne-de-Fougères,{},{},{},net,Sérignac-sur-Garonne,{},{},"{('a', 'e'): 1}",nat,Saint-Pastour,{},{},{}
+nat,Tourtrès,nat,Villebramar,{},{},{},nat,Sainte-Colombe-en-Bruilhois,{},{},{},,,,,
+nat,Villebramar,nat,Gavaudun,{},{},{},nat,Tourtrès,{},{},{},nat,Lacaussade,{},{},{}
+nat,Bonnenouvelle,nat,Baigneaux,{},{},{},nat,Gavaudun,{},{},{},,,,,
+nat,Gavaudun,nat,Bonnenouvelle,{},{},{},nat,Villebramar,{},{},{},nat,La Sauvetat-sur-Lède,{},{},{}
+nat,La Sauvetat-sur-Lède,nat,Targon-bis,{},{},{},nat,Gavaudun,{},{},{},,,,,
+nat,Lacapelle-Biron,nat,Targon-bis,{},{},{},nat,Lacaussade,{},{},{},,,,,
+nat,Lacaussade,nat,Lacapelle-Biron,{},{},{},nat,Villebramar,{},{},{},,,,,
+nat,Laussou,nat,Cazalis,{},{},{},nat,Monflanquin-bis,{},{},{},,,,,
+nat,Monflanquin-bis,nat,Saint-Maurice-de-Lestapel,{},{},{},nat,Monflanquin-Lamothe,{},{},{},nat,Laussou,{},{},{}
+nat,Monflanquin-Lamothe,nat,Monflanquin-bis,{},{},{},,,,,,,,,,
+nad,Monségur,nat,Duhort-Bachen,{},{},"{('d', 't'): 1}",nat,Montagnac-sur-Lède,{},{},"{('d', 't'): 1}",,,,,
+nat,Montagnac-sur-Lède,nat,Aire-sur-l'Adour,{},{},{},nad,Monségur,{},{},"{('t', 'd'): 1}",,,,,
+nat,Paulhiac,nat,Salles,{},{},{},nat,Saint-Étienne-de-Lisse,{},{},{},,,,,
+nat,Saint-Aubin,nat,Bazas-bis,{},{},{},nat,Salles,{},{},{},,,,,
+nat,Salles,nat,Saint-Aubin,{},{},{},nat,Paulhiac,{},{},{},,,,,
+nat,Savignac-sur-Leyze,nat,Vignonet,{},{},{},nat,Auradou,{},{},{},,,,,
+nat,Auradou,nat,Savignac-sur-Leyze,{},{},{},nat,Eugénie-les-Bains,{},{},{},,,,,
+nat,Dausse,nad,Frespech,{},{},"{('t', 'd'): 1}",,,,,,,,,,
+nad,Frespech,nat,Dausse,{},{},"{('d', 't'): 1}",,,,,,,,,,
+nat,Hautefage-la-Tour,nat,Massoulès,{},{},{},,,,,,,,,,
+nat,Massoulès,nat,Hautefage-la-Tour,{},{},{},,,,,,,,,,
+not,Saint-Sylvestre-sur-Lot,nat,Cuzorn,{},{},"{('o', 'a'): 1}",not,Bazens,{},{},{},,,,,
+not,Trémons,nat,Saint-Félix-de-Foncaude,{},{},"{('o', 'a'): 1}",nat,Trentels,{},{},"{('o', 'a'): 1}",not,Bazens,{},{},{}
+nat,Trentels,not,Trémons,{},{},"{('a', 'o'): 1}",nat,Castaignos-Souslens,{},{},{},net,Bourran,{},{},"{('a', 'e'): 1}"
+not,Bazens,not,Saint-Sylvestre-sur-Lot,{},{},{},not,Trémons,{},{},{},,,,,
+net,Bourran,nat,Trentels,{},{},"{('e', 'a'): 1}",not,Clermont-Dessous,{},{},"{('e', 'o'): 1}",,,,,
+not,Clermont-Dessous,net,Bourran,{},{},"{('o', 'e'): 1}",,,,,,,,,,
+nat,Galapian,,,,,,,,,,,,,,,
+nat,Lusinhan-Grand,,,,,,,,,,,,,,,
+nat,Nicole,,,,,,,,,,,,,,,
+nat,Port-Sainte-Marie,nat,Castel-Sarrazin,{},{},{},,,,,,,,,,
+nat,Saint-Médard,nat,Lacépède,{},{},{},nat,Philondenx,{},{},{},nat,Cours,{},{},{}
+nat,Saint-Salvy,nat,Saint-Sardos,{},{},{},nat,Laugnac,{},{},{},,,,,
+nat,Cours,nat,Saint-Médard,{},{},{},,,,,,,,,,
+nat,Granges-sur-Lot,nat,Laugnac,{},{},{},,,,,,,,,,
+nat,Lacépède,nat,Saint-Médard,{},{},{},nat,Laugnac,{},{},{},,,,,
+nat,Laugnac,nat,Saint-Salvy,{},{},{},nat,Granges-sur-Lot,{},{},{},nat,Lacépède,{},{},{}
+nat,Lusignan-Petit,nat,Prayssas-bis,{},{},{},,,,,,,,,,
+nat,Madaillan,nat,Castelculier,{},{},{},nat,Montpezat,{},{},{},,,,,
+nat,Montpezat,nat,Madaillan,{},{},{},nat,Prayssas-bis,{},{},{},,,,,
+nat,Prayssas-bis,nat,Prayssas,{},{},{},nat,Lusignan-Petit,{},{},{},nat,Montpezat,{},{},{}
+nat,Prayssas,nat,Prayssas-bis,{},{},{},,,,,,,,,,
+nat,Saint-Sardos,nat,Saint-Salvy,{},{},{},,,,,,,,,,
+nat,Castelculier,nat,Madaillan,{},{},{},,,,,,,,,,
+nat,Clermont-Soubiran,,,,,,,,,,,,,,,
+nat,Grayssas,nat,Puymirol-bis,{},{},{},,,,,,,,,,
+nat,Puymirol-bis,nat,Grayssas,{},{},{},,,,,,,,,,
+nat,Puymirol,nat,Saint-Caprais-de-Lerm,{},{},{},,,,,,,,,,
+nat,Saint-Caprais-de-Lerm,nat,Puymirol,{},{},{},,,,,,,,,,
+nat,Saint-Jean-de-Thurac,,,,,,,,,,,,,,,
+not,Allez-et-Cazeneuve,nat,Nassiet,{},{},"{('o', 'a'): 1}",,,,,,,,,,
+nat,Dolmayrac,,,,,,,,,,,,,,,
+not,Le-Temple-sur-Lot,nad,Anthé,{},{},"{('o', 'a'): 1, ('t', 'd'): 1}",nat,Sainte-Livrade-sur-Lot-bis,{},{},"{('o', 'a'): 1}",,,,,
+nat,Sainte-Livrade-sur-Lot-bis,nat,Lévignacq,{},{},{},not,Le-Temple-sur-Lot,{},{},"{('a', 'o'): 1}",nat,Sainte-Livrade-sur-Lot,{},{},{}
+nat,Sainte-Livrade-sur-Lot,nat,Bourlens,{},{},{},nat,Sainte-Livrade-sur-Lot-bis,{},{},{},,,,,
+nad,Anthé,not,Le-Temple-sur-Lot,{},{},"{('a', 'o'): 1, ('d', 't'): 1}",nat,Bourlens,{},{},"{('d', 't'): 1}",,,,,
+nat,Bourlens,nat,Léon,{},{},{},nat,Sainte-Livrade-sur-Lot,{},{},{},nad,Anthé,{},{},"{('t', 'd'): 1}"
+nat,Cazideroque,nat,Tartas,{},{},{},nat,Courbiac,{},{},{},,,,,
+nat,Courbiac,nat,Cazideroque,{},{},{},nat,Masquières,{},{},{},,,,,
+nat,Masquières,nat,Courbiac,{},{},{},,,,,,,,,,
+nad,Montayral,nat,Perricard,{},{},"{('d', 't'): 1}",,,,,,,,,,
+nat,Perricard,nat,Meilhan,{},{},{},nad,Montayral,{},{},"{('t', 'd'): 1}",,,,,
+nat,Saint-Georges,,,,,,,,,,,,,,,
+nat,Saint-Vite,,,,,,,,,,,,,,,
+nat,Thézac,,,,,,,,,,,,,,,
+nat,Tournon-d'Agenais,nat,Le Tourne,{},{},{},nat,Bias,{},{},{},,,,,
+nat,Bias,nat,Tournon-d'Agenais,{},{},{},nat,Sallebœuf,{},{},{},nat,Courbiac,{},{},{}
+nat,Courbiac,nat,Bias,{},{},{},,,,,,,,,,
+nat,Eysses,nat,Mestras,{},{},{},nat,Lédat,{},{},{},,,,,
+nat,Lédat,nat,Eysses,{},{},{},,,,,,,,,,
+nat,Pujols,nat,Cabara,{},{},{},nat,Saint-Antoine-de-Ficalba,{},{},{},nat,Saint-Germain,{},{},{}
+nat,Saint-Antoine-de-Ficalba,nat,Pujols,{},{},{},nat,Dax,{},{},{},nat,Sainte-Colombe-de-Villeneuve,{},{},{}
+nat,Saint-Germain,nat,Saint-Paul-lès-Dax,{},{},{},nat,Pujols,{},{},{},nat,Sainte-Colombe-de-Villeneuve,{},{},{}
+nat,Sainte-Colombe-de-Villeneuve,nat,Saint-Antoine-de-Ficalba,{},{},{},nat,Rives,{},{},{},nat,Saint-Germain,{},{},{}
+nat,Sembas,nat,Villeneuve-sur-Lot-ter,{},{},{},nat,Heugas,{},{},{},,,,,
+nat,Villeneuve-sur-Lot-ter,nat,Saint-Étienne-de-Villeréal,{},{},{},nat,Sembas,{},{},{},,,,,
+nat,Villeneuve-sur-Lot,nat,Parranquet,{},{},{},nat,Bournel,{},{},{},,,,,
+nat,Bournel,nat,Villeneuve-sur-Lot,{},{},{},,,,,,,,,,
+nat,Dévillac,nat,La Lande-de-Fronsac,{},{},{},nat,Doudrac,{},{},{},,,,,
+nat,Doudrac,nat,Dévillac,{},{},{},nat,Saint-Pandelon,{},{},{},nad,Montaut,{},{},"{('t', 'd'): 1}"
+nat,Mazières-Naresse,nad,Montaut,{},{},"{('t', 'd'): 1}",,,,,,,,,,
+nad,Montaut,nat,Doudrac,{},{},"{('d', 't'): 1}",nat,Mazières-Naresse,{},{},"{('d', 't'): 1}",,,,,
+nat,Parranquet,nat,Villeneuve-sur-Lot,{},{},{},,,,,,,,,,
+nad,Rayet,nat,Herm,{},{},"{('d', 't'): 1}",nat,Saint-Étienne-de-Villeréal,{},{},"{('d', 't'): 1}",nat,Rives,{},{},"{('d', 't'): 1}"
+nat,Rives,nat,Sainte-Colombe-de-Villeneuve,{},{},{},nad,Rayet,{},{},"{('t', 'd'): 1}",,,,,
+nat,Saint-Étienne-de-Villeréal,nat,Villeneuve-sur-Lot-ter,{},{},{},nad,Rayet,{},{},"{('t', 'd'): 1}",,,,,
+nat,Saint-Eutrope-de-Born,nat,Cahuzac,{},{},{},,,,,,,,,,
+nat,Saint-Martin-de-Villeréal,,,,,,,,,,,,,,,
+nat,Tourliac,nat,Lugon-et-l'Île-du-Carnay,{},{},{},nat,Villeréal-bis,{},{},{},,,,,
+nat,Villeréal-bis,nat,Tourliac,{},{},{},nat,Villeréal,{},{},{},,,,,
+nat,Villeréal,nat,Villeréal-bis,{},{},{},,,,,,,,,,
+nat,Accous-bis,nat,Accous,{},{},{},nat,Aydius,{},{},{},,,,,
+nat,Accous,nat,Accous-bis,{},{},{},,,,,,,,,,
+nat,Aydius,nat,Accous-bis,{},{},{},,,,,,,,,,
+nat,Bedous,nat,Cette-Eygun,{},{},{},nat,Lavazan,{},{},{},nott,Borce,{'o': 1},{},"{('a', 't'): 1}"
+nott,Borce,nat,Bedous,{},{'t': 1},"{('o', 'a'): 1}",nat,Estigarde,{},{'t': 1},"{('o', 'a'): 1}",not,Escot,{},{'t': 1},{}
+nat,Cette-Eygun,not,Escot,{},{},"{('a', 'o'): 1}",nat,Grignols,{},{},{},nat,Bedous,{},{},{}
+not,Escot,nat,Lagrange,{},{},"{('o', 'a'): 1}",nat,Cette-Eygun,{},{},"{('o', 'a'): 1}",nott,Borce,{'t': 1},{},{}
+nat,Etsaut,not,Urdos,{},{},"{('a', 'o'): 1}",nat,Losse,{},{},{},,,,,
+not,Lées-Athas,nat,Issor,{},{},"{('o', 'a'): 1}",nat,Ance,{},{},"{('o', 'a'): 1}",,,,,
+nat,Lescun,nat,Vérac,{},{},{},not,Osse-en-Aspe,{},{},"{('a', 'o'): 1}",not,Lourdios-Ichère,{},{},"{('a', 'o'): 1}"
+not,Lourdios-Ichère,nat,Lescun,{},{},"{('o', 'a'): 1}",not,Sarrance,{},{},{},,,,,
+not,Osse-en-Aspe,nat,Lescun,{},{},"{('o', 'a'): 1}",nat,Salles-bis,{},{},"{('o', 'a'): 1}",not,Urdos,{},{},{}
+not,Sarrance,nat,Lanne-en-Barétous,{},{},"{('o', 'a'): 1}",not,Lourdios-Ichère,{},{},{},nat,Ance,{},{},"{('o', 'a'): 1}"
+not,Urdos,not,Osse-en-Aspe,{},{},{},nat,Etsaut,{},{},"{('o', 'a'): 1}",nat,Ance,{},{},"{('o', 'a'): 1}"
+nat,Ance,not,Urdos,{},{},"{('a', 'o'): 1}",not,Lées-Athas,{},{},"{('a', 'o'): 1}",not,Sarrance,{},{},"{('a', 'o'): 1}"
+nat,Aramits,nat,Daignac,{},{},{},nat,Arette,{},{},{},,,,,
+nat,Arette,nat,Losse,{},{},{},nat,Aramits,{},{},{},,,,,
+nat,Féas,nat,Issor,{},{},{},nat,Arudy,{},{},{},,,,,
+nat,Issor,not,Lées-Athas,{},{},"{('a', 'o'): 1}",nat,Féas,{},{},{},nat,Lanne-en-Barétous,{},{},{}
+nat,Lanne-en-Barétous,not,Sarrance,{},{},"{('a', 'o'): 1}",nat,Issor,{},{},{},,,,,
+nat,Arudy-bis,nat,Arudy,{},{},{},,,,,,,,,,
+nat,Arudy,nat,Féas,{},{},{},nat,Arudy-bis,{},{},{},,,,,
+nat,Bescat,nat,Pondaurat,{},{},{},,,,,,,,,,
+nat,Buzy,nat,Mugron,{},{},{},,,,,,,,,,
+nat,Castet,nat,Mauvezin-d'Armagnac,{},{},{},,,,,,,,,,
