@@ -10,3 +10,8 @@ pip install -r requirements.txt
 
 ## 1 - Transcription
 
+Biblio-prospective sur la transcription automatique :
+
+- version Python, voir `script.ipynb` 
+
+- version Transkribus (application), voir `transkribus.pdf`
