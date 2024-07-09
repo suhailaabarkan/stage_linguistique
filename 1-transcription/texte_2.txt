@@ -1,16 +1,10 @@
 ﻿
 Evaluation Only. Created with Aspose.Words. Copyright 2003-2024 Aspose Pty Ltd.
-diapo 2
 Let’s begin simply by defining what’s an illusion. An illusion is a false perception that gives the impression of something different from its actual nature. It can occur in various areas of perception like : vision, hearing, smell, touch or taste. In fact, we will see that illusion is how our brain interprets the information it receives.
-diapo 3
 There are many types of illusions, but the most common is optical illusions. It consists of images that distort reality by creating a visual experience different from the truth. The second most common is auditory illusions that can occur by misunderstandings. Let’s see some examples of optical illusions.
-diapo 4
 First one is called the necker cube. The ambiguity here is that it can be interpreted in 2 different positions. The blue faces here represent the face which indicates the direction of the cube : downwards for the left one, and upwards for the right one.
-diapo 5
 The second one, the rabbit-duck. As we can see, if its look is to the left, this appears as its beak, so it is a duck. But if its look is to the right, we can see these as ears, so it's a rabbit.
-diapo 6
 Another one is called the impossible elephant, or Shepard elephant. How many paws does the elephant have? We can’t decide between 4 and 5, because the image of the elephant is not separated from the background.
-diapo 7
 To understand illusion, there is a scientific approach which contains 7 steps.
 First, model a simple network with appropriate structure that will represent the decision-making process in the brain.
 Second, use mathematical techniques to analyze the previous model that we made.
@@ -19,20 +13,10 @@ Fourth, compare these results with observations from illusions.
 Fifth, make predictions with other illusions.
 Sixth, try this experiment with someone new.
 Seventh and last step, do this process as much as you need to understand.
-diapo 8
 Let’s begin with the model. A simple network is the Wilson network. Wilson invented a neural network which models how the brain makes decisions. These three dots represent brain cells trained to recognize red for this one, green and blue for the other two. The black lines represent inhibitory connections that are used to connect the information between these points. For example, if this network receives something that appears red, the activity of its point will increase so much that the activity of the other two will decrease and become inactive.
-diapo 9
 To connect this model with the previous illusions we saw, we need mathematical equations. For the necker cube, there’s only two dots because we can only see two different visions. So, if the vision of this cube is represented by the red dot, and the other vision by the green dot, they will be described in the equations by x1 for the first and x2 for the second one. I don’t know exactly what the meaning of these equations is,
-diapo 10
 but when we solve them with a computer, we get this chart where the red curve represents the red cell, and the green curve represents the green cell. When the red curve has a high-level activity, the green curve has a low-level activity and we see the top cube. But when the green curve has a high-level activity, the red curve has a low-level activity so we see the bottom cube.
-diapo 11
 Let’s see the same thing with the rabbit-duck. This network consists of two attributes where the first one is about ears or a beak, and the second one is about its look facing right or left. We saw that ears are combined with its look facing right for the rabbit, and beak is combined with its look facing left for the duck. When we associate x1 to this dote, x2, x3 and x4 here, and we solve these mathematical equations, we get this chart.
-diapo 12
 This line represents x1, here x2, x3 and x4. When the x1 and x3 curve get a high-level activity, our brain sees that image as a rabbit. And, when the x2 and x4 curve get a high-level activity, our brain sees a duck.
-diapo 13
 To conclude, only one decision will come at a time. So our brain can see one picture at a time, and can see a totally different picture at another time, and flip like that. I hope that you understood more about it and thank you for your attention!
-diapo 1
-Good morning everyone! Today, I’m going to talk about a subject that surrounds us and has one day caught our attention: illusion. Without forgetting to include the link with mathematics, we will try to understand the beauty of illusion.
-répondre à la question : pourquoi ce sujet ?
--> illusion is something that has always attracted me because it remains something very simple but difficult to explain, and when I knew that we could use math to explain it, I just thought it will be the opportunity to understand how it works
 Created with an evaluation copy of Aspose.Words. To remove all limitations, you can use Free Temporary License https://purchase.aspose.com/temporary-license/

@@ -1,0 +1,15 @@
+pdfplumber
+PyPDF2
+aspose.words
+fitz
+PyMuPDF
+xlrd 
+pandas 
+requests 
+openpyxl 
+Levenshtein
+Counter
+matplotlib
+numpy
+unidecode
+scipy
