@@ -43,7 +43,7 @@ Plusieurs analyses statistiques, clustering, matrices, etc sont créées et sont
 
 - `Clustering des distances linguistiques selon Levenshtein` : De la même façon, des **dendrogrammes de la CAH avec la méthode de Ward**, puis des **projections de clusters sur des cartes** sont effectués pour les matrices des distances linguistiques selon Levenshtein, sur tous les mots, puis pour le mot "malheureux" et pour le mot "être".
 
-- `INSEE Population 1896` : Afin de **compléter la base de données**, le **nombre de population par communes** qui ont répondu à l'enquête va être récupéré grâce à des fichiers excels que dispose l'INSEE en 1896 (base-pop-historiques-1876-2021.xlsx). *Un fichier pour avoir la population par département est aussi récupéré (REC_T68.xls) et sont tous deux enregistrés dans le dossier nommé "datas".* Des valeurs manquantes seront enregsitrées dans quelques communes (516 sur 3392) et quelques procédés seront faits pour y remédier : 
+- `INSEE Population 1896` : Afin de **compléter la base de données**, le **nombre de population par communes** qui ont répondu à l'enquête va être récupéré grâce à des fichiers excel que dispose l'INSEE en 1896 (base-pop-historiques-1876-2021.xlsx). *Un fichier pour avoir la population par département est aussi récupéré (REC_T68.xls) et sont tous deux enregistrés dans le dossier nommé "datas".* Des valeurs manquantes seront enregistrées dans quelques communes (516 sur 3392) et quelques procédés seront faits pour y remédier : 
     1) associer le même nombre de population d'une commune se terminant par "bis", qu'une commune ayant le même nom sans "bis";
     2) associer le même nombre de population d'une commune que le nombre dans la commune la plus proche géographiquement, grâce au triangle de Delaunay.
 
