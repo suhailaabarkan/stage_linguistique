@@ -51,4 +51,4 @@ Plusieurs analyses statistiques, clustering, matrices, etc sont créées et sont
 
 ## Mini-rapport
 
-Rapport de deux pages résumant mon travail au cours de ces six semaines de stage encadrées par M. Genadot, les difficultés que j'ai pu rencontrer, les questions que je me suis posées ainsi que ce que j'en ai pensé globalement. (voir `Mini_rapport.pdf`)
+Rapport de deux pages résumant mon travail au cours de ces six semaines de stage encadrées par M. Genadot, les difficultés que j'ai pu rencontrer, les questions que je me suis posées ainsi que ce que j'en ai pensé globalement (voir `Mini-rapport.pdf`).
