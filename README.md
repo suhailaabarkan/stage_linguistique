@@ -50,3 +50,5 @@ Plusieurs analyses statistiques, clustering, matrices, etc sont créées et sont
 - `Clustering sur la population` : Une fois que toutes les données du nombre de population par communes sont renseignées, un nouveau fichier de base de données est créé pour inclure cette information (bd3_Bourciez_new.csv). Du côté du clustering, on retrouve : des **matrices sur la population** (par exemple, (P_i * P) avec i une commune différente et P l'information de la population), des **corrélations** entre ces matrices de population créées et les matrices de distances linguistiques (selon Levenshtein) et distances géographiques, des **modèles de régression** avec un calcul du $R^2$ pour notamment voir si l'inclusion de la population augmente ce score, et enfin des **dendrogrammes de la CAH de Ward**.
 
 ## Mini-rapport
+
+Rapport de deux pages résumant mon travail au cours de ces six semaines de stage encadrées par M. Genadot, les difficultés que j'ai pu rencontrer, les questions que je me suis posées ainsi que ce que j'en ai pensé globalement. (voir `Mini_rapport.pdf`)
