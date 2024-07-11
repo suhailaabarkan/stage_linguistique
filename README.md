@@ -28,7 +28,7 @@ Une fois la base de données créée pour la `première version`, des tables de 
 
 ## 3 - Base de données (3e) sur l'enquête Bourciez
 
-Ici, le fichier .csv est déjà créé (bd3_Bourciez.csv), donc on travaille directement là dessus pour la suite du fichier `bd3_bourciez.ipynb`. Ce fichier notebook prend une durée d'environ 6/7 minutes pour l'exécution totale.
+Ici, la base de données est déjà créé (bd3_Bourciez.csv), donc on travaille directement là dessus pour la suite du fichier `bd3_bourciez.ipynb`. Ce fichier notebook prend une durée d'environ 6/7 minutes pour l'exécution totale.
 Plusieurs analyses statistiques, clustering, matrices, etc sont créées et sont les suivantes :
 
 - `Analyse des types d'opérations` : À la méthode de **Levenshtein**, quelques mots choisis (*malheureux* et *être*) sont analysés selon le type d'opérations possibles et leur fréquence : **insertion**, **suppression** et **substitution**.
