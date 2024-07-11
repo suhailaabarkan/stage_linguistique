@@ -33,7 +33,7 @@ Plusieurs analyses statistiques, clustering, matrices, etc sont créées et sont
 
 - `Analyse des types d'opérations` : À la méthode de **Levenshtein**, quelques mots choisis (*malheureux* et *être*) sont analysés selon le type d'opérations possibles et leur fréquence : **insertion**, **suppression** et **substitution**.
 
-- `Calcul des plus proches voisins` : Deux méthodes sont testées pour calculer les plus proches voisins d'un mot selon la distance géographique entre chaque traduction : **diagramme de Voronoï** et **triangulation de Delaunay**. Dans la suite, ce sera la triangulation qui sera utilisée pour les analyses.
+- `Calcul des plus proches voisins` : Deux méthodes sont testées pour calculer les plus proches voisins d'un mot selon la distance géographique entre chaque traduction : **diagramme de Voronoï** et **triangulation de Delaunay**. Pour la suite, ce sera la triangulation qui sera utilisée pour les analyses.
 
 - `Analyse des types d'opérations des plus proches voisins` : Pour les mêmes mots choisis précédemment, une analyse des types d'opérations est à nouveau effectuée, mais sur les plus proches voisins qu'aura trouvé la triangulation de Delaunay. Il y a deux façons de visualiser ces résultats : le retour que propose vscode ('View as a scrollable element' ou 'open in a text editor') ou un **fichier .csv**. Le fichier .csv est créé **par mot** et est enregistré dans un **dossier nommé "voisins"**. En effet, un **processus automatisé** permet cette analyse sur TOUS les mots de la base de données, et pas seulement sur les 2 mots choisis précédemment.
 
